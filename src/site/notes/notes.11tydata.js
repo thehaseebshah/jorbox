@@ -33,7 +33,11 @@ module.exports = {
         let globalSetting = process.env[setting];
 
         let settingValue =
-          noteSetting || (globalSetting === "true" && noteSetting !== false);
+          noteSetting !== undefined
+            ? noteSetting
+            : globalSetting !== undefined
+            ? globalSetting === "true"
+            : true;
         noteSettings[setting] = settingValue;
       });
       return noteSettings;
