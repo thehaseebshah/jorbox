@@ -1,0 +1,25 @@
+# Lesson 05 — Blindfold Challenges (Feb 2025)
+
+- **Folder:** New Lessons / Not Done
+- **Design ID:** `DAHL3fql-JI`
+- **Edit URL:** https://www.canva.com/d/NgUiGHFUEcZTGwx
+- **View URL:** https://www.canva.com/d/AV0Fw-NCrl1DAh9
+- **Date:** Feb 2025
+
+## Learning Objectives
+
+Trust-building, Teamwork and cooperation, Communication skills, Active listening, Spatial awareness, Problem-solving, Patience and self-control, Leadership and humility, Interdependence, Emotional intelligence, Situational awareness.
+
+## Instructions
+
+Video instructions are [here](https://www.canva.com/design/DAGrce5W9go/887GJOqXg2YnjxYHzpSUTQ/watch).
+
+## Activities
+
+- Activity 1 (Blindfold Obstacles)
+- Activity 2 (Blindfold Snakes)
+- Activity 3 (Blindfold Drawing)
+- Activity 4 (Cup grabbing Elimination)
+- Activity 5 (Cup Pyramid Making)
+- Activity 6 (Hit the Football)
+- Activity 7 (Blindfold Tag)

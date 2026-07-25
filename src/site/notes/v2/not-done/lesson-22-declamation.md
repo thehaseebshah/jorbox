@@ -1,0 +1,64 @@
+# Lesson 22 — Declamation
+
+- **Folder:** New Lessons / Not Done
+- **Design ID:** `DAHL3dtKCdI`
+- **Edit URL:** https://www.canva.com/d/c4ZKYYhjxPHHxFC
+- **View URL:** https://www.canva.com/d/ItCy_NEb69rw2uv
+- **Date:** July 2026
+
+> ⚠️ Note: Canva design is titled "SHB-SKILLS Lesson 22" but the document content references "Lesson 19 Plan". Treating the folder name as canonical.
+
+## Learning Objectives
+
+Eloquent expression, Adab in speech, Prophetic communication principles, Spiritual reflection, Moral reasoning, Emotional regulation, Leadership presence, Persuasive rhetoric, Vocal control, Active listening, Audience engagement, Confidence building, Public speaking composure, Clarity of thought.
+
+## Activity 1 — Declamation
+
+### Setup
+
+- **The Stage:** Set up a clear "stage" area. If a podium is available, use it; otherwise, mark a clear spot where the speaker stands facing the audience.
+- **The Audience:** The remaining Shabab sit formally as the audience. Their behavior is part of the Adab training—they must listen attentively without interrupting or distracting the speaker.
+- **The Jury:** 2–3 Murabbis sit at a front table acting as the formal panel of judges.
+
+### How to Play
+
+**1. Pre-Announcement & Theme Selection: 1 Week Before the Event**
+
+Exactly 1 week before the contest, the activity is formally announced. Each participant selects or draws one speech topic from the approved list. This kicks off their one-week preparation window to write, memorize, and polish their speech at home.
+
+**2. The Order of Declamation: Live Event: Min 0-5**
+
+A random draw determines the speaking order on the day of the event. When a youth's name is called, they must walk to the stage with composure, offer the Salam, and wait for the head judge to nod before beginning their address.
+
+**3. The Delivery: Live Event: 3 to 4 Minutes per Speaker**
+
+Each speaker has exactly 3 to 4 minutes to deliver their speech. Speakers must use tone, pacing, body language, and controlled emotion to convey the weight of their message.
+
+**4. Time Tracking**
+
+A designated timekeeper sits in the front row and uses clear visual signals to guide the speaker.
+
+**5. Jury Evaluation & Feedback**
+
+Immediately following each speech, the Murabbis take 1 minute in silence to score the speaker on their rubric and write down brief, actionable, and encouraging feedback points.
+
+### Sample Declamation Themes
+
+- **The Letter to the Soul:** A passionate call to the self (Nafs) to wake up from ghafrah (heedlessness) and return to Allah.
+- **Reviving the Legacy:** A speech addressing the modern youth on overcoming apathy and reclaiming the intellectual and spiritual honor of the Ummah.
+- **Standing for Justice:** A rhetorical defense of the oppressed, drawing on the courage of companions like Bilal ibn Rabah or Husayn ibn Ali (RA).
+- **The Echo of the Minbar:** Re-delivering a translated, adapted excerpt of a historic speech (e.g., Salahuddin Ayyubi's address before liberating Jerusalem, or Umar ibn Al-Khattab's inaugural address as Caliph).
+
+### Scoring & Judging Rubric (Out of 50 Points)
+
+| Criteria | Points | What Judges Look For |
+|---|---|---|
+| Presence & Adab | 10 pts | Correct Salam, posture, confidence, eye contact, and respectful demeanor |
+| Vocal Modulation | 10 pts | Control of volume, pitch variation, and the effective use of pauses for emphasis |
+| Clarity & Articulation | 10 pts | Clear pronunciation, steady pace (not rushing), and rhythmic flow |
+| Emotional Depth | 10 pts | Speaking from the heart; showing genuine passion or solemnity matching the text |
+| Structure & Impact | 10 pts | A powerful opening hook, a cohesive message, and a memorable concluding statement |
+
+### Winning Condition
+
+The player with the highest total score from the Murabbi panel wins the Declamation Contest. In the rare event of a tie, the judges will hold a quick conference to determine the winner based on who showed the greatest emotional depth and mastery of Adab.
