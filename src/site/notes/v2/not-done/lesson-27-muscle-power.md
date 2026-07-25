@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 27 — Muscle Power
 
 - **Folder:** New Lessons / Not Done

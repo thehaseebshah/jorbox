@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 12 — Social Deduction
 
 - **Folder:** New Lessons / Not Done

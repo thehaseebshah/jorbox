@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 05 — Blindfold Challenges (Feb 2025)
 
 - **Folder:** New Lessons / Not Done

@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 20 — Writing Activities Set 1
 
 - **Folder:** New Lessons / Not Done

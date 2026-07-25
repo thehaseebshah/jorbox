@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 04 — Pro Kabaddi
 
 - **Folder:** New Lessons / Done

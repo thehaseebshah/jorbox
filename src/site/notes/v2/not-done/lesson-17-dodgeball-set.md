@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 17 — Dodgeball Set
 
 - **Folder:** New Lessons / Not Done

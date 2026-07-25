@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 21 — The Art of Disputation
 
 - **Folder:** New Lessons / Not Done

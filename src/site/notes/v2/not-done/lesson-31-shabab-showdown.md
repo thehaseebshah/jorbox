@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 31 — Shabab Showdown
 
 - **Folder:** New Lessons / Not Done

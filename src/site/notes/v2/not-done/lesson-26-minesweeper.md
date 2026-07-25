@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 26 — Minesweeper
 
 - **Folder:** New Lessons / Not Done

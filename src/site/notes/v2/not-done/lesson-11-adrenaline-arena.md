@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 11 — Adrenaline Arena
 
 - **Folder:** New Lessons / Not Done

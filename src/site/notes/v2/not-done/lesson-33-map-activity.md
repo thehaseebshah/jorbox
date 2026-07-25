@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 33 — Map Activity
 
 - **Folder:** New Lessons / Not Done

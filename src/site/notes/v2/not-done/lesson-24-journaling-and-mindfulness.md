@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 24 — Journaling and Mindfulness
 
 - **Folder:** New Lessons / Not Done

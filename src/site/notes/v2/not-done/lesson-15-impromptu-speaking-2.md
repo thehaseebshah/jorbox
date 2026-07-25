@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 15 — Impromptu Speaking 2
 
 - **Folder:** New Lessons / Not Done

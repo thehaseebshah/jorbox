@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 34 — 4 on a Bench
 
 - **Folder:** New Lessons / Not Done

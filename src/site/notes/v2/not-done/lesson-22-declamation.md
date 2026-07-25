@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 22 — Declamation
 
 - **Folder:** New Lessons / Not Done

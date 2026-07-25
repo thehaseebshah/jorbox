@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 28 — Time Blocking and Planning
 
 - **Folder:** New Lessons / Not Done

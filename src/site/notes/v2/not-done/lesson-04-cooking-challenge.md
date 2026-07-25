@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 04 — Cooking Challenge
 
 - **Folder:** New Lessons / Not Done

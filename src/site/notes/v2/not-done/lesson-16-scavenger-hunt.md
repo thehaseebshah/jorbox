@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 16 — Scavenger Hunt
 
 - **Folder:** New Lessons / Not Done

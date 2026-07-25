@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 07 — Word Association (Feb 2025)
 
 - **Folder:** New Lessons / Not Done

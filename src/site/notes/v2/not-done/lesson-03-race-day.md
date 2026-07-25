@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 03 — Race Day
 
 - **Folder:** New Lessons / Not Done

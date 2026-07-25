@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 29 — Story Writing Set
 
 - **Folder:** New Lessons / Not Done

@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 18 — Impromptu Level 3
 
 - **Folder:** New Lessons / Not Done

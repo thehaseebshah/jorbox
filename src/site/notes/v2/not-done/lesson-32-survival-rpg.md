@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 32 — Survival Role Playing Game
 
 - **Folder:** New Lessons / Not Done

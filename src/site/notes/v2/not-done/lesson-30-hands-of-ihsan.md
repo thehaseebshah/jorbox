@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 30 — Hands of Ihsan
 
 - **Folder:** New Lessons / Not Done

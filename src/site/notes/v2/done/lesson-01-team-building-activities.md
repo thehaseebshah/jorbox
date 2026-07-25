@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 01 — Team Building Activities
 
 - **Folder:** New Lessons / Done

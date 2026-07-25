@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 25 — Navigators
 
 - **Folder:** New Lessons / Not Done

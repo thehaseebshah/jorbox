@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 19 — Traditional Games Set 2
 
 - **Folder:** New Lessons / Not Done

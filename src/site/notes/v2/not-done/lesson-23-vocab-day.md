@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 23 — Vocab Day
 
 - **Folder:** New Lessons / Not Done

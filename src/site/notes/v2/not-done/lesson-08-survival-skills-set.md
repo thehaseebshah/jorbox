@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 08 — Survival Skills Set
 
 - **Folder:** New Lessons / Not Done

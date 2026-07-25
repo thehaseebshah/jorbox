@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 00 — Orientation Activities
 
 - **Folder:** New Lessons / Done

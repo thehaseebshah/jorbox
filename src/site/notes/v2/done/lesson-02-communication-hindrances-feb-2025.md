@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Lesson 02 — Communication Hindrances (Feb 2025)
 
 - **Folder:** New Lessons / Done
