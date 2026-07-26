@@ -154,6 +154,11 @@ html, body, .theme-dark, .theme-light {
     background-attachment: fixed !important;
 }
 
+html.has-topographic-map,
+body.has-topographic-map {
+    background-image: none !important;
+}
+
 main.content, .markdown-preview-view, .markdown-preview-section {
     background: transparent !important;
     background-color: transparent !important;
