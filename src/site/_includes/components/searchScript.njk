@@ -6,7 +6,7 @@
     // Preview content cache
     const previewCache = new Map();
 
-    // ===== Lock / Unlock =====
+    // ===== Lock / Unlock Advanced Vault Search =====
 
     const LOCK_HASH = 'dcf290bc77ed52d00e9e4ba032efb1adc63a881c3802a2e4bd5bc44b6abb76cc';
 
@@ -25,22 +25,33 @@
         const unlocked = isUnlocked();
         document.querySelectorAll('.lock-toggle').forEach(btn => {
             btn.classList.toggle('is-unlocked', unlocked);
-            btn.setAttribute('aria-label', unlocked ? 'Lock search' : 'Unlock search');
-            btn.setAttribute('title', unlocked ? 'Lock search' : 'Unlock search');
+            btn.setAttribute('aria-label', unlocked ? 'Lock vault search' : 'Unlock advanced vault search');
+            btn.setAttribute('title', unlocked ? 'Lock vault search (Vault active)' : 'Unlock advanced vault search');
         });
+
+        const termInput = document.getElementById('term');
+        if (termInput) {
+            if (unlocked) {
+                termInput.setAttribute('placeholder', 'Search entire vault...');
+            } else {
+                termInput.setAttribute('placeholder', '{{ meta.uiStrings.searchPlaceholder }}');
+            }
+        }
     }
 
     async function handleLockToggle() {
         if (isUnlocked()) {
-            // Re-lock: clear state, wipe index
+            // Re-lock to standard blog search
             sessionStorage.removeItem('shabab-unlocked');
-            window.docs = [];
-            window.index = createIndex([]);
             updateLockUI();
+            await loadSearchIndex();
+            if (window.field && window.field.value.trim()) {
+                window.search();
+            }
             return;
         }
 
-        const password = prompt('Enter password to unlock search:');
+        const password = prompt('Enter universal password for advanced vault search:');
         if (!password) return;
 
         const hash = await sha256(password);
@@ -48,26 +59,32 @@
             sessionStorage.setItem('shabab-unlocked', '1');
             updateLockUI();
             await loadSearchIndex();
+            if (window.field && window.field.value.trim()) {
+                window.search();
+            }
         } else {
             alert('Incorrect password.');
         }
     }
 
     async function loadSearchIndex() {
-        const docs = await fetch('/searchIndex.json?v={{meta.buildDate|isoDate}}').then(r => r.json());
-        const index = createIndex(docs);
-        window.docs = docs;
-        window.index = index;
+        const indexPath = isUnlocked()
+            ? '/vaultSearchIndex.json?v={{meta.buildDate|isoDate}}'
+            : '/searchIndex.json?v={{meta.buildDate|isoDate}}';
+
+        try {
+            const docs = await fetch(indexPath).then(r => r.json());
+            const index = createIndex(docs);
+            window.docs = docs;
+            window.index = index;
+        } catch (err) {
+            console.error('Failed to load search index:', err);
+        }
     }
 
     // ===== Toggle Search =====
 
     window.toggleSearch = function () {
-        if (!isUnlocked()) {
-            handleLockToggle();
-            return;
-        }
-
         const searchContainer = document.getElementById('globalsearch');
         if (searchContainer.classList.contains('active')) {
             searchContainer.classList.remove('active');
@@ -250,7 +267,7 @@
         const result = results[index];
         const previewPanel = document.getElementById('search-preview');
         const previewContent = document.getElementById('preview-content');
-        const placeholder = previewPanel.querySelector('.preview-placeholder');
+        const placeholder = previewPanel?.querySelector('.preview-placeholder');
 
         if (!previewPanel || !previewContent) return;
 
@@ -264,7 +281,7 @@
         // Show loading state in preview
         previewContent.innerHTML = loadingSvg;
         previewContent.classList.add('has-content');
-        placeholder.style.display = 'none';
+        if (placeholder) placeholder.style.display = 'none';
 
         // Fetch the content
         const htmlContent = await fetchPreviewContent(result.url);
@@ -337,20 +354,14 @@
     // ===== Initialization =====
 
     async function init() {
-        // Start with empty index — only populated after unlock
-        window.docs = [];
-        window.index = createIndex([]);
-
         // Wire up lock buttons
         document.querySelectorAll('[data-lock-toggle]').forEach(btn => {
             btn.addEventListener('click', handleLockToggle);
         });
         updateLockUI();
 
-        // If already unlocked from this session, load the index now
-        if (isUnlocked()) {
-            await loadSearchIndex();
-        }
+        // Load active index (blog search if locked, full vault search if unlocked)
+        await loadSearchIndex();
 
         // Keyboard shortcuts
         document.addEventListener('keydown', (e) => {
@@ -413,16 +424,18 @@
 
         const debouncedSearch = debounce(search, 200, false);
         window.field = document.querySelector('#term');
-        field.addEventListener('keydown', (e) => {
-            if (e.key !== 'ArrowDown' && e.key !== 'ArrowUp' && e.key !== 'Enter') {
-                debouncedSearch();
-            }
-        });
+        if (field) {
+            field.addEventListener('keydown', (e) => {
+                if (e.key !== 'ArrowDown' && e.key !== 'ArrowUp' && e.key !== 'Enter') {
+                    debouncedSearch();
+                }
+            });
+        }
         window.resultsDiv = document.querySelector('#search-results');
 
         const params = new URL(location.href).searchParams;
         if (params.get('q')) {
-            field.setAttribute('value', params.get('q'));
+            if (field) field.setAttribute('value', params.get('q'));
             toggleSearch();
             search();
         }
@@ -436,6 +449,7 @@
     window.currentPreviewIndex = -1;
 
     async function search() {
+        if (!field || !resultsDiv) return;
         const searchQuery = field.value.trim();
         const searchLayout = document.getElementById('search-layout');
 
@@ -514,6 +528,7 @@
     // ===== Offline Search =====
 
     function offlineSearch(searchQuery) {
+        if (!window.docs || !window.index) return [];
         const data = window.docs;
         const isTagSearch = searchQuery[0] === "#" && searchQuery.length > 1;
 
@@ -539,7 +554,9 @@
         const dataIds = [...allIds];
         const finalResults = dataIds.map((id) => {
             const result = { ...data[id] };
-            result.tags = result.tags.filter((x) => x !== "gardenEntry" && x !== "note");
+            if (result.tags) {
+                result.tags = result.tags.filter((x) => x !== "gardenEntry" && x !== "note");
+            }
             return result;
         });
 

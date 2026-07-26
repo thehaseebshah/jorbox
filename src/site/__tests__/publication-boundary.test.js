@@ -6,10 +6,17 @@ const projectRoot = resolve(import.meta.dirname, "../../..");
 const readProjectFile = (path) => readFileSync(resolve(projectRoot, path), "utf8");
 
 describe("public content boundary & protected search", () => {
-  it("includes notes in search template", () => {
+  it("builds standard search results from blog posts only", () => {
     const searchTemplate = readProjectFile("src/site/search-index.njk");
 
-    expect(searchTemplate).toContain("collections.note");
+    expect(searchTemplate).toContain("collections.blog");
+    expect(searchTemplate).not.toContain("collections.note");
+  });
+
+  it("builds advanced vault search results from notes collection", () => {
+    const vaultSearchTemplate = readProjectFile("src/site/vault-search-index.njk");
+
+    expect(vaultSearchTemplate).toContain("collections.note");
   });
 
   it("includes lock button component in navbar", () => {
