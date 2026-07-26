@@ -5,6 +5,7 @@
 
         codeBlocks.forEach(pre => {
             if (pre.classList.contains("mac-code-enhanced")) return;
+            if (pre.closest(".mac-code-wrapper")) return;
             pre.classList.add("mac-code-enhanced");
 
             // Create wrapper
@@ -43,10 +44,22 @@
                 </button>
             `;
 
+            // Determine what to wrap: if pre is inside div.code-toolbar, wrap that instead
+            const codeToolbar = pre.closest(".code-toolbar");
+            const wrapTarget = codeToolbar || pre;
+
+            // Hide any existing Prism toolbar inside
+            const existingToolbar = wrapTarget.querySelector(".toolbar");
+            if (existingToolbar) existingToolbar.style.display = "none";
+
+            // Also hide any existing copy buttons
+            const existingBtns = wrapTarget.querySelectorAll(".toolbar-item, .copy-to-clipboard-button, button.copy-code-button");
+            existingBtns.forEach(btn => btn.style.display = "none");
+
             // Insert wrapper
-            pre.parentNode.insertBefore(wrapper, pre);
+            wrapTarget.parentNode.insertBefore(wrapper, wrapTarget);
             wrapper.appendChild(toolbar);
-            wrapper.appendChild(pre);
+            wrapper.appendChild(wrapTarget);
 
             // Copy button logic
             const copyBtn = toolbar.querySelector(".mac-copy-btn");
