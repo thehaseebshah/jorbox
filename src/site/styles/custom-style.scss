@@ -149,6 +149,9 @@ aside, .sidebar, .filetree, .toc, .backlinks, .graph-outer, main.content > heade
 body {
     font-family: var(--font-default);
     background-color: var(--jb-bg-0);
+    background-image: radial-gradient(rgba(255, 255, 255, 0.08) 1.2px, transparent 1.2px);
+    background-size: 28px 28px;
+    background-position: 0 0;
     color: var(--jb-text-primary);
     line-height: 1.75;
     letter-spacing: -0.01em;
