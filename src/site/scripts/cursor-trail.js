@@ -29,18 +29,18 @@
             constructor(x, y) {
                 this.x = x;
                 this.y = y;
-                this.size = Math.random() * 6 + 4;
+                this.size = Math.random() * 2.2 + 1.2;
                 this.color = colors[Math.floor(Math.random() * colors.length)];
                 this.alpha = 1;
-                this.decay = Math.random() * 0.03 + 0.02;
-                this.vx = (Math.random() - 0.5) * 2;
-                this.vy = (Math.random() - 0.5) * 2;
+                this.decay = Math.random() * 0.035 + 0.025;
+                this.vx = (Math.random() - 0.5) * 1.2;
+                this.vy = (Math.random() - 0.5) * 1.2;
             }
 
             update() {
                 this.x += this.vx;
                 this.y += this.vy;
-                this.size = Math.max(0, this.size - 0.12);
+                this.size = Math.max(0, this.size - 0.08);
                 this.alpha -= this.decay;
             }
 
@@ -49,7 +49,7 @@
                 ctx.beginPath();
                 ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
                 ctx.fillStyle = this.color + this.alpha + ")";
-                ctx.shadowBlur = 12;
+                ctx.shadowBlur = 6;
                 ctx.shadowColor = "#fe0109";
                 ctx.fill();
                 ctx.restore();
