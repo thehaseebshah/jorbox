@@ -356,6 +356,62 @@ main.content {
     box-sizing: border-box;
 }
 
+/* --------------------------------------------------------------------------
+   OPTION 3: GLASSMORPHIC HERO BANNER FOR LESSONS
+   -------------------------------------------------------------------------- */
+main.content header {
+    position: relative !important;
+    background: rgba(255, 255, 255, 0.035) !important;
+    backdrop-filter: blur(16px) !important;
+    -webkit-backdrop-filter: blur(16px) !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    border-radius: var(--jb-radius-lg, 20px) !important;
+    padding: 2.2rem 2.5rem !important;
+    margin-bottom: 2.5rem !important;
+    box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.6), inset 0 1px 1px rgba(255, 255, 255, 0.12) !important;
+    overflow: hidden !important;
+}
+
+main.content header::after {
+    content: "" !important;
+    position: absolute !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    height: 2px !important;
+    background: linear-gradient(90deg, #fe0109 0%, #a855f7 50%, #22017e 100%) !important;
+    opacity: 0.8 !important;
+}
+
+.hero-badge-bar {
+    display: flex !important;
+    align-items: center !important;
+    gap: 0.75rem !important;
+    margin-bottom: 1.2rem !important;
+    flex-wrap: wrap !important;
+}
+
+.hero-chip {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 0.4rem !important;
+    padding: 0.35rem 0.85rem !important;
+    border-radius: var(--jb-radius-pill) !important;
+    font-size: 0.78rem !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.03em !important;
+    text-transform: uppercase !important;
+    background: rgba(255, 255, 255, 0.06) !important;
+    border: 1px solid rgba(255, 255, 255, 0.12) !important;
+    color: rgba(255, 255, 255, 0.85) !important;
+}
+
+.hero-chip.reading-time {
+    background: rgba(168, 85, 247, 0.12) !important;
+    border-color: rgba(168, 85, 247, 0.3) !important;
+    color: #c084fc !important;
+}
+
 /* Headings - h1 Quiet Slate Glass Capsule Frame */
 main.content h1,
 header h1,

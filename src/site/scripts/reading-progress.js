@@ -28,9 +28,39 @@
         updateProgress();
     }
 
-    if (document.readyState === "loading") {
-        document.addEventListener("DOMContentLoaded", initReadingProgress);
-    } else {
+    function initHeroBadges() {
+        const header = document.querySelector("main.content header");
+        if (!header || header.querySelector(".hero-badge-bar")) return;
+
+        const badgeBar = document.createElement("div");
+        badgeBar.className = "hero-badge-bar";
+
+        const catChip = document.createElement("span");
+        catChip.className = "hero-chip category-chip";
+        catChip.innerHTML = "📚 Shabab Curriculum";
+
+        const contentText = document.querySelector("main.content")?.innerText || "";
+        const wordCount = contentText.trim().split(/\s+/).length;
+        const readTime = Math.max(1, Math.ceil(wordCount / 200));
+
+        const timeChip = document.createElement("span");
+        timeChip.className = "hero-chip reading-time";
+        timeChip.innerHTML = `⏱️ ${readTime} min read`;
+
+        badgeBar.appendChild(catChip);
+        badgeBar.appendChild(timeChip);
+
+        header.insertBefore(badgeBar, header.firstChild);
+    }
+
+    function setupAll() {
         initReadingProgress();
+        initHeroBadges();
+    }
+
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", setupAll);
+    } else {
+        setupAll();
     }
 })();
