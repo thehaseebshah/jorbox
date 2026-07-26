@@ -1,11 +1,11 @@
 ---
 dg-publish: true
+lesson-batch: "Feb 2025"
 ---
 
 # Lesson 17 — Dodgeball Set
 
 - **Folder:** New Lessons / Not Done
-- **Date:** Feb 2025
 
 ## Learning Objectives
 

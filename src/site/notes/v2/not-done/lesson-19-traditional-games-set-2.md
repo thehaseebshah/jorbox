@@ -1,11 +1,11 @@
 ---
 dg-publish: true
+lesson-batch: "Feb 2025"
 ---
 
 # Lesson 19 — Traditional Games Set 2
 
 - **Folder:** New Lessons / Not Done
-- **Date:** Feb 2025
 
 ## Learning Objectives
 

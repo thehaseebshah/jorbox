@@ -1,11 +1,11 @@
 ---
 dg-publish: true
+lesson-batch: "July 2026"
 ---
 
 # Lesson 03 — Race Day
 
 - **Folder:** New Lessons / Not Done
-- **Date:** July 2026
 
 ## Learning Objectives
 

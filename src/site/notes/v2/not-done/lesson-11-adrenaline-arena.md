@@ -1,11 +1,11 @@
 ---
 dg-publish: true
+lesson-batch: "Feb 2025"
 ---
 
 # Lesson 11 — Adrenaline Arena
 
 - **Folder:** New Lessons / Not Done
-- **Date:** Feb 2025
 
 ## Learning Objectives
 

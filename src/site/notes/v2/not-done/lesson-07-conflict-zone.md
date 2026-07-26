@@ -1,11 +1,11 @@
 ---
 dg-publish: true
+lesson-batch: "July 2026"
 ---
 
 # Lesson 07 — Conflict Zone (July 2026)
 
 - **Folder:** New Lessons / Not Done
-- **Date:** July 2026
 
 ## Learning Objectives
 

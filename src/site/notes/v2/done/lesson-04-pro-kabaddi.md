@@ -1,11 +1,11 @@
 ---
 dg-publish: true
+lesson-batch: "Feb 2025"
 ---
 
 # Lesson 04 — Pro Kabaddi
 
 - **Folder:** New Lessons / Done
-- **Date:** Feb 2025
 
 ## Learning Objectives
 

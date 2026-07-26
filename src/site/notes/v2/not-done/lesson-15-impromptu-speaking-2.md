@@ -1,11 +1,11 @@
 ---
 dg-publish: true
+lesson-batch: "July 2026"
 ---
 
 # Lesson 15 — Impromptu Speaking 2
 
 - **Folder:** New Lessons / Not Done
-- **Date:** July 2026
 
 ## Learning Objectives
 

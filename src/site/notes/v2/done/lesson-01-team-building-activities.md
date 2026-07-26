@@ -1,11 +1,11 @@
 ---
 dg-publish: true
+lesson-batch: "July 2026"
 ---
 
 # Lesson 01 — Team Building Activities
 
 - **Folder:** New Lessons / Done
-- **Date:** July 2026
 
 ## Learning Objectives
 

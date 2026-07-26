@@ -1,3 +1,7 @@
+---
+dg-publish: true
+lesson-batch: "July 2026"
+---
 # New Lessons — Canva Export
 
 Source: Canva folder `New Lessons` (`FAHL3RnvMz8`).

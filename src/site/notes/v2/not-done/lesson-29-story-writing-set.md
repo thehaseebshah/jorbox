@@ -1,11 +1,11 @@
 ---
 dg-publish: true
+lesson-batch: "July 2026"
 ---
 
 # Lesson 29 — Story Writing Set
 
 - **Folder:** New Lessons / Not Done
-- **Date:** July 2026
 
 > ⚠️ Note: Canva design title is "SHB-SKILLS Lesson 29" but the document content references "Lesson 18 Plan". Using the folder title as canonical.
 

@@ -1,11 +1,11 @@
 ---
 dg-publish: true
+lesson-batch: "July 2026"
 ---
 
 # Lesson 22 — Declamation
 
 - **Folder:** New Lessons / Not Done
-- **Date:** July 2026
 
 > ⚠️ Note: Canva design is titled "SHB-SKILLS Lesson 22" but the document content references "Lesson 19 Plan". Treating the folder name as canonical.
 
