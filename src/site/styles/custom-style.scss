@@ -175,7 +175,13 @@ body::before {
     filter: blur(80px);
 }
 
-/* Option 1: Interactive Glowing Cursor Spotlight & Laser Dot */
+/* Option 1: Hide OS Cursor & Replace with Custom Glowing Laser Dot & Spotlight */
+@media (hover: hover) and (pointer: fine) {
+    html, body, a, button, input, textarea, select, .search-button, .navbar, * {
+        cursor: none !important;
+    }
+}
+
 #cursor-spotlight {
     position: fixed;
     top: 0;
@@ -202,15 +208,15 @@ body::before {
     position: fixed;
     top: 0;
     left: 0;
-    width: 10px;
-    height: 10px;
-    margin-top: -5px;
-    margin-left: -5px;
+    width: 12px;
+    height: 12px;
+    margin-top: -6px;
+    margin-left: -6px;
     border-radius: 50%;
     background: #fe0109;
-    box-shadow: 0 0 12px #fe0109, 0 0 25px #a855f7;
+    box-shadow: 0 0 14px #fe0109, 0 0 28px #a855f7;
     pointer-events: none;
-    z-index: 10000;
+    z-index: 100000;
     will-change: transform;
 }
 
