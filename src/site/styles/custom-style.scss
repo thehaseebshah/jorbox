@@ -271,6 +271,10 @@ main.content > header {
     box-shadow: 0 20px 45px -10px rgba(0, 0, 0, 0.65), inset 0 1px 0 rgba(255, 255, 255, 0.15);
 }
 
+main.content > header > h1 {
+    display: none !important;
+}
+
 /* Hero Title H1 */
 main.content h1 {
     font-size: clamp(2.3rem, 5vw, 3.4rem);

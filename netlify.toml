@@ -10,7 +10,7 @@
   dgShowLocalGraph = "false"
   dgLinkPreview = "true"
   dgShowTags = "true"
-  dgShowInlineTitle = "true"
+  dgShowInlineTitle = "false"
   dgHomeLink = "true"
 
 [[redirects]]
