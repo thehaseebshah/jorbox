@@ -202,10 +202,10 @@ body::before {
    5. FLOATING PILL NAVBAR & HEADER LOGOS (QUIET & EXECUTIVE)
    -------------------------------------------------------------------------- */
 .navbar, .filetree-navbar {
-    background: var(--jb-bg-glass) !important;
-    backdrop-filter: blur(24px) saturate(190%) !important;
-    -webkit-backdrop-filter: blur(24px) saturate(190%) !important;
-    border: 1px solid rgba(255, 255, 255, 0.12) !important;
+    background: rgba(12, 10, 24, 0.48) !important;
+    backdrop-filter: blur(36px) saturate(210%) !important;
+    -webkit-backdrop-filter: blur(36px) saturate(210%) !important;
+    border: 1px solid rgba(255, 255, 255, 0.16) !important;
     border-radius: var(--jb-radius-pill) !important;
     max-width: 980px !important;
     margin: 16px auto !important;
@@ -216,7 +216,7 @@ body::before {
     display: flex !important;
     align-items: center !important;
     justify-content: space-between !important;
-    box-shadow: 0 16px 40px -10px rgba(0, 0, 0, 0.8), inset 0 1px 0 rgba(255, 255, 255, 0.12) !important;
+    box-shadow: 0 20px 50px -10px rgba(0, 0, 0, 0.75), inset 0 1.5px 1px rgba(255, 255, 255, 0.25), inset 0 -1px 0 rgba(255, 255, 255, 0.08) !important;
     box-sizing: border-box !important;
     transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 }
