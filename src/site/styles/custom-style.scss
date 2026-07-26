@@ -148,7 +148,7 @@ aside, .sidebar, .filetree, .toc, .backlinks, .graph-outer, main.content > heade
    -------------------------------------------------------------------------- */
 html, body, .theme-dark, .theme-light, .markdown-preview-view, main.content {
     background-color: var(--jb-bg-0) !important;
-    background-image: radial-gradient(rgba(255, 255, 255, 0.12) 1.2px, transparent 1.2px) !important;
+    background-image: radial-gradient(rgba(255, 255, 255, 0.045) 1.2px, transparent 1.2px) !important;
     background-size: 28px 28px !important;
     background-position: 0 0 !important;
     background-attachment: fixed !important;
@@ -364,17 +364,17 @@ header h1,
     margin-bottom: 2rem !important;
     display: inline-block !important;
     position: relative !important;
-    padding: 0.6rem 1.8rem !important;
+    padding: 0.65rem 2rem !important;
     border-radius: var(--jb-radius-pill) !important;
-    background-color: rgba(12, 10, 24, 0.55) !important;
-    backdrop-filter: blur(12px) !important;
-    -webkit-backdrop-filter: blur(12px) !important;
-    border: 2px solid transparent !important;
-    background-image: linear-gradient(rgba(12, 10, 24, 0.55), rgba(12, 10, 24, 0.55)), 
+    background-color: rgba(12, 10, 24, 0.15) !important;
+    backdrop-filter: blur(16px) !important;
+    -webkit-backdrop-filter: blur(16px) !important;
+    border: 3.5px solid transparent !important;
+    background-image: linear-gradient(rgba(12, 10, 24, 0.15), rgba(12, 10, 24, 0.15)), 
                       linear-gradient(90deg, #fe0109 0%, #7e22ce 50%, #22017e 100%) !important;
     background-origin: border-box !important;
     background-clip: padding-box, border-box !important;
-    box-shadow: 0 0 20px rgba(254, 1, 9, 0.35), 0 0 35px rgba(126, 34, 206, 0.25) !important;
+    box-shadow: 0 0 25px rgba(254, 1, 9, 0.4), 0 0 45px rgba(126, 34, 206, 0.3) !important;
     animation: h1CapsuleEntrance 0.75s cubic-bezier(0.16, 1, 0.3, 1) forwards !important;
 }
 
