@@ -583,7 +583,7 @@
     aspect-ratio: 1;
     margin: 2rem auto 0;
     transform: translate3d(var(--formation-x), var(--formation-y), 0);
-    transition: transform 0.5s var(--home-ease);
+    will-change: transform;
     isolation: isolate;
 }
 

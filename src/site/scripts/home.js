@@ -87,20 +87,65 @@
     function initFormationParallax() {
         if (!formation || reducedMotion.matches || !window.matchMedia("(pointer: fine)").matches) return;
 
-        const hero = formation.closest(".home-hero");
-        if (!hero) return;
+        let targetX = 0;
+        let targetY = 0;
+        let currentX = 0;
+        let currentY = 0;
+        let animating = false;
 
-        hero.addEventListener("pointermove", (event) => {
-            const bounds = hero.getBoundingClientRect();
-            const x = ((event.clientX - bounds.left) / bounds.width - 0.5) * 14;
-            const y = ((event.clientY - bounds.top) / bounds.height - 0.5) * 14;
-            formation.style.setProperty("--formation-x", `${x.toFixed(2)}px`);
-            formation.style.setProperty("--formation-y", `${y.toFixed(2)}px`);
+        function updatePhysics() {
+            // Smooth lerp towards target (0.07 gives a silky smooth magnetic glide)
+            currentX += (targetX - currentX) * 0.07;
+            currentY += (targetY - currentY) * 0.07;
+
+            formation.style.setProperty("--formation-x", `${currentX.toFixed(3)}px`);
+            formation.style.setProperty("--formation-y", `${currentY.toFixed(3)}px`);
+
+            if (Math.abs(targetX - currentX) > 0.01 || Math.abs(targetY - currentY) > 0.01) {
+                requestAnimationFrame(updatePhysics);
+            } else {
+                currentX = targetX;
+                currentY = targetY;
+                formation.style.setProperty("--formation-x", `${currentX.toFixed(3)}px`);
+                formation.style.setProperty("--formation-y", `${currentY.toFixed(3)}px`);
+                animating = false;
+            }
+        }
+
+        function startAnimation() {
+            if (!animating) {
+                animating = true;
+                requestAnimationFrame(updatePhysics);
+            }
+        }
+
+        window.addEventListener("pointermove", (event) => {
+            const bounds = formation.getBoundingClientRect();
+            const centerX = bounds.left + bounds.width / 2;
+            const centerY = bounds.top + bounds.height / 2;
+
+            const dx = event.clientX - centerX;
+            const dy = event.clientY - centerY;
+            const dist = Math.hypot(dx, dy);
+
+            const magnetRadius = 450;
+
+            if (dist < magnetRadius) {
+                const pull = Math.pow(1 - dist / magnetRadius, 1.4);
+                targetX = dx * pull * 0.2;
+                targetY = dy * pull * 0.2;
+            } else {
+                targetX = 0;
+                targetY = 0;
+            }
+
+            startAnimation();
         }, { passive: true });
 
-        hero.addEventListener("pointerleave", () => {
-            formation.style.setProperty("--formation-x", "0px");
-            formation.style.setProperty("--formation-y", "0px");
+        document.addEventListener("pointerleave", () => {
+            targetX = 0;
+            targetY = 0;
+            startAnimation();
         });
     }
 
