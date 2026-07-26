@@ -1,7 +1,11 @@
 /* ==========================================================================
-   JORBOX — SINGLE-COLUMN STICKY SEARCH HEADER EDITION
+   JORBOX — ROYAL CRIMSON CUSTOM DESIGN SYSTEM
    Typography: Product Sans
-   Design Philosophy: Full-Width Sticky Search Header, No Sidebars & Clean Centered Workspace
+   Color Scheme:
+     - Primary Deep Royal Violet: #22017e
+     - Vibrant Electric Crimson:  #fe0109
+     - Contrast Highlights:       #ffffff
+     - Deep Surface Base:         #000000
    ========================================================================== */
 
 /* --------------------------------------------------------------------------
@@ -40,36 +44,39 @@
 }
 
 /* --------------------------------------------------------------------------
-   2. DESIGN TOKENS
+   2. CUSTOM PALETTE TOKENS
    -------------------------------------------------------------------------- */
 :root {
-    /* Electric Color Accents */
-    --jb-cyan: #06b6d4;
-    --jb-emerald: #10b981;
-    --jb-violet: #8b5cf6;
+    /* User Color Scheme Tokens */
+    --jb-royal: #22017e;
+    --jb-crimson: #fe0109;
+    --jb-white: #ffffff;
+    --jb-black: #000000;
 
-    --jb-accent: var(--jb-cyan);
-    --jb-accent-hover: var(--jb-violet);
-    --jb-accent-soft: rgba(6, 182, 212, 0.12);
+    --jb-accent: var(--jb-crimson);
+    --jb-accent-secondary: var(--jb-royal);
+    --jb-accent-soft: rgba(254, 1, 9, 0.15);
+    --jb-royal-soft: rgba(34, 1, 126, 0.35);
 
-    /* Deep Void Surfaces */
-    --jb-bg-0: #06090e;
-    --jb-bg-1: #0f1522;
-    --jb-bg-2: #182032;
-    --jb-bg-3: #242f47;
-    --jb-bg-glass: rgba(15, 21, 34, 0.85);
+    /* Deep Surface Hierarchy */
+    --jb-bg-0: #000000;
+    --jb-bg-1: #090317;
+    --jb-bg-2: #12062b;
+    --jb-bg-3: #1d0b40;
+    --jb-bg-glass: rgba(0, 0, 0, 0.85);
+    --jb-bg-glass-card: rgba(18, 6, 43, 0.65);
 
     /* Text Hierarchy */
     --jb-text-primary: #ffffff;
-    --jb-text-secondary: #d1d5db;
-    --jb-text-muted: #9ca3af;
-    --jb-text-faint: #6b7280;
+    --jb-text-secondary: #e2e8f0;
+    --jb-text-muted: #94a3b8;
+    --jb-text-faint: #64748b;
 
     /* Micro Borders */
-    --jb-border-subtle: rgba(255, 255, 255, 0.1);
-    --jb-border-medium: rgba(255, 255, 255, 0.18);
-    --jb-border-strong: rgba(255, 255, 255, 0.3);
-    --jb-border-accent: rgba(6, 182, 212, 0.45);
+    --jb-border-subtle: rgba(34, 1, 126, 0.35);
+    --jb-border-medium: rgba(254, 1, 9, 0.3);
+    --jb-border-strong: rgba(254, 1, 9, 0.55);
+    --jb-border-accent: rgba(254, 1, 9, 0.65);
 
     /* Radii */
     --jb-radius-sm: 8px;
@@ -94,22 +101,36 @@
     --text-muted: var(--jb-text-secondary);
     --text-faint: var(--jb-text-muted);
     --text-accent: var(--jb-accent);
-    --text-accent-hover: var(--jb-accent-hover);
+    --text-accent-hover: var(--jb-white);
     --interactive-accent: var(--jb-accent);
-    --interactive-accent-hover: var(--jb-accent-hover);
+    --interactive-accent-hover: var(--jb-white);
     --link-color: var(--jb-accent);
-    --link-color-hover: var(--jb-accent-hover);
+    --link-color-hover: var(--jb-white);
+}
+
+/* Light Theme Overrides */
+.theme-light {
+    --jb-bg-0: #ffffff;
+    --jb-bg-1: #f8fafc;
+    --jb-bg-2: #f1f5f9;
+    --jb-bg-3: #e2e8f0;
+    --jb-bg-glass: rgba(255, 255, 255, 0.88);
+
+    --jb-text-primary: #000000;
+    --jb-text-secondary: #1e293b;
+    --jb-text-muted: #64748b;
+    --jb-text-faint: #94a3b8;
 }
 
 /* --------------------------------------------------------------------------
-   3. HIDE ALL SIDEBARS
+   3. HIDE ALL SIDEBARS & EMPTY HEADER CONTAINER
    -------------------------------------------------------------------------- */
-aside, .sidebar, .filetree, .toc, .backlinks, .graph-outer {
+aside, .sidebar, .filetree, .toc, .backlinks, .graph-outer, main.content > header {
     display: none !important;
 }
 
 /* --------------------------------------------------------------------------
-   4. BASE RESET & ATMOSPHERE
+   4. BASE RESET & AMBIENT ATMOSPHERE
    -------------------------------------------------------------------------- */
 body {
     font-family: var(--font-default);
@@ -125,19 +146,19 @@ body {
     padding: 0;
 }
 
-/* Ambient Top Accent Light */
+/* Ambient Royal Crimson Glow */
 body::before {
     content: "";
     position: fixed;
-    top: -180px;
+    top: -200px;
     left: 50%;
     transform: translateX(-50%);
-    width: 1000px;
-    height: 450px;
-    background: radial-gradient(circle, rgba(6, 182, 212, 0.1) 0%, rgba(139, 92, 246, 0.06) 45%, transparent 75%);
+    width: 1100px;
+    height: 500px;
+    background: radial-gradient(circle, rgba(34, 1, 126, 0.35) 0%, rgba(254, 1, 9, 0.12) 50%, transparent 80%);
     pointer-events: none;
     z-index: -1;
-    filter: blur(70px);
+    filter: blur(80px);
 }
 
 /* Custom Scrollbars */
@@ -149,27 +170,28 @@ body::before {
     background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-    background: var(--jb-bg-3);
+    background: var(--jb-royal);
     border-radius: var(--jb-radius-pill);
+    border: 2px solid var(--jb-bg-0);
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: var(--jb-cyan);
+    background: var(--jb-crimson);
 }
 
 /* Selection Highlight */
 ::selection {
-    background: rgba(6, 182, 212, 0.3);
-    color: #ffffff;
+    background: var(--jb-crimson);
+    color: var(--jb-white);
 }
 
 /* --------------------------------------------------------------------------
-   5. FULL-WIDTH STICKY HEADER WITH SEARCH BAR
+   5. ROUND FLOATING HEADER WITH SEARCH BAR
    -------------------------------------------------------------------------- */
 .navbar, .filetree-navbar {
     background: var(--jb-bg-glass) !important;
-    backdrop-filter: blur(20px) saturate(190%) !important;
-    -webkit-backdrop-filter: blur(20px) saturate(190%) !important;
-    border: 1px solid rgba(255, 255, 255, 0.14) !important;
+    backdrop-filter: blur(24px) saturate(190%) !important;
+    -webkit-backdrop-filter: blur(24px) saturate(190%) !important;
+    border: 1px solid rgba(254, 1, 9, 0.3) !important;
     border-radius: var(--jb-radius-pill) !important;
     max-width: 980px !important;
     margin: 16px auto !important;
@@ -180,14 +202,14 @@ body::before {
     display: flex !important;
     align-items: center !important;
     justify-content: space-between !important;
-    box-shadow: 0 16px 40px -10px rgba(0, 0, 0, 0.6), inset 0 1px 0 rgba(255, 255, 255, 0.15) !important;
+    box-shadow: 0 16px 40px -10px rgba(0, 0, 0, 0.8), 0 0 30px rgba(34, 1, 126, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.15) !important;
     box-sizing: border-box !important;
     transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 .navbar:hover, .filetree-navbar:hover {
-    border-color: var(--jb-border-accent) !important;
-    box-shadow: 0 20px 50px -10px rgba(0, 0, 0, 0.7), 0 0 25px rgba(6, 182, 212, 0.2) !important;
+    border-color: var(--jb-crimson) !important;
+    box-shadow: 0 20px 50px -10px rgba(0, 0, 0, 0.9), 0 0 35px rgba(254, 1, 9, 0.35) !important;
 }
 
 .navbar-inner h1 {
@@ -196,7 +218,7 @@ body::before {
     font-weight: 700 !important;
     margin: 0 !important;
     letter-spacing: -0.02em;
-    background: linear-gradient(135deg, #ffffff 0%, #cbd5e1 50%, var(--jb-cyan) 100%);
+    background: linear-gradient(135deg, #ffffff 0%, #cbd5e1 50%, var(--jb-crimson) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     display: flex;
@@ -208,8 +230,8 @@ body::before {
 .search-button {
     width: 360px !important;
     max-width: 100% !important;
-    background: rgba(255, 255, 255, 0.07) !important;
-    border: 1px solid rgba(255, 255, 255, 0.14) !important;
+    background: rgba(34, 1, 126, 0.35) !important;
+    border: 1px solid rgba(254, 1, 9, 0.35) !important;
     border-radius: var(--jb-radius-pill) !important;
     padding: 0.55rem 1.1rem !important;
     display: flex !important;
@@ -217,23 +239,23 @@ body::before {
     justify-content: space-between !important;
     cursor: pointer;
     transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
-    color: var(--jb-text-secondary) !important;
+    color: var(--jb-text-primary) !important;
     font-size: 0.88rem;
-    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.08);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
 }
 
 .search-button:hover {
-    border-color: var(--jb-accent) !important;
-    background: rgba(6, 182, 212, 0.15) !important;
+    border-color: var(--jb-crimson) !important;
+    background: rgba(254, 1, 9, 0.2) !important;
     color: #ffffff !important;
-    box-shadow: 0 0 20px rgba(6, 182, 212, 0.35);
+    box-shadow: 0 0 25px rgba(254, 1, 9, 0.45);
 }
 
 .search-icon {
     display: flex;
     align-items: center;
     margin-right: 0.5rem;
-    color: var(--jb-cyan);
+    color: var(--jb-crimson);
 }
 
 .search-text {
@@ -241,13 +263,13 @@ body::before {
 }
 
 .search-keys code {
-    background: rgba(0, 0, 0, 0.5);
-    border: 1px solid var(--jb-border-subtle);
+    background: var(--jb-black);
+    border: 1px solid var(--jb-crimson);
     border-radius: 5px;
     padding: 0.15rem 0.45rem;
     font-size: 0.74rem;
     font-family: var(--font-default);
-    color: var(--jb-cyan);
+    color: var(--jb-crimson);
 }
 
 /* --------------------------------------------------------------------------
@@ -256,27 +278,22 @@ body::before {
 main.content {
     max-width: 860px;
     margin: 0 auto;
-    padding: 3rem 2rem 6rem 2rem;
+    padding: 2.5rem 2rem 6rem 2rem;
     width: 100%;
     box-sizing: border-box;
 }
 
-main.content > header {
-    display: none !important;
-}
-
-/* Hero Title H1 */
+/* Headings */
 main.content h1 {
     font-size: clamp(2.3rem, 5vw, 3.4rem);
     font-weight: 700;
     letter-spacing: -0.035em;
-    line-height: 1.15;
+    line-height: 1.18;
     color: #ffffff;
-    margin-top: 0.5rem;
-    margin-bottom: 1.25rem;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
 }
 
-/* Section Heading H2 */
 main.content h2 {
     font-size: clamp(1.55rem, 3.5vw, 2rem);
     font-weight: 700;
@@ -295,10 +312,10 @@ main.content h2::before {
     display: inline-block;
     width: 5px;
     height: 1.1em;
-    background: linear-gradient(180deg, var(--jb-cyan), var(--jb-violet));
+    background: linear-gradient(180deg, var(--jb-crimson), var(--jb-royal));
     border-radius: 6px;
     margin-right: 14px;
-    box-shadow: 0 0 12px var(--jb-cyan);
+    box-shadow: 0 0 14px var(--jb-crimson);
 }
 
 main.content h3 {
@@ -319,23 +336,23 @@ main.content p, main.content li {
 
 /* Bullet Markers */
 main.content ul > li::marker {
-    color: var(--jb-cyan);
+    color: var(--jb-crimson);
 }
 
-/* Interactive Card Links */
+/* Links with Electric Crimson Hover */
 a, a.internal-link {
-    color: var(--jb-cyan);
+    color: var(--jb-crimson);
     text-decoration: none;
-    background: linear-gradient(90deg, var(--jb-cyan), var(--jb-violet)) no-repeat 0 100%;
+    background: linear-gradient(90deg, var(--jb-crimson), var(--jb-royal)) no-repeat 0 100%;
     background-size: 0% 2px;
     transition: background-size 0.3s cubic-bezier(0.16, 1, 0.3, 1), color 0.2s ease;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 a:hover, a.internal-link:hover {
-    color: var(--jb-violet);
+    color: #ffffff;
     background-size: 100% 2px;
-    text-shadow: 0 0 12px rgba(139, 92, 246, 0.5);
+    text-shadow: 0 0 14px rgba(254, 1, 9, 0.6);
 }
 
 a.is-unresolved {
@@ -353,9 +370,9 @@ a.is-unresolved {
 }
 
 .tag {
-    background: rgba(6, 182, 212, 0.12) !important;
-    color: var(--jb-cyan) !important;
-    border: 1px solid rgba(6, 182, 212, 0.35) !important;
+    background: rgba(34, 1, 126, 0.4) !important;
+    color: var(--jb-crimson) !important;
+    border: 1px solid rgba(254, 1, 9, 0.4) !important;
     border-radius: var(--jb-radius-pill) !important;
     padding: 0.35rem 0.9rem !important;
     font-size: 0.82rem !important;
@@ -367,9 +384,9 @@ a.is-unresolved {
 }
 
 .tag:hover {
-    background: linear-gradient(135deg, var(--jb-cyan), var(--jb-violet)) !important;
+    background: var(--jb-crimson) !important;
     color: #ffffff !important;
-    box-shadow: 0 0 20px rgba(6, 182, 212, 0.6) !important;
+    box-shadow: 0 0 20px rgba(254, 1, 9, 0.7) !important;
     transform: translateY(-2px) scale(1.04);
 }
 
@@ -378,13 +395,13 @@ main.content img {
     max-width: 100%;
     border-radius: var(--jb-radius-lg);
     border: 1px solid var(--jb-border-medium);
-    box-shadow: 0 25px 50px -10px rgba(0, 0, 0, 0.7);
+    box-shadow: 0 25px 50px -10px rgba(0, 0, 0, 0.9);
     margin: 2.2rem 0;
     transition: all 0.3s ease;
 }
 
 main.content img:hover {
-    border-color: var(--jb-cyan);
+    border-color: var(--jb-crimson);
     transform: translateY(-3px);
 }
 
@@ -392,21 +409,20 @@ main.content img:hover {
    7. OBSIDIAN CALLOUT TILES
    -------------------------------------------------------------------------- */
 .callout {
-    background: linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 0.01) 100%) !important;
-    border: 1px solid rgba(255, 255, 255, 0.14) !important;
-    border-left: 4px solid rgb(var(--callout-color)) !important;
+    background: linear-gradient(135deg, rgba(34, 1, 126, 0.25) 0%, rgba(0, 0, 0, 0.6) 100%) !important;
+    border: 1px solid rgba(254, 1, 9, 0.25) !important;
+    border-left: 4px solid var(--jb-crimson) !important;
     border-radius: var(--jb-radius-lg) !important;
     padding: 1.25rem 1.6rem !important;
     margin: 2rem 0 !important;
     backdrop-filter: blur(16px);
-    box-shadow: 0 12px 30px -5px rgba(0, 0, 0, 0.5), -6px 0 24px -2px rgba(var(--callout-color), 0.35) !important;
+    box-shadow: 0 12px 30px -5px rgba(0, 0, 0, 0.7), -6px 0 24px -2px rgba(254, 1, 9, 0.35) !important;
     transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1) !important;
 }
 
 .callout:hover {
-    border-color: rgba(255, 255, 255, 0.25) !important;
-    border-left-color: rgb(var(--callout-color)) !important;
-    box-shadow: 0 18px 40px -5px rgba(0, 0, 0, 0.6), -6px 0 30px -2px rgba(var(--callout-color), 0.55) !important;
+    border-color: var(--jb-crimson) !important;
+    box-shadow: 0 18px 40px -5px rgba(0, 0, 0, 0.8), -6px 0 30px -2px rgba(254, 1, 9, 0.55) !important;
     transform: translateY(-3px);
 }
 
@@ -421,12 +437,12 @@ main.content img:hover {
    8. MAC TERMINAL CODE BLOCKS
    -------------------------------------------------------------------------- */
 pre[class*="language-"], pre {
-    background: #040711 !important;
-    border: 1px solid rgba(255, 255, 255, 0.16) !important;
+    background: #070214 !important;
+    border: 1px solid rgba(34, 1, 126, 0.5) !important;
     border-radius: var(--jb-radius-lg) !important;
     padding: 2.4rem 1.6rem 1.4rem 1.6rem !important;
     margin: 2.2rem 0 !important;
-    box-shadow: 0 25px 50px -10px rgba(0, 0, 0, 0.8) !important;
+    box-shadow: 0 25px 50px -10px rgba(0, 0, 0, 0.9) !important;
     overflow-x: auto;
     font-family: var(--font-monospace) !important;
     font-size: 0.9rem !important;
@@ -448,9 +464,9 @@ pre::before {
 }
 
 p > code, li > code, td > code {
-    background: linear-gradient(135deg, rgba(6, 182, 212, 0.15), rgba(139, 92, 246, 0.15)) !important;
-    border: 1px solid rgba(6, 182, 212, 0.35) !important;
-    color: var(--jb-cyan) !important;
+    background: rgba(254, 1, 9, 0.12) !important;
+    border: 1px solid rgba(254, 1, 9, 0.35) !important;
+    color: var(--jb-crimson) !important;
     border-radius: 7px !important;
     padding: 0.2rem 0.5rem !important;
     font-family: var(--font-monospace) !important;
@@ -462,14 +478,13 @@ p > code, li > code, td > code {
    9. BLOCKQUOTES & TABLES
    -------------------------------------------------------------------------- */
 blockquote {
-    background: linear-gradient(135deg, rgba(6, 182, 212, 0.1), rgba(139, 92, 246, 0.04));
-    border-left: 4px solid var(--jb-cyan);
+    background: linear-gradient(135deg, rgba(34, 1, 126, 0.2), rgba(254, 1, 9, 0.08));
+    border-left: 4px solid var(--jb-crimson);
     border-radius: 0 var(--jb-radius-lg) var(--jb-radius-lg) 0;
     margin: 2.2rem 0;
     padding: 1.3rem 1.6rem;
     color: var(--jb-text-primary);
     font-style: italic;
-    box-shadow: var(--jb-shadow-md);
 }
 
 blockquote:before {
@@ -494,7 +509,7 @@ th, td {
 }
 
 th {
-    background: linear-gradient(90deg, rgba(6, 182, 212, 0.2), rgba(139, 92, 246, 0.2));
+    background: linear-gradient(90deg, rgba(34, 1, 126, 0.4), rgba(254, 1, 9, 0.3));
     color: #ffffff;
     font-weight: 700;
 }
@@ -504,12 +519,12 @@ tr:last-child td {
 }
 
 tr:nth-child(even) {
-    background: rgba(255, 255, 255, 0.02);
+    background: rgba(34, 1, 126, 0.1);
 }
 
 /* Checkboxes */
 input[type="checkbox"] {
-    accent-color: var(--jb-cyan);
+    accent-color: var(--jb-crimson);
     width: 1.1rem;
     height: 1.1rem;
     border-radius: 5px;
@@ -520,20 +535,20 @@ input[type="checkbox"] {
    10. SPOTLIGHT SEARCH MODAL
    -------------------------------------------------------------------------- */
 .search-container {
-    background: rgba(0, 0, 0, 0.82) !important;
+    background: rgba(0, 0, 0, 0.85) !important;
     backdrop-filter: blur(24px) !important;
 }
 
 #search-modal {
-    background: var(--jb-bg-1) !important;
-    border: 1px solid var(--jb-border-strong) !important;
+    background: #090317 !important;
+    border: 1px solid var(--jb-crimson) !important;
     border-radius: var(--jb-radius-xl) !important;
-    box-shadow: 0 30px 70px rgba(0, 0, 0, 0.9), 0 0 40px rgba(6, 182, 212, 0.3) !important;
+    box-shadow: 0 30px 70px rgba(0, 0, 0, 0.95), 0 0 45px rgba(254, 1, 9, 0.35) !important;
     max-width: 660px !important;
 }
 
 #search-input {
-    background: var(--jb-bg-2) !important;
+    background: #12062b !important;
     border: 1px solid var(--jb-border-medium) !important;
     border-radius: var(--jb-radius-md) !important;
     color: var(--jb-text-primary) !important;
@@ -544,17 +559,17 @@ input[type="checkbox"] {
 
 #search-input:focus {
     outline: none !important;
-    border-color: var(--jb-cyan) !important;
-    box-shadow: 0 0 25px rgba(6, 182, 212, 0.4) !important;
+    border-color: var(--jb-crimson) !important;
+    box-shadow: 0 0 25px rgba(254, 1, 9, 0.45) !important;
 }
 
 /* --------------------------------------------------------------------------
    11. LINK PREVIEW POPOVER
    -------------------------------------------------------------------------- */
 .link-preview {
-    background: var(--jb-bg-1) !important;
-    border: 1px solid var(--jb-border-strong) !important;
+    background: #090317 !important;
+    border: 1px solid var(--jb-crimson) !important;
     border-radius: var(--jb-radius-lg) !important;
-    box-shadow: 0 25px 50px rgba(0, 0, 0, 0.8) !important;
+    box-shadow: 0 25px 50px rgba(0, 0, 0, 0.9) !important;
     backdrop-filter: blur(20px);
 }
