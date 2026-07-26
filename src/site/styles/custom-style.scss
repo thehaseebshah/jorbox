@@ -533,29 +533,6 @@ main.content header::after {
 }
 
 /* --------------------------------------------------------------------------
-   OPTION 6: GLASS CALLOUT TILES WITH PULSING ICONS
-   -------------------------------------------------------------------------- */
-.glass-callout-enhanced {
-    background: rgba(255, 255, 255, 0.03) !important;
-    backdrop-filter: blur(14px) !important;
-    -webkit-backdrop-filter: blur(14px) !important;
-    border: 1px solid rgba(var(--callout-glow-rgb, 148, 163, 184), 0.12) !important;
-    border-left: 3px solid rgba(var(--callout-glow-rgb, 148, 163, 184), 0.4) !important;
-    border-radius: 14px !important;
-    padding: 1.2rem 1.5rem !important;
-    margin: 1.5rem 0 !important;
-    box-shadow: 0 8px 24px -8px rgba(0, 0, 0, 0.4),
-                inset 0 1px 1px rgba(255, 255, 255, 0.06) !important;
-    transition: border-color 0.3s ease, box-shadow 0.3s ease !important;
-}
-
-.glass-callout-enhanced:hover {
-    border-left-color: rgba(var(--callout-glow-rgb, 148, 163, 184), 0.65) !important;
-    box-shadow: 0 10px 30px -8px rgba(0, 0, 0, 0.5),
-                inset 0 1px 1px rgba(255, 255, 255, 0.08) !important;
-}
-
-/* --------------------------------------------------------------------------
    OPTION 7: MAC TERMINAL CODE BLOCKS WITH 1-CLICK COPY
    -------------------------------------------------------------------------- */
 .mac-code-wrapper {
@@ -572,7 +549,13 @@ main.content header::after {
     margin: 0 !important;
     border: none !important;
     border-radius: 0 !important;
+    padding: 1.25rem 1.5rem !important;
     background: transparent !important;
+    box-shadow: none !important;
+}
+
+.mac-code-wrapper pre::before {
+    content: none !important;
     box-shadow: none !important;
 }
 
@@ -836,24 +819,29 @@ main.content img:hover {
 }
 
 /* --------------------------------------------------------------------------
-   8. OBSIDIAN CALLOUT TILES
+   8. MUTED GLASS CALLOUT TILES
    -------------------------------------------------------------------------- */
 .callout {
-    background: linear-gradient(135deg, rgba(34, 1, 126, 0.25) 0%, rgba(0, 0, 0, 0.6) 100%) !important;
-    border: 1px solid rgba(254, 1, 9, 0.25) !important;
-    border-left: 4px solid var(--jb-crimson) !important;
-    border-radius: var(--jb-radius-lg) !important;
-    padding: 1.25rem 1.6rem !important;
-    margin: 2rem 0 !important;
-    backdrop-filter: blur(16px);
-    box-shadow: 0 12px 30px -5px rgba(0, 0, 0, 0.7), -6px 0 24px -2px rgba(254, 1, 9, 0.35) !important;
-    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1) !important;
+    background: rgba(255, 255, 255, 0.03) !important;
+    border: 1px solid rgba(var(--callout-glow-rgb, 148, 163, 184), 0.12) !important;
+    border-left: 3px solid rgba(var(--callout-glow-rgb, 148, 163, 184), 0.4) !important;
+    border-radius: 14px !important;
+    padding: 1.2rem 1.5rem !important;
+    margin: 1.5rem 0 !important;
+    backdrop-filter: blur(14px) !important;
+    -webkit-backdrop-filter: blur(14px) !important;
+    mix-blend-mode: normal !important;
+    box-shadow: 0 8px 24px -8px rgba(0, 0, 0, 0.4),
+                inset 0 1px 1px rgba(255, 255, 255, 0.06) !important;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease !important;
 }
 
 .callout:hover {
-    border-color: var(--jb-crimson) !important;
-    box-shadow: 0 18px 40px -5px rgba(0, 0, 0, 0.8), -6px 0 30px -2px rgba(254, 1, 9, 0.55) !important;
-    transform: translateY(-3px);
+    border-color: rgba(var(--callout-glow-rgb, 148, 163, 184), 0.18) !important;
+    border-left-color: rgba(var(--callout-glow-rgb, 148, 163, 184), 0.55) !important;
+    box-shadow: 0 10px 28px -8px rgba(0, 0, 0, 0.5),
+                inset 0 1px 1px rgba(255, 255, 255, 0.08) !important;
+    transform: translateY(-1px);
 }
 
 .callout-title {
@@ -861,6 +849,18 @@ main.content img:hover {
     font-size: 1rem !important;
     gap: 0.65rem !important;
     margin-bottom: 0.65rem;
+}
+
+.callout-icon {
+    display: flex !important;
+    align-items: center;
+    flex: 0 0 auto;
+    opacity: 1 !important;
+}
+
+.callout-icon svg {
+    display: block !important;
+    opacity: 1 !important;
 }
 
 /* --------------------------------------------------------------------------

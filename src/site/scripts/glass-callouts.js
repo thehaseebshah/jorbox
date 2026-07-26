@@ -4,20 +4,20 @@
         if (!callouts.length) return;
 
         const hueMap = {
-            "tip":       "168, 85, 247",
+            "tip":       "134, 154, 150",
             "note":      "148, 163, 184",
-            "warning":   "200, 150, 50",
-            "danger":    "200, 80, 80",
-            "info":      "100, 150, 220",
-            "example":   "140, 120, 200",
+            "warning":   "174, 154, 112",
+            "danger":    "170, 112, 112",
+            "info":      "120, 145, 170",
+            "example":   "145, 132, 165",
             "quote":     "148, 163, 184",
-            "success":   "60, 170, 90",
-            "question":  "200, 150, 50",
-            "abstract":  "100, 170, 210",
-            "bug":       "200, 80, 80",
-            "todo":      "100, 150, 220",
-            "failure":   "200, 80, 80",
-            "important": "168, 85, 247"
+            "success":   "116, 153, 126",
+            "question":  "174, 154, 112",
+            "abstract":  "120, 151, 163",
+            "bug":       "170, 112, 112",
+            "todo":      "120, 145, 170",
+            "failure":   "170, 112, 112",
+            "important": "145, 132, 165"
         };
 
         callouts.forEach(callout => {
@@ -41,6 +41,7 @@
 
             const hue = hueMap[type] || hueMap["note"];
             callout.style.setProperty("--callout-glow-rgb", hue);
+            callout.style.setProperty("--callout-color", hue);
         });
     }
 
