@@ -589,6 +589,16 @@ main.content header::after {
     box-shadow: none !important;
 }
 
+/* Hide any existing theme/Prism toolbars inside mac wrapper */
+.mac-code-wrapper pre .code-toolbar > .toolbar,
+.mac-code-wrapper pre > button,
+.mac-code-wrapper pre .copy-code-button,
+.mac-code-wrapper pre + .toolbar,
+.mac-code-wrapper .code-toolbar > .toolbar,
+.mac-code-wrapper div.code-toolbar > .toolbar {
+    display: none !important;
+}
+
 .mac-code-toolbar {
     display: flex !important;
     align-items: center !important;
