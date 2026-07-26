@@ -11,14 +11,7 @@
                     <polyline points="18 15 12 9 6 15"></polyline>
                 </svg>
             </button>
-            <div class="dock-divider"></div>
-            <button id="dock-search" class="dock-btn" title="Search Notes (Ctrl+K)" aria-label="Search notes">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-                    <circle cx="11" cy="11" r="8"></circle>
-                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-                </svg>
-            </button>
-            <div class="dock-divider"></div>
+            <div id="dock-divider-scroll" class="dock-divider"></div>
             <button id="dock-share" class="dock-btn" title="Copy Page Link" aria-label="Copy page link">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
                     <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
@@ -32,6 +25,8 @@
 
         // 1. Scroll to Top
         const scrollTopBtn = document.getElementById("dock-scroll-top");
+        const scrollDivider = document.getElementById("dock-divider-scroll");
+
         scrollTopBtn.addEventListener("click", () => {
             window.scrollTo({ top: 0, behavior: "smooth" });
         });
@@ -40,22 +35,12 @@
         window.addEventListener("scroll", () => {
             if (window.scrollY > 300) {
                 scrollTopBtn.classList.add("visible");
+                if (scrollDivider) scrollDivider.classList.add("visible");
             } else {
                 scrollTopBtn.classList.remove("visible");
+                if (scrollDivider) scrollDivider.classList.remove("visible");
             }
         }, { passive: true });
-
-        // 2. Search Trigger
-        const searchBtn = document.getElementById("dock-search");
-        searchBtn.addEventListener("click", () => {
-            const searchTrigger = document.querySelector(".search-button, #search-trigger, [data-search-trigger]");
-            if (searchTrigger) {
-                searchTrigger.click();
-            } else {
-                const searchInput = document.querySelector("#search-input, .search-input");
-                if (searchInput) searchInput.focus();
-            }
-        });
 
         // 3. Share Link
         const shareBtn = document.getElementById("dock-share");

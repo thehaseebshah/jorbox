@@ -466,6 +466,15 @@ main.content header::after {
     transform: scale(1);
 }
 
+#dock-divider-scroll {
+    opacity: 0;
+    transition: opacity 0.25s ease-out !important;
+}
+
+#dock-divider-scroll.visible {
+    opacity: 1;
+}
+
 .dock-divider {
     width: 1px !important;
     height: 18px !important;
@@ -561,7 +570,7 @@ header h1::before,
     mask-composite: exclude !important;
     pointer-events: none !important;
     box-shadow: 0 0 12px rgba(255, 255, 255, 0.15) !important;
-    animation: rotateConveyorBorder 3.5s linear infinite !important;
+    animation: rotateConveyorBorder 20s linear infinite !important;
 }
 
 @keyframes rotateConveyorBorder {
