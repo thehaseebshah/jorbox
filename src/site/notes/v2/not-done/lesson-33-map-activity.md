@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 33 — Map Activity
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3XE2BTg`
-- **Edit URL:** https://www.canva.com/d/Si6r2OH5pC59IhJ
-- **View URL:** https://www.canva.com/d/I7GdOa24vK7fK8l
 - **Date:** Feb 2025
 
 ## Learning Objectives

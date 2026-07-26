@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 08 — Survival Skills Set
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3W9fRss`
-- **Edit URL:** https://www.canva.com/d/SAlxbZFx4IwuKZN
-- **View URL:** https://www.canva.com/d/DRD1dngCpAEMsiH
 - **Date:** Feb 2025
 
 ## Learning Objectives

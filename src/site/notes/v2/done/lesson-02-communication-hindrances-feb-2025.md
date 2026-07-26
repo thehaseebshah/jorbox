@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 02 — Communication Hindrances (Feb 2025)
 
 - **Folder:** New Lessons / Done
-- **Design ID:** `DAHL3YObJ6k`
-- **Edit URL:** https://www.canva.com/d/35BMYZ23zS8CtDE
-- **View URL:** https://www.canva.com/d/3-oe4yf7AlNWfcN
 - **Date:** Feb 2025
 
 *Earlier version of Lesson 02 — same structure as the July 2026 update.*

@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 30 — Hands of Ihsan
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3TEL_xo`
-- **Edit URL:** https://www.canva.com/d/6y3AwU7qx0pUAvg
-- **View URL:** https://www.canva.com/d/VzDZu5y9t9tXdJ5
 - **Date:** Feb 2025
 
 ## Learning Objectives

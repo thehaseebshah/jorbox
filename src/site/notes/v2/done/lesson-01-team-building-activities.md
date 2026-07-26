@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 01 — Team Building Activities
 
 - **Folder:** New Lessons / Done
-- **Design ID:** `DAHL3USQWjE`
-- **Edit URL:** https://www.canva.com/d/usOChfA-Ztzf_WP
-- **View URL:** https://www.canva.com/d/dkkT-zgaIuiLu6t
 - **Date:** July 2026
 
 ## Learning Objectives

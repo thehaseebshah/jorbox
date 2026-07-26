@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 17 — Dodgeball Set
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3U4MIcg`
-- **Edit URL:** https://www.canva.com/d/IlFKxOXQaQnn230
-- **View URL:** https://www.canva.com/d/YysqP3eIWo3_xmd
 - **Date:** Feb 2025
 
 ## Learning Objectives

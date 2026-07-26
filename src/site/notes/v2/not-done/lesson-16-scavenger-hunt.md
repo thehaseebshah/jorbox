@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 16 — Scavenger Hunt
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3TlGrkg`
-- **Edit URL:** https://www.canva.com/d/V60CJNx4tpHkcgZ
-- **View URL:** https://www.canva.com/d/kjWe8vTu8NiV_my
 - **Date:** July 2026
 
 ## Learning Objectives

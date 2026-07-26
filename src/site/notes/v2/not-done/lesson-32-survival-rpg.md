@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 32 — Survival Role Playing Game
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3dXkfbI`
-- **Edit URL:** https://www.canva.com/d/tUtFBxDZ5In2fyZ
-- **View URL:** https://www.canva.com/d/KME90NeWC_bpwrX
 - **Date:** Feb 2025
 
 ## Learning Objectives

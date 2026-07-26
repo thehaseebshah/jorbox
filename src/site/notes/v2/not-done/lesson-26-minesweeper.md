@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 26 — Minesweeper
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3SXnCqc`
-- **Edit URL:** https://www.canva.com/d/kRbn1I69BNMlsGE
-- **View URL:** https://www.canva.com/d/iAIBsf0KL7AfX_A
 - **Date:** Feb 2025
 
 ## Learning Objectives

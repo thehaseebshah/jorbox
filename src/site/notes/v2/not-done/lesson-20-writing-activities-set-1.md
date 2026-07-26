@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 20 — Writing Activities Set 1
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3SLVN-4`
-- **Edit URL:** https://www.canva.com/d/E9CpQbtOIGb6ujG
-- **View URL:** https://www.canva.com/d/aDmqEo-IeaaK97J
 - **Date:** Feb 2025
 
 ## Learning Objectives

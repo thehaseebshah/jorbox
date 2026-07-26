@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 22 — Declamation
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3dtKCdI`
-- **Edit URL:** https://www.canva.com/d/c4ZKYYhjxPHHxFC
-- **View URL:** https://www.canva.com/d/ItCy_NEb69rw2uv
 - **Date:** July 2026
 
 > ⚠️ Note: Canva design is titled "SHB-SKILLS Lesson 22" but the document content references "Lesson 19 Plan". Treating the folder name as canonical.

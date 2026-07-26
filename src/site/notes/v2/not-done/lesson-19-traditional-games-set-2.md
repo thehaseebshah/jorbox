@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 19 — Traditional Games Set 2
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3XNbccI`
-- **Edit URL:** https://www.canva.com/d/6xtryPS9B5cuUXj
-- **View URL:** https://www.canva.com/d/vizbIoFunVjD0SZ
 - **Date:** Feb 2025
 
 ## Learning Objectives

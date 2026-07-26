@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 31 — Shabab Showdown
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3RsZWuo`
-- **Edit URL:** https://www.canva.com/d/erxuHSQ0w48hEHj
-- **View URL:** https://www.canva.com/d/Uvy5qpwt55ybyW4
 - **Date:** Feb 2025
 
 ## Learning Objectives

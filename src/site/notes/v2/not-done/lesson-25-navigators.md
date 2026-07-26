@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 25 — Navigators
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3cIrw20`
-- **Edit URL:** https://www.canva.com/d/hEboXpYxYFlki30
-- **View URL:** https://www.canva.com/d/3qoHaw2SYbrQoNq
 - **Date:** Feb 2025
 
 ## Learning Objectives

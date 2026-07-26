@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 11 — Adrenaline Arena
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3VaX7Dc`
-- **Edit URL:** https://www.canva.com/d/8dNx4MZdhbySkgB
-- **View URL:** https://www.canva.com/d/PT_Ohb43iSpnhQL
 - **Date:** Feb 2025
 
 ## Learning Objectives

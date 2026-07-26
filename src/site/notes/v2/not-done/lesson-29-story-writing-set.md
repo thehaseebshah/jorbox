@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 29 — Story Writing Set
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3Rpi_AI`
-- **Edit URL:** https://www.canva.com/d/24ARel47YDfgurO
-- **View URL:** https://www.canva.com/d/eXChgxoqPyde0Ek
 - **Date:** July 2026
 
 > ⚠️ Note: Canva design title is "SHB-SKILLS Lesson 29" but the document content references "Lesson 18 Plan". Using the folder title as canonical.

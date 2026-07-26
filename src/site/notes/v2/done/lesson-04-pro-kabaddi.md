@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 04 — Pro Kabaddi
 
 - **Folder:** New Lessons / Done
-- **Design ID:** `DAHL3cHflZ8`
-- **Edit URL:** https://www.canva.com/d/FGHCXcrZPWhMf-k
-- **View URL:** https://www.canva.com/d/SbckaKBkkDJqYSZ
 - **Date:** Feb 2025
 
 ## Learning Objectives

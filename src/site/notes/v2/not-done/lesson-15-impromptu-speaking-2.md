@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 15 — Impromptu Speaking 2
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3eoy-o8`
-- **Edit URL:** https://www.canva.com/d/S2ZLqbz1CW-_eim
-- **View URL:** https://www.canva.com/d/X-31M7bAggDFl2S
 - **Date:** July 2026
 
 ## Learning Objectives

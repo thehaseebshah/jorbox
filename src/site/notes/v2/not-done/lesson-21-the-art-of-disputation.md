@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 21 — The Art of Disputation
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3ZLC514`
-- **Edit URL:** https://www.canva.com/d/TMPY1VG8300XU5k
-- **View URL:** https://www.canva.com/d/Z7w74lxg3-wYLB0
 - **Date:** Feb 2025
 
 ## Learning Objectives

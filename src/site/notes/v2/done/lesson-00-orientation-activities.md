@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 00 — Orientation Activities
 
 - **Folder:** New Lessons / Done
-- **Design ID:** `DAHL3aH5F3I`
-- **Edit URL:** https://www.canva.com/d/AcvlATLWPRd9z40
-- **View URL:** https://www.canva.com/d/RS3L2XEcz_ypDue
 - **Date:** July 2026
 
 ## Learning Objectives

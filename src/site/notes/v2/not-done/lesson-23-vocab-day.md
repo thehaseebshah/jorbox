@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 23 — Vocab Day
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3eZ86Mw`
-- **Edit URL:** https://www.canva.com/d/1BDEbjYnsejxUsN
-- **View URL:** https://www.canva.com/d/ff7pzeea4i4UnOe
 - **Date:** Feb 2025
 
 ## Learning Objectives

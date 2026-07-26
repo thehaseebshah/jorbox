@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 07 — Conflict Zone (July 2026)
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3VuWnzs`
-- **Edit URL:** https://www.canva.com/d/uGP3XF3s2hENh9v
-- **View URL:** https://www.canva.com/d/1G9b9YWhC5WJQgM
 - **Date:** July 2026
 
 ## Learning Objectives

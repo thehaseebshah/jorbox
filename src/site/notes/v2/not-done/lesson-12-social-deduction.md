@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 12 — Social Deduction
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3dizilM`
-- **Edit URL:** https://www.canva.com/d/3bXjaDIWJHXGG7W
-- **View URL:** https://www.canva.com/d/e63bqLsskJboupS
 - **Date:** Feb 2025
 
 ## Learning Objectives

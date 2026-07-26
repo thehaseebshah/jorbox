@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 28 — Time Blocking and Planning
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3YQC5xo`
-- **Edit URL:** https://www.canva.com/d/psDzgplxA0t36Ye
-- **View URL:** https://www.canva.com/d/Jzd6GF0mCRaScNI
 - **Date:** Feb 2025
 
 > ⚠️ Note: Canva design title is "Lesson 28" but content is titled "Lesson Plan Muscle Power". Using folder name as canonical; muscle-power body content appears to be a residual header.

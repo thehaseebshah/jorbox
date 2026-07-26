@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 05 — Blindfold Challenges (Feb 2025)
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3fql-JI`
-- **Edit URL:** https://www.canva.com/d/NgUiGHFUEcZTGwx
-- **View URL:** https://www.canva.com/d/AV0Fw-NCrl1DAh9
 - **Date:** Feb 2025
 
 ## Learning Objectives

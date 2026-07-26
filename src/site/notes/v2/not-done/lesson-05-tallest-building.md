@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 05 — Tallest Building (July 2026)
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3QM7tgk`
-- **Edit URL:** https://www.canva.com/d/k4TG-9CKwzO0MDd
-- **View URL:** https://www.canva.com/d/PervDC9hxHuMgaM
 - **Date:** July 2026
 
 ## Learning Objectives

@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 03 — Race Day
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3Xg4f70`
-- **Edit URL:** https://www.canva.com/d/0RT4YYRg7RyGXz3
-- **View URL:** https://www.canva.com/d/O3LGkTMvM_WtBHx
 - **Date:** July 2026
 
 ## Learning Objectives

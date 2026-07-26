@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 04 — Cooking Challenge
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3QHnMkI`
-- **Edit URL:** https://www.canva.com/d/hBxLCPHbpcsuNeT
-- **View URL:** https://www.canva.com/d/vJoh3DdBRc3gkog
 - **Date:** July 2026
 
 ## Learning Objectives

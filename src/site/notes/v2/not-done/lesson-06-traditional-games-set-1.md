@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 06 — Traditional Games Set 1
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3atvmII`
-- **Edit URL:** https://www.canva.com/d/b33ZtSh_3mwEDOr
-- **View URL:** https://www.canva.com/d/UDY27uPef4Dejwr
 - **Date:** July 2026
 
 ## Learning Objectives

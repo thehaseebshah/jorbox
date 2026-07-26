@@ -5,9 +5,6 @@ dg-publish: true
 # Lesson 24 — Journaling and Mindfulness
 
 - **Folder:** New Lessons / Not Done
-- **Design ID:** `DAHL3U-ERxk`
-- **Edit URL:** https://www.canva.com/d/fn-InQNX5GB6tyU
-- **View URL:** https://www.canva.com/d/HkjhFpUdJ5DPO1k
 - **Date:** Feb 2025
 
 ## Learning Objectives
