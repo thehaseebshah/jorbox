@@ -6,12 +6,12 @@ final: false
 
 # Telestrations
 
-> [!info] Learning Objectives
-> Listening skills · Clear communication · Memory and recall · Attention to detail · Creativity & imagination · Abstract thinking · Light-hearted bonding · Adab and tarbiyah · Reflection on information distortion · Appreciation of precision in speech.
+- **Date:** Feb 2025
+
+## Learning Objectives
+
+Listening skills, Clear communication, Memory and recall, Attention to detail, Creativity and imagination, Abstract thinking, Humor and light-hearted bonding, Adab and tarbiyah, Interpersonal awareness, Reflection on information distortion, Appreciation of precision in speech, Emotional intelligence.
 
 ## Activity 1 — Telestrations
 
 Video instructions are [here](https://www.canva.com/design/DAGrcS8RrKM/qUsIzPHhy2-3930s6rID-g/watch).
-
-> [!tip] Activity Takeaway
-> Demonstrates how messages get distorted when passed along without verification (*Tabayyun*), highlighting the Quranic principle of verifying information.
