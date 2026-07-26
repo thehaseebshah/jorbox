@@ -983,6 +983,10 @@ a:not(.header-logo-link):hover, a.internal-link:not(.header-logo-link):hover, .c
     text-shadow: 0 0 14px rgba(254, 1, 9, 0.7), 0 0 22px rgba(126, 34, 206, 0.6) !important;
 }
 
+main.content a.external-link {
+    padding-right: 0 !important;
+}
+
 a.is-unresolved {
     color: var(--jb-text-muted) !important;
     opacity: 0.75 !important;
