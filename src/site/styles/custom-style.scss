@@ -286,7 +286,7 @@ a.header-logo-link:focus,
     display: inline-flex;
     align-items: center;
     gap: 0.65rem;
-    transform-origin: left center;
+    transform-origin: center;
     transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
