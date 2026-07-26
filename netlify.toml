@@ -4,10 +4,10 @@
 
 [build.environment]
   dgEnableSearch = "true"
-  dgShowFileTree = "true"
-  dgShowToc = "true"
-  dgShowBacklinks = "true"
-  dgShowLocalGraph = "true"
+  dgShowFileTree = "false"
+  dgShowToc = "false"
+  dgShowBacklinks = "false"
+  dgShowLocalGraph = "false"
   dgLinkPreview = "true"
   dgShowTags = "true"
   dgShowInlineTitle = "true"
