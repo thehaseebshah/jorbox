@@ -37,6 +37,16 @@ final: false
 > [!warning] A "Double Blind" Setup & Fog of War
 > Each player's table only shows their own unit positions. The Umpire's master map shows everything. This creates the true **Fog of War** — uncertainty and incomplete battlefield information.
 
+```text
++----------------------------------------------------------------+
+|                     DOUBLE BLIND MAP SETUP                     |
++----------------------------------------------------------------+
+| [ BLUE PLAYER TABLE ]   [ UMPIRE MASTER MAP ]   [ RED PLAYER ] |
+| Sees only Blue units    Sees EVERYTHING         Sees only Red  |
+| & reported intelligence (True State of Battle)  intelligence   |
++----------------------------------------------------------------+
+```
+
 ## 3. Setting the Stage: Your Mission
 
 > [!important] Historical Battles & Scenarios
@@ -46,4 +56,15 @@ final: false
 
 ## 4. The Rhythm of the Game: The Umpire's Cadence
 
-The core gameplay loop is a four-step framework: **Report → Orders → Movement → Combat Resolution**.
+The core gameplay loop is a four-step framework:
+
+```text
++-----------------------------------------------------------------+
+|                      THE UMPIRE'S CADENCE                       |
++-----------------------------------------------------------------+
+| Step 1: THE REPORT   --> Umpire provides field vision to players|
+| Step 2: THE ORDERS   --> Commanders issue written unit movement |
+| Step 3: MOVEMENT     --> Umpire moves pieces on master map      |
+| Step 4: COMBAT       --> Umpire evaluates and resolves clashes   |
++-----------------------------------------------------------------+
+```
