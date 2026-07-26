@@ -1,7 +1,8 @@
-<div class="search-button align-icon" onclick="toggleSearch()">
-    <span class="search-icon">
-        <i data-lucide="search"></i>
-    </span>
+<button class="search-button header-search-trigger" type="button" onclick="toggleSearch()" aria-label="Search the Shabab blog" aria-keyshortcuts="Control+K Meta+K">
+    <svg class="search-icon" aria-hidden="true" viewBox="0 0 24 24" fill="none">
+        <circle cx="11" cy="11" r="6.5"></circle>
+        <path d="m16 16 4 4"></path>
+    </svg>
     <span class="search-text">{{ meta.uiStrings.searchButtonText }}</span>
-    <span class="search-keys">Ctrl + K</span>
-</div>
+    <kbd class="search-keys">⌘ K</kbd>
+</button>

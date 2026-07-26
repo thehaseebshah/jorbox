@@ -1,9 +1,9 @@
 {%if settings.dgHomeLink === true%}
     <nav class="navbar">
         <div class="navbar-inner">
-            <a href="/" class="header-logo-link" style="text-decoration: none; display: flex; align-items: center; gap: 0.75rem;">
-                <img class="header-logo-icon" src="/img/logo-icon.png" alt="{{meta.siteName}} Icon" style="height: 38px; width: 38px; object-fit: contain; filter: drop-shadow(0 2px 10px rgba(126, 34, 206, 0.6));">
-                <img class="header-logo-text" src="/img/logo-text.png" alt="{{meta.siteName}}" style="height: 26px; width: auto; object-fit: contain;">
+            <a href="/" class="header-logo-link" aria-label="{{ meta.siteName }} home">
+                <img class="header-logo-icon" src="/img/logo-icon.png" alt="">
+                <img class="header-logo-text" src="/img/logo-text.png" alt="{{ meta.siteName }}">
             </a>
         </div>
         <div class="navbar-actions">

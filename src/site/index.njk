@@ -34,9 +34,9 @@ eleventyExcludeFromCollections: true
 
         <header class="home-header" data-home-header>
             <nav class="home-nav" aria-label="Primary navigation">
-                <a class="home-brand" href="/" aria-label="Shabab home">
-                    <img class="home-brand__icon" src="/img/logo-icon.png" alt="">
-                    <img class="home-brand__wordmark" src="/img/logo-text.png" alt="Shabab">
+                <a class="home-brand header-logo-link" href="/" aria-label="Shabab home">
+                    <img class="home-brand__icon header-logo-icon" src="/img/logo-icon.png" alt="">
+                    <img class="home-brand__wordmark header-logo-text" src="/img/logo-text.png" alt="Shabab">
                 </a>
 
                 <div class="home-nav__mobile-controls">
@@ -54,14 +54,7 @@ eleventyExcludeFromCollections: true
                         <a href="#journey">The journey</a>
                     </div>
                     <div class="home-nav__actions">
-                        <button class="home-search-trigger" type="button" onclick="toggleSearch()" aria-label="Search the Shabab blog">
-                            <svg aria-hidden="true" viewBox="0 0 24 24" fill="none">
-                                <circle cx="11" cy="11" r="6.5"></circle>
-                                <path d="m16 16 4 4"></path>
-                            </svg>
-                            <span>Search</span>
-                            <kbd>⌘ K</kbd>
-                        </button>
+                        {% include "components/searchButton.njk" %}
                         {% include "components/themeToggle.njk" %}
                         <a class="home-nav__cta" href="https://abn.org/shabab">
                             Join Shabab
@@ -96,12 +89,12 @@ eleventyExcludeFromCollections: true
                             <span aria-hidden="true">↓</span>
                         </a>
                     </div>
-                    <div class="home-hero__promise" aria-label="Shabab values">
+                    <div class="home-hero__promise" aria-label="Shabab outcomes">
                         <span>Confidence</span>
                         <i aria-hidden="true"></i>
-                        <span>Character</span>
-                        <i aria-hidden="true"></i>
                         <span>Capability</span>
+                        <i aria-hidden="true"></i>
+                        <span>Connection</span>
                     </div>
                 </div>
 
@@ -109,8 +102,6 @@ eleventyExcludeFromCollections: true
                     <div class="home-formation__halo home-formation__halo--outer" aria-hidden="true"></div>
                     <div class="home-formation__halo home-formation__halo--middle" aria-hidden="true"></div>
                     <div class="home-formation__route" aria-hidden="true"></div>
-                    <span class="home-formation__coordinate home-formation__coordinate--top" aria-hidden="true">TRY / LEARN / GROW</span>
-                    <span class="home-formation__coordinate home-formation__coordinate--side" aria-hidden="true">ALWAYS IN MOTION</span>
 
                     <div class="home-formation__core">
                         <span class="home-formation__core-glow" aria-hidden="true"></span>
@@ -139,7 +130,6 @@ eleventyExcludeFromCollections: true
                         </div>
                     </article>
 
-                    <p class="home-formation__caption"><span>The Shabab experience</span> Skills · Challenge · Community</p>
                 </div>
 
                 <a class="home-scroll-cue" href="#mission" aria-label="Scroll to the mission">
@@ -361,7 +351,7 @@ eleventyExcludeFromCollections: true
                 <img class="home-brand__icon" src="/img/logo-icon.png" alt="">
                 <img class="home-brand__wordmark" src="/img/logo-text.png" alt="Shabab">
             </a>
-            <p>Confidence. Character. Capability.</p>
+            <p>Confidence. Capability. Connection.</p>
             <div class="home-footer__links">
                 <a href="#mission">Mission</a>
                 <a href="#journey">Journey</a>
