@@ -176,24 +176,23 @@ body {
 
 
 
-/* Custom Shabab Gradient Scrollbars (Balanced Contrast Track & Thumb) */
+/* Custom Quiet Slate Scrollbars */
 ::-webkit-scrollbar {
     width: 5px;
     height: 5px;
 }
 ::-webkit-scrollbar-track {
-    background: rgba(255, 255, 255, 0.05);
+    background: rgba(255, 255, 255, 0.03);
     border-radius: var(--jb-radius-pill);
 }
 ::-webkit-scrollbar-thumb {
-    background: linear-gradient(180deg, rgba(168, 85, 247, 0.55) 0%, rgba(126, 34, 206, 0.55) 60%, rgba(254, 1, 9, 0.85) 100%) !important;
+    background: rgba(255, 255, 255, 0.22) !important;
     border-radius: var(--jb-radius-pill) !important;
     border: none !important;
-    box-shadow: 0 0 6px rgba(168, 85, 247, 0.25), 0 2px 6px rgba(254, 1, 9, 0.4);
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: linear-gradient(180deg, #c084fc 0%, #a855f7 50%, #fe0109 100%) !important;
-    box-shadow: 0 0 10px rgba(168, 85, 247, 0.6), 0 4px 14px rgba(254, 1, 9, 0.9);
+    background: rgba(255, 255, 255, 0.45) !important;
+    box-shadow: 0 0 8px rgba(255, 255, 255, 0.3);
 }
 
 /* Text Selection Highlight (Shabab Royal Purple) */
@@ -343,7 +342,7 @@ main.content {
     box-sizing: border-box;
 }
 
-/* Headings - h1 Shabab Rectangular Oval Strip Frame (Pure Outline Ring) */
+/* Headings - h1 Quiet Slate Glass Capsule Frame */
 main.content h1,
 header h1,
 .cm-s-obsidian h1 {
@@ -360,50 +359,19 @@ header h1,
     position: relative !important;
     padding: 0.75rem 1.8rem !important;
     border-radius: var(--jb-radius-pill) !important;
-    background: rgba(12, 10, 24, 0.22) !important;
+    background: rgba(255, 255, 255, 0.04) !important;
     backdrop-filter: blur(12px) !important;
     -webkit-backdrop-filter: blur(12px) !important;
+    border: 1.5px solid rgba(255, 255, 255, 0.16) !important;
+    box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5), inset 0 1px 1px rgba(255, 255, 255, 0.15) !important;
     animation: h1CapsuleEntrance 0.75s cubic-bezier(0.16, 1, 0.3, 1) forwards !important;
     word-break: break-word !important;
-}
-
-@property --border-angle {
-    syntax: "<angle>";
-    inherits: false;
-    initial-value: 0deg;
 }
 
 main.content h1::before,
 header h1::before,
 .cm-s-obsidian h1::before {
-    content: "" !important;
-    position: absolute !important;
-    inset: 0 !important;
-    border-radius: var(--jb-radius-pill) !important;
-    padding: 5.5px !important;
-    background: conic-gradient(
-        from var(--border-angle),
-        #fe0109 0%,
-        #a855f7 35%,
-        #22017e 70%,
-        #fe0109 100%
-    ) !important;
-    opacity: 0.3 !important;
-    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0) !important;
-    -webkit-mask-composite: xor !important;
-    mask-composite: exclude !important;
-    pointer-events: none !important;
-    box-shadow: 0 0 10px rgba(254, 1, 9, 0.2), 0 0 18px rgba(126, 34, 206, 0.15) !important;
-    animation: rotateConveyorBorder 3.5s linear infinite !important;
-}
-
-@keyframes rotateConveyorBorder {
-    0% {
-        --border-angle: 0deg;
-    }
-    100% {
-        --border-angle: 360deg;
-    }
+    display: none !important;
 }
 
 @keyframes h1CapsuleEntrance {
