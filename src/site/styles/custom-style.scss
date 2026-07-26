@@ -351,7 +351,7 @@ main.content {
     box-sizing: border-box;
 }
 
-/* Headings - h1 Shabab Rectangular Oval Strip Frame (Outline Only) */
+/* Headings - h1 Shabab Rectangular Oval Strip Frame (Pure Outline Ring) */
 main.content h1,
 header h1,
 .cm-s-obsidian h1 {
@@ -366,16 +366,24 @@ header h1,
     position: relative !important;
     padding: 0.65rem 2rem !important;
     border-radius: var(--jb-radius-pill) !important;
-    background-color: rgba(12, 10, 24, 0.15) !important;
-    backdrop-filter: blur(16px) !important;
-    -webkit-backdrop-filter: blur(16px) !important;
-    border: 3.5px solid transparent !important;
-    background-image: linear-gradient(rgba(12, 10, 24, 0.15), rgba(12, 10, 24, 0.15)), 
-                      linear-gradient(90deg, #fe0109 0%, #7e22ce 50%, #22017e 100%) !important;
-    background-origin: border-box !important;
-    background-clip: padding-box, border-box !important;
-    box-shadow: 0 0 25px rgba(254, 1, 9, 0.4), 0 0 45px rgba(126, 34, 206, 0.3) !important;
+    background: transparent !important;
     animation: h1CapsuleEntrance 0.75s cubic-bezier(0.16, 1, 0.3, 1) forwards !important;
+}
+
+main.content h1::before,
+header h1::before,
+.cm-s-obsidian h1::before {
+    content: "" !important;
+    position: absolute !important;
+    inset: 0 !important;
+    border-radius: var(--jb-radius-pill) !important;
+    padding: 3.5px !important;
+    background: linear-gradient(90deg, #fe0109 0%, #7e22ce 50%, #22017e 100%) !important;
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0) !important;
+    -webkit-mask-composite: xor !important;
+    mask-composite: exclude !important;
+    pointer-events: none !important;
+    box-shadow: 0 0 20px rgba(254, 1, 9, 0.4), 0 0 35px rgba(126, 34, 206, 0.3) !important;
 }
 
 @keyframes h1CapsuleEntrance {
