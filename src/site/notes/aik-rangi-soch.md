@@ -25,3 +25,7 @@ tried: false
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)
 - Can be handmade
+
+### Reference
+
+Watch: https://www.youtube.com/watch?v=4ulLmUQ7omU
