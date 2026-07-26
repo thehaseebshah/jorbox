@@ -5,7 +5,6 @@ lesson-batch: "July 2026"
 
 # Lesson 02 — Communication Hindrances (July 2026)
 
-- **Folder:** New Lessons / Done
 
 ## Learning Objectives
 

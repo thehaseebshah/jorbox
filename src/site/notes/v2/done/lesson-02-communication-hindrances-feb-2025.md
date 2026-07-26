@@ -5,7 +5,6 @@ lesson-batch: "Feb 2025"
 
 # Lesson 02 — Communication Hindrances (Feb 2025)
 
-- **Folder:** New Lessons / Done
 
 *Earlier version of Lesson 02 — same structure as the July 2026 update.*
 

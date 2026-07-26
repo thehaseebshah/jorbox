@@ -5,7 +5,6 @@ lesson-batch: "July 2026"
 
 # Lesson 06 — Traditional Games Set 1
 
-- **Folder:** New Lessons / Not Done
 
 ## Learning Objectives
 

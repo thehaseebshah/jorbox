@@ -5,7 +5,6 @@ lesson-batch: "Feb 2025"
 
 # Lesson 30 — Hands of Ihsan
 
-- **Folder:** New Lessons / Not Done
 
 ## Learning Objectives
 

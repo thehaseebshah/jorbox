@@ -5,7 +5,6 @@ lesson-batch: "July 2026"
 
 # Lesson 05 — Tallest Building (July 2026)
 
-- **Folder:** New Lessons / Not Done
 
 ## Learning Objectives
 

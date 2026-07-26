@@ -5,7 +5,6 @@ lesson-batch: "Feb 2025"
 
 # Lesson 28 — Time Blocking and Planning
 
-- **Folder:** New Lessons / Not Done
 
 > ⚠️ Note: Canva design title is "Lesson 28" but content is titled "Lesson Plan Muscle Power". Using folder name as canonical; muscle-power body content appears to be a residual header.
 

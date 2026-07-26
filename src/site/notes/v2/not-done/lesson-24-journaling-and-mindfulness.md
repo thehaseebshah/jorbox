@@ -5,7 +5,6 @@ lesson-batch: "Feb 2025"
 
 # Lesson 24 — Journaling and Mindfulness
 
-- **Folder:** New Lessons / Not Done
 
 ## Learning Objectives
 

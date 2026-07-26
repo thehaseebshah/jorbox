@@ -5,7 +5,6 @@ lesson-batch: "Feb 2025"
 
 # Lesson 27 — Muscle Power
 
-- **Folder:** New Lessons / Not Done
 
 ## Learning Objectives
 

@@ -5,7 +5,6 @@ lesson-batch: "Feb 2025"
 
 # Lesson 08 — Survival Skills Set
 
-- **Folder:** New Lessons / Not Done
 
 ## Learning Objectives
 

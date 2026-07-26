@@ -5,7 +5,6 @@ lesson-batch: "July 2026"
 
 # Lesson 15 — Impromptu Speaking 2
 
-- **Folder:** New Lessons / Not Done
 
 ## Learning Objectives
 

@@ -5,7 +5,6 @@ lesson-batch: "Feb 2025"
 
 # Lesson 12 — Social Deduction
 
-- **Folder:** New Lessons / Not Done
 
 ## Learning Objectives
 

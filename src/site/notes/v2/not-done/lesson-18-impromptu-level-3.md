@@ -5,7 +5,6 @@ lesson-batch: "Feb 2025"
 
 # Lesson 18 — Impromptu Level 3
 
-- **Folder:** New Lessons / Not Done
 
 ## Learning Objectives
 

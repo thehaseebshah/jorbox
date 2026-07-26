@@ -5,7 +5,6 @@ lesson-batch: "Feb 2025"
 
 # Lesson 25 — Navigators
 
-- **Folder:** New Lessons / Not Done
 
 ## Learning Objectives
 

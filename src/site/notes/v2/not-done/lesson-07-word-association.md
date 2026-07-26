@@ -5,7 +5,6 @@ lesson-batch: "Feb 2025"
 
 # Lesson 07 — Word Association (Feb 2025)
 
-- **Folder:** New Lessons / Not Done
 
 ## Learning Objectives
 

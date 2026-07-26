@@ -5,7 +5,6 @@ lesson-batch: "Feb 2025"
 
 # Lesson 34 — 4 on a Bench
 
-- **Folder:** New Lessons / Not Done
 
 ## Learning Objectives
 

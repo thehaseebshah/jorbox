@@ -5,7 +5,6 @@ lesson-batch: "Feb 2025"
 
 # Lesson 04 — Pro Kabaddi
 
-- **Folder:** New Lessons / Done
 
 ## Learning Objectives
 

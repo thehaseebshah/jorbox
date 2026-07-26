@@ -5,7 +5,6 @@ lesson-batch: "Feb 2025"
 
 # Lesson 20 — Writing Activities Set 1
 
-- **Folder:** New Lessons / Not Done
 
 ## Learning Objectives
 

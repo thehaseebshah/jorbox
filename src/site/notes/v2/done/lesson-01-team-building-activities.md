@@ -5,7 +5,6 @@ lesson-batch: "July 2026"
 
 # Lesson 01 — Team Building Activities
 
-- **Folder:** New Lessons / Done
 
 ## Learning Objectives
 

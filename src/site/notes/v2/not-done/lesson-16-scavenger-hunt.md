@@ -5,7 +5,6 @@ lesson-batch: "July 2026"
 
 # Lesson 16 — Scavenger Hunt
 
-- **Folder:** New Lessons / Not Done
 
 ## Learning Objectives
 
