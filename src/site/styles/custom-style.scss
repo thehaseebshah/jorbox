@@ -536,36 +536,23 @@ main.content header::after {
    OPTION 6: GLASS CALLOUT TILES WITH PULSING ICONS
    -------------------------------------------------------------------------- */
 .glass-callout-enhanced {
-    background: rgba(255, 255, 255, 0.035) !important;
+    background: rgba(255, 255, 255, 0.03) !important;
     backdrop-filter: blur(14px) !important;
     -webkit-backdrop-filter: blur(14px) !important;
-    border: 1px solid rgba(var(--callout-glow-rgb, 255, 255, 255), 0.18) !important;
-    border-left: 3px solid rgba(var(--callout-glow-rgb, 255, 255, 255), 0.55) !important;
+    border: 1px solid rgba(var(--callout-glow-rgb, 148, 163, 184), 0.12) !important;
+    border-left: 3px solid rgba(var(--callout-glow-rgb, 148, 163, 184), 0.4) !important;
     border-radius: 14px !important;
     padding: 1.2rem 1.5rem !important;
     margin: 1.5rem 0 !important;
-    box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5),
-                inset 0 1px 1px rgba(255, 255, 255, 0.08),
-                0 0 18px rgba(var(--callout-glow-rgb, 255, 255, 255), 0.08) !important;
+    box-shadow: 0 8px 24px -8px rgba(0, 0, 0, 0.4),
+                inset 0 1px 1px rgba(255, 255, 255, 0.06) !important;
     transition: border-color 0.3s ease, box-shadow 0.3s ease !important;
 }
 
 .glass-callout-enhanced:hover {
-    border-left-color: rgba(var(--callout-glow-rgb, 255, 255, 255), 0.85) !important;
-    box-shadow: 0 14px 35px -10px rgba(0, 0, 0, 0.6),
-                inset 0 1px 1px rgba(255, 255, 255, 0.1),
-                0 0 25px rgba(var(--callout-glow-rgb, 255, 255, 255), 0.15) !important;
-}
-
-.callout-pulse-icon {
-    display: inline-block;
-    margin-right: 0.5rem;
-    animation: pulseIcon 2.5s ease-in-out infinite;
-}
-
-@keyframes pulseIcon {
-    0%, 100% { transform: scale(1); opacity: 1; }
-    50% { transform: scale(1.2); opacity: 0.75; }
+    border-left-color: rgba(var(--callout-glow-rgb, 148, 163, 184), 0.65) !important;
+    box-shadow: 0 10px 30px -8px rgba(0, 0, 0, 0.5),
+                inset 0 1px 1px rgba(255, 255, 255, 0.08) !important;
 }
 
 /* --------------------------------------------------------------------------
