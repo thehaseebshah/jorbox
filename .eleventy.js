@@ -64,7 +64,10 @@ function getAnchorAttributes(filePath, linkTitle) {
 
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
   const title = linkTitle ? linkTitle : fileName;
-  let permalink = `/notes/${slugify(fileName)}`;
+  const fileSlug = fileName.replace(/\.(md|canvas)$/i, "");
+  let permalink = /^\d+$/.test(fileSlug)
+    ? `/${fileSlug}/`
+    : `/notes/${slugify(fileName)}`;
   let deadLink = false;
   try {
     const startPath = "./src/site/notes/";

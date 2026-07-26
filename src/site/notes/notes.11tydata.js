@@ -15,6 +15,9 @@ module.exports = {
       if (data.tags.indexOf("gardenEntry") != -1) {
         return "/";
       }
+      if (/^\d+$/.test(data.page.fileSlug)) {
+        return `/${data.page.fileSlug}/`;
+      }
       return data.permalink || undefined;
     },
     basesNotes: (data) => {
