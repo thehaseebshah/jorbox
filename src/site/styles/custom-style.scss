@@ -197,10 +197,14 @@ body::before {
     box-shadow: 0 0 14px rgba(254, 1, 9, 0.8);
 }
 
-/* Selection Highlight */
+/* Text Selection Highlight (Shabab Royal Purple) */
 ::selection {
-    background: var(--jb-crimson);
-    color: var(--jb-white);
+    background: #7e22ce !important;
+    color: #ffffff !important;
+}
+::-moz-selection {
+    background: #7e22ce !important;
+    color: #ffffff !important;
 }
 
 /* --------------------------------------------------------------------------
