@@ -5,20 +5,17 @@ import { describe, expect, it } from "vitest";
 const projectRoot = resolve(import.meta.dirname, "../../..");
 const readProjectFile = (path) => readFileSync(resolve(projectRoot, path), "utf8");
 
-describe("public content boundary", () => {
-  it("excludes internal notes from Eleventy", () => {
-    const ignoredPaths = readProjectFile(".eleventyignore")
-      .split(/\r?\n/)
-      .map((line) => line.trim());
-
-    expect(ignoredPaths).toContain("src/site/notes/");
-  });
-
-  it("builds search results from blog posts only", () => {
+describe("public content boundary & protected search", () => {
+  it("includes notes in search template", () => {
     const searchTemplate = readProjectFile("src/site/search-index.njk");
 
-    expect(searchTemplate).toContain("collections.blog");
-    expect(searchTemplate).not.toContain("collections.note");
+    expect(searchTemplate).toContain("collections.note");
+  });
+
+  it("includes lock button component in navbar", () => {
+    const navbar = readProjectFile("src/site/_includes/components/navbar.njk");
+
+    expect(navbar).toContain("components/lockButton.njk");
   });
 
   it("does not promote internal content on the homepage", () => {

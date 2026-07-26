@@ -6,7 +6,68 @@
     // Preview content cache
     const previewCache = new Map();
 
+    // ===== Lock / Unlock =====
+
+    const LOCK_HASH = 'dcf290bc77ed52d00e9e4ba032efb1adc63a881c3802a2e4bd5bc44b6abb76cc';
+
+    async function sha256(message) {
+        const msgBuffer = new TextEncoder().encode(message);
+        const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
+        const hashArray = Array.from(new Uint8Array(hashBuffer));
+        return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+    }
+
+    function isUnlocked() {
+        return sessionStorage.getItem('shabab-unlocked') === '1';
+    }
+
+    function updateLockUI() {
+        const unlocked = isUnlocked();
+        document.querySelectorAll('.lock-toggle').forEach(btn => {
+            btn.classList.toggle('is-unlocked', unlocked);
+            btn.setAttribute('aria-label', unlocked ? 'Lock search' : 'Unlock search');
+            btn.setAttribute('title', unlocked ? 'Lock search' : 'Unlock search');
+        });
+    }
+
+    async function handleLockToggle() {
+        if (isUnlocked()) {
+            // Re-lock: clear state, wipe index
+            sessionStorage.removeItem('shabab-unlocked');
+            window.docs = [];
+            window.index = createIndex([]);
+            updateLockUI();
+            return;
+        }
+
+        const password = prompt('Enter password to unlock search:');
+        if (!password) return;
+
+        const hash = await sha256(password);
+        if (hash === LOCK_HASH) {
+            sessionStorage.setItem('shabab-unlocked', '1');
+            updateLockUI();
+            await loadSearchIndex();
+        } else {
+            alert('Incorrect password.');
+        }
+    }
+
+    async function loadSearchIndex() {
+        const docs = await fetch('/searchIndex.json?v={{meta.buildDate|isoDate}}').then(r => r.json());
+        const index = createIndex(docs);
+        window.docs = docs;
+        window.index = index;
+    }
+
+    // ===== Toggle Search =====
+
     window.toggleSearch = function () {
+        if (!isUnlocked()) {
+            handleLockToggle();
+            return;
+        }
+
         const searchContainer = document.getElementById('globalsearch');
         if (searchContainer.classList.contains('active')) {
             searchContainer.classList.remove('active');
@@ -276,11 +337,20 @@
     // ===== Initialization =====
 
     async function init() {
-        // Fetch search index (browser caches based on query param)
-        const docs = await fetch('/searchIndex.json?v={{meta.buildDate|isoDate}}').then(r => r.json());
-        const index = createIndex(docs);
-        window.docs = docs;
-        window.index = index;
+        // Start with empty index — only populated after unlock
+        window.docs = [];
+        window.index = createIndex([]);
+
+        // Wire up lock buttons
+        document.querySelectorAll('[data-lock-toggle]').forEach(btn => {
+            btn.addEventListener('click', handleLockToggle);
+        });
+        updateLockUI();
+
+        // If already unlocked from this session, load the index now
+        if (isUnlocked()) {
+            await loadSearchIndex();
+        }
 
         // Keyboard shortcuts
         document.addEventListener('keydown', (e) => {
