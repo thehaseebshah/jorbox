@@ -138,6 +138,15 @@ aside, .sidebar, .filetree, .toc, .backlinks, .graph-outer, main.content > heade
     display: none !important;
 }
 
+/* Global Product Sans Enforcement */
+body, p, li, h1, h2, h3, h4, h5, h6, input, button, textarea, a, span, div, .content, .cm-s-obsidian {
+    font-family: "Product Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+}
+
+code, pre, pre *, code * {
+    font-family: var(--font-monospace) !important;
+}
+
 /* --------------------------------------------------------------------------
    4. BASE RESET & ROYAL VIOLET ATMOSPHERE
    -------------------------------------------------------------------------- */
