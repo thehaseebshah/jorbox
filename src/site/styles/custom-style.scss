@@ -226,8 +226,26 @@ body::before {
     box-shadow: 0 20px 50px -10px rgba(0, 0, 0, 0.9) !important;
 }
 
+a.header-logo-link,
+a.header-logo-link:hover,
+a.header-logo-link:focus,
+.navbar-inner a,
+.navbar-inner a:hover {
+    text-decoration: none !important;
+    background: none !important;
+    background-image: none !important;
+    background-size: 0 0 !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    outline: none !important;
+}
+
 .header-logo-link {
     transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    display: inline-flex;
+    align-items: center;
+    gap: 0.65rem;
 }
 
 .header-logo-link:hover {
