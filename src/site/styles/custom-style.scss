@@ -378,11 +378,12 @@ header h1::before,
     border-radius: var(--jb-radius-pill) !important;
     padding: 3.5px !important;
     background: linear-gradient(90deg, #fe0109 0%, #7e22ce 50%, #22017e 100%) !important;
+    opacity: 0.4 !important;
     -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0) !important;
     -webkit-mask-composite: xor !important;
     mask-composite: exclude !important;
     pointer-events: none !important;
-    box-shadow: 0 0 20px rgba(254, 1, 9, 0.4), 0 0 35px rgba(126, 34, 206, 0.3) !important;
+    box-shadow: 0 0 12px rgba(254, 1, 9, 0.25), 0 0 22px rgba(126, 34, 206, 0.2) !important;
 }
 
 @keyframes h1CapsuleEntrance {
