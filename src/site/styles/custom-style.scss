@@ -1,15 +1,11 @@
 /* ==========================================================================
-   JORBOX — ROYAL VIOLET GRADIENT DESIGN SYSTEM
-   Typography: Product Sans
-   Color Palette:
-     - Dominant Royal Violet:  #22017e / #7e22ce
-     - Secondary Crimson Red:  #fe0109
-     - Contrast Highlights:    #ffffff
-     - Deep Surface Base:      #000000
+   SHABAB JORBOX — SOPHISTICATED EXECUTIVE SLATE DESIGN SYSTEM
+   Typography: Product Sans (Global)
+   Design Philosophy: Quiet Luxury, Subtle Elevation & Sophisticated Restraint
    ========================================================================== */
 
 /* --------------------------------------------------------------------------
-   1. FONT DEFINITIONS (PRODUCT SANS)
+   1. FONT DEFINITIONS (PRODUCT SANS FROM GARDEN REPO)
    -------------------------------------------------------------------------- */
 @font-face {
     font-family: "Product Sans";
@@ -43,61 +39,52 @@
     font-display: swap;
 }
 
+/* Global Product Sans Enforcement */
+body, p, li, h1, h2, h3, h4, h5, h6, input, button, textarea, a, span, div, .content, .cm-s-obsidian {
+    font-family: "Product Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+}
+
+code, pre, pre *, code * {
+    font-family: "JetBrains Mono", "Fira Code", "SF Mono", Consolas, monospace !important;
+}
+
 /* --------------------------------------------------------------------------
-   2. ROYAL VIOLET GRADIENT TOKENS
+   2. SOPHISTICATED DESIGN TOKENS (LOW SATURATION, HIGH-CRAFT)
    -------------------------------------------------------------------------- */
 :root {
-    /* User Color Scheme Tokens */
-    --jb-royal: #22017e;
-    --jb-purple: #7e22ce;
-    --jb-violet: #a855f7;
-    --jb-crimson: #fe0109;
-    --jb-white: #ffffff;
-    --jb-black: #000000;
+    /* Refined Low-Saturation Accents */
+    --jb-accent: #6366f1;           /* Muted Indigo Slate */
+    --jb-accent-hover: #818cf8;     /* Soft Indigo Hover */
+    --jb-ruby-subtle: #991b1b;      /* Quiet Deep Ruby */
 
-    /* Primary Accent = Royal Violet */
-    --jb-accent: var(--jb-violet);
-    --jb-accent-hover: #c084fc;
-    --jb-royal-soft: rgba(34, 1, 126, 0.4);
-    --jb-violet-soft: rgba(168, 85, 247, 0.18);
-    --jb-crimson-soft: rgba(254, 1, 9, 0.15);
+    /* Deep Slate Obsidian Surfaces */
+    --jb-bg-0: #070709;
+    --jb-bg-1: #0f0f13;
+    --jb-bg-2: #16161d;
+    --jb-bg-3: #20202a;
+    --jb-bg-glass: rgba(10, 10, 14, 0.85);
 
-    /* Gradients */
-    --jb-gradient-primary: linear-gradient(135deg, #22017e 0%, #7e22ce 50%, #fe0109 100%);
-    --jb-gradient-soft: linear-gradient(135deg, rgba(34, 1, 126, 0.5) 0%, rgba(126, 34, 206, 0.3) 60%, rgba(254, 1, 9, 0.2) 100%);
-    --jb-gradient-text: linear-gradient(135deg, #ffffff 0%, #e9d5ff 45%, #a855f7 75%, #fe0109 100%);
-
-    /* Deep Surface Hierarchy */
-    --jb-bg-0: #000000;
-    --jb-bg-1: #0b021a;
-    --jb-bg-2: #14052e;
-    --jb-bg-3: #210a47;
-    --jb-bg-glass: rgba(0, 0, 0, 0.85);
-    --jb-bg-glass-card: rgba(20, 5, 46, 0.65);
-
-    /* Text Hierarchy */
+    /* Crisp Text Contrast Hierarchy */
     --jb-text-primary: #ffffff;
-    --jb-text-secondary: #e9d5ff;
-    --jb-text-muted: #c084fc;
-    --jb-text-faint: #7e22ce;
+    --jb-text-secondary: #cbd5e1;
+    --jb-text-muted: #94a3b8;
+    --jb-text-faint: #64748b;
 
     /* Micro Borders */
-    --jb-border-subtle: rgba(126, 34, 206, 0.35);
-    --jb-border-medium: rgba(168, 85, 247, 0.45);
-    --jb-border-strong: rgba(254, 1, 9, 0.5);
-    --jb-border-accent: rgba(168, 85, 247, 0.65);
+    --jb-border-subtle: rgba(255, 255, 255, 0.1);
+    --jb-border-medium: rgba(255, 255, 255, 0.18);
+    --jb-border-strong: rgba(255, 255, 255, 0.28);
 
     /* Radii */
     --jb-radius-sm: 8px;
-    --jb-radius-md: 14px;
-    --jb-radius-lg: 22px;
-    --jb-radius-xl: 30px;
+    --jb-radius-md: 12px;
+    --jb-radius-lg: 20px;
     --jb-radius-pill: 9999px;
 
     /* Typography */
-    --font-default: "Product Sans", "Google Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    --font-interface-override: "Product Sans", "Google Sans", sans-serif;
-    --font-text-override: "Product Sans", "Google Sans", sans-serif;
+    --font-default: "Product Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    --font-interface-override: "Product Sans", sans-serif;
+    --font-text-override: "Product Sans", sans-serif;
     --font-monospace: "JetBrains Mono", "Fira Code", "SF Mono", Consolas, monospace;
 
     /* Obsidian Digital Garden Bindings */
@@ -110,25 +97,25 @@
     --text-muted: var(--jb-text-secondary);
     --text-faint: var(--jb-text-muted);
     --text-accent: var(--jb-accent);
-    --text-accent-hover: var(--jb-white);
+    --text-accent-hover: var(--jb-accent-hover);
     --interactive-accent: var(--jb-accent);
-    --interactive-accent-hover: var(--jb-white);
+    --interactive-accent-hover: var(--jb-accent-hover);
     --link-color: var(--jb-accent);
-    --link-color-hover: var(--jb-white);
+    --link-color-hover: var(--jb-accent-hover);
 }
 
 /* Light Theme Support */
 .theme-light {
     --jb-bg-0: #ffffff;
-    --jb-bg-1: #faf5ff;
-    --jb-bg-2: #f3e8ff;
-    --jb-bg-3: #e9d5ff;
+    --jb-bg-1: #f8fafc;
+    --jb-bg-2: #f1f5f9;
+    --jb-bg-3: #e2e8f0;
     --jb-bg-glass: rgba(255, 255, 255, 0.88);
 
-    --jb-text-primary: #000000;
-    --jb-text-secondary: #3b0764;
-    --jb-text-muted: #6b21a8;
-    --jb-text-faint: #9333ea;
+    --jb-text-primary: #0f172a;
+    --jb-text-secondary: #334155;
+    --jb-text-muted: #64748b;
+    --jb-text-faint: #94a3b8;
 }
 
 /* --------------------------------------------------------------------------
@@ -138,17 +125,8 @@ aside, .sidebar, .filetree, .toc, .backlinks, .graph-outer, main.content > heade
     display: none !important;
 }
 
-/* Global Product Sans Enforcement */
-body, p, li, h1, h2, h3, h4, h5, h6, input, button, textarea, a, span, div, .content, .cm-s-obsidian {
-    font-family: "Product Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
-}
-
-code, pre, pre *, code * {
-    font-family: var(--font-monospace) !important;
-}
-
 /* --------------------------------------------------------------------------
-   4. BASE RESET & ROYAL VIOLET ATMOSPHERE
+   4. BASE RESET & AMBIENT ATMOSPHERE
    -------------------------------------------------------------------------- */
 body {
     font-family: var(--font-default);
@@ -164,70 +142,69 @@ body {
     padding: 0;
 }
 
-/* Ambient Deep Royal Violet Glow with Crimson Edge */
+/* Subtle Top Ambient Lighting (Quiet, Non-Slop) */
 body::before {
     content: "";
     position: fixed;
-    top: -220px;
+    top: -200px;
     left: 50%;
     transform: translateX(-50%);
-    width: 1200px;
-    height: 550px;
-    background: radial-gradient(circle, rgba(34, 1, 126, 0.5) 0%, rgba(126, 34, 206, 0.25) 45%, rgba(254, 1, 9, 0.1) 70%, transparent 85%);
+    width: 1000px;
+    height: 450px;
+    background: radial-gradient(circle, rgba(99, 102, 241, 0.08) 0%, rgba(15, 15, 19, 0.3) 60%, transparent 80%);
     pointer-events: none;
     z-index: -1;
-    filter: blur(85px);
+    filter: blur(80px);
 }
 
 /* Custom Scrollbars */
 ::-webkit-scrollbar {
-    width: 8px;
-    height: 8px;
+    width: 7px;
+    height: 7px;
 }
 ::-webkit-scrollbar-track {
     background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-    background: var(--jb-purple);
+    background: var(--jb-bg-3);
     border-radius: var(--jb-radius-pill);
-    border: 2px solid var(--jb-bg-0);
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: var(--jb-crimson);
+    background: var(--jb-text-muted);
 }
 
 /* Selection Highlight */
 ::selection {
-    background: var(--jb-purple);
-    color: var(--jb-white);
+    background: rgba(99, 102, 241, 0.3);
+    color: #ffffff;
 }
 
 /* --------------------------------------------------------------------------
-   5. FLOATING VIOLET-CRIMSON GRADIENT PILL HEADER
+   5. FLOATING GLASS PILL NAVBAR & HEADER LOGO
    -------------------------------------------------------------------------- */
 .navbar, .filetree-navbar {
     background: var(--jb-bg-glass) !important;
-    backdrop-filter: blur(24px) saturate(190%) !important;
-    -webkit-backdrop-filter: blur(24px) saturate(190%) !important;
-    border: 1px solid rgba(168, 85, 247, 0.35) !important;
+    backdrop-filter: blur(20px) saturate(180%) !important;
+    -webkit-backdrop-filter: blur(20px) saturate(180%) !important;
+    border: 1px solid var(--jb-border-subtle) !important;
     border-radius: var(--jb-radius-pill) !important;
     max-width: 980px !important;
     margin: 16px auto !important;
-    padding: 0.65rem 1.6rem !important;
+    padding: 0.6rem 1.6rem !important;
     position: sticky !important;
     top: 16px !important;
     z-index: 1000 !important;
     display: flex !important;
     align-items: center !important;
     justify-content: space-between !important;
-    box-shadow: 0 16px 40px -10px rgba(0, 0, 0, 0.8), 0 0 35px rgba(34, 1, 126, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.15) !important;
+    box-shadow: 0 16px 40px -10px rgba(0, 0, 0, 0.7), inset 0 1px 0 rgba(255, 255, 255, 0.12) !important;
     box-sizing: border-box !important;
-    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 .navbar:hover, .filetree-navbar:hover {
-    border-color: var(--jb-violet) !important;
-    box-shadow: 0 20px 50px -10px rgba(0, 0, 0, 0.9), 0 0 40px rgba(168, 85, 247, 0.4) !important;
+    border-color: var(--jb-border-medium) !important;
+    box-shadow: 0 20px 48px -10px rgba(0, 0, 0, 0.8) !important;
 }
 
 .header-logo-link {
@@ -235,51 +212,54 @@ body::before {
 }
 
 .header-logo-link:hover {
-    transform: scale(1.03);
+    transform: scale(1.02);
 }
 
 .header-logo-icon {
     height: 38px;
     width: 38px;
     object-fit: contain;
-    filter: drop-shadow(0 2px 10px rgba(168, 85, 247, 0.6));
+    filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.5));
 }
 
 .header-logo-text {
-    height: 28px;
+    height: 26px;
     width: auto;
     object-fit: contain;
 }
 
-/* Integrated Header Search Bar Trigger (Executive Dark Slate) */
+/* --------------------------------------------------------------------------
+   6. QUIET EXECUTIVE SEARCH BAR TRIGGER
+   -------------------------------------------------------------------------- */
 .search-button {
-    width: 360px !important;
+    width: 340px !important;
     max-width: 100% !important;
     background: rgba(255, 255, 255, 0.05) !important;
-    border: 1px solid rgba(255, 255, 255, 0.14) !important;
+    border: 1px solid var(--jb-border-subtle) !important;
     border-radius: var(--jb-radius-pill) !important;
-    padding: 0.5rem 1.1rem !important;
+    padding: 0.45rem 1rem !important;
     display: flex !important;
     align-items: center !important;
     justify-content: space-between !important;
     cursor: pointer;
     transition: all 0.2s ease;
-    color: #cbd5e1 !important;
+    color: var(--jb-text-secondary) !important;
     font-size: 0.88rem;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);
 }
 
 .search-button:hover {
-    border-color: rgba(254, 1, 9, 0.45) !important;
+    border-color: var(--jb-border-strong) !important;
     background: rgba(255, 255, 255, 0.09) !important;
     color: #ffffff !important;
-    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
 }
 
 .search-icon {
     display: flex;
     align-items: center;
     margin-right: 0.5rem;
-    color: var(--jb-crimson);
+    color: var(--jb-text-muted);
 }
 
 .search-text {
@@ -288,16 +268,16 @@ body::before {
 
 .search-keys code {
     background: rgba(0, 0, 0, 0.6);
-    border: 1px solid rgba(255, 255, 255, 0.15);
+    border: 1px solid var(--jb-border-subtle);
     border-radius: 5px;
-    padding: 0.15rem 0.45rem;
+    padding: 0.15rem 0.42rem;
     font-size: 0.74rem;
     font-family: "Product Sans", sans-serif;
-    color: #cbd5e1;
+    color: var(--jb-text-muted);
 }
 
 /* --------------------------------------------------------------------------
-   6. CENTERED SINGLE-COLUMN WORKSPACE
+   7. CENTERED SINGLE-COLUMN WORKSPACE
    -------------------------------------------------------------------------- */
 main.content {
     max-width: 860px;
@@ -334,12 +314,11 @@ main.content h2 {
 main.content h2::before {
     content: "";
     display: inline-block;
-    width: 5px;
+    width: 4px;
     height: 1.1em;
-    background: var(--jb-gradient-primary);
-    border-radius: 6px;
+    background: var(--jb-accent);
+    border-radius: 4px;
     margin-right: 14px;
-    box-shadow: 0 0 14px var(--jb-purple);
 }
 
 main.content h3 {
@@ -360,23 +339,21 @@ main.content p, main.content li {
 
 /* Bullet Markers */
 main.content ul > li::marker {
-    color: var(--jb-violet);
+    color: var(--jb-accent);
 }
 
-/* Links with Royal Violet -> Crimson Gradient Expand */
+/* Clean Underline Links */
 a, a.internal-link {
-    color: var(--jb-violet);
+    color: var(--jb-accent);
     text-decoration: none;
-    background: var(--jb-gradient-primary) no-repeat 0 100%;
-    background-size: 0% 2px;
-    transition: background-size 0.3s cubic-bezier(0.16, 1, 0.3, 1), color 0.2s ease;
-    font-weight: 600;
+    border-bottom: 1px solid rgba(99, 102, 241, 0.35);
+    transition: all 0.18s ease;
+    font-weight: 500;
 }
 
 a:hover, a.internal-link:hover {
-    color: #ffffff;
-    background-size: 100% 2px;
-    text-shadow: 0 0 14px rgba(168, 85, 247, 0.6);
+    color: var(--jb-accent-hover);
+    border-bottom-color: var(--jb-accent-hover);
 }
 
 a.is-unresolved {
@@ -394,83 +371,78 @@ a.is-unresolved {
 }
 
 .tag {
-    background: linear-gradient(135deg, rgba(34, 1, 126, 0.5), rgba(126, 34, 206, 0.3)) !important;
-    color: var(--jb-violet) !important;
-    border: 1px solid rgba(168, 85, 247, 0.4) !important;
+    background: rgba(255, 255, 255, 0.05) !important;
+    color: var(--jb-text-secondary) !important;
+    border: 1px solid var(--jb-border-subtle) !important;
     border-radius: var(--jb-radius-pill) !important;
-    padding: 0.35rem 0.9rem !important;
+    padding: 0.3rem 0.85rem !important;
     font-size: 0.82rem !important;
-    font-weight: 600 !important;
+    font-weight: 500 !important;
     text-decoration: none !important;
-    backdrop-filter: blur(10px);
-    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1) !important;
+    transition: all 0.2s ease !important;
     cursor: pointer;
 }
 
 .tag:hover {
-    background: var(--jb-gradient-primary) !important;
-    color: #ffffff !important;
-    box-shadow: 0 0 20px rgba(168, 85, 247, 0.7) !important;
-    transform: translateY(-2px) scale(1.04);
+    background: rgba(99, 102, 241, 0.15) !important;
+    color: var(--jb-accent-hover) !important;
+    border-color: var(--jb-accent) !important;
 }
 
 /* Images */
 main.content img {
     max-width: 100%;
     border-radius: var(--jb-radius-lg);
-    border: 1px solid var(--jb-border-medium);
-    box-shadow: 0 25px 50px -10px rgba(0, 0, 0, 0.9);
+    border: 1px solid var(--jb-border-subtle);
+    box-shadow: 0 20px 45px -10px rgba(0, 0, 0, 0.7);
     margin: 2.2rem 0;
-    transition: all 0.3s ease;
+    transition: all 0.25s ease;
 }
 
 main.content img:hover {
-    border-color: var(--jb-violet);
-    transform: translateY(-3px);
+    border-color: var(--jb-border-medium);
 }
 
 /* --------------------------------------------------------------------------
-   7. OBSIDIAN CALLOUT TILES
+   8. OBSIDIAN CALLOUT TILES
    -------------------------------------------------------------------------- */
 .callout {
-    background: var(--jb-gradient-soft) !important;
-    border: 1px solid rgba(168, 85, 247, 0.3) !important;
-    border-left: 4px solid var(--jb-purple) !important;
-    border-radius: var(--jb-radius-lg) !important;
-    padding: 1.25rem 1.6rem !important;
+    background: var(--jb-bg-1) !important;
+    border: 1px solid var(--jb-border-subtle) !important;
+    border-left: 3.5px solid rgb(var(--callout-color)) !important;
+    border-radius: var(--jb-radius-md) !important;
+    padding: 1.2rem 1.5rem !important;
     margin: 2rem 0 !important;
-    backdrop-filter: blur(16px);
-    box-shadow: 0 12px 30px -5px rgba(0, 0, 0, 0.7), -6px 0 24px -2px rgba(126, 34, 206, 0.4) !important;
-    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1) !important;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+    transition: all 0.2s ease !important;
 }
 
 .callout:hover {
-    border-color: var(--jb-violet) !important;
-    box-shadow: 0 18px 40px -5px rgba(0, 0, 0, 0.8), -6px 0 30px -2px rgba(168, 85, 247, 0.6) !important;
-    transform: translateY(-3px);
+    border-color: var(--jb-border-medium) !important;
+    border-left-color: rgb(var(--callout-color)) !important;
 }
 
 .callout-title {
     font-weight: 700 !important;
-    font-size: 1rem !important;
-    gap: 0.65rem !important;
-    margin-bottom: 0.65rem;
+    font-size: 0.96rem !important;
+    gap: 0.6rem !important;
+    margin-bottom: 0.55rem;
 }
 
 /* --------------------------------------------------------------------------
-   8. MAC TERMINAL CODE BLOCKS
+   9. MAC TERMINAL CODE BLOCKS
    -------------------------------------------------------------------------- */
 pre[class*="language-"], pre {
-    background: #090217 !important;
-    border: 1px solid rgba(126, 34, 206, 0.45) !important;
-    border-radius: var(--jb-radius-lg) !important;
-    padding: 2.4rem 1.6rem 1.4rem 1.6rem !important;
+    background: #09090d !important;
+    border: 1px solid var(--jb-border-subtle) !important;
+    border-radius: var(--jb-radius-md) !important;
+    padding: 2.4rem 1.5rem 1.4rem 1.5rem !important;
     margin: 2.2rem 0 !important;
-    box-shadow: 0 25px 50px -10px rgba(0, 0, 0, 0.9) !important;
+    box-shadow: 0 20px 45px -10px rgba(0, 0, 0, 0.8) !important;
     overflow-x: auto;
     font-family: var(--font-monospace) !important;
-    font-size: 0.9rem !important;
-    line-height: 1.65 !important;
+    font-size: 0.88rem !important;
+    line-height: 1.62 !important;
     position: relative;
 }
 
@@ -488,26 +460,26 @@ pre::before {
 }
 
 p > code, li > code, td > code {
-    background: linear-gradient(135deg, rgba(34, 1, 126, 0.3), rgba(126, 34, 206, 0.2)) !important;
-    border: 1px solid rgba(168, 85, 247, 0.4) !important;
-    color: var(--jb-violet) !important;
-    border-radius: 7px !important;
-    padding: 0.2rem 0.5rem !important;
+    background: rgba(255, 255, 255, 0.06) !important;
+    border: 1px solid var(--jb-border-subtle) !important;
+    color: var(--jb-text-primary) !important;
+    border-radius: 6px !important;
+    padding: 0.18rem 0.45rem !important;
     font-family: var(--font-monospace) !important;
     font-size: 0.88em !important;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 /* --------------------------------------------------------------------------
-   9. BLOCKQUOTES & TABLES
+   10. BLOCKQUOTES & TABLES
    -------------------------------------------------------------------------- */
 blockquote {
-    background: linear-gradient(135deg, rgba(34, 1, 126, 0.3), rgba(254, 1, 9, 0.1));
-    border-left: 4px solid var(--jb-purple);
-    border-radius: 0 var(--jb-radius-lg) var(--jb-radius-lg) 0;
+    background: var(--jb-bg-1);
+    border-left: 3px solid var(--jb-border-medium);
+    border-radius: 0 var(--jb-radius-md) var(--jb-radius-md) 0;
     margin: 2.2rem 0;
-    padding: 1.3rem 1.6rem;
-    color: var(--jb-text-primary);
+    padding: 1.1rem 1.5rem;
+    color: var(--jb-text-secondary);
     font-style: italic;
 }
 
@@ -521,19 +493,18 @@ table {
     border-spacing: 0;
     margin: 2.2rem 0;
     border: 1px solid var(--jb-border-subtle);
-    border-radius: var(--jb-radius-lg);
+    border-radius: var(--jb-radius-md);
     overflow: hidden;
-    box-shadow: var(--jb-shadow-md);
 }
 
 th, td {
-    padding: 0.9rem 1.3rem;
+    padding: 0.85rem 1.25rem;
     border-bottom: 1px solid var(--jb-border-subtle);
     text-align: left;
 }
 
 th {
-    background: linear-gradient(90deg, rgba(34, 1, 126, 0.5), rgba(126, 34, 206, 0.3));
+    background: var(--jb-bg-2);
     color: #ffffff;
     font-weight: 700;
 }
@@ -543,34 +514,33 @@ tr:last-child td {
 }
 
 tr:nth-child(even) {
-    background: rgba(34, 1, 126, 0.15);
+    background: rgba(255, 255, 255, 0.02);
 }
 
 /* Checkboxes */
 input[type="checkbox"] {
-    accent-color: var(--jb-purple);
-    width: 1.1rem;
-    height: 1.1rem;
-    border-radius: 5px;
+    accent-color: var(--jb-accent);
+    width: 1.05rem;
+    height: 1.05rem;
+    border-radius: 4px;
     cursor: pointer;
 }
 
 /* --------------------------------------------------------------------------
-   10. SPOTLIGHT SEARCH MODAL & TRIGGER BUTTON (SUPER PRETTY)
+   11. SPOTLIGHT SEARCH MODAL (QUIET EXECUTIVE SLATE)
    -------------------------------------------------------------------------- */
 .search-container {
-    background: rgba(0, 0, 0, 0.88) !important;
-    backdrop-filter: blur(24px) saturate(180%) !important;
-    -webkit-backdrop-filter: blur(24px) saturate(180%) !important;
+    background: rgba(0, 0, 0, 0.85) !important;
+    backdrop-filter: blur(20px) !important;
+    -webkit-backdrop-filter: blur(20px) !important;
     z-index: 9999 !important;
 }
 
 .search-box, #search-modal {
-    background: #09090d !important;
-    border: 1px solid rgba(255, 255, 255, 0.16) !important;
-    border-top: 3px solid var(--jb-crimson) !important;
-    border-radius: var(--jb-radius-xl) !important;
-    box-shadow: 0 35px 80px rgba(0, 0, 0, 0.95) !important;
+    background: #0f0f13 !important;
+    border: 1px solid var(--jb-border-medium) !important;
+    border-radius: var(--jb-radius-lg) !important;
+    box-shadow: 0 35px 80px rgba(0, 0, 0, 0.9) !important;
     max-width: 720px !important;
     width: 90% !important;
     padding: 0 !important;
@@ -580,29 +550,29 @@ input[type="checkbox"] {
 
 .search-header {
     padding: 1.2rem 1.4rem !important;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+    border-bottom: 1px solid var(--jb-border-subtle) !important;
     background: rgba(255, 255, 255, 0.02) !important;
 }
 
 .search-header input#term, #search-input {
-    background: #121218 !important;
-    border: 1px solid rgba(255, 255, 255, 0.16) !important;
+    background: #181820 !important;
+    border: 1px solid var(--jb-border-medium) !important;
     border-radius: var(--jb-radius-md) !important;
     color: #ffffff !important;
     font-family: "Product Sans", sans-serif !important;
-    font-size: 1.15rem !important;
+    font-size: 1.1rem !important;
     font-weight: 500 !important;
     padding: 0.85rem 1.25rem !important;
     width: 100% !important;
     box-sizing: border-box !important;
-    transition: all 0.25s ease !important;
+    transition: all 0.2s ease !important;
 }
 
 .search-header input#term:focus, #search-input:focus {
     outline: none !important;
-    border-color: var(--jb-crimson) !important;
-    background: #181822 !important;
-    box-shadow: 0 0 20px rgba(254, 1, 9, 0.35) !important;
+    border-color: var(--jb-accent) !important;
+    background: #1e1e28 !important;
+    box-shadow: 0 0 20px rgba(99, 102, 241, 0.25) !important;
 }
 
 .search-layout {
@@ -610,27 +580,21 @@ input[type="checkbox"] {
     gap: 1.2rem !important;
 }
 
-.search-results-panel {
-    font-family: "Product Sans", sans-serif !important;
-}
-
 .search-results-panel .search-link {
-    background: rgba(34, 1, 126, 0.25) !important;
-    border: 1px solid rgba(168, 85, 247, 0.25) !important;
+    background: var(--jb-bg-2) !important;
+    border: 1px solid var(--jb-border-subtle) !important;
     border-radius: var(--jb-radius-md) !important;
     padding: 0.85rem 1.1rem !important;
     margin-bottom: 0.6rem !important;
-    transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1) !important;
+    transition: all 0.2s ease !important;
     text-decoration: none !important;
     display: block !important;
 }
 
 .search-results-panel .search-link:hover, .search-results-panel .search-link.active {
-    background: var(--jb-gradient-soft) !important;
-    border-color: var(--jb-violet) !important;
-    border-left: 4px solid var(--jb-crimson) !important;
-    transform: translateX(4px) !important;
-    box-shadow: 0 8px 25px rgba(126, 34, 206, 0.4) !important;
+    background: var(--jb-bg-3) !important;
+    border-color: var(--jb-border-medium) !important;
+    border-left: 3px solid var(--jb-accent) !important;
 }
 
 .search-results-panel .search-link .title {
@@ -646,22 +610,22 @@ input[type="checkbox"] {
 }
 
 .search-results-panel .search-link mark {
-    background: var(--jb-crimson) !important;
+    background: rgba(99, 102, 241, 0.3) !important;
     color: #ffffff !important;
     border-radius: 3px !important;
     padding: 0.1rem 0.3rem !important;
 }
 
 .search-preview-panel {
-    background: rgba(9, 2, 23, 0.6) !important;
-    border: 1px solid rgba(126, 34, 206, 0.3) !important;
+    background: var(--jb-bg-1) !important;
+    border: 1px solid var(--jb-border-subtle) !important;
     border-radius: var(--jb-radius-md) !important;
     padding: 1rem !important;
 }
 
 .search-box-footer {
-    background: rgba(11, 2, 26, 0.95) !important;
-    border-top: 1px solid rgba(126, 34, 206, 0.3) !important;
+    background: var(--jb-bg-1) !important;
+    border-top: 1px solid var(--jb-border-subtle) !important;
     padding: 0.8rem 1.4rem !important;
     display: flex !important;
     gap: 1.5rem !important;
@@ -669,9 +633,9 @@ input[type="checkbox"] {
 }
 
 .search-box-footer .navigation-hint code {
-    background: var(--jb-black) !important;
-    border: 1px solid var(--jb-purple) !important;
-    color: var(--jb-violet) !important;
+    background: var(--jb-bg-0) !important;
+    border: 1px solid var(--jb-border-subtle) !important;
+    color: var(--jb-text-secondary) !important;
     border-radius: 5px !important;
     padding: 0.2rem 0.5rem !important;
     font-family: "Product Sans", sans-serif !important;
@@ -680,12 +644,12 @@ input[type="checkbox"] {
 }
 
 /* --------------------------------------------------------------------------
-   11. LINK PREVIEW POPOVER
+   12. LINK PREVIEW POPOVER
    -------------------------------------------------------------------------- */
 .link-preview {
-    background: #0b021a !important;
-    border: 1px solid var(--jb-purple) !important;
-    border-radius: var(--jb-radius-lg) !important;
-    box-shadow: 0 25px 50px rgba(0, 0, 0, 0.9) !important;
+    background: var(--jb-bg-1) !important;
+    border: 1px solid var(--jb-border-medium) !important;
+    border-radius: var(--jb-radius-md) !important;
+    box-shadow: 0 25px 50px rgba(0, 0, 0, 0.8) !important;
     backdrop-filter: blur(20px);
 }
