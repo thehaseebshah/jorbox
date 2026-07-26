@@ -2,6 +2,8 @@
 dg-publish: true
 type: kaghaz
 final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Chaar se Chaar

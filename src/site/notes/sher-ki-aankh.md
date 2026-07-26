@@ -2,6 +2,8 @@
 dg-publish: true
 type: outdoor
 final: true
+added-to-shabab: true
+tried: false
 ---
 
 # Sher ki Aankh (Eye of the Tiger)

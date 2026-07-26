@@ -2,6 +2,8 @@
 dg-publish: true
 type: outdoor
 final: true
+added-to-shabab: true
+tried: false
 ---
 
 # Operation Jhanda

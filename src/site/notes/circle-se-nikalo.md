@@ -2,6 +2,8 @@
 dg-publish: true
 type: childhood
 final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Circle se Nikalo

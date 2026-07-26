@@ -2,6 +2,8 @@
 dg-publish: true
 type: miscellaneous
 final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Bomb Squad

@@ -2,6 +2,8 @@
 dg-publish: true
 type: party
 final: false
+added-to-shabab: true
+tried: true
 ---
 
 # Jasoosi Club

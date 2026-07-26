@@ -2,6 +2,8 @@
 dg-publish: true
 type: sports
 final: true
+added-to-shabab: true
+tried: false
 ---
 
 # Rugby

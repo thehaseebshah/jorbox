@@ -2,6 +2,8 @@
 dg-publish: true
 type: outdoor
 final: true
+added-to-shabab: false
+tried: false
 ---
 
 # Gol Gappay

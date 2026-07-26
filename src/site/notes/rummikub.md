@@ -2,6 +2,8 @@
 dg-publish: true
 type: board
 final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Rummikub

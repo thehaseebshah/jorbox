@@ -2,6 +2,8 @@
 dg-publish: true
 type: childhood
 final: false
+added-to-shabab: true
+tried: false
 ---
 
 # Piddi Piddi with Bats

@@ -2,6 +2,8 @@
 dg-publish: true
 type: outdoor
 final: false
+added-to-shabab: true
+tried: false
 ---
 
 # Ankh Macholi Plus

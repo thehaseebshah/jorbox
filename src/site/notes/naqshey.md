@@ -2,6 +2,8 @@
 dg-publish: true
 type: miscellaneous
 final: true
+added-to-shabab: true
+tried: false
 ---
 
 # Naqshey (Map Drawing)
