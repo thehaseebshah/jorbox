@@ -516,6 +516,22 @@ main.content header::after {
     }
 }
 
+/* --------------------------------------------------------------------------
+   OPTION 5: SMOOTH SCROLL REVEAL ANIMATIONS
+   -------------------------------------------------------------------------- */
+.scroll-reveal {
+    opacity: 0 !important;
+    transform: translateY(18px) !important;
+    transition: opacity 0.55s cubic-bezier(0.16, 1, 0.3, 1),
+                transform 0.55s cubic-bezier(0.16, 1, 0.3, 1) !important;
+    will-change: opacity, transform !important;
+}
+
+.scroll-reveal--visible {
+    opacity: 1 !important;
+    transform: translateY(0) !important;
+}
+
 /* Headings - h1 Quiet Slate Glass Capsule Frame */
 main.content h1,
 header h1,
