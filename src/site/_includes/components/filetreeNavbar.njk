@@ -18,7 +18,10 @@
         {% endfor %}
     </div>
 
-    {% if settings.dgEnableSearch === true%}
-        {% include "components/searchButton.njk" %}
-    {%endif%}
+    <div class="navbar-actions">
+        {% if settings.dgEnableSearch === true%}
+            {% include "components/searchButton.njk" %}
+        {%endif%}
+        {% include "components/themeToggle.njk" %}
+    </div>
 </nav>

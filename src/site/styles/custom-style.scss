@@ -435,54 +435,119 @@ main.content header::after {
 }
 
 /* --------------------------------------------------------------------------
-   OPTION 4: FLOATING QUICK-ACTION DOCK
+   HEADER ACTIONS & THEME TOGGLE
+   -------------------------------------------------------------------------- */
+.navbar-actions {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.55rem;
+    margin-left: auto;
+}
+
+.navbar-actions .search-button {
+    margin: 0 !important;
+}
+
+.theme-toggle {
+    display: inline-flex;
+    width: 42px;
+    height: 42px;
+    flex: 0 0 auto;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    border-radius: 50%;
+    color: #cbd5e1;
+    background: rgba(255, 255, 255, 0.05);
+    cursor: pointer;
+    transition: color 0.2s ease, border-color 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.theme-toggle:hover,
+.theme-toggle:focus-visible {
+    border-color: rgba(255, 255, 255, 0.28);
+    color: #ffffff;
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.35);
+}
+
+.theme-toggle:focus-visible {
+    outline: 2px solid #a855f7;
+    outline-offset: 3px;
+}
+
+.theme-toggle__icon {
+    display: block;
+    width: 18px;
+    height: 18px;
+}
+
+.theme-toggle__icon--moon {
+    display: none;
+}
+
+.theme-light .theme-toggle__icon--sun {
+    display: none;
+}
+
+.theme-light .theme-toggle__icon--moon {
+    display: block;
+}
+
+.theme-light .theme-toggle {
+    border-color: rgba(67, 45, 88, 0.16);
+    color: rgba(41, 30, 50, 0.82);
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.theme-light .theme-toggle:hover,
+.theme-light .theme-toggle:focus-visible {
+    border-color: rgba(67, 45, 88, 0.28);
+    color: #19131f;
+    background: rgba(255, 255, 255, 0.55);
+}
+
+/* --------------------------------------------------------------------------
+   FLOATING SCROLL-TO-TOP ACTION
    -------------------------------------------------------------------------- */
 .quick-action-dock {
     position: fixed !important;
-    bottom: 2rem !important;
     right: 2rem !important;
+    bottom: 2rem !important;
     z-index: 99999 !important;
-    display: flex !important;
-    align-items: center !important;
-    gap: 0.35rem !important;
-    padding: 0.4rem 0.6rem !important;
-    background: rgba(18, 16, 32, 0.78) !important;
-    backdrop-filter: blur(16px) !important;
-    -webkit-backdrop-filter: blur(16px) !important;
+    display: none !important;
+    padding: 0.4rem !important;
     border: 1.5px solid rgba(255, 255, 255, 0.14) !important;
     border-radius: 9999px !important;
+    background: rgba(18, 16, 32, 0.78) !important;
     box-shadow: 0 15px 35px -5px rgba(0, 0, 0, 0.7), 0 0 20px rgba(126, 34, 206, 0.2) !important;
-    animation: dockEntrance 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards !important;
+    backdrop-filter: blur(16px) !important;
+    -webkit-backdrop-filter: blur(16px) !important;
+}
+
+.quick-action-dock.visible {
+    display: flex !important;
+    animation: dockEntrance 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards !important;
 }
 
 .dock-btn {
     all: unset !important;
     display: inline-flex !important;
-    align-items: center !important;
-    justify-content: center !important;
     width: 38px !important;
     height: 38px !important;
+    align-items: center !important;
+    justify-content: center !important;
     border-radius: 50% !important;
     color: rgba(255, 255, 255, 0.75) !important;
     cursor: pointer !important;
     transition: color 0.22s ease-out, background-color 0.22s ease-out, box-shadow 0.22s ease-out !important;
 }
 
-.dock-btn > svg:not(.dock-theme-icon) {
+.dock-btn > svg {
     display: block !important;
     flex: 0 0 auto !important;
-}
-
-.dock-theme-icon--moon {
-    display: none !important;
-}
-
-.theme-light .dock-theme-icon--sun {
-    display: none !important;
-}
-
-.theme-light .dock-theme-icon--moon {
-    display: block !important;
 }
 
 .dock-btn:hover {
@@ -497,44 +562,6 @@ main.content header::after {
 
 #dock-scroll-top.visible {
     display: inline-flex !important;
-}
-
-#dock-divider-scroll {
-    display: none !important;
-}
-
-#dock-divider-scroll.visible {
-    display: block !important;
-}
-
-.dock-divider {
-    width: 1px !important;
-    height: 18px !important;
-    background: rgba(255, 255, 255, 0.12) !important;
-}
-
-.dock-toast {
-    position: absolute !important;
-    top: -38px !important;
-    left: 50% !important;
-    transform: translateX(-50%) translateY(6px) !important;
-    background: rgba(18, 16, 32, 0.95) !important;
-    border: 1px solid rgba(168, 85, 247, 0.4) !important;
-    color: #ffffff !important;
-    font-size: 0.75rem !important;
-    font-weight: 600 !important;
-    padding: 0.3rem 0.75rem !important;
-    border-radius: var(--jb-radius-pill) !important;
-    white-space: nowrap !important;
-    pointer-events: none !important;
-    opacity: 0 !important;
-    transition: all 0.22s ease-out !important;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.6) !important;
-}
-
-.dock-toast.show {
-    opacity: 1 !important;
-    transform: translateX(-50%) translateY(0) !important;
 }
 
 .theme-light .navbar,
@@ -587,10 +614,6 @@ main.content header::after {
 .theme-light .dock-btn:hover {
     color: #0f172a !important;
     background: rgba(15, 23, 42, 0.08) !important;
-}
-
-.theme-light .dock-divider {
-    background: rgba(15, 23, 42, 0.14) !important;
 }
 
 .theme-light main.content h1::before,
