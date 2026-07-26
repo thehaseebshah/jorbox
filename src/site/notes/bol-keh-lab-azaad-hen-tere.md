@@ -8,7 +8,7 @@ final: false
 
 ## How to Play
 
-**Inspired by:** Impromptu Speaking
+**Inspired by:** Impromptu Speaking / Impromtu Speaking
 
 - **Age Limit:** 12+
 - **Group Size:** 3+

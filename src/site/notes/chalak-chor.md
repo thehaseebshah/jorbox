@@ -8,7 +8,7 @@ final: false
 
 ## How to Play
 
-**Inspired by:** Crazy 8s with Cheating and UNO Mechanic
+**Inspired by:** Crazy 8s with Cheating and UNO Mechanic / Crazy 8s with Cheating, Exploding Kittens and UNO Mechanic
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

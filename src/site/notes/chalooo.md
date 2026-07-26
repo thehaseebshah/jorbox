@@ -8,6 +8,8 @@ final: false
 
 ## How to Play
 
+**Inspired by:** Go Fish
+
 - **Age Limit:** 10+
 - **Duration:** 20 minutes
 - **Prep Time:** < 5 minutes

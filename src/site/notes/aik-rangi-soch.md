@@ -8,7 +8,7 @@ final: false
 
 ## How to Play
 
-**Inspired by:** Wavelength (with drawing and non-related drawing prompts — last two like non-sensory)
+**Inspired by:** Wavelength (with drawing and non-related drawing prompts — last two like non-sensory) / Wavelength, with drawing and non-related drawing prompts (last two like non-sensory)
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

@@ -8,6 +8,8 @@ final: false
 
 ## How to Play
 
+**Inspired by:** NIM
+
 - **Age Limit:** 10+
 - **Group Size:** 2+
 - **Duration:** 15 minutes

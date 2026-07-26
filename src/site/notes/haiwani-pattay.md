@@ -8,7 +8,7 @@ final: false
 
 ## How to Play
 
-**Inspired by:** Cards Against Humanity
+**Inspired by:** Cards Against Humanity / Cards Against Humanity, Quiplash, Bring Your Own Book, Sound mode
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

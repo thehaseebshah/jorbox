@@ -8,6 +8,8 @@ final: false
 
 ## How to Play
 
+**Inspired by:** Jump In, Jump Out. Eliminate those that are unable to do it
+
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players
 - **Duration:** 30 minutes
@@ -16,6 +18,8 @@ final: false
 - **Code:** O-090
 
 ### How to Play
+
+**Inspired by:** Jump In, Jump Out. Eliminate those that are unable to do it
 
 Eliminate those that are unable to do it.
 

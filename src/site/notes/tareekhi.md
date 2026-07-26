@@ -8,7 +8,7 @@ final: false
 
 ## How to Play
 
-**Inspired by:** Timeline (Add categories like Quixort)
+**Inspired by:** Timeline (Add categories like Quixort) / Timeline; Add categories like Quixort
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

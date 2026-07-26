@@ -8,6 +8,8 @@ final: false
 
 ## How to Play
 
+**Inspired by:** Connect 4
+
 - **Age Limit:** 10+
 - **Group Size:** 2
 - **Duration:** 15 minutes

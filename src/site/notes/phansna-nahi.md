@@ -8,7 +8,7 @@ final: false
 
 ## How to Play
 
-**Inspired by:** Don't get Got (Loser does a Dare from Truth or Dare)
+**Inspired by:** Don't get Got (Loser does a Dare from Truth or Dare) / Dont get Got; Loser does a Dare (from Truth or Dare)
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

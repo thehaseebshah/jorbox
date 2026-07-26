@@ -8,7 +8,7 @@ final: false
 
 ## How to Play
 
-**Inspired by:** Drawful (Active player draws a prompt, others guess what the prompt is, and then have others pick their prompt)
+**Inspired by:** Drawful (Active player draws a prompt, others guess what the prompt is, and then have others pick their prompt) / Drawful; Acive player draws a prompt, others guess what the prompt is, and then have others pick their prompt
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

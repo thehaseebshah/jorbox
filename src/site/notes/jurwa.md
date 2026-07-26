@@ -8,6 +8,8 @@ final: false
 
 ## How to Play
 
+**Inspired by:** Grab a ball using a chosen body part
+
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players
 - **Duration:** 30 minutes

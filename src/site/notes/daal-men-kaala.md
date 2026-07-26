@@ -8,7 +8,7 @@ final: false
 
 ## How to Play
 
-**Inspired by:** Sounds Fishy (Variation: Add Personal Prompts like Fibbage 3 "Enough about You")
+**Inspired by:** Sounds Fishy (Variation: Add Personal Prompts like Fibbage 3 "Enough about You") / Sounds Fishy; Variation: Add Personal Prompts like Fibbage 3 Enough about You
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

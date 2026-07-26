@@ -8,6 +8,8 @@ final: false
 
 ## How to Play
 
+**Inspired by:** With Khoti Mechanic
+
 - **Age Limit:** 8+
 - **Group Size:** 2+
 - **Duration:** 15 minutes

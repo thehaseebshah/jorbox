@@ -8,6 +8,8 @@ final: false
 
 ## How to Play
 
+**Inspired by:** Cheese Movers
+
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players
 - **Duration:** 30 minutes

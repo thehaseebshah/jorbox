@@ -8,7 +8,7 @@ final: false
 
 ## How to Play
 
-**Inspired by:** Change "Celebrity" to "Category Questions"
+**Inspired by:** Change "Celebrity" to "Category Questions" / Change Celebrity to Category Questions
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

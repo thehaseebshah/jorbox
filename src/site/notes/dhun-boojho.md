@@ -8,7 +8,7 @@ final: false
 
 ## How to Play
 
-**Inspired by:** Guess the Scene + Guess the Drawing
+**Inspired by:** Guess the Scene + Guess the Drawing / + Guess the Scene + Guess the Drawing
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

@@ -8,7 +8,7 @@ final: false
 
 ## How to Play
 
-**Inspired by:** Nerves of Steel
+**Inspired by:** Nerves of Steel / Catch Ball When Thrown only
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players
@@ -23,3 +23,7 @@ final: false
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)
 - Can be handmade
+
+### Reference
+
+Watch: Nerves of Steel.AVI

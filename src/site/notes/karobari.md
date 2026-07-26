@@ -8,7 +8,7 @@ final: false
 
 ## How to Play
 
-**Inspired by:** Snake Oil
+**Inspired by:** Snake Oil / Snake Oil mode, People are given a problem and they draw a solution mode
 
 - **Age Limit:** 10+
 - **Group Size:** 3+

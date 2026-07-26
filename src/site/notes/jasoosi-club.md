@@ -8,7 +8,7 @@ final: false
 
 ## How to Play
 
-**Inspired by:** Spyfall
+**Inspired by:** Spyfall / Chameleon Mode, Spyfall Mode, Fake Artist Mode, Push the Button Modes
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

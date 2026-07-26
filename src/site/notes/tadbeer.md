@@ -8,7 +8,7 @@ final: false
 
 ## How to Play
 
-**Inspired by:** Use two carpets, Group ISSB Challenge
+**Inspired by:** Use two carpets, Group ISSB Challenge / Use two carpets, Group ISSB Challenges
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players
