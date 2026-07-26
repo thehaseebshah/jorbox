@@ -570,7 +570,7 @@ header h1::before,
     mask-composite: exclude !important;
     pointer-events: none !important;
     box-shadow: 0 0 12px rgba(255, 255, 255, 0.15) !important;
-    animation: rotateConveyorBorder 20s linear infinite !important;
+    animation: rotateConveyorBorder 10s linear infinite !important;
 }
 
 @keyframes rotateConveyorBorder {
