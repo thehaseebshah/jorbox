@@ -532,6 +532,124 @@ main.content header::after {
     transform: translateY(0) !important;
 }
 
+/* --------------------------------------------------------------------------
+   OPTION 6: GLASS CALLOUT TILES WITH PULSING ICONS
+   -------------------------------------------------------------------------- */
+.glass-callout-enhanced {
+    background: rgba(255, 255, 255, 0.035) !important;
+    backdrop-filter: blur(14px) !important;
+    -webkit-backdrop-filter: blur(14px) !important;
+    border: 1px solid rgba(var(--callout-glow-rgb, 255, 255, 255), 0.18) !important;
+    border-left: 3px solid rgba(var(--callout-glow-rgb, 255, 255, 255), 0.55) !important;
+    border-radius: 14px !important;
+    padding: 1.2rem 1.5rem !important;
+    margin: 1.5rem 0 !important;
+    box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5),
+                inset 0 1px 1px rgba(255, 255, 255, 0.08),
+                0 0 18px rgba(var(--callout-glow-rgb, 255, 255, 255), 0.08) !important;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease !important;
+}
+
+.glass-callout-enhanced:hover {
+    border-left-color: rgba(var(--callout-glow-rgb, 255, 255, 255), 0.85) !important;
+    box-shadow: 0 14px 35px -10px rgba(0, 0, 0, 0.6),
+                inset 0 1px 1px rgba(255, 255, 255, 0.1),
+                0 0 25px rgba(var(--callout-glow-rgb, 255, 255, 255), 0.15) !important;
+}
+
+.callout-pulse-icon {
+    display: inline-block;
+    margin-right: 0.5rem;
+    animation: pulseIcon 2.5s ease-in-out infinite;
+}
+
+@keyframes pulseIcon {
+    0%, 100% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.2); opacity: 0.75; }
+}
+
+/* --------------------------------------------------------------------------
+   OPTION 7: MAC TERMINAL CODE BLOCKS WITH 1-CLICK COPY
+   -------------------------------------------------------------------------- */
+.mac-code-wrapper {
+    position: relative !important;
+    border-radius: 12px !important;
+    overflow: hidden !important;
+    background: rgba(16, 14, 28, 0.85) !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    margin: 1.5rem 0 !important;
+    box-shadow: 0 12px 30px -8px rgba(0, 0, 0, 0.6) !important;
+}
+
+.mac-code-wrapper pre {
+    margin: 0 !important;
+    border: none !important;
+    border-radius: 0 !important;
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+.mac-code-toolbar {
+    display: flex !important;
+    align-items: center !important;
+    padding: 0.55rem 1rem !important;
+    background: rgba(255, 255, 255, 0.04) !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08) !important;
+}
+
+.mac-dots {
+    display: flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+}
+
+.mac-dot {
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 50% !important;
+    display: block !important;
+}
+
+.mac-dot--red { background: #ff5f57 !important; }
+.mac-dot--yellow { background: #febc2e !important; }
+.mac-dot--green { background: #28c840 !important; }
+
+.mac-code-lang {
+    flex: 1 !important;
+    text-align: center !important;
+    font-size: 0.72rem !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.06em !important;
+    color: rgba(255, 255, 255, 0.4) !important;
+}
+
+.mac-copy-btn {
+    all: unset !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 0.35rem !important;
+    padding: 0.25rem 0.65rem !important;
+    border-radius: var(--jb-radius-pill) !important;
+    font-size: 0.72rem !important;
+    font-weight: 600 !important;
+    color: rgba(255, 255, 255, 0.55) !important;
+    cursor: pointer !important;
+    transition: all 0.2s ease-out !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+.mac-copy-btn:hover {
+    color: #ffffff !important;
+    background: rgba(255, 255, 255, 0.1) !important;
+    border-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+.mac-copy-btn.copied {
+    color: #28c840 !important;
+    border-color: rgba(40, 200, 64, 0.4) !important;
+}
+
 /* Headings - h1 Quiet Slate Glass Capsule Frame */
 main.content h1,
 header h1,
