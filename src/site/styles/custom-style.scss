@@ -594,20 +594,22 @@ input[type="checkbox"] {
 }
 
 /* --------------------------------------------------------------------------
-   11. SPOTLIGHT SEARCH MODAL (DIALED-DOWN SLATE)
+   11. SPOTLIGHT SEARCH MODAL (HEAVY FROSTED GLASS BLUR)
    -------------------------------------------------------------------------- */
 .search-container {
-    background: rgba(0, 0, 0, 0.85) !important;
-    backdrop-filter: blur(20px) !important;
-    -webkit-backdrop-filter: blur(20px) !important;
+    background: rgba(0, 0, 0, 0.65) !important;
+    backdrop-filter: blur(24px) saturate(180%) !important;
+    -webkit-backdrop-filter: blur(24px) saturate(180%) !important;
     z-index: 9999 !important;
 }
 
 .search-box, #search-modal {
-    background: #09090d !important;
-    border: 1px solid rgba(255, 255, 255, 0.16) !important;
+    background: rgba(12, 10, 24, 0.58) !important;
+    backdrop-filter: blur(36px) saturate(210%) !important;
+    -webkit-backdrop-filter: blur(36px) saturate(210%) !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
     border-radius: var(--jb-radius-xl) !important;
-    box-shadow: 0 35px 80px rgba(0, 0, 0, 0.95) !important;
+    box-shadow: 0 35px 90px rgba(0, 0, 0, 0.85), inset 0 1.5px 1px rgba(255, 255, 255, 0.25), inset 0 -1px 0 rgba(255, 255, 255, 0.08) !important;
     max-width: 720px !important;
     width: 90% !important;
     padding: 0 !important;
@@ -617,13 +619,15 @@ input[type="checkbox"] {
 
 .search-header {
     padding: 1.2rem 1.4rem !important;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
-    background: rgba(255, 255, 255, 0.02) !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.12) !important;
+    background: rgba(255, 255, 255, 0.03) !important;
 }
 
 .search-header input#term, #search-input {
-    background: #121218 !important;
-    border: 1px solid rgba(255, 255, 255, 0.16) !important;
+    background: rgba(255, 255, 255, 0.07) !important;
+    backdrop-filter: blur(12px) !important;
+    -webkit-backdrop-filter: blur(12px) !important;
+    border: 1px solid rgba(255, 255, 255, 0.18) !important;
     border-radius: var(--jb-radius-md) !important;
     color: #ffffff !important;
     font-family: "Product Sans", sans-serif !important;
@@ -637,9 +641,9 @@ input[type="checkbox"] {
 
 .search-header input#term:focus, #search-input:focus {
     outline: none !important;
-    border-color: rgba(255, 255, 255, 0.3) !important;
-    background: #181822 !important;
-    box-shadow: 0 0 16px rgba(255, 255, 255, 0.08) !important;
+    border-color: rgba(255, 255, 255, 0.35) !important;
+    background: rgba(255, 255, 255, 0.12) !important;
+    box-shadow: 0 0 18px rgba(255, 255, 255, 0.1) !important;
 }
 
 .search-layout {
