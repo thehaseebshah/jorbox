@@ -175,23 +175,43 @@ body::before {
     filter: blur(80px);
 }
 
-/* Option 1: Interactive Cursor Spotlight Overlay */
+/* Option 1: Interactive Glowing Cursor Spotlight & Laser Dot */
 #cursor-spotlight {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100vw;
-    height: 100vh;
+    width: 480px;
+    height: 480px;
+    margin-top: -240px;
+    margin-left: -240px;
+    border-radius: 50%;
     background: radial-gradient(
-        750px circle at var(--cursor-x, 50vw) var(--cursor-y, 30vh),
-        rgba(254, 1, 9, 0.22) 0%,
-        rgba(126, 34, 206, 0.16) 45%,
-        rgba(34, 1, 126, 0.05) 70%,
-        transparent 85%
+        circle,
+        rgba(254, 1, 9, 0.28) 0%,
+        rgba(126, 34, 206, 0.18) 40%,
+        rgba(34, 1, 126, 0.08) 65%,
+        transparent 80%
     );
     pointer-events: none;
     z-index: 1;
-    transition: opacity 0.3s ease;
+    will-change: transform;
+    filter: blur(12px);
+}
+
+#cursor-dot {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 10px;
+    height: 10px;
+    margin-top: -5px;
+    margin-left: -5px;
+    border-radius: 50%;
+    background: #fe0109;
+    box-shadow: 0 0 12px #fe0109, 0 0 25px #a855f7;
+    pointer-events: none;
+    z-index: 10000;
+    will-change: transform;
 }
 
 main.content, .navbar, .filetree-navbar {
