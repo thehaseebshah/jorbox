@@ -175,49 +175,39 @@ body::before {
     filter: blur(80px);
 }
 
-/* Option 1: Hide OS Cursor & Replace with Custom Glowing Laser Dot & Spotlight */
-@media (hover: hover) and (pointer: fine) {
-    html, body, a, button, input, textarea, select, .search-button, .navbar, * {
-        cursor: none !important;
-    }
-}
-
+/* Option 1: Natural Cursor + Glowing Crimson Spotlight & Trailing Ring */
 #cursor-spotlight {
     position: fixed;
-    top: 0;
-    left: 0;
-    width: 480px;
-    height: 480px;
-    margin-top: -240px;
-    margin-left: -240px;
+    width: 450px;
+    height: 450px;
+    margin-left: -225px;
+    margin-top: -225px;
     border-radius: 50%;
     background: radial-gradient(
         circle,
-        rgba(254, 1, 9, 0.28) 0%,
-        rgba(126, 34, 206, 0.18) 40%,
-        rgba(34, 1, 126, 0.08) 65%,
-        transparent 80%
+        rgba(254, 1, 9, 0.25) 0%,
+        rgba(126, 34, 206, 0.15) 45%,
+        rgba(34, 1, 126, 0.05) 70%,
+        transparent 85%
     );
-    pointer-events: none;
+    pointer-events: none !important;
     z-index: 1;
-    will-change: transform;
-    filter: blur(12px);
+    filter: blur(14px);
+    transition: opacity 0.3s ease;
 }
 
-#cursor-dot {
+#cursor-ring {
     position: fixed;
-    top: 0;
-    left: 0;
-    width: 12px;
-    height: 12px;
-    margin-top: -6px;
-    margin-left: -6px;
+    width: 32px;
+    height: 32px;
+    margin-left: -16px;
+    margin-top: -16px;
     border-radius: 50%;
-    background: #fe0109;
-    box-shadow: 0 0 14px #fe0109, 0 0 28px #a855f7;
-    pointer-events: none;
-    z-index: 100000;
-    will-change: transform;
+    border: 1.5px solid rgba(254, 1, 9, 0.75);
+    box-shadow: 0 0 12px rgba(254, 1, 9, 0.5), 0 0 20px rgba(168, 85, 247, 0.4);
+    pointer-events: none !important;
+    z-index: 99999;
+    transition: transform 0.15s ease-out;
 }
 
 main.content, .navbar, .filetree-navbar {

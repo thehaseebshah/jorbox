@@ -1,56 +1,61 @@
 (function() {
-    function initSpotlight() {
-        if (!document.getElementById("cursor-spotlight")) {
-            const spotlight = document.createElement("div");
-            spotlight.id = "cursor-spotlight";
-            document.body.appendChild(spotlight);
-        }
-        if (!document.getElementById("cursor-dot")) {
-            const dot = document.createElement("div");
-            dot.id = "cursor-dot";
-            document.body.appendChild(dot);
+    function initCursorGlow() {
+        let spotlightEl = document.getElementById("cursor-spotlight");
+        if (!spotlightEl) {
+            spotlightEl = document.createElement("div");
+            spotlightEl.id = "cursor-spotlight";
+            document.body.appendChild(spotlightEl);
         }
 
-        const spotlightEl = document.getElementById("cursor-spotlight");
-        const dotEl = document.getElementById("cursor-dot");
+        let ringEl = document.getElementById("cursor-ring");
+        if (!ringEl) {
+            ringEl = document.createElement("div");
+            ringEl.id = "cursor-ring";
+            document.body.appendChild(ringEl);
+        }
 
-        let currentX = window.innerWidth / 2;
-        let currentY = window.innerHeight / 2;
-        let targetX = currentX;
-        let targetY = currentY;
-        let isTicking = false;
+        let currentX = -1000;
+        let currentY = -1000;
+        let targetX = -1000;
+        let targetY = -1000;
+        let isRunning = false;
 
-        function updatePositions() {
-            currentX += (targetX - currentX) * 0.18;
-            currentY += (targetY - currentY) * 0.18;
+        function animate() {
+            currentX += (targetX - currentX) * 0.15;
+            currentY += (targetY - currentY) * 0.15;
 
-            if (spotlightEl) {
-                spotlightEl.style.transform = `translate3d(${currentX.toFixed(1)}px, ${currentY.toFixed(1)}px, 0)`;
-            }
-            if (dotEl) {
-                dotEl.style.transform = `translate3d(${targetX}px, ${targetY}px, 0)`;
-            }
+            spotlightEl.style.left = `${currentX}px`;
+            spotlightEl.style.top = `${currentY}px`;
+
+            ringEl.style.left = `${targetX}px`;
+            ringEl.style.top = `${targetY}px`;
 
             if (Math.abs(targetX - currentX) > 0.1 || Math.abs(targetY - currentY) > 0.1) {
-                requestAnimationFrame(updatePositions);
+                requestAnimationFrame(animate);
             } else {
-                isTicking = false;
+                isRunning = false;
             }
         }
 
         window.addEventListener("mousemove", (e) => {
             targetX = e.clientX;
             targetY = e.clientY;
-            if (!isTicking) {
-                isTicking = true;
-                requestAnimationFrame(updatePositions);
+
+            if (currentX === -1000) {
+                currentX = targetX;
+                currentY = targetY;
+            }
+
+            if (!isRunning) {
+                isRunning = true;
+                requestAnimationFrame(animate);
             }
         }, { passive: true });
     }
 
     if (document.readyState === "loading") {
-        document.addEventListener("DOMContentLoaded", initSpotlight);
+        document.addEventListener("DOMContentLoaded", initCursorGlow);
     } else {
-        initSpotlight();
+        initCursorGlow();
     }
 })();
