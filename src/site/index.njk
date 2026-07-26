@@ -1,0 +1,374 @@
+---
+permalink: /index.html
+eleventyExcludeFromCollections: true
+---
+<!DOCTYPE html>
+<html lang="{{ meta.mainLanguage }}" class="theme-{{ meta.baseTheme }}">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#08050f">
+        <meta name="description" content="Shabab is an immersive youth experience where young people build confidence, practical skills, friendships, and leadership through action.">
+        <meta property="og:title" content="Shabab">
+        <meta property="og:description" content="Challenges, skills, teamwork, creativity, sport, and adventure—all designed to help young people discover what they are capable of.">
+        <meta property="og:type" content="website">
+        <meta property="og:image" content="{{ meta.siteBaseUrl }}/img/logo-icon.png">
+        <title>Shabab · Discover what you’re capable of</title>
+        <link rel="preload" href="/fonts/product-sans/Product Sans Regular.ttf" as="font" type="font/ttf" crossorigin>
+        <link rel="preload" href="/fonts/product-sans/Product Sans Bold.ttf" as="font" type="font/ttf" crossorigin>
+        <link href="/styles/digital-garden-base.css" rel="stylesheet">
+        <link href="/styles/custom-style.css" rel="stylesheet">
+        <link href="/styles/home.css" rel="stylesheet">
+        <link rel="icon" type="image/png" href="/img/logo-icon.png">
+        <link rel="apple-touch-icon" href="/img/logo-icon.png">
+        <script>document.documentElement.classList.add("js");</script>
+    </head>
+    <body class="theme-{{ meta.baseTheme }} home-page">
+        <a class="home-skip-link" href="#main-content">Skip to content</a>
+
+        <div class="home-atmosphere" aria-hidden="true">
+            <span class="home-atmosphere__glow home-atmosphere__glow--one"></span>
+            <span class="home-atmosphere__glow home-atmosphere__glow--two"></span>
+            <span class="home-atmosphere__grain"></span>
+        </div>
+
+        <header class="home-header" data-home-header>
+            <nav class="home-nav" aria-label="Primary navigation">
+                <a class="home-brand" href="/" aria-label="Shabab home">
+                    <img class="home-brand__icon" src="/img/logo-icon.png" alt="">
+                    <img class="home-brand__wordmark" src="/img/logo-text.png" alt="Shabab">
+                </a>
+
+                <button class="home-menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false" aria-controls="home-nav-menu" data-menu-toggle>
+                    <span></span>
+                    <span></span>
+                </button>
+
+                <div class="home-nav__menu" id="home-nav-menu" data-menu>
+                    <div class="home-nav__links">
+                        <a href="#mission">Mission</a>
+                        <a href="#formation">Experience</a>
+                        <a href="#journey">The journey</a>
+                    </div>
+                    <div class="home-nav__actions">
+                        <button class="home-search-trigger" type="button" onclick="toggleSearch()" aria-label="Search the Shabab blog">
+                            <svg aria-hidden="true" viewBox="0 0 24 24" fill="none">
+                                <circle cx="11" cy="11" r="6.5"></circle>
+                                <path d="m16 16 4 4"></path>
+                            </svg>
+                            <span>Search</span>
+                            <kbd>⌘ K</kbd>
+                        </button>
+                        <a class="home-nav__cta" href="https://abn.org/shabab">
+                            Join Shabab
+                            <svg aria-hidden="true" viewBox="0 0 20 20" fill="none"><path d="M4 10h11M11 6l4 4-4 4"></path></svg>
+                        </a>
+                    </div>
+                </div>
+            </nav>
+        </header>
+
+        {% include "components/searchContainer.njk" %}
+
+        <main class="home-main" id="main-content">
+            <section class="home-hero" aria-labelledby="home-hero-title">
+                <div class="home-hero__copy">
+                    <p class="home-eyebrow home-hero__eyebrow">
+                        <span class="home-eyebrow__signal" aria-hidden="true"></span>
+                        A youth experience like no other
+                    </p>
+                    <h1 id="home-hero-title" class="home-hero__title">
+                        Discover
+                        <span>what you’re capable of.</span>
+                    </h1>
+                    <p class="home-hero__lede">Shabab is where young people build confidence, real-world skills, and lasting friendships through challenges, teamwork, creativity, sport, and adventure.</p>
+                    <div class="home-hero__actions">
+                        <a class="home-button home-button--primary" href="https://abn.org/shabab">
+                            Join Shabab
+                            <svg aria-hidden="true" viewBox="0 0 20 20" fill="none"><path d="M4 10h11M11 6l4 4-4 4"></path></svg>
+                        </a>
+                        <a class="home-button home-button--quiet" href="#mission">
+                            See what’s inside
+                            <span aria-hidden="true">↓</span>
+                        </a>
+                    </div>
+                    <div class="home-hero__promise" aria-label="Shabab values">
+                        <span>Confidence</span>
+                        <i aria-hidden="true"></i>
+                        <span>Character</span>
+                        <i aria-hidden="true"></i>
+                        <span>Capability</span>
+                    </div>
+                </div>
+
+                <div class="home-formation" data-formation aria-label="Three outcomes of the Shabab experience: confidence, capability, and connection">
+                    <div class="home-formation__halo home-formation__halo--outer" aria-hidden="true"></div>
+                    <div class="home-formation__halo home-formation__halo--middle" aria-hidden="true"></div>
+                    <div class="home-formation__route" aria-hidden="true"></div>
+                    <span class="home-formation__coordinate home-formation__coordinate--top" aria-hidden="true">TRY / LEARN / GROW</span>
+                    <span class="home-formation__coordinate home-formation__coordinate--side" aria-hidden="true">ALWAYS IN MOTION</span>
+
+                    <div class="home-formation__core">
+                        <span class="home-formation__core-glow" aria-hidden="true"></span>
+                        <img src="/img/logo-icon.png" alt="">
+                    </div>
+
+                    <article class="home-formation__node home-formation__node--confidence">
+                        <span>01</span>
+                        <div>
+                            <strong>Confidence</strong>
+                            <small>Back yourself</small>
+                        </div>
+                    </article>
+                    <article class="home-formation__node home-formation__node--capability">
+                        <span>02</span>
+                        <div>
+                            <strong>Capability</strong>
+                            <small>Build real skills</small>
+                        </div>
+                    </article>
+                    <article class="home-formation__node home-formation__node--connection">
+                        <span>03</span>
+                        <div>
+                            <strong>Connection</strong>
+                            <small>Grow together</small>
+                        </div>
+                    </article>
+
+                    <p class="home-formation__caption"><span>The Shabab experience</span> Skills · Challenge · Community</p>
+                </div>
+
+                <a class="home-scroll-cue" href="#mission" aria-label="Scroll to the mission">
+                    <span>Explore</span>
+                    <i aria-hidden="true"></i>
+                </a>
+            </section>
+
+            <section class="home-manifesto home-section" id="mission">
+                <div class="home-section__marker" data-reveal>
+                    <span>01</span>
+                    <p>The mission</p>
+                </div>
+                <div class="home-manifesto__grid">
+                    <p class="home-manifesto__statement" data-reveal>
+                        Not just another class.<br>
+                        <span>A place to grow for real.</span>
+                    </p>
+                    <div class="home-manifesto__copy" data-reveal>
+                        <p>Shabab brings hands-on learning, games, sport, creative projects, outdoor challenges, conversations, and community into one evolving experience.</p>
+                        <p>Every session offers something to try, solve, build, discuss, or lead. Those moments add up to stronger skills, better habits, deeper friendships, and confidence that lasts.</p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="home-pillars home-section" id="formation" aria-labelledby="formation-title">
+                <div class="home-section__marker" data-reveal>
+                    <span>02</span>
+                    <p>The experience</p>
+                </div>
+                <div class="home-section-heading">
+                    <div>
+                        <p class="home-kicker" data-reveal>Growth you can feel</p>
+                        <h2 id="formation-title" data-reveal>Bring out what’s<br>already in you.</h2>
+                    </div>
+                    <p data-reveal>Try new things, discover your strengths, and turn practice into confidence you can carry anywhere.</p>
+                </div>
+
+                <div class="home-pillars__grid">
+                    <article class="home-pillar home-pillar--discover" data-reveal data-spotlight>
+                        <div class="home-pillar__top">
+                            <span class="home-pillar__number">01</span>
+                            <svg aria-hidden="true" viewBox="0 0 48 48" fill="none"><circle cx="24" cy="24" r="17"></circle><circle cx="24" cy="24" r="8"></circle><path d="M24 3v6M24 39v6M3 24h6M39 24h6"></path></svg>
+                        </div>
+                        <div>
+                            <h3>Discover</h3>
+                            <p class="home-pillar__translation">Strengths &amp; interests</p>
+                            <p>Try unfamiliar things, ask better questions, and find the interests and abilities that make you come alive.</p>
+                        </div>
+                        <span class="home-pillar__tag">Know what you can do</span>
+                    </article>
+
+                    <article class="home-pillar home-pillar--build" data-reveal data-spotlight>
+                        <div class="home-pillar__top">
+                            <span class="home-pillar__number">02</span>
+                            <svg aria-hidden="true" viewBox="0 0 48 48" fill="none"><path d="M24 41S8 32.7 8 19.4C8 12.9 15.8 9 24 16.2 32.2 9 40 12.9 40 19.4 40 32.7 24 41 24 41Z"></path><path d="M15 24h5l3-6 4 12 3-6h4"></path></svg>
+                        </div>
+                        <div>
+                            <h3>Build</h3>
+                            <p class="home-pillar__translation">Skills &amp; character</p>
+                            <p>Practice communication, teamwork, creativity, discipline, and problem-solving until they become part of you.</p>
+                        </div>
+                        <span class="home-pillar__tag">Practice until it’s yours</span>
+                    </article>
+
+                    <article class="home-pillar home-pillar--lead" data-reveal data-spotlight>
+                        <div class="home-pillar__top">
+                            <span class="home-pillar__number">03</span>
+                            <svg aria-hidden="true" viewBox="0 0 48 48" fill="none"><path d="M10 38V20L24 10l14 10v18"></path><path d="M17 38V25h14v13M6 38h36"></path></svg>
+                        </div>
+                        <div>
+                            <h3>Lead</h3>
+                            <p class="home-pillar__translation">Initiative &amp; impact</p>
+                            <p>Take responsibility, bring people together, make good decisions, and help the whole team move forward.</p>
+                        </div>
+                        <span class="home-pillar__tag">Make everyone better</span>
+                    </article>
+                </div>
+            </section>
+
+            <section class="home-journey home-section" id="journey" aria-labelledby="journey-title">
+                <div class="home-section__marker" data-reveal>
+                    <span>03</span>
+                    <p>The journey</p>
+                </div>
+                <div class="home-journey__layout">
+                    <div class="home-journey__intro">
+                        <p class="home-kicker" data-reveal>Learning that leaves the room</p>
+                        <h2 id="journey-title" data-reveal>The best way to grow is to get involved.</h2>
+                        <p data-reveal>A challenge to take on. A team beside you. A skill to carry forward.</p>
+                    </div>
+
+                    <ol class="home-journey__steps">
+                        <li data-reveal>
+                            <span class="home-journey__index">01</span>
+                            <div>
+                                <p class="home-journey__verb">Connect</p>
+                                <h3>Find your people.</h3>
+                                <p>Build genuine friendships through shared experiences, team challenges, laughter, and time spent together.</p>
+                            </div>
+                            <span class="home-journey__glyph" aria-hidden="true">↗</span>
+                        </li>
+                        <li data-reveal>
+                            <span class="home-journey__index">02</span>
+                            <div>
+                                <p class="home-journey__verb">Explore</p>
+                                <h3>Try what you haven’t tried.</h3>
+                                <p>Move from public speaking to outdoor skills, creative work, sports, strategy, and new ways of thinking.</p>
+                            </div>
+                            <span class="home-journey__glyph" aria-hidden="true">◎</span>
+                        </li>
+                        <li data-reveal>
+                            <span class="home-journey__index">03</span>
+                            <div>
+                                <p class="home-journey__verb">Build</p>
+                                <h3>Turn practice into real skills.</h3>
+                                <p>Work with others, solve problems, communicate clearly, create useful things, and learn by doing.</p>
+                            </div>
+                            <span class="home-journey__glyph" aria-hidden="true">◇</span>
+                        </li>
+                        <li data-reveal>
+                            <span class="home-journey__index">04</span>
+                            <div>
+                                <p class="home-journey__verb">Stretch</p>
+                                <h3>Find out what you can handle.</h3>
+                                <p>Sport, adventure, camps, and unfamiliar challenges build resilience, discipline, and self-belief.</p>
+                            </div>
+                            <span class="home-journey__glyph" aria-hidden="true">△</span>
+                        </li>
+                        <li data-reveal>
+                            <span class="home-journey__index">05</span>
+                            <div>
+                                <p class="home-journey__verb">Lead</p>
+                                <h3>Step forward and bring others with you.</h3>
+                                <p>Take responsibility, help the team succeed, and learn how your choices can improve the group around you.</p>
+                            </div>
+                            <span class="home-journey__glyph" aria-hidden="true">✦</span>
+                        </li>
+                    </ol>
+                </div>
+            </section>
+
+            <section class="home-proof home-section" aria-labelledby="proof-title">
+                <div class="home-section__marker" data-reveal>
+                    <span>04</span>
+                    <p>In practice</p>
+                </div>
+                <div class="home-proof__header">
+                    <div>
+                        <p class="home-kicker" data-reveal>One experience, many dimensions</p>
+                        <h2 id="proof-title" data-reveal>More ways to grow<br>than you can imagine.</h2>
+                    </div>
+                    <p data-reveal>Every activity, challenge, and skill opens a new door—to greater confidence, stronger capability, and a closer community.</p>
+                </div>
+
+                <div class="home-metrics" data-reveal>
+                    <article>
+                        <strong><span data-count="22">22</span></strong>
+                        <p>cities</p>
+                    </article>
+                    <article>
+                        <strong><span data-count="50">50</span><sup>+</sup></strong>
+                        <p>parks</p>
+                    </article>
+                    <article>
+                        <strong><span data-count="1000">1000</span><sup>+</sup></strong>
+                        <p>youth trained</p>
+                    </article>
+                </div>
+
+                <div class="home-bento">
+                    <article class="home-bento__card home-bento__card--jorbox" data-reveal data-spotlight>
+                        <div class="home-bento__label"><span></span> One part of Shabab</div>
+                        <div class="home-bento__content">
+                            <p class="home-bento__overline">JorBox</p>
+                            <h3>Connection through action.</h3>
+                            <p>JorBox is the park activity library designed to create <em>jor</em>—real connection—through games, challenges, teamwork, and shared wins.</p>
+                        </div>
+                        <div class="home-bento__rings" aria-hidden="true"><i></i><i></i><i></i></div>
+                    </article>
+
+                    <article class="home-bento__card home-bento__card--guidance" data-reveal data-spotlight>
+                        <div class="home-bento__icon" aria-hidden="true">
+                            <svg viewBox="0 0 48 48" fill="none"><circle cx="18" cy="18" r="6"></circle><circle cx="34" cy="16" r="4"></circle><path d="M7 39c1-8 5-12 11-12s10 4 11 12M28 27c6-2 11 2 12 9"></path></svg>
+                        </div>
+                        <p class="home-bento__overline">People-powered</p>
+                        <h3>The right guide changes the journey.</h3>
+                        <p>Sessions are led by people who know how to challenge, encourage, and create the space for every participant to grow.</p>
+                    </article>
+
+                    <article class="home-bento__card home-bento__card--real" data-reveal data-spotlight>
+                        <div class="home-bento__icon" aria-hidden="true">
+                            <svg viewBox="0 0 48 48" fill="none"><path d="m8 35 11-18 8 12 5-7 8 13H8Z"></path><path d="M24 9v11M20 13l4-4 4 4"></path></svg>
+                        </div>
+                        <p class="home-bento__overline">Activity-first</p>
+                        <h3>Tested in real life.</h3>
+                        <p>Teamwork under pressure. Courage outdoors. Reflection after failure. Skills become character when they are lived.</p>
+                    </article>
+                </div>
+            </section>
+
+            <section class="home-final" aria-labelledby="home-final-title">
+                <div class="home-final__beam" aria-hidden="true"></div>
+                <div class="home-final__mark" aria-hidden="true">
+                    <img src="/img/logo-icon.png" alt="">
+                </div>
+                <p class="home-kicker" data-reveal>There is more in you</p>
+                <h2 id="home-final-title" data-reveal>Your next level<br><span>starts here.</span></h2>
+                <p data-reveal>Show up curious. Try something new. Leave stronger.</p>
+                <a class="home-button home-button--primary" href="https://abn.org/shabab" data-reveal>
+                    Join Shabab
+                    <svg aria-hidden="true" viewBox="0 0 20 20" fill="none"><path d="M4 10h11M11 6l4 4-4 4"></path></svg>
+                </a>
+            </section>
+        </main>
+
+        <footer class="home-footer">
+            <a class="home-brand home-brand--footer" href="/" aria-label="Shabab home">
+                <img class="home-brand__icon" src="/img/logo-icon.png" alt="">
+                <img class="home-brand__wordmark" src="/img/logo-text.png" alt="Shabab">
+            </a>
+            <p>Confidence. Character. Capability.</p>
+            <div class="home-footer__links">
+                <a href="#mission">Mission</a>
+                <a href="#journey">Journey</a>
+                <button type="button" onclick="toggleSearch()">Search</button>
+            </div>
+            <small>© <span data-current-year>2026</span> Shabab</small>
+        </footer>
+
+        <script src="/scripts/topographic-map.js" defer></script>
+        <script src="/scripts/cursor-trail.js" defer></script>
+        <script src="/scripts/quick-dock.js" defer></script>
+        <script src="/scripts/home.js" defer></script>
+    </body>
+</html>

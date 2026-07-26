@@ -12,7 +12,7 @@
   dgShowTags = "true"
   dgShowInlineTitle = "false"
   dgHomeLink = "true"
-  SITE_NAME_HEADER = "Shabab JorBox"
+  SITE_NAME_HEADER = "Shabab"
 
 [[redirects]]
   from = "/api/*"

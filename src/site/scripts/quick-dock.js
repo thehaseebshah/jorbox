@@ -34,7 +34,7 @@
         document.body.appendChild(dock);
 
         const themeButton = document.getElementById("dock-theme");
-        const savedTheme = localStorage.getItem("jorbox-theme");
+        const savedTheme = localStorage.getItem("shabab-theme") || localStorage.getItem("jorbox-theme");
         let currentTheme = savedTheme === "light" || savedTheme === "dark"
             ? savedTheme
             : document.body.classList.contains("theme-light") ? "light" : "dark";
@@ -56,7 +56,8 @@
         themeButton.addEventListener("click", () => {
             const nextTheme = currentTheme === "dark" ? "light" : "dark";
             applyTheme(nextTheme);
-            localStorage.setItem("jorbox-theme", nextTheme);
+            localStorage.setItem("shabab-theme", nextTheme);
+            localStorage.removeItem("jorbox-theme");
         });
 
         // 1. Scroll to Top
@@ -67,16 +68,15 @@
             window.scrollTo({ top: 0, behavior: "smooth" });
         });
 
-        // Show/Hide Scroll to top based on scroll position
-        window.addEventListener("scroll", () => {
-            if (window.scrollY > 300) {
-                scrollTopBtn.classList.add("visible");
-                if (scrollDivider) scrollDivider.classList.add("visible");
-            } else {
-                scrollTopBtn.classList.remove("visible");
-                if (scrollDivider) scrollDivider.classList.remove("visible");
-            }
-        }, { passive: true });
+        function updateScrollTopVisibility() {
+            const isVisible = window.scrollY > 300;
+            scrollTopBtn.classList.toggle("visible", isVisible);
+            if (scrollDivider) scrollDivider.classList.toggle("visible", isVisible);
+        }
+
+        updateScrollTopVisibility();
+        window.addEventListener("scroll", updateScrollTopVisibility, { passive: true });
+        window.addEventListener("pageshow", updateScrollTopVisibility);
 
         // 3. Share Link
         const shareBtn = document.getElementById("dock-share");

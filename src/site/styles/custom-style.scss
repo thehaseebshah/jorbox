@@ -1,5 +1,5 @@
 /* ==========================================================================
-   SHABAB JORBOX — ROYAL CRIMSON COLOR PALETTE
+   SHABAB — ROYAL CRIMSON COLOR PALETTE
    Typography: Product Sans (Global)
    Color Palette:
      - Primary Deep Royal Violet: #22017e
@@ -492,25 +492,19 @@ main.content header::after {
 }
 
 #dock-scroll-top {
-    opacity: 0;
-    pointer-events: none;
-    transform: scale(0.8);
-    transition: all 0.25s ease-out !important;
+    display: none !important;
 }
 
 #dock-scroll-top.visible {
-    opacity: 1;
-    pointer-events: auto;
-    transform: scale(1);
+    display: inline-flex !important;
 }
 
 #dock-divider-scroll {
-    opacity: 0;
-    transition: opacity 0.25s ease-out !important;
+    display: none !important;
 }
 
 #dock-divider-scroll.visible {
-    opacity: 1;
+    display: block !important;
 }
 
 .dock-divider {

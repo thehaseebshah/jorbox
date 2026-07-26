@@ -65,10 +65,10 @@ function getAnchorAttributes(filePath, linkTitle) {
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
   const title = linkTitle ? linkTitle : fileName;
   const fileSlug = fileName.replace(/\.(md|canvas)$/i, "");
-  let permalink = `/${slugify(fileSlug)}/`;
+  let permalink = `/blog/${slugify(fileSlug)}/`;
   let deadLink = false;
   try {
-    const startPath = "./src/site/notes/";
+    const startPath = "./src/site/blog/";
     let fullPath;
     if (fileName.endsWith(".md") || fileName.endsWith(".canvas")) {
       fullPath = `${startPath}${fileName}`;
@@ -120,6 +120,10 @@ const markdownFileTypeRegex = /\.(md|markdown)$/i;
 const isMarkdownPage = (inputPath) => inputPath && inputPath.match(markdownFileTypeRegex);
 
 module.exports = function(eleventyConfig) {
+  eleventyConfig.addCollection("blog", (collectionApi) =>
+    collectionApi.getFilteredByGlob("./src/site/blog/**/*.md")
+  );
+
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });

@@ -6,6 +6,7 @@ module.exports = async (data) => {
   if (baseUrl && !baseUrl.startsWith("http")) {
     baseUrl = "https://" + baseUrl;
   }
+  baseUrl = baseUrl.replace(/\/+$/, "");
   let themeStyle = globSync("src/site/styles/_theme.*.css")[0] || "";
 
   // Check for logo file (supports multiple image formats)
@@ -94,7 +95,7 @@ module.exports = async (data) => {
     noteIconsSettings,
     timestampSettings,
     baseTheme: process.env.BASE_THEME || "dark",
-    siteName: "Shabab JorBox",
+    siteName: "Shabab",
     siteLogoPath: logoPath,
     mainLanguage: process.env.SITE_MAIN_LANGUAGE || "en",
     siteBaseUrl: baseUrl,
