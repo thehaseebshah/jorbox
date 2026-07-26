@@ -272,12 +272,12 @@ a.header-logo-link:focus,
 
 .header-logo-link:hover .header-logo-icon,
 .header-logo-link:focus .header-logo-icon {
-    filter: drop-shadow(0 0 8px rgba(254, 1, 9, 0.85)) drop-shadow(0 0 16px rgba(126, 34, 206, 0.9)) !important;
+    filter: drop-shadow(0 0 6px rgba(254, 1, 9, 0.35)) drop-shadow(0 0 10px rgba(126, 34, 206, 0.3)) !important;
 }
 
 .header-logo-link:hover .header-logo-text,
 .header-logo-link:focus .header-logo-text {
-    filter: drop-shadow(0 0 6px rgba(254, 1, 9, 0.8)) drop-shadow(0 0 14px rgba(126, 34, 206, 0.85)) !important;
+    filter: drop-shadow(0 0 5px rgba(254, 1, 9, 0.3)) drop-shadow(0 0 8px rgba(126, 34, 206, 0.25)) !important;
 }
 
 /* --------------------------------------------------------------------------
