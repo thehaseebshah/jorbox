@@ -566,7 +566,6 @@ input[type="checkbox"] {
 .search-box, #search-modal {
     background: #09090d !important;
     border: 1px solid rgba(255, 255, 255, 0.16) !important;
-    border-top: 3px solid var(--jb-crimson) !important;
     border-radius: var(--jb-radius-xl) !important;
     box-shadow: 0 35px 80px rgba(0, 0, 0, 0.95) !important;
     max-width: 720px !important;
@@ -598,9 +597,9 @@ input[type="checkbox"] {
 
 .search-header input#term:focus, #search-input:focus {
     outline: none !important;
-    border-color: var(--jb-crimson) !important;
+    border-color: rgba(255, 255, 255, 0.3) !important;
     background: #181822 !important;
-    box-shadow: 0 0 20px rgba(254, 1, 9, 0.35) !important;
+    box-shadow: 0 0 16px rgba(255, 255, 255, 0.08) !important;
 }
 
 .search-layout {
@@ -621,8 +620,8 @@ input[type="checkbox"] {
 
 .search-results-panel .search-link:hover, .search-results-panel .search-link.active {
     background: rgba(34, 1, 126, 0.4) !important;
-    border-color: var(--jb-crimson) !important;
-    border-left: 3px solid var(--jb-crimson) !important;
+    border-color: rgba(255, 255, 255, 0.25) !important;
+    border-left: 3px solid rgba(255, 255, 255, 0.4) !important;
 }
 
 .search-results-panel .search-link .title {
@@ -638,10 +637,10 @@ input[type="checkbox"] {
 }
 
 .search-results-panel .search-link mark {
-    background: var(--jb-crimson) !important;
+    background: rgba(34, 1, 126, 0.6) !important;
     color: #ffffff !important;
     border-radius: 3px !important;
-    padding: 0.1rem 0.3rem !important;
+    padding: 0.1rem 0.35rem !important;
 }
 
 .search-preview-panel {
