@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/surfing/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Surfing
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LXF4h3M`
-- **Edit URL:** https://www.canva.com/d/CLFu_ZaQ0ros_Ps
-- **View URL:** https://www.canva.com/d/MxyiElykErmmzIg
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

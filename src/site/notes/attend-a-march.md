@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/attend-a-march/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Attend a March
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LTYY72E`
-- **Edit URL:** https://www.canva.com/d/kUpFBWmQC3qZfag
-- **View URL:** https://www.canva.com/d/J01qG9l5_YqAE3Z
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/doley-sholey/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Doley Sholey
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LS4guC8`
-- **Edit URL:** https://www.canva.com/d/feH9qCl8ZWVYN9c
-- **View URL:** https://www.canva.com/d/YScCCzrC1A4suXn
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

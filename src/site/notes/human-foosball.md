@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/human-foosball/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Human Foosball
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LXAtNcc`
-- **Edit URL:** https://www.canva.com/d/ciPfmYXS7ilfDxY
-- **View URL:** https://www.canva.com/d/rmisry8SlQO1JYm
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

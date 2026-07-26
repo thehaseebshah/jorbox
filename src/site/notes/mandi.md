@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/mandi/","dg-note-properties":{"type":"deck","final":false}}
+dg-publish: true
+type: deck
+final: false
 ---
-
 
 # Mandi
 
-- **Source:** Shabab Skills / Activities / Deck
-- **Design ID:** `DAG5Lf4Kj1g`
-- **Edit URL:** https://www.canva.com/d/4kxxppz6CXvlMVm
-- **View URL:** https://www.canva.com/d/EochUBxPNPhhUZD
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Pit
 

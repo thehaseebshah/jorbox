@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/gupshup/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # GupShup
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5Lb8oGgU`
-- **Edit URL:** https://www.canva.com/d/EY9sxqL5VlRHkSS
-- **View URL:** https://www.canva.com/d/_XCZFUZdyjEn1Sr
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

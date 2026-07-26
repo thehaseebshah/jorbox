@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/marathon/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Marathon
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LbqaXpA`
-- **Edit URL:** https://www.canva.com/d/vIwHHUFF9JK4n_Z
-- **View URL:** https://www.canva.com/d/uzoWlIgByBeLFSC
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

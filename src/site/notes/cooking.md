@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cooking/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Cooking
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LT9es-8`
-- **Edit URL:** https://www.canva.com/d/e_33-YYo_W86tgg
-- **View URL:** https://www.canva.com/d/VqtaCKjUvepNxLQ
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

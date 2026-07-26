@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/ready-go/","dg-note-properties":{"type":"childhood","final":false}}
+dg-publish: true
+type: childhood
+final: false
 ---
-
 
 # Ready Go
 
-- **Source:** Shabab Skills / Activities / Childhood
-- **Design ID:** `DAG5LbBot38`
-- **Edit URL:** https://www.canva.com/d/FQlhUmxpYXHqCzO
-- **View URL:** https://www.canva.com/d/8hlAOSopjkAKgVs
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

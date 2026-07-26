@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/oonchi-imarat-misc/","dg-note-properties":{"type":"miscellaneous","final":false}}
+dg-publish: true
+type: miscellaneous
+final: false
 ---
-
 
 # Oonchi Imarat (Tallest Building)
 
-- **Source:** Shabab Skills / Activities / Miscellaneous
-- **Design ID:** `DAG5LSaKFhI`
-- **Edit URL:** https://www.canva.com/d/v2LPF3kQwdhKINO
-- **View URL:** https://www.canva.com/d/MIf5rT2sQuS_Ayy
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Goal:** Create the tallest building
 

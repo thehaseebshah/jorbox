@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/night-hike/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Night Hike
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LSzckhQ`
-- **Edit URL:** https://www.canva.com/d/8hfbKR0bGsvFymK
-- **View URL:** https://www.canva.com/d/ac-qnvfRTrLiNWV
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

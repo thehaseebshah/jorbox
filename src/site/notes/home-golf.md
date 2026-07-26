@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/home-golf/","dg-note-properties":{"type":"sports","final":true}}
+dg-publish: true
+type: sports
+final: true
 ---
-
 
 # Home Golf
 
-- **Source:** Shabab Skills / Activities / Sports / Done
-- **Design ID:** `DAG5LXthGj4`
-- **Edit URL:** https://www.canva.com/d/7ld_Xx1uZetFCtd
-- **View URL:** https://www.canva.com/d/Cos-tpt60Ty1sX_
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **How to Play:** Design a golf course at home and play with friends, count how many hits it takes to reach each hole by each person.
 

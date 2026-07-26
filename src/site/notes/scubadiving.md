@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/scubadiving/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Scubadiving
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LXHZ3JI`
-- **Edit URL:** https://www.canva.com/d/tdSFKEvoedI9A6c
-- **View URL:** https://www.canva.com/d/LUMPl37jYcIRrOn
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

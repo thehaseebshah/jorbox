@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/bach-ke/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Bach Ke
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5Lb9VAb0`
-- **Edit URL:** https://www.canva.com/d/x_Fm6uUT3t2zD9Q
-- **View URL:** https://www.canva.com/d/HF54O2Y592QZED_
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

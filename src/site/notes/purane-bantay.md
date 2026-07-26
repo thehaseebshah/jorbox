@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/purane-bantay/","dg-note-properties":{"type":"childhood","final":false}}
+dg-publish: true
+type: childhood
+final: false
 ---
-
 
 # Purane Bantay
 
-- **Source:** Shabab Skills / Activities / Childhood
-- **Design ID:** `DAG5LQKJhpg`
-- **Edit URL:** https://www.canva.com/d/efwoegqYt4grH1_
-- **View URL:** https://www.canva.com/d/fM2V8TjtT5x5SsA
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Goldaire men bantay rankhna
 

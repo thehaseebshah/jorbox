@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cheel-ki-nazar/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Cheel ki Nazar
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LSxlUr4`
-- **Edit URL:** https://www.canva.com/d/Wz0RlllV7eJygFO
-- **View URL:** https://www.canva.com/d/Ljd8mLd3vKUB-Jx
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Nerves of Steel
 

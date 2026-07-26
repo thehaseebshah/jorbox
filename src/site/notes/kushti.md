@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/kushti/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Kushti
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5La80pUU`
-- **Edit URL:** https://www.canva.com/d/Fhfx1NIlyS13SiV
-- **View URL:** https://www.canva.com/d/ei-CzXdCUrTcdOn
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

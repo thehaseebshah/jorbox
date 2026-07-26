@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/aabdoz/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Aabdoz
 
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG6P9VxLvI`
-- **Edit URL:** https://www.canva.com/d/GlqtDLisA2NP4ZQ
-- **View URL:** https://www.canva.com/d/9J0-q4VNgzCK92h
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

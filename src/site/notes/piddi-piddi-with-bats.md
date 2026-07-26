@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/piddi-piddi-with-bats/","dg-note-properties":{"type":"childhood","final":false}}
+dg-publish: true
+type: childhood
+final: false
 ---
-
 
 # Piddi Piddi with Bats
 
-- **Source:** Shabab Skills / Activities / Childhood
-- **Design ID:** `DAG5Lb0ksZc`
-- **Edit URL:** https://www.canva.com/d/wEJq1CtJwoC-EZM
-- **View URL:** https://www.canva.com/d/q0tWd9pFu3Xj2ya
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

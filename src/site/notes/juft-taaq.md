@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/juft-taaq/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Juft Taaq
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5Ld5IV6o`
-- **Edit URL:** https://www.canva.com/d/xd1Nhw7yfP-Sv-2
-- **View URL:** https://www.canva.com/d/LNVfGHt8c2MCUR9
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

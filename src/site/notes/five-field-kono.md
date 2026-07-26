@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/five-field-kono/","dg-note-properties":{"type":"kaghaz","final":false}}
+dg-publish: true
+type: kaghaz
+final: false
 ---
-
 
 # Five Field Kono
 
-- **Source:** Shabab Skills / Activities / Kaghaz
-- **Design ID:** `DAG5LXbb_MA`
-- **Edit URL:** https://www.canva.com/d/Pd5DvbBQrgkGEM2
-- **View URL:** https://www.canva.com/d/Z22qoDeVboQWUU0
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 10+
 - **Group Size:** 2

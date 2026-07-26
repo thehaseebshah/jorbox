@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/paragliding/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Paragliding
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LZKMJyE`
-- **Edit URL:** https://www.canva.com/d/BOhexZ2wE_tRcc4
-- **View URL:** https://www.canva.com/d/TkHf2fW5JTlUCeu
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

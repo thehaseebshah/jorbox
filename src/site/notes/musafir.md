@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/musafir/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Musafir
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LajEbA4`
-- **Edit URL:** https://www.canva.com/d/FZGzRK5AVy94Usr
-- **View URL:** https://www.canva.com/d/zLKg_yq0ff4kx5E
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/bowling/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Bowling
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LdIgU2s`
-- **Edit URL:** https://www.canva.com/d/KtxGIlVuzAzHPuy
-- **View URL:** https://www.canva.com/d/d5rwX9EtcDT7NFA
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

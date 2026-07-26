@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/gorakh-dhanda/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Gorakh Dhanda
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LTSUQ04`
-- **Edit URL:** https://www.canva.com/d/5VX2aTz_Tp9lDry
-- **View URL:** https://www.canva.com/d/AeXry9K34vUno90
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

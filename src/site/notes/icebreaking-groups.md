@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/icebreaking-groups/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Icebreaking Groups
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LX8F8jA`
-- **Edit URL:** https://www.canva.com/d/uGglU1KV3ivEJAf
-- **View URL:** https://www.canva.com/d/uMhHYky_qQhHrbO
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

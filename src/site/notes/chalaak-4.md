@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/chalaak-4/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Chalaak 4
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LX-nUu0`
-- **Edit URL:** https://www.canva.com/d/9A9DOE_vEv1NFn3
-- **View URL:** https://www.canva.com/d/PuWQe-GcAta2Xih
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

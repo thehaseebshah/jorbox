@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/antakshari-25/","dg-note-properties":{"type":"childhood","final":false}}
+dg-publish: true
+type: childhood
+final: false
 ---
-
 
 # Antakshari 25
 
-- **Source:** Shabab Skills / Activities / Childhood
-- **Design ID:** `DAG5LRq3muw`
-- **Edit URL:** https://www.canva.com/d/Knt5Mqqan9soFzr
-- **View URL:** https://www.canva.com/d/dRFGVcm1QhLAwip
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Akinator
 

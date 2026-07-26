@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/survival-camping/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Survival Camping
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LeuRiv8`
-- **Edit URL:** https://www.canva.com/d/amfLeYVV0wH-CrZ
-- **View URL:** https://www.canva.com/d/VpAfQDAfqKyQEDv
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

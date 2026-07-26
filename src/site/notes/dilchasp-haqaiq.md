@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/dilchasp-haqaiq/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Dilchasp Haqaiq
 
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG5LX24OJs`
-- **Edit URL:** https://www.canva.com/d/Nly2eaPz_dhgSDK
-- **View URL:** https://www.canva.com/d/IcSwRjJtOJUmt3z
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Fun Facts
 

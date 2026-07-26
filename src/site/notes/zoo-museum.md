@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/zoo-museum/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Zoo/Meuseum
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LZXliuo`
-- **Edit URL:** https://www.canva.com/d/n0PoMeRDS8RGBAp
-- **View URL:** https://www.canva.com/d/GnnkJUD54pWQVvU
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

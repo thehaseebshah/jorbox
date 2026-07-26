@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/banao-boojho/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Banao Boojho
 
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG5LWbq2fk`
-- **Edit URL:** https://www.canva.com/d/Y_6hdjMOy61osoR
-- **View URL:** https://www.canva.com/d/jXvOaCeCqBcIbXU
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Catch Sketch
 

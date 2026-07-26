@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/haiwani-pattay/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Haiwani Pattay
 
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG5LaHLM0s`
-- **Edit URL:** https://www.canva.com/d/uC2JucnBCrIUvli
-- **View URL:** https://www.canva.com/d/WZmJgv7oTWlZkQL
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Cards Against Humanity
 

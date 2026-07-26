@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/khalai-mechanic/","dg-note-properties":{"type":"deck","final":false}}
+dg-publish: true
+type: deck
+final: false
 ---
-
 
 # Khalai Mechanic
 
-- **Source:** Shabab Skills / Activities / Deck
-- **Design ID:** `DAG6QBcynh8`
-- **Edit URL:** https://www.canva.com/d/RPfmNOPjm8b01px
-- **View URL:** https://www.canva.com/d/Ey5M2nlUnX7REA9
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

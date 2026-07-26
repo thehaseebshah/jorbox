@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/gol-gappay/","dg-note-properties":{"type":"outdoor","final":true}}
+dg-publish: true
+type: outdoor
+final: true
 ---
-
 
 # Gol Gappay
 
-- **Source:** Shabab Skills / Activities / Outdoor / Done
-- **Design ID:** `DAG5LavAhCE`
-- **Edit URL:** https://www.canva.com/d/mBOPQe9Ukg1WCYo
-- **View URL:** https://www.canva.com/d/YYm0uFP18qop91n
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 5+
 - **Group Size:** 4+

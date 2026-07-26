@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/aik-rangi-soch-2/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Aik Rangi Soch (v2)
 
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG5Lb0MFJg`
-- **Edit URL:** https://www.canva.com/d/tb1FU7tmlfrUszv
-- **View URL:** https://www.canva.com/d/MJTwTSofoyL3oSg
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Wavelength
 

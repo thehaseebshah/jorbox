@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/circle-se-nikalo/","dg-note-properties":{"type":"childhood","final":false}}
+dg-publish: true
+type: childhood
+final: false
 ---
-
 
 # Circle se Nikalo
 
-- **Source:** Shabab Skills / Activities / Childhood
-- **Design ID:** `DAG5LT2KuLI`
-- **Edit URL:** https://www.canva.com/d/iCLKC_dENKdtgqe
-- **View URL:** https://www.canva.com/d/2bpqLQNa58DizLF
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Rule:** Score teams based on total time
 

@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/tadbeer/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Tadbeer
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LTkVBEo`
-- **Edit URL:** https://www.canva.com/d/o22FkhT1fxQvWP0
-- **View URL:** https://www.canva.com/d/LFH4V-WeSbFUlgm
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Use two carpets, Group ISSB Challenge
 

@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/sparring/","dg-note-properties":{"type":"sports","final":true}}
+dg-publish: true
+type: sports
+final: true
 ---
-
 
 # Sparring
 
-- **Source:** Shabab Skills / Activities / Sports / Done
-- **Design ID:** `DAG5LWq9LFc`
-- **Edit URL:** https://www.canva.com/d/JcIFnV2v3xyqn6X
-- **View URL:** https://www.canva.com/d/Jv8_uw1YvN-KUdd
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 5+
 - **Group Size:** 2+

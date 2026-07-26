@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/charity-visits/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Charity Visits
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LUFxBQA`
-- **Edit URL:** https://www.canva.com/d/CXZUCmDRw0-gor9
-- **View URL:** https://www.canva.com/d/eCJ6Dzublzy7tRz
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

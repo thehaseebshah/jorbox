@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/jangi-qaidi/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Jangi Qaidi
 
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG5LTDD8gg`
-- **Edit URL:** https://www.canva.com/d/PiAJKZXctIZw2P7
-- **View URL:** https://www.canva.com/d/CG0ohxcYj5db0nE
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Codenames
 

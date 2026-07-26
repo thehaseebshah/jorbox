@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/tez-tareeni/","dg-note-properties":{"type":"deck","final":false}}
+dg-publish: true
+type: deck
+final: false
 ---
-
 
 # Tez Tareeni
 
-- **Source:** Shabab Skills / Activities / Deck
-- **Design ID:** `DAG5LblkZTA`
-- **Edit URL:** https://www.canva.com/d/paGyYkCcunN6c_V
-- **View URL:** https://www.canva.com/d/Au70ZGRFcT2UIey
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Speed
 

@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/chala-kooch/","dg-note-properties":{"type":"childhood","final":false}}
+dg-publish: true
+type: childhood
+final: false
 ---
-
 
 # Chala Kooch
 
-- **Source:** Shabab Skills / Activities / Childhood
-- **Design ID:** `DAG5LbK1OkA`
-- **Edit URL:** https://www.canva.com/d/IAoapgEMnlJuDFW
-- **View URL:** https://www.canva.com/d/5MMH-1GTR-CU6m0
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

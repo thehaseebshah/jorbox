@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/swimming-volleyball/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Swimming Volleyball
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LfX0F-g`
-- **Edit URL:** https://www.canva.com/d/JPxknS0keqSwy1W
-- **View URL:** https://www.canva.com/d/z3blH5khXSVlEDe
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

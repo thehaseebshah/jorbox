@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/teen-ball/","dg-note-properties":{"type":"childhood","final":false}}
+dg-publish: true
+type: childhood
+final: false
 ---
-
 
 # Teen Ball
 
-- **Source:** Shabab Skills / Activities / Childhood
-- **Design ID:** `DAG5LdFAveQ`
-- **Edit URL:** https://www.canva.com/d/0Tj0i1QkHs6nrzv
-- **View URL:** https://www.canva.com/d/2FUPaa4JcRPgutI
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

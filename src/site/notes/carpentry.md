@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/carpentry/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Carpentary
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LR88puY`
-- **Edit URL:** https://www.canva.com/d/RQtZwTqkbXPCg88
-- **View URL:** https://www.canva.com/d/p5muxvUNbeep2Kh
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

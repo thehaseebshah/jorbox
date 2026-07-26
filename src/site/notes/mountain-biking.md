@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/mountain-biking/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Mountain Biking
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LZqBrIc`
-- **Edit URL:** https://www.canva.com/d/IL8hcOUvzOefMm8
-- **View URL:** https://www.canva.com/d/5MaffTZSQUajZfi
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

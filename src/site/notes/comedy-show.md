@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/comedy-show/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Comedy Show
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LWTbwvQ`
-- **Edit URL:** https://www.canva.com/d/HezyJgyU6ySqh_l
-- **View URL:** https://www.canva.com/d/Id4J1jzb3Zr9yEu
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

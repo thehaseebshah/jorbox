@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/jasoosi-club/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Jasoosi Club
 
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG5LYdsMPQ`
-- **Edit URL:** https://www.canva.com/d/oQJq8RWG_LNiWYU
-- **View URL:** https://www.canva.com/d/hfm0omVLcSu0gNm
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Spyfall
 

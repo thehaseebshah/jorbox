@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/stargazing/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Stargazing
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LUgu_QM`
-- **Edit URL:** https://www.canva.com/d/mq7Nksa8qXfDSio
-- **View URL:** https://www.canva.com/d/g9EiC9Ck57tqgw1
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

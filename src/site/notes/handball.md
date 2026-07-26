@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/handball/","dg-note-properties":{"type":"sports","final":true}}
+dg-publish: true
+type: sports
+final: true
 ---
-
 
 # Handball
 
-- **Source:** Shabab Skills / Activities / Sports / Done
-- **Design ID:** `DAG5LaMkm3k`
-- **Edit URL:** https://www.canva.com/d/kZXlEA1gju3vg8y
-- **View URL:** https://www.canva.com/d/sihKxtJPMHJhNba
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 8+
 - **Group Size:** 4+

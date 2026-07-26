@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/catan/","dg-note-properties":{"type":"board","final":false}}
+dg-publish: true
+type: board
+final: false
 ---
-
 
 # Catan
 
-- **Source:** Shabab Skills / Activities / Board
-- **Design ID:** `DAG5LYKQEgs`
-- **Edit URL:** https://www.canva.com/d/gdFyHYjF7zoLz23
-- **View URL:** https://www.canva.com/d/3BbotPgvUn-Aq2-
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 2-4

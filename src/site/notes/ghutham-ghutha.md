@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/ghutham-ghutha/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Ghutham Ghutha
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LTRh1IM`
-- **Edit URL:** https://www.canva.com/d/-AEel2kgDiPfwI9
-- **View URL:** https://www.canva.com/d/4tfrvpVlCN9hW6S
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Twister
 

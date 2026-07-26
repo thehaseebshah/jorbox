@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/teen-paanch-saat/","dg-note-properties":{"type":"kaghaz","final":false}}
+dg-publish: true
+type: kaghaz
+final: false
 ---
-
 
 # Teen Paanch Saat
 
-- **Source:** Shabab Skills / Activities / Kaghaz
-- **Design ID:** `DAG5LbWtLvU`
-- **Edit URL:** https://www.canva.com/d/m9gzej5vXNtqcLL
-- **View URL:** https://www.canva.com/d/lxaUl1F-VptUexi
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 10+
 - **Group Size:** 2+

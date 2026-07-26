@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/hiking/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Hiking
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LYunORw`
-- **Edit URL:** https://www.canva.com/d/xqBziet-XuJ7ZGW
-- **View URL:** https://www.canva.com/d/71o8-98XVolwRot
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

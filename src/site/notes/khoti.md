@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/khoti/","dg-note-properties":{"type":"deck","final":false}}
+dg-publish: true
+type: deck
+final: false
 ---
-
 
 # Khoti
 
-- **Source:** Shabab Skills / Activities / Deck
-- **Design ID:** `DAG5Lb-QB60`
-- **Edit URL:** https://www.canva.com/d/OpZN-bSc5EYvaKN
-- **View URL:** https://www.canva.com/d/cwIhlUu2bDlqdU-
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

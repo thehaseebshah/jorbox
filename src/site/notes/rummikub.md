@@ -1,22 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/rummikub/","dg-note-properties":{"type":"board","final":false}}
+dg-publish: true
+type: board
+final: false
 ---
-
 
 # Rummikub
 
-- **Source:** Shabab Skills / Activities / Board
-- **Design ID:** `DAG5LWf_Jbw`
-- **Edit URL:** https://www.canva.com/d/V14L33cOsOwDyWw
-- **View URL:** https://www.canva.com/d/1V-Ggv2NYJ4m1dT
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 *Note: Content not retrieved from the Canva API due to repeated failures. Only metadata is available.*
-
-- **Design ID:** `DAG5LWf_Jbw`
-- **Edit URL:** https://www.canva.com/d/V14L33cOsOwDyWw
-- **View URL:** https://www.canva.com/d/1V-Ggv2NYJ4m1dT
 
 Rummikub is a classic tile-based game. The standard ruleset is widely available online:
 

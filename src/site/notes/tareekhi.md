@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/tareekhi/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Tareekhi
 
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG5LXnxiP0`
-- **Edit URL:** https://www.canva.com/d/VLtFbu6EzvFXlm2
-- **View URL:** https://www.canva.com/d/9USaeilotDS-QBY
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Timeline (Add categories like Quixort)
 

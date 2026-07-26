@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/do-goti/","dg-note-properties":{"type":"kaghaz","final":false}}
+dg-publish: true
+type: kaghaz
+final: false
 ---
-
 
 # Do Goti
 
-- **Source:** Shabab Skills / Activities / Kaghaz
-- **Design ID:** `DAG5LTnIv_8`
-- **Edit URL:** https://www.canva.com/d/R0p9S26t5iO6fqe
-- **View URL:** https://www.canva.com/d/bynQ7GSP0NeYSUS
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 10+
 - **Group Size:** 2

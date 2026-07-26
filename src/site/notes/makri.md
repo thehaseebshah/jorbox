@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/makri/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Makri
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LW8wGis`
-- **Edit URL:** https://www.canva.com/d/CT7E-TMZUCQT2VQ
-- **View URL:** https://www.canva.com/d/FQZcNII7mHZrp5C
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

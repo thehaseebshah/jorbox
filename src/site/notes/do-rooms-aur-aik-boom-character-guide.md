@@ -1,14 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/do-rooms-aur-aik-boom-character-guide/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
 
-
 # Do Rooms aur Aik Boom — Character Guide
-
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG_hX_JMao`
-- **Edit URL:** https://www.canva.com/d/kMLAn6IgoW4OX7b
-- **View URL:** https://www.canva.com/d/z-UI7Qkwsw6DKmY
 
 *Original game: Two Rooms and a Boom by Alan Gerding & Sean McCoy (Tuesday Knight Games, 2014).*
 

@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/yasu-panjo-pro-max/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Yasu Panjo Pro Max
 
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG5LUTGKzw`
-- **Edit URL:** https://www.canva.com/d/-yumgmBlq7woOEe
-- **View URL:** https://www.canva.com/d/c1EMgc5iI2qMFdm
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Taco Goat Cheese Pizza
 

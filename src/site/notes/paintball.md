@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/paintball/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Paintball
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LUy1k_Q`
-- **Edit URL:** https://www.canva.com/d/pgf7b_46N_DduOh
-- **View URL:** https://www.canva.com/d/88ky-VDFnqwCGtB
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

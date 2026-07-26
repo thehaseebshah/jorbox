@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/dimagh-ka-dahi/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Dimagh Ka Dahi
 
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG5LYJg-Mg`
-- **Edit URL:** https://www.canva.com/d/gYOtjsFbDuUkrdC
-- **View URL:** https://www.canva.com/d/pMjk68_eQ9vGt-S
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

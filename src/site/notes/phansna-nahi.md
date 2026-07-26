@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/phansna-nahi/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Phansna Nahi
 
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG5LR5zRLQ`
-- **Edit URL:** https://www.canva.com/d/Eg5QMOU_YCW9sUH
-- **View URL:** https://www.canva.com/d/h0CFtddSp3XGEZy
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Don't get Got (Loser does a Dare from Truth or Dare)
 

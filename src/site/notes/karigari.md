@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/karigari/","dg-note-properties":{"type":"miscellaneous","final":false}}
+dg-publish: true
+type: miscellaneous
+final: false
 ---
-
 
 # Karigari (Crafting)
 
-- **Source:** Shabab Skills / Activities / Miscellaneous
-- **Design ID:** `DAG5LVtf-1Q`
-- **Edit URL:** https://www.canva.com/d/2tA7nzgrf-8tJZL
-- **View URL:** https://www.canva.com/d/YFSLv1S94Ff4Whm
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Crafting
 

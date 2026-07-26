@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/pottery/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Pottery
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LSq_uo0`
-- **Edit URL:** https://www.canva.com/d/ZWUYZASN_4sebB8
-- **View URL:** https://www.canva.com/d/FDWiLWPc6fGKjdT
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

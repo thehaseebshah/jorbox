@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/tabdeeli/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Tabdeeli
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LbQWX-8`
-- **Edit URL:** https://www.canva.com/d/Mjo6QW0njaZW_jy
-- **View URL:** https://www.canva.com/d/VqPdZdzmq_CPa8i
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

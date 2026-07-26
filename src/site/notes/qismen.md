@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/qismen/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Qismen
 
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG5LbGhpaU`
-- **Edit URL:** https://www.canva.com/d/ES-P5mbOeuYah0C
-- **View URL:** https://www.canva.com/d/TZpXKfQG345YeZV
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Categories
 

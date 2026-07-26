@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/jungle-foraging-and-crafting/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Jungle Foraging and Crafting
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LSo9JSA`
-- **Edit URL:** https://www.canva.com/d/0TQmoIteKidC6a5
-- **View URL:** https://www.canva.com/d/Iv54h6dmhht7diw
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/shelterbuilding-contest/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Shelterbuilding Contest
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LZiF82s`
-- **Edit URL:** https://www.canva.com/d/6ZTBMwvYBsZz9Ik
-- **View URL:** https://www.canva.com/d/pRpPfmLf0Vr5YHj
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

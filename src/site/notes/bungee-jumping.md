@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/bungee-jumping/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Bungee Jumping
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5Lf-XgOk`
-- **Edit URL:** https://www.canva.com/d/7n_aKk5zjWN2Jmi
-- **View URL:** https://www.canva.com/d/USbIFk2oK-2jPK2
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

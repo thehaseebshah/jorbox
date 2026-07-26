@@ -1,14 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/do-rooms-aur-aik-boom-cards/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
 
-
 # Do Rooms aur Aik Boom — Cards
-
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG_hXIwvB8`
-- **Edit URL:** https://www.canva.com/d/tk2UJkgNmlGaLQ7
-- **View URL:** https://www.canva.com/d/Jb1wQuIFE02UNW7
 
 *Original game: Two Rooms and a Boom by Alan Gerding & Sean McCoy (Tuesday Knight Games, 2014).*
 

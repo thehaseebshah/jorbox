@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/jurwa/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Jurwa
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LRBCSq8`
-- **Edit URL:** https://www.canva.com/d/gia0f3dzgLDiuvE
-- **View URL:** https://www.canva.com/d/pC0fXR3Vehf0fgI
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

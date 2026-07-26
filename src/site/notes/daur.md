@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/daur/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Daur
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LbuTTUI`
-- **Edit URL:** https://www.canva.com/d/9zMFJEVM-gSrZN1
-- **View URL:** https://www.canva.com/d/fVrPxicVRnqj5SW
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

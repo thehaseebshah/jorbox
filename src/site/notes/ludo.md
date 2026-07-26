@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/ludo/","dg-note-properties":{"type":"board","final":false}}
+dg-publish: true
+type: board
+final: false
 ---
-
 
 # Ludo
 
-- **Source:** Shabab Skills / Activities / Board
-- **Design ID:** `DAG5LeFqKEY`
-- **Edit URL:** https://www.canva.com/d/tSDWAxHxXhyxLw9
-- **View URL:** https://www.canva.com/d/VDpSfVao5kIxpcE
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 7+
 - **Group Size:** 2+

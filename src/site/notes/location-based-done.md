@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/location-based-done/","dg-note-properties":{"type":"location-based","final":true}}
+dg-publish: true
+type: location-based
+final: true
 ---
-
 
 # Location Based / Done
 

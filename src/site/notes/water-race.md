@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/water-race/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Water Race
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LSplnJc`
-- **Edit URL:** https://www.canva.com/d/8rGrKZWCRgx8Gin
-- **View URL:** https://www.canva.com/d/yJeYWKxesbqcpg8
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

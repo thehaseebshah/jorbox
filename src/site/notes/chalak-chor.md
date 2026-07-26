@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/chalak-chor/","dg-note-properties":{"type":"deck","final":false}}
+dg-publish: true
+type: deck
+final: false
 ---
-
 
 # Chalak Chor
 
-- **Source:** Shabab Skills / Activities / Deck
-- **Design ID:** `DAG5LchWmZ4`
-- **Edit URL:** https://www.canva.com/d/bD9i9PUzJa3MVZf
-- **View URL:** https://www.canva.com/d/bV6nbgzN__rFQBH
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Crazy 8s with Cheating and UNO Mechanic
 

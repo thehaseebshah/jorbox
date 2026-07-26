@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/kis-men-kitna-hey-dam/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Kis men Kitna hey Dam
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LUTwvEs`
-- **Edit URL:** https://www.canva.com/d/KGy6JHP8TKDeRyd
-- **View URL:** https://www.canva.com/d/LqlrCzle0mIblfA
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

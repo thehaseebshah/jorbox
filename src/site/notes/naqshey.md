@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/naqshey/","dg-note-properties":{"type":"miscellaneous","final":true}}
+dg-publish: true
+type: miscellaneous
+final: true
 ---
-
 
 # Naqshey (Map Drawing)
 
-- **Source:** Shabab Skills / Activities / Miscellaneous / Done
-- **Design ID:** `DAG7MypYIuM`
-- **Edit URL:** https://www.canva.com/d/8bl4ihkHjSNFig8
-- **View URL:** https://www.canva.com/d/LuxhHt-zZ_fnSLx
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 7+
 - **Group Size:** 2+

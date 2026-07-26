@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/rassa-kashi/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Rassa Kashi
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LRnU4_U`
-- **Edit URL:** https://www.canva.com/d/uJ124oDBZFK_NzG
-- **View URL:** https://www.canva.com/d/wCP58il3H4mGucZ
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Tug Of War
 

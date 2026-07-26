@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/mahaz/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Mahaz
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LTVDec4`
-- **Edit URL:** https://www.canva.com/d/S9nrs-XKqJ88wIQ
-- **View URL:** https://www.canva.com/d/DQeg3gR7HET86XE
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Nerf Wars (Play with Paper Balls or Plastic Guns)
 

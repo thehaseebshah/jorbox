@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/pakran-ghumai/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Pakran Ghumai
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LRELPDY`
-- **Edit URL:** https://www.canva.com/d/fLb-SLEQ1EV4a24
-- **View URL:** https://www.canva.com/d/pS2lxVaXXRlkdPn
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

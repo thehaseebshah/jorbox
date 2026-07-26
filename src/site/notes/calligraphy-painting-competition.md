@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/calligraphy-painting-competition/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Caligraphy/Painting Competition
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LRuxvH0`
-- **Edit URL:** https://www.canva.com/d/GQNoXs7bWd4Euys
-- **View URL:** https://www.canva.com/d/3FfnzgK91USD-Ul
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

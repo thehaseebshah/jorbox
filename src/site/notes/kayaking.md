@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/kayaking/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Kayaking
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LZ_cySw`
-- **Edit URL:** https://www.canva.com/d/fzihsvGWWhshxoh
-- **View URL:** https://www.canva.com/d/vEfmtiUuSGqOxRq
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

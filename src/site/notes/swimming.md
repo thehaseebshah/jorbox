@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/swimming/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Swimming
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LcZIx-U`
-- **Edit URL:** https://www.canva.com/d/MEe2L9q6hnK3PCR
-- **View URL:** https://www.canva.com/d/4iua67snBTCOmY6
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

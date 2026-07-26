@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/skydiving/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Skydiving
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LQrBrN8`
-- **Edit URL:** https://www.canva.com/d/qRuKu2wmo4CtuOT
-- **View URL:** https://www.canva.com/d/GfXlAwOJ5KP3Sxg
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

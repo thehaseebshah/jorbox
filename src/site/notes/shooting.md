@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/shooting/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Shooting
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LZSkHVU`
-- **Edit URL:** https://www.canva.com/d/gF43jATEFRgptaN
-- **View URL:** https://www.canva.com/d/HvbGM9ZGLljhvrz
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

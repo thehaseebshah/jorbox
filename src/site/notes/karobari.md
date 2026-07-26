@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/karobari/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Karobari
 
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG5LQtI7ZU`
-- **Edit URL:** https://www.canva.com/d/sSVCph2EEn3aiaj
-- **View URL:** https://www.canva.com/d/rlMm2tqTh61-9G-
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Snake Oil
 

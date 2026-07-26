@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/escape-room/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Escape Room
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5Lcx8AUA`
-- **Edit URL:** https://www.canva.com/d/hbKHhsVJDn18XY7
-- **View URL:** https://www.canva.com/d/gxCT4FKVgFnWptR
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

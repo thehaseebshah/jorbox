@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/long-bike-tour/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Long Bike Tour
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5Lc2vmRQ`
-- **Edit URL:** https://www.canva.com/d/DJMKM35fd0cNbyU
-- **View URL:** https://www.canva.com/d/kq5JvWvctlF295w
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/murghi-qurbani-and-cooking/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Murghi Qurbani and Cooking
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LWqQ1Ds`
-- **Edit URL:** https://www.canva.com/d/8P7vaiusutUvC3A
-- **View URL:** https://www.canva.com/d/wpYaowmq70EsTsj
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

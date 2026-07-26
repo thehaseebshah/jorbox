@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/langre-dost/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Langre Dost
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LXTUjtc`
-- **Edit URL:** https://www.canva.com/d/JzSrixPf-fvwyAd
-- **View URL:** https://www.canva.com/d/LMSpOJ_9V92ES3a
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

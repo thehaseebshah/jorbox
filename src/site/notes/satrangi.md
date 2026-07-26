@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/satrangi/","dg-note-properties":{"type":"childhood","final":false}}
+dg-publish: true
+type: childhood
+final: false
 ---
-
 
 # Satrangi
 
-- **Source:** Shabab Skills / Activities / Childhood
-- **Design ID:** `DAG5LfpCVIQ`
-- **Edit URL:** https://www.canva.com/d/uWB3ClrwzWY6wTe
-- **View URL:** https://www.canva.com/d/tlK4362uoj7anze
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Grabbing Colors
 

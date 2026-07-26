@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/rugby/","dg-note-properties":{"type":"sports","final":true}}
+dg-publish: true
+type: sports
+final: true
 ---
-
 
 # Rugby
 
-- **Source:** Shabab Skills / Activities / Sports / Done
-- **Design ID:** `DAG5LYAB4eY`
-- **Edit URL:** https://www.canva.com/d/Q8qUjSRaGGI1fo6
-- **View URL:** https://www.canva.com/d/mnGmwa1ys6KDc7v
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 5+
 - **Group Size:** 4+

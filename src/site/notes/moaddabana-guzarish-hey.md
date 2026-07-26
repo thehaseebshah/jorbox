@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/moaddabana-guzarish-hey/","dg-note-properties":{"type":"miscellaneous","final":false}}
+dg-publish: true
+type: miscellaneous
+final: false
 ---
-
 
 # Moaddabana Guzarish Hey
 
-- **Source:** Shabab Skills / Activities / Miscellaneous
-- **Design ID:** `DAG5LbkwGcc`
-- **Edit URL:** https://www.canva.com/d/Ws0f7_QioOWyZH4
-- **View URL:** https://www.canva.com/d/YJEcRZC9lVemKHu
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 8+
 - **Group Size:** 2+

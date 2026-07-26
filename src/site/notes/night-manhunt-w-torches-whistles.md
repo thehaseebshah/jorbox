@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/night-manhunt-w-torches-whistles/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Night Manhunt w. Torches/Whistles
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LbmXjTo`
-- **Edit URL:** https://www.canva.com/d/kk-80YruSMtVfKK
-- **View URL:** https://www.canva.com/d/gNinEtmdVZrnF07
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

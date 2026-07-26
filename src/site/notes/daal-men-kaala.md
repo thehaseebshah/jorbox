@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/daal-men-kaala/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Daal men Kaala
 
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG5LQQZzTk`
-- **Edit URL:** https://www.canva.com/d/Zi00zHqiNWcxELL
-- **View URL:** https://www.canva.com/d/Ly49R5rKARNapdP
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Sounds Fishy (Variation: Add Personal Prompts like Fibbage 3 "Enough about You")
 

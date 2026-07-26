@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/hold-breath-challenge/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Hold Breath Challenge
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LTs4u2Q`
-- **Edit URL:** https://www.canva.com/d/mJAWTFEsCOd0Z3G
-- **View URL:** https://www.canva.com/d/oqOXi9lqjETpBsB
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

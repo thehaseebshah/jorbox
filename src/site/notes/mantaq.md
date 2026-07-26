@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/mantaq/","dg-note-properties":{"type":"miscellaneous","final":false}}
+dg-publish: true
+type: miscellaneous
+final: false
 ---
-
 
 # Mantaq
 
-- **Source:** Shabab Skills / Activities / Miscellaneous
-- **Design ID:** `DAG5LS2yAyE`
-- **Edit URL:** https://www.canva.com/d/9jWOANSWFDSH4Ww
-- **View URL:** https://www.canva.com/d/x3NirU_yaGkZLO-
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 12+
 - **Group Size:** 3+

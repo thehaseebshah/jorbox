@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/nishana/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Nishana
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LT0naqU`
-- **Edit URL:** https://www.canva.com/d/BMVZCZd86AAMt_6
-- **View URL:** https://www.canva.com/d/deHaUfPMcwWVNEw
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

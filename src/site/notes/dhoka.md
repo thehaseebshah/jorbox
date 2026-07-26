@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/dhoka/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Dhoka
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5Le0E4Yk`
-- **Edit URL:** https://www.canva.com/d/bsHLiA-37PmRJsT
-- **View URL:** https://www.canva.com/d/RSmSnL9sgoxVQuN
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Bluff
 

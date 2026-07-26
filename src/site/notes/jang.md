@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/jang/","dg-note-properties":{"type":"board","final":false}}
+dg-publish: true
+type: board
+final: false
 ---
-
 
 # Jang
 
-- **Source:** Shabab Skills / Activities / Board
-- **Design ID:** `DAG6LIIeVI0`
-- **Edit URL:** https://www.canva.com/d/gOJF8p057-AzUnx
-- **View URL:** https://www.canva.com/d/vSW3zphBYwKtT_t
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 12+
 - **Group Size:** 3+

@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/bandar-killa/","dg-note-properties":{"type":"childhood","final":false}}
+dg-publish: true
+type: childhood
+final: false
 ---
-
 
 # Bandar Killa
 
-- **Source:** Shabab Skills / Activities / Childhood
-- **Design ID:** `DAG5LbBAzVU`
-- **Edit URL:** https://www.canva.com/d/TXVbAmCif6q0aWF
-- **View URL:** https://www.canva.com/d/kLaGtxP7ZGeCL2h
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Variation:** Use a Circle instead of a rope and a peg; and score people based on how many shoes they collect
 

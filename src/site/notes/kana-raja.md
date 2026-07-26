@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/kana-raja/","dg-note-properties":{"type":"deck","final":false}}
+dg-publish: true
+type: deck
+final: false
 ---
-
 
 # Kana Raja
 
-- **Source:** Shabab Skills / Activities / Deck
-- **Design ID:** `DAG5LVp6ch0`
-- **Edit URL:** https://www.canva.com/d/NF-JON3aqRpJE3E
-- **View URL:** https://www.canva.com/d/KKqcyP7-pq30Q-H
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Hanabi with 52 Cards
 

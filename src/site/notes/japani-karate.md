@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/japani-karate/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Japani Karate
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LUppFJI`
-- **Edit URL:** https://www.canva.com/d/J-FUdmAJQWQ-3vu
-- **View URL:** https://www.canva.com/d/Vhh6CpSd2EMSFej
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

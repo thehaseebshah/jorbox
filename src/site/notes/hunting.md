@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/hunting/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Hunting
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LVjGkuU`
-- **Edit URL:** https://www.canva.com/d/bNu9nnbgi0q97B_
-- **View URL:** https://www.canva.com/d/j5_eEWBMEwrgO8i
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

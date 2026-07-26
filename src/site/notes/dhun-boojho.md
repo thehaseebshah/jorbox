@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/dhun-boojho/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Dhun Boojho
 
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG5Lcs5tfk`
-- **Edit URL:** https://www.canva.com/d/BVELTQj9iPp-EHS
-- **View URL:** https://www.canva.com/d/qlH9Nq3XbaKJROm
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Guess the Scene + Guess the Drawing
 

@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/dunya-mere-agay/","dg-note-properties":{"type":"miscellaneous","final":false}}
+dg-publish: true
+type: miscellaneous
+final: false
 ---
-
 
 # Dunya Mere Agay
 
-- **Source:** Shabab Skills / Activities / Miscellaneous
-- **Design ID:** `DAG5LVsTaQ8`
-- **Edit URL:** https://www.canva.com/d/83PpVcUZhUUC6Pc
-- **View URL:** https://www.canva.com/d/7cIjBLFPwXhTQjq
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 10+
 - **Group Size:** 3+

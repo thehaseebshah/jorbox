@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/dil-ki-sun/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Dil ki Sun
 
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG5LepGLOc`
-- **Edit URL:** https://www.canva.com/d/Jfazid4KHdWoBlw
-- **View URL:** https://www.canva.com/d/dj15v3kdezaFBCh
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** The Mind
 

@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/riazi-ki-yaad/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Riazi ki Yaad
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LayBNbk`
-- **Edit URL:** https://www.canva.com/d/bUzu0PJatSpL2NE
-- **View URL:** https://www.canva.com/d/dhceY0r_P2iln5r
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

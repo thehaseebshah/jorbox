@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/billi-chuha/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Billi Chuha
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LZctLSU`
-- **Edit URL:** https://www.canva.com/d/2GgBoPUQpIpKTbE
-- **View URL:** https://www.canva.com/d/Tf7iysv1r_Ab_xV
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

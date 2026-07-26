@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/insani-seerhi/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Insani Seerhi
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LcNMsVo`
-- **Edit URL:** https://www.canva.com/d/8GK5dTzN-QDwxSp
-- **View URL:** https://www.canva.com/d/KmqAqNtNN-dNAQL
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/city-camping/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # City Camping
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LdyKbfA`
-- **Edit URL:** https://www.canva.com/d/lBkmYZF6iSjueUE
-- **View URL:** https://www.canva.com/d/7ambzFnbJsbBkxK
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

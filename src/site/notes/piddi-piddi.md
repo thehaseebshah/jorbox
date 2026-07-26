@@ -1,18 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/piddi-piddi/","dg-note-properties":{"type":"childhood","final":false}}
+dg-publish: true
+type: childhood
+final: false
 ---
-
 
 # Piddi Piddi
 
-- **Source:** Shabab Skills / Activities / Childhood
-- **Design ID:** `DAG9V5KMFIQ`
-- **Edit URL:** https://www.canva.com/d/BHHsnCqAO3ZGMXk
-- **View URL:** https://www.canva.com/d/Tjt6vht6yOZhLdr
-
 > **Note:** The Canva folder title is "Piddi Piddi" but the design content header reads "Chala Kooch". This may be a Canvas title mismatch or a renamed upload.
 
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

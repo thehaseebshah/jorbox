@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/body/","dg-note-properties":{"type":"childhood","final":false}}
+dg-publish: true
+type: childhood
+final: false
 ---
-
 
 # Body
 
-- **Source:** Shabab Skills / Activities / Childhood
-- **Design ID:** `DAG5La-UAtw`
-- **Edit URL:** https://www.canva.com/d/buYctQrhw1J-X8C
-- **View URL:** https://www.canva.com/d/2NQoWqBPKI3DmEG
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Rule:** Score teams based on total time
 

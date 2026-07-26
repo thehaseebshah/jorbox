@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/sunni-sunai/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Sunni Sunai
 
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG5LYW88lg`
-- **Edit URL:** https://www.canva.com/d/lEja3jBqd4rL7Gc
-- **View URL:** https://www.canva.com/d/nLB1MY0vsawxG18
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Telephone
 

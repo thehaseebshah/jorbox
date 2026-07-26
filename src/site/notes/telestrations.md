@@ -1,14 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/telestrations/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Telestrations
 
-- **Source:** Shabab Skills / Bonus Activities
-- **Design ID:** `DAGrd6Af8R4`
-- **Edit URL:** https://www.canva.com/d/uIcyj9SZuoXaEF2
-- **View URL:** https://www.canva.com/d/aMctByqIvwTfZL-
 - **Date:** Feb 2025
 
 ## Learning Objectives

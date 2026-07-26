@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/jaan-pehchaan/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Jaan Pehchaan
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LTwh5Is`
-- **Edit URL:** https://www.canva.com/d/-9ALBJq7K9Mjsgk
-- **View URL:** https://www.canva.com/d/ECBVuq9bB8RsRDx
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** Change "Celebrity" to "Category Questions"
 

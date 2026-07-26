@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/tikon/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Tikon
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LepIGNc`
-- **Edit URL:** https://www.canva.com/d/bRyhFhgXAGXux5I
-- **View URL:** https://www.canva.com/d/3N7QoirWnKJ53Nq
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/gharwanj/","dg-note-properties":{"type":"deck","final":false}}
+dg-publish: true
+type: deck
+final: false
 ---
-
 
 # Gharwanj
 
-- **Source:** Shabab Skills / Activities / Deck
-- **Design ID:** `DAG5LenzoOA`
-- **Edit URL:** https://www.canva.com/d/70aLEJ3DkeGPaaF
-- **View URL:** https://www.canva.com/d/O4OMppHk86HonUI
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

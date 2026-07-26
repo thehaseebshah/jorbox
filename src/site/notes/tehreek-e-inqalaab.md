@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/tehreek-e-inqalaab/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+type: party
+final: false
 ---
-
 
 # Tehreek e Inqalaab
 
-- **Source:** Shabab Skills / Activities / Party
-- **Design ID:** `DAG5LVUdpyw`
-- **Edit URL:** https://www.canva.com/d/Icf0HgqpJo5HeX0
-- **View URL:** https://www.canva.com/d/fiT6iAjgGWBXofr
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **Inspired by:** The Resistance
 

@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/scavenger-hunt-misc/","dg-note-properties":{"type":"miscellaneous","final":false}}
+dg-publish: true
+type: miscellaneous
+final: false
 ---
-
 
 # Scavenger Hunt
 
-- **Source:** Shabab Skills / Activities / Miscellaneous
-- **Design ID:** `DAG5LQdkGFg`
-- **Edit URL:** https://www.canva.com/d/yJ7DxEyUi5cjJ7Y
-- **View URL:** https://www.canva.com/d/g50A7wJbPHSckJb
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 10+
 - **Group Size:** 5+

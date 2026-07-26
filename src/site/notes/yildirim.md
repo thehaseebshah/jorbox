@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/yildirim/","dg-note-properties":{"type":"sports","final":true}}
+dg-publish: true
+type: sports
+final: true
 ---
-
 
 # Yildirim
 
-- **Source:** Shabab Skills / Activities / Sports / Done
-- **Design ID:** `DAG5LdYX4ME`
-- **Edit URL:** https://www.canva.com/d/LBafEjhqaH4Ovli
-- **View URL:** https://www.canva.com/d/iGMr42jCNGlmWMU
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 **How to Play:** Learn Ninjitsu if you don't know Yildirim
 

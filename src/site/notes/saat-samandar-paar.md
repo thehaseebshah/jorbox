@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/saat-samandar-paar/","dg-note-properties":{"type":"outdoor","final":false}}
+dg-publish: true
+type: outdoor
+final: false
 ---
-
 
 # Saat Samandar Paar
 
-- **Source:** Shabab Skills / Activities / Outdoor
-- **Design ID:** `DAG5LWmySZg`
-- **Edit URL:** https://www.canva.com/d/8RFNWjQ17Cho5nT
-- **View URL:** https://www.canva.com/d/RFc46RHp2iTCsbc
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

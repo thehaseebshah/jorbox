@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/chalooo/","dg-note-properties":{"type":"deck","final":false}}
+dg-publish: true
+type: deck
+final: false
 ---
-
 
 # Chalooo
 
-- **Source:** Shabab Skills / Activities / Deck
-- **Design ID:** `DAG5LSG8zpE`
-- **Edit URL:** https://www.canva.com/d/jpZq2gAuLhkm8jX
-- **View URL:** https://www.canva.com/d/dhngrRH-CNwVjiW
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 10+
 - **Duration:** 20 minutes

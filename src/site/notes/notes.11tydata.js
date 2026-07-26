@@ -15,10 +15,7 @@ module.exports = {
       if (data.tags.indexOf("gardenEntry") != -1) {
         return "/";
       }
-      if (/^\d+$/.test(data.page.fileSlug)) {
-        return `/${data.page.fileSlug}/`;
-      }
-      return data.permalink || undefined;
+      return `/${data.page.fileSlug}/`;
     },
     basesNotes: (data) => {
       if (!data.collections || !data.collections.note) return [];

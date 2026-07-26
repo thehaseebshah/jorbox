@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/afsana-nigaari/","dg-note-properties":{"type":"miscellaneous","final":false}}
+dg-publish: true
+type: miscellaneous
+final: false
 ---
-
 
 # Afsana Nigaari
 
-- **Source:** Shabab Skills / Activities / Miscellaneous
-- **Design ID:** `DAG5LVa4tug`
-- **Edit URL:** https://www.canva.com/d/LJBkb-5wAo60d3-
-- **View URL:** https://www.canva.com/d/dA68HdSQ_cz_Pdu
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 12+
 - **Group Size:** 3+

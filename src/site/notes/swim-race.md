@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/swim-race/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Swim Race
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5LS8IpBI`
-- **Edit URL:** https://www.canva.com/d/5jMIczem_ixYmmZ
-- **View URL:** https://www.canva.com/d/Sy9Idnz5QZmR26C
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players

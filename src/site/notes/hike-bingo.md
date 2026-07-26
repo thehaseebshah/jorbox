@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/hike-bingo/","dg-note-properties":{"type":"location-based","final":false}}
+dg-publish: true
+type: location-based
+final: false
 ---
-
 
 # Hike Bingo
 
-- **Source:** Shabab Skills / Activities / Location Based
-- **Design ID:** `DAG5Lb-udSQ`
-- **Edit URL:** https://www.canva.com/d/i6ceV3EURoA03N4
-- **View URL:** https://www.canva.com/d/YieEVlJ4POB9mqc
-
-## Al Burhan JorBox — How to Play
+## How to Play
 
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players
