@@ -62,5 +62,18 @@
         {{ meta.styleSettingsCss | safe }}
     </style>
 {% endif %}
-<style>
-</style>
+<script>
+  (function() {
+    function syncTabTitle() {
+      const h1 = document.querySelector("main.content h1, header h1, h1");
+      if (h1 && h1.innerText && h1.innerText.trim()) {
+        document.title = h1.innerText.trim();
+      }
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", syncTabTitle);
+    } else {
+      syncTabTitle();
+    }
+  })();
+</script>
