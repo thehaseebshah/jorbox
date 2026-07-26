@@ -257,12 +257,25 @@ a.header-logo-link:focus,
     width: 26px;
     object-fit: contain;
     filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.4));
+    transition: filter 0.25s ease, transform 0.25s ease;
 }
 
 .header-logo-text {
     height: 20px;
     width: auto;
     object-fit: contain;
+    filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.4));
+    transition: filter 0.25s ease;
+}
+
+.header-logo-link:hover .header-logo-icon,
+.header-logo-link:focus .header-logo-icon {
+    filter: drop-shadow(0 0 10px rgba(254, 1, 9, 0.75)) drop-shadow(0 0 18px rgba(34, 1, 126, 0.85)) !important;
+}
+
+.header-logo-link:hover .header-logo-text,
+.header-logo-link:focus .header-logo-text {
+    filter: drop-shadow(0 0 8px rgba(254, 1, 9, 0.7)) drop-shadow(0 0 15px rgba(34, 1, 126, 0.8)) !important;
 }
 
 /* --------------------------------------------------------------------------
