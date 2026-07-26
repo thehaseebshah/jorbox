@@ -175,23 +175,28 @@ body::before {
     filter: blur(80px);
 }
 
-/* Option 1: Interactive Cursor Spotlight Aura */
-body::after {
-    content: "";
+/* Option 1: Interactive Cursor Spotlight Overlay */
+#cursor-spotlight {
     position: fixed;
     top: 0;
     left: 0;
     width: 100vw;
     height: 100vh;
     background: radial-gradient(
-        650px circle at var(--cursor-x, 50vw) var(--cursor-y, 30vh),
-        rgba(254, 1, 9, 0.08) 0%,
-        rgba(34, 1, 126, 0.06) 45%,
-        transparent 80%
+        750px circle at var(--cursor-x, 50vw) var(--cursor-y, 30vh),
+        rgba(254, 1, 9, 0.22) 0%,
+        rgba(126, 34, 206, 0.16) 45%,
+        rgba(34, 1, 126, 0.05) 70%,
+        transparent 85%
     );
     pointer-events: none;
-    z-index: -1;
-    transition: opacity 0.4s ease;
+    z-index: 1;
+    transition: opacity 0.3s ease;
+}
+
+main.content, .navbar, .filetree-navbar {
+    position: relative;
+    z-index: 10;
 }
 
 /* Custom Shabab Gradient Scrollbars */
