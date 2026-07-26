@@ -347,15 +347,51 @@ main.content {
     box-sizing: border-box;
 }
 
-/* Headings */
-main.content h1 {
-    font-size: clamp(2.3rem, 5vw, 3.4rem);
-    font-weight: 700;
-    letter-spacing: -0.035em;
-    line-height: 1.18;
-    color: #ffffff;
-    margin-top: 1rem;
-    margin-bottom: 1.5rem;
+/* Headings - h1 Shabab Rectangular Oval Strip Frame */
+main.content h1,
+header h1 {
+    font-size: clamp(2rem, 4.5vw, 3rem) !important;
+    font-weight: 700 !important;
+    letter-spacing: -0.035em !important;
+    line-height: 1.25 !important;
+    color: #ffffff !important;
+    margin-top: 1.2rem !important;
+    margin-bottom: 2rem !important;
+    display: inline-block !important;
+    position: relative !important;
+    padding: 0.65rem 1.8rem !important;
+    border-radius: var(--jb-radius-pill) !important;
+    background: linear-gradient(135deg, rgba(254, 1, 9, 0.12) 0%, rgba(34, 1, 126, 0.25) 100%) !important;
+    box-shadow: 0 10px 32px -8px rgba(0, 0, 0, 0.6),
+                0 0 24px rgba(254, 1, 9, 0.2),
+                inset 0 1.5px 1px rgba(255, 255, 255, 0.25) !important;
+    animation: h1CapsuleEntrance 0.75s cubic-bezier(0.16, 1, 0.3, 1) forwards !important;
+}
+
+main.content h1::before,
+header h1::before {
+    content: "" !important;
+    position: absolute !important;
+    top: -2px !important;
+    left: -2px !important;
+    right: -2px !important;
+    bottom: -2px !important;
+    border-radius: var(--jb-radius-pill) !important;
+    background: linear-gradient(90deg, #fe0109 0%, #7e22ce 50%, #22017e 100%) !important;
+    z-index: -1 !important;
+    opacity: 0.85 !important;
+    box-shadow: 0 0 20px rgba(254, 1, 9, 0.45), 0 0 35px rgba(126, 34, 206, 0.35) !important;
+}
+
+@keyframes h1CapsuleEntrance {
+    0% {
+        opacity: 0;
+        transform: translateY(16px) scale(0.96);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
 }
 
 main.content h2 {
