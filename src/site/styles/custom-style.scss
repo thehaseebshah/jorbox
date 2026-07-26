@@ -175,6 +175,25 @@ body::before {
     filter: blur(80px);
 }
 
+/* Option 1: Interactive Cursor Spotlight Aura */
+body::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: radial-gradient(
+        650px circle at var(--cursor-x, 50vw) var(--cursor-y, 30vh),
+        rgba(254, 1, 9, 0.08) 0%,
+        rgba(34, 1, 126, 0.06) 45%,
+        transparent 80%
+    );
+    pointer-events: none;
+    z-index: -1;
+    transition: opacity 0.4s ease;
+}
+
 /* Custom Shabab Gradient Scrollbars */
 ::-webkit-scrollbar {
     width: 9px;
