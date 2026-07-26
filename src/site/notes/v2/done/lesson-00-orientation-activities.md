@@ -39,3 +39,30 @@ This is an Optional Activity. Video instructions are [here](https://www.canva.co
 ## Activity 7 — Introduction and Importance of Shabab
 
 Murabbi will tell Shabab about importance of the Shabab program.
+
+---
+
+## Test: Visual Enhancements Demo
+
+> [!tip] Murabbi Tip
+> Always start each session with energy and enthusiasm. The first 5 minutes set the tone for everything that follows!
+
+> [!warning] Time Management
+> Keep each icebreaker activity under 10 minutes to maintain engagement and momentum.
+
+```javascript
+// Example: Shabab Session Timer
+function startSession(lessonName) {
+  console.log(`🕐 Starting: ${lessonName}`);
+  const startTime = Date.now();
+  
+  return {
+    end() {
+      const elapsed = (Date.now() - startTime) / 1000;
+      console.log(`✅ Completed in ${elapsed.toFixed(1)}s`);
+    }
+  };
+}
+
+const session = startSession("Lesson 00 — Orientation");
+```
