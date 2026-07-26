@@ -19,10 +19,10 @@ describe("public content boundary & protected search", () => {
     expect(vaultSearchTemplate).toContain("collections.note");
   });
 
-  it("includes lock button component in navbar", () => {
-    const navbar = readProjectFile("src/site/_includes/components/navbar.njk");
+  it("includes lock button component inside search container", () => {
+    const searchContainer = readProjectFile("src/site/_includes/components/searchContainer.njk");
 
-    expect(navbar).toContain("components/lockButton.njk");
+    expect(searchContainer).toContain("components/lockButton.njk");
   });
 
   it("does not promote internal content on the homepage", () => {

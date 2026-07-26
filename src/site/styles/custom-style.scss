@@ -1325,6 +1325,9 @@ input[type="checkbox"] {
 }
 
 .search-header {
+    display: flex !important;
+    align-items: center !important;
+    gap: 0.75rem !important;
     padding: 1.2rem 1.4rem !important;
     border-bottom: 1px solid rgba(255, 255, 255, 0.12) !important;
     background: rgba(255, 255, 255, 0.03) !important;

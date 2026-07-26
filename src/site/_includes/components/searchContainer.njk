@@ -2,6 +2,7 @@
     <div class="search-box" onclick="event.stopPropagation()">
         <div class="search-header">
             <input type="search" id="term" placeholder="{{ meta.uiStrings.searchPlaceholder }}">
+            {% include "components/lockButton.njk" %}
         </div>
 
         <div class="search-layout no-preview" id="search-layout">
