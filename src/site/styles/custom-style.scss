@@ -866,7 +866,7 @@ main.content img:hover {
 /* --------------------------------------------------------------------------
    9. MAC TERMINAL CODE BLOCKS
    -------------------------------------------------------------------------- */
-pre[class*="language-"], pre {
+pre:not(.mac-code-enhanced) {
     background: #070214 !important;
     border: 1px solid rgba(34, 1, 126, 0.5) !important;
     border-radius: var(--jb-radius-lg) !important;
@@ -881,7 +881,7 @@ pre[class*="language-"], pre {
 }
 
 /* Mac OS Window Dots */
-pre::before {
+pre:not(.mac-code-enhanced)::before {
     content: "";
     position: absolute;
     top: 14px;
