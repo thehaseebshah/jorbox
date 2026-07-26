@@ -175,21 +175,24 @@ body::before {
     filter: blur(80px);
 }
 
-/* Custom Scrollbars */
+/* Custom Shabab Gradient Scrollbars */
 ::-webkit-scrollbar {
-    width: 8px;
-    height: 8px;
+    width: 9px;
+    height: 9px;
 }
 ::-webkit-scrollbar-track {
-    background: transparent;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: var(--jb-radius-pill);
 }
 ::-webkit-scrollbar-thumb {
-    background: var(--jb-royal);
-    border-radius: var(--jb-radius-pill);
-    border: 2px solid var(--jb-bg-0);
+    background: linear-gradient(180deg, #fe0109 0%, #7e22ce 50%, #22017e 100%) !important;
+    border-radius: var(--jb-radius-pill) !important;
+    border: 2px solid var(--jb-bg-0) !important;
+    box-shadow: 0 0 10px rgba(254, 1, 9, 0.5);
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: var(--jb-crimson);
+    background: linear-gradient(180deg, #ff2a31 0%, #a855f7 50%, #3105ad 100%) !important;
+    box-shadow: 0 0 14px rgba(254, 1, 9, 0.8);
 }
 
 /* Selection Highlight */
