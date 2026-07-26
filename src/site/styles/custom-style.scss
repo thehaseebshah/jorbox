@@ -405,12 +405,12 @@ header h1::before,
         #22017e 70%,
         #fe0109 100%
     ) !important;
-    opacity: 0.65 !important;
+    opacity: 0.3 !important;
     -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0) !important;
     -webkit-mask-composite: xor !important;
     mask-composite: exclude !important;
     pointer-events: none !important;
-    box-shadow: 0 0 20px rgba(254, 1, 9, 0.4), 0 0 32px rgba(126, 34, 206, 0.35) !important;
+    box-shadow: 0 0 10px rgba(254, 1, 9, 0.2), 0 0 18px rgba(126, 34, 206, 0.15) !important;
     animation: rotateConveyorBorder 3.5s linear infinite !important;
 }
 
