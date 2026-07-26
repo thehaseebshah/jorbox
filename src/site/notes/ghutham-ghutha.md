@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/ghutham-ghutha/","dg-note-properties":{"type":"outdoor","final":false}}
+---
+
+
+# Ghutham Ghutha
+
+- **Source:** Shabab Skills / Activities / Outdoor
+- **Design ID:** `DAG5LTRh1IM`
+- **Edit URL:** https://www.canva.com/d/-AEel2kgDiPfwI9
+- **View URL:** https://www.canva.com/d/4tfrvpVlCN9hW6S
+
+## Al Burhan JorBox — How to Play
+
+**Inspired by:** Twister
+
+- **Age Limit:** 14+
+- **Group Size:** 5–10 players
+- **Duration:** 30 minutes
+- **Prep Time:** < 5 minutes
+- **Difficulty:** 3
+- **Code:** O-810
+
+### Items Needed
+
+- Role Cards (e.g., Mujahid/Jasoos)
+- Mission Cards (Success/Fail)
+- Voting Tokens (Approve/Reject)
+- Can be handmade

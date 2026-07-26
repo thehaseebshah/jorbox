@@ -1,0 +1,35 @@
+---
+{"dg-publish":true,"permalink":"/gupshup/","dg-note-properties":{"type":"outdoor","final":false}}
+---
+
+
+# GupShup
+
+- **Source:** Shabab Skills / Activities / Outdoor
+- **Design ID:** `DAG5Lb8oGgU`
+- **Edit URL:** https://www.canva.com/d/EY9sxqL5VlRHkSS
+- **View URL:** https://www.canva.com/d/_XCZFUZdyjEn1Sr
+
+## Al Burhan JorBox — How to Play
+
+- **Age Limit:** 14+
+- **Group Size:** 5–10 players
+- **Duration:** 30 minutes
+- **Prep Time:** < 5 minutes
+- **Difficulty:** 5
+- **Code:** O-150
+
+### How to Play
+
+Ask these questions to groups to start a conversation.
+
+### Reference
+
+Read: https://docs.google.com/document/d/1FWFLtRsku-Vgn9K2MHjfRZ533VP6mEIpL7ZfiAggjSM/edit?tab=t.0
+
+### Items Needed
+
+- Role Cards (e.g., Mujahid/Jasoos)
+- Mission Cards (Success/Fail)
+- Voting Tokens (Approve/Reject)
+- Can be handmade

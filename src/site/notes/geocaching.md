@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"permalink":"/geocaching/","dg-note-properties":{"type":"location-based","final":false}}
+---
+
+
+# Geocaching
+
+- **Source:** Shabab Skills / Activities / Location Based
+- **Design ID:** `DAG5LSMvpX4`
+- **Edit URL:** https://www.canva.com/d/RnRFUBAQoLAOM6T
+- **View URL:** https://www.canva.com/d/sz32pW69sH_H5cA
+
+## Al Burhan JorBox — How to Play
+
+- **Age Limit:** 14+
+- **Group Size:** 5–10 players
+- **Duration:** 99 minutes
+- **Prep Time:** < 5 minutes
+- **Difficulty:** 4
+- **Code:** L-400
+
+### Items Needed
+
+- Role Cards (e.g., Mujahid/Jasoos)
+- Mission Cards (Success/Fail)
+- Voting Tokens (Approve/Reject)
+- Can be handmade

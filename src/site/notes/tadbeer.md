@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/tadbeer/","dg-note-properties":{"type":"outdoor","final":false}}
+---
+
+
+# Tadbeer
+
+- **Source:** Shabab Skills / Activities / Outdoor
+- **Design ID:** `DAG5LTkVBEo`
+- **Edit URL:** https://www.canva.com/d/o22FkhT1fxQvWP0
+- **View URL:** https://www.canva.com/d/LFH4V-WeSbFUlgm
+
+## Al Burhan JorBox — How to Play
+
+**Inspired by:** Use two carpets, Group ISSB Challenge
+
+- **Age Limit:** 14+
+- **Group Size:** 5–10 players
+- **Duration:** 30 minutes
+- **Prep Time:** < 5 minutes
+- **Difficulty:** 5
+- **Code:** O-040
+
+### Items Needed
+
+- Role Cards (e.g., Mujahid/Jasoos)
+- Mission Cards (Success/Fail)
+- Voting Tokens (Approve/Reject)
+- Can be handmade

@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"permalink":"/agriculture/","dg-note-properties":{"type":"location-based","final":false}}
+---
+
+
+# Agriculture
+
+- **Source:** Shabab Skills / Activities / Location Based
+- **Design ID:** `DAG5LQYrf0s`
+- **Edit URL:** https://www.canva.com/d/KFYiWEVOIcDqnN1
+- **View URL:** https://www.canva.com/d/I3KrE5kiLnC7rrW
+
+## Al Burhan JorBox — How to Play
+
+- **Age Limit:** 14+
+- **Group Size:** 5–10 players
+- **Duration:** 99 minutes
+- **Prep Time:** < 5 minutes
+- **Difficulty:** 4
+- **Code:** L-460
+
+### Items Needed
+
+- Role Cards (e.g., Mujahid/Jasoos)
+- Mission Cards (Success/Fail)
+- Voting Tokens (Approve/Reject)
+- Can be handmade
