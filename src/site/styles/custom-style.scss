@@ -248,15 +248,15 @@ body::before {
 }
 
 /* --------------------------------------------------------------------------
-   6. DIALED-DOWN QUIET SEARCH BAR TRIGGER (CLEAN SLATE)
+   6. DIALED-DOWN QUIET SEARCH BAR TRIGGER (COMPACT SLATE)
    -------------------------------------------------------------------------- */
 .search-button {
-    width: 350px !important;
+    width: 220px !important;
     max-width: 100% !important;
     background: rgba(255, 255, 255, 0.05) !important;
     border: 1px solid rgba(255, 255, 255, 0.14) !important;
     border-radius: var(--jb-radius-pill) !important;
-    padding: 0.5rem 1.1rem !important;
+    padding: 0.45rem 1rem !important;
     display: flex !important;
     align-items: center !important;
     justify-content: space-between !important;
