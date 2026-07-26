@@ -88,15 +88,15 @@
             auraY += (mouseY - auraY) * 0.15;
 
             ctx.save();
-            const radGrad = ctx.createRadialGradient(auraX, auraY, 0, auraX, auraY, 180);
-            radGrad.addColorStop(0, "rgba(254, 1, 9, 0.20)");     // Center Crimson Red
-            radGrad.addColorStop(0.45, "rgba(126, 34, 206, 0.12)"); // Mid Royal Violet
-            radGrad.addColorStop(0.75, "rgba(34, 1, 126, 0.04)");  // Outer Deep Purple
+            const radGrad = ctx.createRadialGradient(auraX, auraY, 0, auraX, auraY, 150);
+            radGrad.addColorStop(0, "rgba(254, 1, 9, 0.08)");     // Soft Crimson
+            radGrad.addColorStop(0.45, "rgba(126, 34, 206, 0.05)"); // Quiet Royal Violet
+            radGrad.addColorStop(0.75, "rgba(34, 1, 126, 0.02)");  // Low Ambient
             radGrad.addColorStop(1, "rgba(0, 0, 0, 0)");
 
             ctx.fillStyle = radGrad;
             ctx.beginPath();
-            ctx.arc(auraX, auraY, 180, 0, Math.PI * 2);
+            ctx.arc(auraX, auraY, 150, 0, Math.PI * 2);
             ctx.fill();
             ctx.restore();
         }

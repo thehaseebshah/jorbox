@@ -169,29 +169,29 @@ body {
 
 /* Ambient Dual Shabab Corner Glows (Top-Left & Bottom-Right) */
 body::before {
-    content: "";
-    position: fixed;
-    top: -180px;
-    left: -180px;
-    width: 700px;
-    height: 700px;
-    background: radial-gradient(circle, rgba(254, 1, 9, 0.28) 0%, rgba(34, 1, 126, 0.38) 50%, transparent 75%);
-    pointer-events: none;
-    z-index: -1;
-    filter: blur(95px);
+    content: "" !important;
+    position: fixed !important;
+    top: -150px !important;
+    left: -150px !important;
+    width: 650px !important;
+    height: 650px !important;
+    background: radial-gradient(circle, rgba(254, 1, 9, 0.35) 0%, rgba(126, 34, 206, 0.25) 45%, rgba(34, 1, 126, 0.1) 65%, transparent 80%) !important;
+    pointer-events: none !important;
+    z-index: 0 !important;
+    filter: blur(85px) !important;
 }
 
 body::after {
-    content: "";
-    position: fixed;
-    bottom: -180px;
-    right: -180px;
-    width: 700px;
-    height: 700px;
-    background: radial-gradient(circle, rgba(34, 1, 126, 0.38) 0%, rgba(254, 1, 9, 0.25) 50%, transparent 75%);
-    pointer-events: none;
-    z-index: -1;
-    filter: blur(95px);
+    content: "" !important;
+    position: fixed !important;
+    bottom: -150px !important;
+    right: -150px !important;
+    width: 650px !important;
+    height: 650px !important;
+    background: radial-gradient(circle, rgba(126, 34, 206, 0.35) 0%, rgba(254, 1, 9, 0.25) 45%, rgba(34, 1, 126, 0.1) 65%, transparent 80%) !important;
+    pointer-events: none !important;
+    z-index: 0 !important;
+    filter: blur(85px) !important;
 }
 
 
