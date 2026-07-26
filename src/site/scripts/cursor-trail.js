@@ -19,9 +19,9 @@
 
         const particles = [];
         const colors = [
-            "rgba(254, 1, 9, ",    // Crimson Red
-            "rgba(168, 85, 247, ",  // Violet
-            "rgba(126, 34, 206, ",  // Deep Purple
+            "rgba(254, 1, 9, ",    // Electric Crimson Red (#fe0109)
+            "rgba(168, 85, 247, ",  // Violet (#a855f7)
+            "rgba(126, 34, 206, ",  // Royal Violet (#7e22ce)
             "rgba(255, 255, 255, "   // White Sparkle
         ];
 
@@ -56,26 +56,55 @@
             }
         }
 
-        function addParticles(x, y) {
-            for (let i = 0; i < 3; i++) {
-                particles.push(new Particle(x, y));
-            }
-        }
-
+        let auraX = -1000;
+        let auraY = -1000;
+        let mouseX = -1000;
+        let mouseY = -1000;
         let lastX = 0;
         let lastY = 0;
 
         window.addEventListener("mousemove", (e) => {
+            mouseX = e.clientX;
+            mouseY = e.clientY;
+
+            if (auraX === -1000) {
+                auraX = mouseX;
+                auraY = mouseY;
+            }
+
             const dist = Math.hypot(e.clientX - lastX, e.clientY - lastY);
-            if (dist > 4) {
-                addParticles(e.clientX, e.clientY);
+            if (dist > 3) {
+                for (let i = 0; i < 2; i++) {
+                    particles.push(new Particle(e.clientX, e.clientY));
+                }
                 lastX = e.clientX;
                 lastY = e.clientY;
             }
         }, { passive: true });
 
+        function drawShababAura() {
+            if (mouseX === -1000) return;
+            auraX += (mouseX - auraX) * 0.15;
+            auraY += (mouseY - auraY) * 0.15;
+
+            ctx.save();
+            const radGrad = ctx.createRadialGradient(auraX, auraY, 0, auraX, auraY, 180);
+            radGrad.addColorStop(0, "rgba(254, 1, 9, 0.20)");     // Center Crimson Red
+            radGrad.addColorStop(0.45, "rgba(126, 34, 206, 0.12)"); // Mid Royal Violet
+            radGrad.addColorStop(0.75, "rgba(34, 1, 126, 0.04)");  // Outer Deep Purple
+            radGrad.addColorStop(1, "rgba(0, 0, 0, 0)");
+
+            ctx.fillStyle = radGrad;
+            ctx.beginPath();
+            ctx.arc(auraX, auraY, 180, 0, Math.PI * 2);
+            ctx.fill();
+            ctx.restore();
+        }
+
         function loop() {
             ctx.clearRect(0, 0, width, height);
+
+            drawShababAura();
 
             for (let i = particles.length - 1; i >= 0; i--) {
                 const p = particles[i];
