@@ -199,13 +199,13 @@ body::before {
 }
 
 /* --------------------------------------------------------------------------
-   5. FLOATING PILL NAVBAR & HEADER LOGOS
+   5. FLOATING PILL NAVBAR & HEADER LOGOS (QUIET & EXECUTIVE)
    -------------------------------------------------------------------------- */
 .navbar, .filetree-navbar {
     background: var(--jb-bg-glass) !important;
     backdrop-filter: blur(24px) saturate(190%) !important;
     -webkit-backdrop-filter: blur(24px) saturate(190%) !important;
-    border: 1px solid rgba(254, 1, 9, 0.3) !important;
+    border: 1px solid rgba(255, 255, 255, 0.12) !important;
     border-radius: var(--jb-radius-pill) !important;
     max-width: 980px !important;
     margin: 16px auto !important;
@@ -216,14 +216,14 @@ body::before {
     display: flex !important;
     align-items: center !important;
     justify-content: space-between !important;
-    box-shadow: 0 16px 40px -10px rgba(0, 0, 0, 0.8), 0 0 30px rgba(34, 1, 126, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.15) !important;
+    box-shadow: 0 16px 40px -10px rgba(0, 0, 0, 0.8), inset 0 1px 0 rgba(255, 255, 255, 0.12) !important;
     box-sizing: border-box !important;
     transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 .navbar:hover, .filetree-navbar:hover {
-    border-color: var(--jb-crimson) !important;
-    box-shadow: 0 20px 50px -10px rgba(0, 0, 0, 0.9), 0 0 35px rgba(254, 1, 9, 0.35) !important;
+    border-color: rgba(255, 255, 255, 0.25) !important;
+    box-shadow: 0 20px 50px -10px rgba(0, 0, 0, 0.9) !important;
 }
 
 .header-logo-link {
@@ -238,7 +238,7 @@ body::before {
     height: 38px;
     width: 38px;
     object-fit: contain;
-    filter: drop-shadow(0 2px 10px rgba(254, 1, 9, 0.5));
+    filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.5));
 }
 
 .header-logo-text {
@@ -248,7 +248,7 @@ body::before {
 }
 
 /* --------------------------------------------------------------------------
-   6. DIALED-DOWN QUIET SEARCH BAR TRIGGER (NO LOUD COLOR FILLS)
+   6. DIALED-DOWN QUIET SEARCH BAR TRIGGER (CLEAN SLATE)
    -------------------------------------------------------------------------- */
 .search-button {
     width: 350px !important;
@@ -267,7 +267,7 @@ body::before {
 }
 
 .search-button:hover {
-    border-color: rgba(254, 1, 9, 0.45) !important;
+    border-color: rgba(255, 255, 255, 0.25) !important;
     background: rgba(255, 255, 255, 0.09) !important;
     color: #ffffff !important;
     box-shadow: 0 4px 18px rgba(0, 0, 0, 0.5);
@@ -277,7 +277,7 @@ body::before {
     display: flex;
     align-items: center;
     margin-right: 0.5rem;
-    color: var(--jb-crimson);
+    color: #94a3b8;
 }
 
 .search-text {
