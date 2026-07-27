@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: location-based
-final: false
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/jin-stories-over-bonfire/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
 ---
+
 # Jin Stories over Bonfire
 
 ## How to Play

@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: miscellaneous
-final: true
-added-to-shabab: true
-tried: false
+{"dg-publish":true,"permalink":"/naqshey/","dg-note-properties":{"type":"miscellaneous","final":true,"added-to-shabab":true,"tried":false}}
 ---
+
 # Naqshey (Map Drawing)
 
 ## How to Play

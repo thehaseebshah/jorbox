@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/lessons/","dg-note-properties":{}}
 ---
+
 # July 2026 Lessons Table
 
 ```base

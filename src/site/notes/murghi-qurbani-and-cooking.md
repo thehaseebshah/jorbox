@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: location-based
-final: false
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/murghi-qurbani-and-cooking/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
 ---
+
 # Murghi Qurbani and Cooking
 
 ## How to Play

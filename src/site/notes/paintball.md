@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: location-based
-final: false
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/paintball/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
 ---
+
 # Paintball
 
 ## How to Play

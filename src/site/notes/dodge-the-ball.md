@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: outdoor
-final: false
-added-to-shabab: true
-tried: false
+{"dg-publish":true,"permalink":"/dodge-the-ball/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":true,"tried":false}}
 ---
+
 # Dodge the Ball
 
 ## How to Play

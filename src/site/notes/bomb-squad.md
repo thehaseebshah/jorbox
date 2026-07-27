@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: miscellaneous
-final: false
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/bomb-squad/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":false,"tried":false}}
 ---
+
 # Bomb Squad
 
 ## How to Play

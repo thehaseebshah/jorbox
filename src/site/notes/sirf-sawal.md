@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: miscellaneous
-final: false
-added-to-shabab: true
-tried: false
+{"dg-publish":true,"permalink":"/sirf-sawal/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false}}
 ---
+
 # Sirf Sawal
 
 ## How to Play

@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: deck
-final: false
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/tez-tareeni/","dg-note-properties":{"type":"deck","final":false,"added-to-shabab":false,"tried":false}}
 ---
+
 # Tez Tareeni
 
 ## How to Play

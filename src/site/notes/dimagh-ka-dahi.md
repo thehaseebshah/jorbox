@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: party
-final: false
-added-to-shabab: true
-tried: true
+{"dg-publish":true,"permalink":"/dimagh-ka-dahi/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":true,"tried":true}}
 ---
+
 # Dimagh Ka Dahi
 
 ## How to Play

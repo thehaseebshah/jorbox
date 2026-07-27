@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: kaghaz
-final: false
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/do-goti/","dg-note-properties":{"type":"kaghaz","final":false,"added-to-shabab":false,"tried":false}}
 ---
+
 # Do Goti
 
 ## How to Play

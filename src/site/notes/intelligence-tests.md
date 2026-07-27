@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: miscellaneous
-final: false
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/intelligence-tests/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":false,"tried":false}}
 ---
+
 # Intelligence Tests
 
 ## How to Play

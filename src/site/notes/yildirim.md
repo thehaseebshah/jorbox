@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: sports
-final: true
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/yildirim/","dg-note-properties":{"type":"sports","final":true,"added-to-shabab":false,"tried":false}}
 ---
+
 # Yildirim
 
 ## How to Play

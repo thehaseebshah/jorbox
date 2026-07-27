@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: sports
-final: true
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/pro-kabaddi/","dg-note-properties":{"type":"sports","final":true,"added-to-shabab":false,"tried":false}}
 ---
+
 # Pro Kabaddi
 
 ## How to Play
