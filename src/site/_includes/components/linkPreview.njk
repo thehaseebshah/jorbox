@@ -162,8 +162,12 @@
 
           const titleEl = iframeDoc.querySelector('h1');
           const contentEl = iframeDoc.querySelector('.content');
+          const badgeBarEl = iframeDoc.querySelector('.hero-badge-bar');
 
           tooltipContentHtml = '';
+          if (badgeBarEl) {
+            tooltipContentHtml += '<div style="margin-bottom: 0.5rem; opacity: 0.9;">' + badgeBarEl.innerHTML + '</div>';
+          }
           if (titleEl) {
             tooltipContentHtml += '<div style="font-weight: bold; font-size: 1.1em; margin-bottom: 0.6rem; unicode-bidi: plaintext;">' + titleEl.innerHTML + '</div>';
           }

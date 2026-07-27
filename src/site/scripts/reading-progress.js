@@ -35,11 +35,14 @@
         const badgeBar = document.createElement("div");
         badgeBar.className = "hero-badge-bar";
 
+        const mainEl = document.querySelector("main.content");
+        const moduleName = mainEl?.getAttribute("data-module") || "Shabab Curriculum";
+
         const catChip = document.createElement("span");
         catChip.className = "hero-chip category-chip";
-        catChip.innerHTML = "📚 Shabab Curriculum";
+        catChip.innerHTML = `📚 ${moduleName}`;
 
-        const contentText = document.querySelector("main.content")?.innerText || "";
+        const contentText = mainEl?.innerText || "";
         const wordCount = contentText.trim().split(/\s+/).length;
         const readTime = Math.max(1, Math.ceil(wordCount / 200));
 
