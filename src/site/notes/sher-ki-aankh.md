@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: outdoor
-final: true
-added-to-shabab: true
-tried: false
+{"dg-publish":true,"permalink":"/sher-ki-aankh/","dg-note-properties":{"type":"outdoor","final":true,"added-to-shabab":true,"tried":false}}
 ---
+
 # Sher ki Aankh (Eye of the Tiger)
 
 ## How to Play

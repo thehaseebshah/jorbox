@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: outdoor
-final: true
-added-to-shabab: true
-tried: false
+{"dg-publish":true,"permalink":"/operation-jhanda/","dg-note-properties":{"type":"outdoor","final":true,"added-to-shabab":true,"tried":false}}
 ---
+
 # Operation Jhanda
 
 ## How to Play

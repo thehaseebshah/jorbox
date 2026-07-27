@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: deck
-final: false
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/mandi/","dg-note-properties":{"type":"deck","final":false,"added-to-shabab":false,"tried":false}}
 ---
+
 # Mandi
 
 ## How to Play

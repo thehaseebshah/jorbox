@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: childhood
-final: false
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/gulli-danda/","dg-note-properties":{"type":"childhood","final":false,"added-to-shabab":false,"tried":false}}
 ---
+
 # Gulli Danda
 
 ## How to Play

@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: party
-final: false
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/dhun-boojho/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":false,"tried":false}}
 ---
+
 # Dhun Boojho
 
 ## How to Play
