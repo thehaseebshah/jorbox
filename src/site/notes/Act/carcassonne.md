@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/act/carcassonne/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Carcassonne"}}
+---
+
+
+# Carcassonne
+
+## How to Play
+- **Age Limit:** 14+
+- **Group Size:** 2+
+- **Duration:** 60 minutes
+- **Prep Time:** < 5 minutes
+- **Difficulty:** 5
+
+### Reference
+Watch: https://www.youtube.com/watch?v=R1qh-lhxy9s

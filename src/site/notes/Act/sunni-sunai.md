@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/act/sunni-sunai/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Sunni Sunai"}}
+---
+
+
+# Sunni Sunai
+
+## How to Play
+**Inspired by:** Telephone
+
+- **Age Limit:** 5+
+- **Group Size:** 5+
+- **Duration:** 10 minutes
+- **Prep Time:** < 5 minutes
+- **Difficulty:** 3
+
+### Reference
+Watch: [02-01 Suni Sunai](https://www.canva.com/design/DAGrcUbs9WU/yvf37zz8c22Jn25lEBdSsg/watch?utlId=hfbfbbf35a2)

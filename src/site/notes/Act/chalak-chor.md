@@ -1,0 +1,22 @@
+---
+{"dg-publish":true,"permalink":"/act/chalak-chor/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Chalak Chor"}}
+---
+
+
+# Chalak Chor
+
+## How to Play
+**Inspired by:** Crazy 8s with Cheating and UNO Mechanic / Crazy 8s with Cheating, Exploding Kittens and UNO Mechanic
+
+- **Age Limit:** 14+
+- **Group Size:** 5–10 players
+- **Duration:** 30 minutes
+- **Prep Time:** < 5 minutes
+- **Difficulty:** 5
+- **Code:** D-020
+
+### Items Needed
+- Role Cards (e.g., Mujahid/Jasoos)
+- Mission Cards (Success/Fail)
+- Voting Tokens (Approve/Reject)
+- Can be handmade
