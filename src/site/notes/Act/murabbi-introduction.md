@@ -1,7 +1,7 @@
 ---
 category: Shabab Skills Activity
 dg-publish: true
-name: Murabbi Introduction
+name: "Murabbi Introduction"
 ---
 
 ### Murabbi Introduction
