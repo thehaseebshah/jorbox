@@ -1715,8 +1715,9 @@ body.not-found-page {
 .obsidian-base-table-wrapper {
     overflow-x: auto;
     margin: 1.5rem 0;
-    border-radius: var(--jb-radius-md, 12px);
-    border: 1px solid rgba(255, 255, 255, 0.12);
+    border: none !important;
+    background: transparent !important;
+    box-shadow: none !important;
 }
 
 .obsidian-base-table,
@@ -1758,7 +1759,9 @@ table {
 }
 
 .theme-light .obsidian-base-table-wrapper {
-    border-color: rgba(62, 48, 78, 0.18) !important;
+    border: none !important;
+    background: transparent !important;
+    box-shadow: none !important;
 }
 
 .theme-light .obsidian-base-table,
