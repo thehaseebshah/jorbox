@@ -11,6 +11,7 @@ group-size: "3+"
 duration: "30 minutes"
 prep-time: "< 15 minutes"
 difficulty: 5
+rating: 5
 ---
 ### Karobari
 
@@ -18,7 +19,6 @@ difficulty: 5
 **Inspired by:** Snake Oil / Snake Oil mode, People are given a problem and they draw a solution mode
 
 - **Items Needed:** Cards
-- **Rating:** 5
 
 ##### Mode
 - Snake Oil mode (people are given a problem and they draw a solution)

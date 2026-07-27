@@ -11,8 +11,8 @@ group-size: "3+"
 duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Easy"
+rating: 5
 ---
 ### Tree Plantation Campaign
 
 #### How to Play
-- **Rating:** 5

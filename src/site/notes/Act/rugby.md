@@ -11,11 +11,11 @@ group-size: "4+"
 duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Easy"
+rating: 5
 ---
 ### Rugby
 
 #### How to Play
-- **Rating:** 5
 
 ##### Items Needed
 - Football

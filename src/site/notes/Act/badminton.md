@@ -11,11 +11,11 @@ group-size: "2+"
 duration: "20 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Easy"
+rating: 3
 ---
 ### Badminton
 
 #### How to Play
-- **Rating:** 3
 
 ##### Items Needed
 - Rackets

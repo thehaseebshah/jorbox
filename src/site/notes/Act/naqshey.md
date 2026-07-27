@@ -11,11 +11,11 @@ group-size: "2+"
 duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Easy"
+rating: 4
 ---
 ### Naqshey (Map Drawing)
 
 #### How to Play
-- **Rating:** 4
 - **Items Needed:** Mentioned in description
 
 #### 1. Objective

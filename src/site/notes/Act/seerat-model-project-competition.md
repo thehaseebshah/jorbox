@@ -11,8 +11,8 @@ group-size: "4+"
 duration: "99 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Easy"
+rating: 5
 ---
 ### Seerat Model Project Competition
 
 #### How to Play
-- **Rating:** 5
