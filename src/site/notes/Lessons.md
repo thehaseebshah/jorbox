@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-# July 2026 Lessons Table
+# Shabab Skills Lessons
 
 ```base
 views:
@@ -12,7 +12,6 @@ views:
         - note["lesson-batch"] == "July 2026"
     order:
       - file.name
-      - file.ctime
       - lesson-batch
       - module
     sort:

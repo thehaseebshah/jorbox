@@ -6,7 +6,6 @@ views:
         - note["lesson-batch"] == "July 2026"
     order:
       - file.name
-      - file.ctime
       - lesson-batch
       - module
     sort:
