@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Makri
 
-# Makri
-
-## How to Play
+#### How to Play
 **Inspired by:** Spider Web
 
 
-### Reference
+##### Reference
 Watch: https://www.youtube.com/watch?v=b4M_0v4TAyY&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=59

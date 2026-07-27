@@ -12,8 +12,7 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Banao Boojho
 
-# Banao Boojho
-
-## How to Play
+#### How to Play
 **Inspired by:** Catch Sketch

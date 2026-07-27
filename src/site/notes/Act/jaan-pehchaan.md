@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Jaan Pehchaan
 
-# Jaan Pehchaan
-
-## How to Play
+#### How to Play
 **Inspired by:** Change "Celebrity" to "Category Questions" / Change Celebrity to Category Questions
 
 
-### Reference
+##### Reference
 Watch: https://m.youtube.com/watch?v=eN8x4-0M4XE

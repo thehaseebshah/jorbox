@@ -12,10 +12,9 @@ duration: "60 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Carcassonne
 
-# Carcassonne
+#### How to Play
 
-## How to Play
-
-### Reference
+##### Reference
 Watch: https://www.youtube.com/watch?v=R1qh-lhxy9s

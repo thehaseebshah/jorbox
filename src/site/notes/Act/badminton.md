@@ -12,12 +12,11 @@ duration: "20 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Easy"
 ---
+### Badminton
 
-# Badminton
-
-## How to Play
+#### How to Play
 - **Rating:** 3
 
-### Items Needed
+##### Items Needed
 - Rackets
 - Shuttle

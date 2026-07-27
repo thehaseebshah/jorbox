@@ -12,10 +12,9 @@ duration: "99 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### River Crossing with Ropes
 
-# River Crossing with Ropes
+#### How to Play
 
-## How to Play
-
-### Reference
+##### Reference
 Watch: https://youtu.be/j_OAzZvDBwc?si=0Bx71dvjHTXO7XaX&t=454

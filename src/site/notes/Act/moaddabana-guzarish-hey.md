@@ -12,10 +12,9 @@ duration: "15 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Moaddabana Guzarish Hey
 
-# Moaddabana Guzarish Hey
+#### How to Play
 
-## How to Play
-
-### Reference
+##### Reference
 Watch: [Excalidraw - 8 August 2025](https://www.loom.com/share/75c848ea65434d09b073b9b4e80f564f)

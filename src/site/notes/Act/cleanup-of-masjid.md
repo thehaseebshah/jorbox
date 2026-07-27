@@ -12,7 +12,6 @@ duration: "99 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Cleanup of Masjid
 
-# Cleanup of Masjid
-
-## How to Play
+#### How to Play

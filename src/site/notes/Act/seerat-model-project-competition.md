@@ -12,8 +12,7 @@ duration: "99 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Easy"
 ---
+### Seerat Model Project Competition
 
-# Seerat Model Project Competition
-
-## How to Play
+#### How to Play
 - **Rating:** 5

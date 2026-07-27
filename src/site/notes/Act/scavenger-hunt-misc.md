@@ -12,12 +12,11 @@ duration: "45 minutes"
 prep-time: "30 minutes"
 difficulty: "Medium"
 ---
+### Scavenger Hunt
 
-# Scavenger Hunt
-
-## How to Play
+#### How to Play
 - **Items Needed:** Hint Cards, Phones
 - **Rating:** 5
 
-### Reference
+##### Reference
 Watch: https://www.canva.com/design/DAGtdI1qbao/gLhdIQ2W-2mAG0AS8kueVw/watch?utlId=hc8ac113488

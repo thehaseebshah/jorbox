@@ -12,18 +12,17 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Haiwani Pattay
 
-# Haiwani Pattay
-
-## How to Play
+#### How to Play
 **Inspired by:** Cards Against Humanity / Cards Against Humanity, Quiplash, Bring Your Own Book, Sound mode
 
 
 
-### Reference
+##### Reference
 Watch the video: https://www.youtube.com/watch?v=Uyciy8LmmXg
 
-### Mode
+##### Mode
 - Cards Against Humanity
 - Quiplash
 - Bring Your Own Book

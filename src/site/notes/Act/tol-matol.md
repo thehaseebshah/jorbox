@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Tol Matol
 
-# Tol Matol
-
-## How to Play
+#### How to Play
 **Inspired by:** Circle/Hoop Pass
 
 
-### Reference
+##### Reference
 Watch: https://www.youtube.com/watch?v=ivYv1VmUXoQ&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=90

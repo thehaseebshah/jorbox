@@ -12,8 +12,7 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Purane Bantay
 
-# Purane Bantay
-
-## How to Play
+#### How to Play
 **Inspired by:** Goldaire men bantay rankhna

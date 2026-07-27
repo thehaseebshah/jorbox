@@ -12,10 +12,9 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Teen Ball
 
-# Teen Ball
+#### How to Play
 
-## How to Play
-
-### Reference
+##### Reference
 Watch: [17-02 3 Ball](https://www.canva.com/design/DAGuIZS-A2s/CfDeE4XZmmNeUfhVIZwciw/watch?utlId=h64a1d08625)

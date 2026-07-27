@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Doley Sholey
 
-# Doley Sholey
-
-## How to Play
+#### How to Play
 **Inspired by:** Muscle Power
 
 
-### Reference
+##### Reference
 Watch: [Excalidraw Whiteboard - 29 August 2025](https://www.loom.com/share/e091416f7dd6423fa195470ff48b9d68)

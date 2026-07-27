@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Alfaaz
 
-# Alfaaz
-
-## How to Play
+#### How to Play
 **Inspired by:** Word on the Street
 
 
-### Reference
+##### Reference
 Watch: https://www.loom.com/share/12da42f564134c299e58456ba79b4e2c

@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Qatil Police
 
-# Qatil Police
-
-## How to Play
+#### How to Play
 **Inspired by:** Killer detective
 
 
-### Reference
+##### Reference
 Watch: https://m.youtube.com/watch?v=8xOFWyYS-hs

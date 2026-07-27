@@ -12,13 +12,12 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Easy"
 ---
+### Karigari (Crafting)
 
-# Karigari (Crafting)
-
-## How to Play
+#### How to Play
 **Inspired by:** Crafting
 
 - **Rating:** 4
 
-### Reference
+##### Reference
 Watch: [Excalidraw Whiteboard - 29 August 2025](https://www.loom.com/share/b1d623a530314a9fb697cef92c84fc53)

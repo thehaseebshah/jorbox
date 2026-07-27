@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Musafir
 
-# Musafir
-
-## How to Play
+#### How to Play
 **Inspired by:** Navigators
 
 
-### Reference
+##### Reference
 Watch: https://www.loom.com/share/6688c94113aa4a1194d4c3fc6e9ffb9e

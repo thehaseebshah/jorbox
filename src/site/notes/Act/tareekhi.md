@@ -12,8 +12,7 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Tareekhi
 
-# Tareekhi
-
-## How to Play
+#### How to Play
 **Inspired by:** Timeline (Add categories like Quixort) / Timeline; Add categories like Quixort

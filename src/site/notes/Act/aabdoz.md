@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Aabdoz
 
-# Aabdoz
-
-## How to Play
+#### How to Play
 **Inspired by:** Sonar
 
 
-### Reference
+##### Reference
 Watch: https://www.youtube.com/watch?v=U2Diix5qYJo

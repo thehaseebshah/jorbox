@@ -12,7 +12,6 @@ duration: "99 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Murghi Qurbani and Cooking
 
-# Murghi Qurbani and Cooking
-
-## How to Play
+#### How to Play

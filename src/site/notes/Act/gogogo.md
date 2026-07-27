@@ -12,11 +12,10 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Gogogo
 
-# Gogogo
-
-## How to Play
+#### How to Play
 - **Items Needed:** Mobile
 
-### Reference
+##### Reference
 Download: https://apkpure.com/gogogo-the-party-game/com.Studiosaurus.Gogogothegame/

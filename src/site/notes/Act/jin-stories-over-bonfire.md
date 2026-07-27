@@ -12,7 +12,6 @@ duration: "99 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Jin Stories over Bonfire
 
-# Jin Stories over Bonfire
-
-## How to Play
+#### How to Play

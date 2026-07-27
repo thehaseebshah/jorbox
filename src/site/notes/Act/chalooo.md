@@ -11,12 +11,11 @@ duration: "20 minutes"
 prep-time: "< 5 minutes"
 difficulty: 3
 ---
+### Chalooo
 
-# Chalooo
-
-## How to Play
+#### How to Play
 **Inspired by:** Go Fish
 
 
-### Reference
+##### Reference
 Watch: https://www.youtube.com/watch?v=psOjK8Y06m0&t=42s

@@ -12,10 +12,9 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Gulli Danda
 
-# Gulli Danda
+#### How to Play
 
-## How to Play
-
-### Reference
+##### Reference
 Watch: https://youtu.be/J3wU0buWUJY?si=o_RWIuXEqzij6wNN&t=85

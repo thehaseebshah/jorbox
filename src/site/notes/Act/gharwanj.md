@@ -12,10 +12,9 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Gharwanj
 
-# Gharwanj
+#### How to Play
 
-## How to Play
-
-### Reference
+##### Reference
 Watch: https://www.youtube.com/watch?v=XC3UoMYDuTE

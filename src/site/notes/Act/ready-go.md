@@ -12,10 +12,9 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Ready Go
 
-# Ready Go
+#### How to Play
 
-## How to Play
-
-### Reference
+##### Reference
 Watch: [Excalidraw - 8 August 2025](https://www.loom.com/share/84fa2ffbf9be46179f229aa529f602eb)

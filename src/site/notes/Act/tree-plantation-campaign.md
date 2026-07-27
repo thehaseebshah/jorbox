@@ -12,8 +12,7 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Easy"
 ---
+### Tree Plantation Campaign
 
-# Tree Plantation Campaign
-
-## How to Play
+#### How to Play
 - **Rating:** 5

@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Dhoka
 
-# Dhoka
-
-## How to Play
+#### How to Play
 **Inspired by:** Bluff
 
 
-### Reference
+##### Reference
 Watch: https://www.youtube.com/watch?v=pKzAbWFhmtk

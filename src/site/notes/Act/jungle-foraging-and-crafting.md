@@ -12,7 +12,6 @@ duration: "99 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Jungle Foraging and Crafting
 
-# Jungle Foraging and Crafting
-
-## How to Play
+#### How to Play

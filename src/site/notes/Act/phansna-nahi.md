@@ -12,8 +12,7 @@ duration: "99 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Phansna Nahi
 
-# Phansna Nahi
-
-## How to Play
+#### How to Play
 **Inspired by:** Don't get Got (Loser does a Dare from Truth or Dare) / Dont get Got; Loser does a Dare (from Truth or Dare)

@@ -12,14 +12,13 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Easy"
 ---
+### Home Golf
 
-# Home Golf
-
-## How to Play
+#### How to Play
 **How to Play:** Design a golf course at home and play with friends, count how many hits it takes to reach each hole by each person.
 
 - **Rating:** 5
 
-### Items Needed
+##### Items Needed
 - Stick
 - Ball

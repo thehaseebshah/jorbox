@@ -12,7 +12,6 @@ duration: "99 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Hold Breath Challenge
 
-# Hold Breath Challenge
-
-## How to Play
+#### How to Play

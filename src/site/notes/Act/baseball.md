@@ -12,7 +12,6 @@ duration: "60 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Baseball
 
-# Baseball
-
-## How to Play
+#### How to Play

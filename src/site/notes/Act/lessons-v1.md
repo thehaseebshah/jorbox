@@ -7,8 +7,7 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
-# Shabab Skills v1 Lessons (Feb 2025)
+### Shabab Skills v1 Lessons (Feb 2025)
 
 ```base
 properties:

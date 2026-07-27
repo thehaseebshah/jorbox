@@ -12,8 +12,7 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Mahaz
 
-# Mahaz
-
-## How to Play
+#### How to Play
 **Inspired by:** Nerf Wars (Play with Paper Balls or Plastic Guns)

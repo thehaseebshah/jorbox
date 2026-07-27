@@ -12,7 +12,6 @@ duration: "99 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Geocaching
 
-# Geocaching
-
-## How to Play
+#### How to Play

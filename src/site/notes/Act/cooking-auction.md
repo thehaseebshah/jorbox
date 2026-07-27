@@ -12,7 +12,6 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Cooking Auction
 
-# Cooking Auction
-
-## How to Play
+#### How to Play

@@ -12,8 +12,7 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Daal men Kaala
 
-# Daal men Kaala
-
-## How to Play
+#### How to Play
 **Inspired by:** Sounds Fishy (Variation: Add Personal Prompts like Fibbage 3 "Enough about You") / Sounds Fishy; Variation: Add Personal Prompts like Fibbage 3 Enough about You

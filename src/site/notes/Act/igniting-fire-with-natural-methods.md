@@ -12,8 +12,7 @@ duration: "60 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Igniting Fire with Natural Methods
 
-# Igniting Fire with Natural Methods
-
-## How to Play
+#### How to Play
 - **Items Needed:** Mentioned in description

@@ -12,8 +12,7 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Satrangi
 
-# Satrangi
-
-## How to Play
+#### How to Play
 **Inspired by:** Grabbing Colors

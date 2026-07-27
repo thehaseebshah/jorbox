@@ -12,8 +12,7 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Kana Raja
 
-# Kana Raja
-
-## How to Play
+#### How to Play
 **Inspired by:** Hanabi with 52 Cards

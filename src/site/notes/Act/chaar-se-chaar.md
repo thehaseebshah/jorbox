@@ -12,13 +12,12 @@ duration: "15 minutes"
 prep-time: "< 5 minutes"
 difficulty: 3
 ---
+### Chaar se Chaar
 
-# Chaar se Chaar
-
-## How to Play
+#### How to Play
 **Inspired by:** Connect 4
 
 - **Items Needed:** Paper, pencil
 
-### Reference
+##### Reference
 Watch: https://www.youtube.com/watch?v=s-Rqik29V80

@@ -12,10 +12,9 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Aik Rangi Soch (v2)
 
-# Aik Rangi Soch (v2)
-
-## How to Play
+#### How to Play
 **Inspired by:** Wavelength
 
 

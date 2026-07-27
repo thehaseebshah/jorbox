@@ -12,11 +12,10 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Operation Jhanda
 
-# Operation Jhanda
-
-## How to Play
+#### How to Play
 - **Items Needed:** Flags
 
-### Reference
+##### Reference
 Watch: https://www.canva.com/design/DAGrcQ1SZcU/BhQQAyrDZrpRUACoKvNpow/watch?utlId=h59cf565b19

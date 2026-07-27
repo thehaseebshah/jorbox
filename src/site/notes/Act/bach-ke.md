@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Bach Ke
 
-# Bach Ke
-
-## How to Play
+#### How to Play
 **Inspired by:** Cheese Movers
 
 
-### Reference
+##### Reference
 Watch: https://www.youtube.com/watch?v=_exo0hJ4Ovs&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=58

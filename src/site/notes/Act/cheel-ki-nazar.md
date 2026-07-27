@@ -12,13 +12,12 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Cheel ki Nazar
 
-# Cheel ki Nazar
-
-## How to Play
+#### How to Play
 **Inspired by:** Nerves of Steel / Catch Ball When Thrown only
 
 
 
-### Reference
+##### Reference
 Watch: Nerves of Steel.AVI

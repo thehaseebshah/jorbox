@@ -12,10 +12,9 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Hard"
 ---
+### Intelligence Tests
 
-# Intelligence Tests
-
-## How to Play
+#### How to Play
 **How to Play:** Find tests to solve online
 
 - **Rating:** 4

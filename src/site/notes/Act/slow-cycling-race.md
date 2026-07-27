@@ -12,7 +12,6 @@ duration: "99 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Slow Cycling Race
 
-# Slow Cycling Race
-
-## How to Play
+#### How to Play

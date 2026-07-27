@@ -12,8 +12,7 @@ duration: "90 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Easy"
 ---
+### Shabab Dawah Campaign
 
-# Shabab Dawah Campaign
-
-## How to Play
+#### How to Play
 - **Rating:** 4

@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Zehni Azmaish
 
-# Zehni Azmaish
-
-## How to Play
+#### How to Play
 **Inspired by:** Quiz
 
 
-### Reference
+##### Reference
 Watch: https://www.loom.com/share/813d926741134a2b8bd2bd982bc2f46d

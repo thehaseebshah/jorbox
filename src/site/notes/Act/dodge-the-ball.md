@@ -12,7 +12,6 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Dodge the Ball
 
-# Dodge the Ball
-
-## How to Play
+#### How to Play

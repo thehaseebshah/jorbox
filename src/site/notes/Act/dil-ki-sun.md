@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 3
 ---
+### Dil ki Sun
 
-# Dil ki Sun
-
-## How to Play
+#### How to Play
 **Inspired by:** The Mind
 
 
-### Reference
+##### Reference
 Watch: https://www.youtube.com/watch?v=uXl8MC0GMYE

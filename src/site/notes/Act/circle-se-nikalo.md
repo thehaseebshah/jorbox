@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Circle se Nikalo
 
-# Circle se Nikalo
-
-## How to Play
+#### How to Play
 **Rule:** Score teams based on total time
 
 
-### Reference
+##### Reference
 Watch: https://www.youtube.com/watch?v=h9H2a65gAFw&list=PLINo1uFUv6C-qwBsSvORSQ9TzEk5PdxPV&index=11

@@ -12,8 +12,7 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Khufia Paigham
 
-# Khufia Paigham
-
-## How to Play
+#### How to Play
 **Inspired by:** Decrypto

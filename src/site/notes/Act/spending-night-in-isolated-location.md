@@ -12,7 +12,6 @@ duration: "99 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Spending Night in Isolated Location
 
-# Spending Night in Isolated Location
-
-## How to Play
+#### How to Play

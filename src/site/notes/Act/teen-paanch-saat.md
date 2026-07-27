@@ -12,13 +12,12 @@ duration: "15 minutes"
 prep-time: "< 5 minutes"
 difficulty: 3
 ---
+### Teen Paanch Saat
 
-# Teen Paanch Saat
-
-## How to Play
+#### How to Play
 **Inspired by:** NIM
 
 - **Items Needed:** 15 items that act as game pieces
 
-### Reference
+##### Reference
 Watch: https://www.youtube.com/watch?v=mR8IvDA_ms0

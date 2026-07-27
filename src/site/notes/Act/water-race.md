@@ -12,7 +12,6 @@ duration: "99 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Water Race
 
-# Water Race
-
-## How to Play
+#### How to Play

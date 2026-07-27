@@ -12,8 +12,7 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Chalak Chor
 
-# Chalak Chor
-
-## How to Play
+#### How to Play
 **Inspired by:** Crazy 8s with Cheating and UNO Mechanic / Crazy 8s with Cheating, Exploding Kittens and UNO Mechanic

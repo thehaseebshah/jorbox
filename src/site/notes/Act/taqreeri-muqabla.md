@@ -12,8 +12,7 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Easy"
 ---
+### Taqreeri Muqabla
 
-# Taqreeri Muqabla
-
-## How to Play
+#### How to Play
 - **Rating:** 4

@@ -12,10 +12,9 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 3
 ---
+### Murgha Logey?
 
-# Murgha Logey?
+#### How to Play
 
-## How to Play
-
-### Reference
+##### Reference
 Watch: [Wanna Buy a Duck? Camp Game - Ultimate Camp Resource](https://www.youtube.com/watch?v=QsrN7S-NVvc&list=PL929CC4949C2AF3A9&index=38)

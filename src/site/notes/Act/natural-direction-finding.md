@@ -12,8 +12,7 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Natural Direction Finding
 
-# Natural Direction Finding
-
-## How to Play
+#### How to Play
 - **Items Needed:** Mentioned in description

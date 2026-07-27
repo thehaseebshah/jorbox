@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Billi Chuha
 
-# Billi Chuha
-
-## How to Play
+#### How to Play
 **Inspired by:** Dog and the Bone
 
 
-### Reference
+##### Reference
 Watch: https://youtube.com/shorts/M7Stk4eRjrU?si=pJAmWRZ53yC8EcIt

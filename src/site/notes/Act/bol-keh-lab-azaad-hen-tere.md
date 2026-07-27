@@ -12,8 +12,7 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Bol keh Lab Azaad hen Tere
 
-# Bol keh Lab Azaad hen Tere
-
-## How to Play
+#### How to Play
 **Inspired by:** Impromptu Speaking / Impromtu Speaking

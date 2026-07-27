@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Qismen
 
-# Qismen
-
-## How to Play
+#### How to Play
 **Inspired by:** Categories
 
 
-### Reference
+##### Reference
 Watch: https://www.loom.com/share/33b177acd7424404949eddc68bd10bd3

@@ -12,11 +12,10 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Bomb Squad
 
-# Bomb Squad
-
-## How to Play
+#### How to Play
 - **Items Needed:** Mobiles
 
-### Reference
+##### Reference
 Download: https://apkpure.com/bombsquad-app/net.froemling.bombsquad

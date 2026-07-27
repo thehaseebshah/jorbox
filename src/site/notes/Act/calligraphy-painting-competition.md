@@ -12,7 +12,6 @@ duration: "99 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Caligraphy/Painting Competition
 
-# Caligraphy/Painting Competition
-
-## How to Play
+#### How to Play

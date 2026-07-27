@@ -12,10 +12,9 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Japani Karate
 
-# Japani Karate
+#### How to Play
 
-## How to Play
-
-### Reference
+##### Reference
 Watch: [Camp Games: Ninja - Ultimate Camp Resource](https://www.youtube.com/watch?v=M-9F06_uOGo&list=PL929CC4949C2AF3A9&index=40)

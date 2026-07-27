@@ -12,10 +12,9 @@ duration: "15 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Sirf Sawal
 
-# Sirf Sawal
+#### How to Play
 
-## How to Play
-
-### Reference
+##### Reference
 Watch: https://www.loom.com/share/07ec310c5ef74fcaae593bdec9d62fc8

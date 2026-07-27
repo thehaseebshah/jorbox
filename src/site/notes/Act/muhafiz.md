@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Muhafiz
 
-# Muhafiz
-
-## How to Play
+#### How to Play
 **Inspired by:** Bodygaurd
 
 
-### Reference
+##### Reference
 Watch: https://m.youtube.com/watch?v=Imb6VCCWsQg

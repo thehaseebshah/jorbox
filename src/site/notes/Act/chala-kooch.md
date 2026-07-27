@@ -12,7 +12,6 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Chala Kooch
 
-# Chala Kooch
-
-## How to Play
+#### How to Play

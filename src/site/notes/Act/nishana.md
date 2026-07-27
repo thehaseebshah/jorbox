@@ -12,10 +12,9 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Nishana
 
-# Nishana
+#### How to Play
 
-## How to Play
-
-### Reference
+##### Reference
 Watch: [Physical Education Games - The Serving Game (Volleyball)](https://www.youtube.com/watch?v=k16Pauv7NzQ&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=158)

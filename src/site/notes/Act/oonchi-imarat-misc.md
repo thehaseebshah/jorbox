@@ -12,8 +12,7 @@ duration: "60 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Oonchi Imarat (Tallest Building)
 
-# Oonchi Imarat (Tallest Building)
-
-## How to Play
+#### How to Play
 **Goal:** Create the tallest building

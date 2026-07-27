@@ -12,11 +12,10 @@ duration: "15 minutes"
 prep-time: "< 5 minutes"
 difficulty: 3
 ---
+### Dara
 
-# Dara
-
-## How to Play
+#### How to Play
 - **Items Needed:** Paper, pencil
 
-### Reference
+##### Reference
 Watch: https://m.youtube.com/watch?v=fkOT8-_HHow

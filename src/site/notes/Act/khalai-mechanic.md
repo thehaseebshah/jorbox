@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Khalai Mechanic
 
-# Khalai Mechanic
-
-## How to Play
+#### How to Play
 **Inspired by:** Spaceteam
 
 
-### Reference
+##### Reference
 Watch: https://www.youtube.com/watch?v=go_xpGrwa7I

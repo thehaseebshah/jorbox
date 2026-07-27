@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Boni Kushti
 
-# Boni Kushti
-
-## How to Play
+#### How to Play
 **Inspired by:** One legged Kushti
 
 
-### Reference
+##### Reference
 Watch: https://m.youtube.com/watch?v=ZqfeLN8VMNE

@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Kis men Kitna hey Dam
 
-# Kis men Kitna hey Dam
-
-## How to Play
+#### How to Play
 **Inspired by:** TicTacToe Relay and Shuffle Relay
 
 
-### Reference
+##### Reference
 Watch: [Excalidraw Whiteboard - 29 August 2025](https://www.loom.com/share/ff8e2c8aa8de415ab4df3072c066f1c4)

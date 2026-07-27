@@ -12,11 +12,10 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Easy"
 ---
+### Handball
 
-# Handball
-
-## How to Play
+#### How to Play
 - **Rating:** 5
 
-### Items Needed
+##### Items Needed
 - Football

@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Tez Tareeni
 
-# Tez Tareeni
-
-## How to Play
+#### How to Play
 **Inspired by:** Speed
 
 
-### Reference
+##### Reference
 Watch: https://www.youtube.com/watch?v=-gN56kKwb7o

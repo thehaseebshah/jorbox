@@ -12,14 +12,13 @@ duration: "30 minutes"
 prep-time: "< 15 minutes"
 difficulty: 5
 ---
+### Karobari
 
-# Karobari
-
-## How to Play
+#### How to Play
 **Inspired by:** Snake Oil / Snake Oil mode, People are given a problem and they draw a solution mode
 
 - **Items Needed:** Cards
 - **Rating:** 5
 
-### Mode
+##### Mode
 - Snake Oil mode (people are given a problem and they draw a solution)

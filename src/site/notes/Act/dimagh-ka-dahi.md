@@ -12,20 +12,19 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
 ---
+### Dimagh Ka Dahi
 
-# Dimagh Ka Dahi
-
-## How to Play
+#### How to Play
 **Inspired by:** Monikers, Banned Words, Poetry for Neanderthals
 
 - **Items Needed:** Word Cards
 
-### Reference
+##### Reference
 Watch: [02-03 Dimagh ka Dahi](https://www.canva.com/design/DAGrdy2qMPA/zzP6uqKMUh7S9sHyX1TxUA/watch?utlId=h53a89b7e74)
 
 **Variation:** Watch [this](https://www.youtube.com/watch?v=4QeA4nrcQV0) video carefully.
 
-### Variation (Group-based)
+##### Variation (Group-based)
 - Make groups of 6 from the Shabab, each group will have two Teams — Team A and Team B.
 - Each group will be guided by a Murabbi.
 - Create similar cards out of paper as shown in the video.

@@ -12,15 +12,14 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Easy"
 ---
+### Frisbee
 
-# Frisbee
-
-## How to Play
+#### How to Play
 - **Rating:** 4
 
-### Variations
+##### Variations
 - **Variation 1:** [How to Play Ultimate Frisbee](https://www.wikihow.com/Play-Ultimate-Frisbee)
 - **Variation 2:** Qaidi Qaidi (Popular game)
 
-### Items Needed
+##### Items Needed
 - Frisbee

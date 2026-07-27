@@ -12,10 +12,9 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Medium"
 ---
+### Munazra (Debate Competition)
 
-# Munazra (Debate Competition)
-
-## How to Play
+#### How to Play
 **AKA:** Debate Competition
 
 - **Rating:** 5

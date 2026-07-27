@@ -12,10 +12,9 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Piddi Piddi with Bats
 
-# Piddi Piddi with Bats
+#### How to Play
 
-## How to Play
-
-### Reference
+##### Reference
 Watch: https://www.loom.com/share/f09e80b47fc04d5ca398ae17b3c48980

@@ -12,7 +12,6 @@ duration: "99 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 ---
+### Citywide Manhunt with GPS
 
-# Citywide Manhunt with GPS
-
-## How to Play
+#### How to Play

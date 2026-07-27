@@ -12,12 +12,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Easy"
 ---
+### Rugby
 
-# Rugby
-
-## How to Play
+#### How to Play
 - **Rating:** 5
 
-### Items Needed
+##### Items Needed
 - Football
 - Goal posts
