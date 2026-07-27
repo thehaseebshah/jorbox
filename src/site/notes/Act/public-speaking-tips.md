@@ -10,7 +10,7 @@ tried: false
 
 ### Public Speaking Tips
 
-#### How to Play
+#### Instructions
 Watch [this video](https://www.youtube.com/watch?v=Iqq1roF4C8s) first and let Shabab watch it in the park.
 
 Then read and understand the following strategies Muhammad Qahtani used in this winning talk, and teach them to Shabab while breaking down the video:
