@@ -1,15 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/v2/06/","dg-note-properties":{"category":"Shabab Skills Curriculum","lesson-batch":"July 2026","module":"Team Building","name":"Tallest Building"}}
+category: JorBox Activity
+dg-publish: true
+name: "Oonchi Imarat"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
+age-limit: "8+"
+group-size: "4+"
+duration: "60 minutes"
+prep-time: "< 5 minutes"
+difficulty: 4
 ---
-
-# Tallest Building
-
-> [!info] Learning Objectives
-> Problem Solving, Teamwork & Collaboration, Strategic Planning, Ameer Ki Itaat (Obedience to the Leader), Creativity & Innovation (Ibda' wa Ibtikar), Resource Management (Idarat al-Mawarid), Resilience & Adaptability (Murunah wa Takayyuf), Fostering an Appreciation for Nature (Taqdir al-Tabi'ah).
-
-## Activity 1:
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 ### Oonchi Imarat (Tallest Building)
 
@@ -48,5 +50,3 @@ Engage participants in a discussion about the activity. Ask questions like:
 
 #### Cleanup and Nature Respect
 Remind participants to clean up their areas and return any unused natural objects they collected back to where they found them. Stress the importance of respecting the environment and leaving the park as beautiful as they found it.
-
-</div></div>
