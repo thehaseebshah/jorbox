@@ -1,5 +1,5 @@
 ---
-category: Shabab Tarbiyah Curriculum
+category: JorBox Activity
 dg-publish: true
 name: "Insani Seerhi"
 type: outdoor

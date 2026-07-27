@@ -1,8 +1,8 @@
 ---
-category: Shabab Tarbiyah Curriculum
+category: JorBox Activity
 dg-publish: true
 name: "Lessons"
-type: activity
+type: shabab-act
 final: false
 added-to-shabab: false
 tried: false

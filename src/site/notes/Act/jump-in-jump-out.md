@@ -1,8 +1,8 @@
 ---
-category: Shabab Skills Activity
+category: JorBox Activity
 dg-publish: true
 name: "Jump In Jump Out"
-type: activity
+type: shabab-act
 final: false
 added-to-shabab: false
 tried: false

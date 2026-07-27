@@ -1,8 +1,8 @@
 ---
-category: Shabab Skills Activity
+category: JorBox Activity
 dg-publish: true
 name: "Why Shabab Moved From Google Docs To Canva And Then To Its Own Website Urdu"
-type: activity
+type: shabab-act
 final: false
 added-to-shabab: false
 tried: false
