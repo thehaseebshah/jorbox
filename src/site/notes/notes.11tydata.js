@@ -15,6 +15,9 @@ module.exports = {
       if (data.tags.indexOf("gardenEntry") != -1) {
         return "/";
       }
+      if (data.page.filePathStem && data.page.filePathStem.startsWith("/notes/v1/")) {
+        return `/v1/${data.page.fileSlug}/`;
+      }
       return `/${data.page.fileSlug}/`;
     },
     basesNotes: (data) => {

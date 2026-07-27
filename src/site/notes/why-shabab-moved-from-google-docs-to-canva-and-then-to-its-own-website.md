@@ -27,7 +27,7 @@ Reusable templates helped us keep lessons consistent, while Canva's visual canva
 Its built-in design resources and broader export options also made lessons faster to produce and easier to distribute in different formats.
 Canva was therefore an important bridge between basic cloud documents and a proper publishing platform.
 
-However, Canva still left the lessons dependent on a proprietary service.
+However, Canva still left the lessons dependent on a proprietary service with an ongoing subscription cost for its paid capabilities.
 Its pages were slow to load, the collection remained difficult to organize, and the lessons did not provide the animated and integrated experience we wanted.
 
 ### Stage Three: Obsidian, Digital Garden, and Shabab's Website
@@ -181,6 +181,44 @@ We can also introduce interactive features in the future without waiting for a t
 A stable website address can continue pointing to the current lesson while the lesson's text, videos, organization, and design evolve behind it.
 This preserves the stable-link advantage we gained from Canva while bringing the content into a faster and better-organized system.
 
+### 5. Greater Student Privacy
+
+When students open lessons through Google Docs or Canva, those companies deliver the pages and determine what platform cookies, telemetry, and other visitor data are collected.
+Shabab has limited visibility into or control over those data-collection decisions.
+Students may therefore interact with a large third-party platform even when they only intend to read a Shabab lesson.
+
+On our own website, Shabab can decide which analytics, cookies, embedded services, and third-party scripts are genuinely necessary.
+We can minimize tracking, select privacy-respecting tools, and explain our practices directly instead of automatically accepting the policies of a document or design platform.
+An independently operated website does not make privacy automatic, but it puts the relevant decisions under Shabab's control.
+
+### 6. Site-Wide Design Changes From One Place
+
+Canva templates helped us start new lessons with a consistent design, but each duplicated Canva lesson became a separate design.
+If we later changed a font, color, spacing rule, header, or other shared element, old designs still had to be opened and updated individually.
+The same fragmentation existed across separate Google Docs.
+
+Our website uses shared layouts, components, and styles across the complete lesson library.
+A change to a central template or stylesheet can update every lesson simultaneously without editing each lesson's content.
+This makes it practical to refresh Shabab's visual identity, improve accessibility, or correct a common design problem across the entire website in one controlled change.
+
+### 7. Better Support for Multiple Languages
+
+Maintaining translations in Google Docs or Canva generally requires separate documents or designs for each language.
+Every correction, visual adjustment, or structural change must then be repeated across those copies, making it easy for translated versions to fall out of sync.
+
+Our website can organize multiple language versions around the same lesson structure.
+It can support languages such as English and Urdu, provide language switching, and apply right-to-left layouts where required while preserving consistent navigation and design.
+This gives Shabab a more scalable foundation for serving different language communities in the future.
+
+### 8. No Dependence on Canva's Subscription
+
+Canva has a recurring subscription cost for access to its paid features, premium assets, brand tools, expanded storage, and other capabilities used in a serious production workflow.
+Continuing to maintain the lessons inside Canva therefore ties part of Shabab's publishing process to an active paid plan.
+If the subscription price rises or the plan ends, important tools or assets may become restricted.
+
+Our website still has legitimate costs such as its domain, hosting, and maintenance, but publishing the curriculum no longer requires an ongoing Canva subscription.
+Shabab pays for infrastructure it controls instead of paying continuously for permission to edit and present its own lesson collection inside Canva.
+
 ## Why the Local-First System Is the Right Long-Term Foundation
 
 ### 1. Ownership, Protection From Account Loss, and Censorship Resilience
@@ -281,12 +319,12 @@ Their main weaknesses were long links, unattractive student-facing pages, scatte
 
 Canva improved the visual quality of lessons, provided shorter WhatsApp-friendly links, and made it possible to update cloud-processed videos behind a stable public address.
 It also gave us reusable templates, easier formatting and image placement, richer multimedia composition, built-in design resources, and multiple export formats for different distribution channels.
-Its main weaknesses were slow loading, continued dependence on a proprietary account, weak curriculum-wide organization, outdated and duplicate files, and a static lesson experience without the website-level animations we wanted.
+Its main weaknesses were slow loading, an ongoing subscription cost, limited control over student privacy, continued dependence on a proprietary account, weak curriculum-wide organization, outdated and duplicate files, and a static lesson experience without the website-level animations we wanted.
 
 ### Obsidian, Digital Garden, and Shabab's Website
 
 The current system combines local ownership with public web publishing.
-It provides fast static pages, organized modules, duplicate detection, stable lesson addresses, attractive animations, AI and automation support, offline editing, portable Markdown files, one source of truth, and direct control over the entire learning experience.
+It provides fast static pages, organized modules, duplicate detection, stable lesson addresses, attractive animations, AI and automation support, offline editing, portable Markdown files, one source of truth, centrally managed site-wide design, multilingual possibilities, greater control over student privacy, and direct control over the entire learning experience.
 
 ## Conclusion
 
@@ -295,8 +333,8 @@ Each transition responded to concrete operational problems discovered while crea
 
 Google Docs was useful for basic writing and cloud access, but its links, appearance, organization, formatting, image placement, multimedia limitations, and video workflow did not scale.
 Canva made lessons easier to share, more attractive, easier to format, consistent through reusable templates, richer in multimedia, simpler to export, and much easier to update when videos changed.
-Its built-in design resources also accelerated production, but Canva remained slow, proprietary, poorly organized at curriculum scale, and visually static in delivery.
-The local-first Obsidian, Digital Garden, and static website system keeps the best lessons from those stages while solving their deeper limitations.
+Its built-in design resources also accelerated production, but Canva remained slow, subscription-based, proprietary, poorly organized at curriculum scale, limited our control over student privacy, and was visually static in delivery.
+The local-first Obsidian, Digital Garden, and static website system keeps the best lessons from those stages while solving their deeper limitations through shared site-wide design, multilingual capabilities, and greater privacy control.
 
 Most importantly, the new system gives Shabab control over both its educational archive and its future.
 The lessons can remain available offline, survive account closures, be moved if censorship or platform restrictions arise, be improved in bulk through AI and automation, and be published through a fast, organized, beautiful, and evolving website.
