@@ -1,15 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/v2/12/","dg-note-properties":{"category":"Shabab Skills Curriculum","lesson-batch":"July 2026","module":"Communication","name":"Impromptu Speaking 2"}}
+category: JorBox Activity
+dg-publish: true
+name: "Ummah Innovators"
+type: shabab-act
+final: false
+added-to-shabab: false
+tried: false
 ---
-
-# Impromptu Speaking 2
-
-> [!info] Learning Objectives
-> Eloquent expression, Quick thinking under pressure, Confidence building, Persuasive communication, Islamic rhetoric, Adab in speech, Tarbiyah through articulation, Critical thinking, Spiritual reflection, Moral reasoning, Leadership presence, Emotional regulation, Adaptability, Prophetic communication principles.
-
-## Activity 1:
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 ### Ummah Innovators
 
@@ -28,5 +25,3 @@
 3. **The Pitching Session (60 secs):** Pitch your invention to the Judge (Ministry of Innovation), explaining what it does, how it benefits Muslims, and why it's revolutionary.
 4. **Ministry Decision:** The Judge awards 1 point to the best invention.
 5. **Refill & Rotate:** Discard played cards, draw new ones back up to 6, and rotate the Judge role clockwise.
-
-</div></div>
