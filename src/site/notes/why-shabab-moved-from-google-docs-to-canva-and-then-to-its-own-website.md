@@ -17,12 +17,14 @@ Google Docs gave us a simple way to write and store lessons, Canva improved pres
 The lessons were originally kept on Google Drive and written or shared through Google Docs.
 This was a useful first step because the lessons were editable, stored online, and easy for the team to access without building a publishing system of its own.
 Google Docs worked reasonably well as a writing and collaboration tool, but it was not designed to provide a polished learning experience for students.
-Its long links, plain appearance, scattered documents, and difficult video-update workflow eventually became significant limitations.
+Its long links, plain appearance, scattered documents, difficult video-update workflow, and frustrating formatting and image-placement tools eventually became significant limitations.
 
 ### Stage Two: Canva
 
 Canva was the next step because it solved several immediate weaknesses of Google Docs.
 It gave us shorter links that worked better in WhatsApp, more visually appealing lessons, and a much easier way to update videos without changing every previously shared link.
+Reusable templates helped us keep lessons consistent, while Canva's visual canvas made formatting, positioning pictures, and combining multimedia much easier.
+Its built-in design resources and broader export options also made lessons faster to produce and easier to distribute in different formats.
 Canva was therefore an important bridge between basic cloud documents and a proper publishing platform.
 
 However, Canva still left the lessons dependent on a proprietary service.
@@ -71,6 +73,49 @@ The video lived inside the Canva lesson, while the lesson's public link remained
 We could change or replace the video in place without changing the address that had already been added to lessons or shared in WhatsApp.
 Canva also handled video processing in the cloud and rendered the result on the fly, so we did not need to perform a lengthy local render on a machine without a GPU.
 This turned the public link into a permanent address while allowing the content behind that address to improve over time.
+
+### 4. Reusable Lesson Templates and Consistent Design
+
+Maintaining a consistent visual structure across many Google Docs was cumbersome.
+Formatting choices could vary between documents, and recreating the same polished structure for every new lesson required repeated manual work.
+
+Canva allowed us to build a reusable lesson template and duplicate it whenever we created new material.
+The template could preserve the same colors, typography, spacing, page structure, and visual hierarchy across the curriculum.
+This made production faster, gave the lessons a recognizable Shabab identity, and reduced inconsistencies between lessons created at different times.
+
+### 5. Better Multimedia Composition
+
+Google Docs was built around flowing text, so pictures, diagrams, icons, audio, and video often felt like additions to a document rather than integrated parts of its design.
+It was difficult to compose several kinds of media together with precise visual relationships.
+
+Canva provided a visual canvas on which text, photographs, illustrations, icons, diagrams, audio, and video could be arranged together intentionally.
+We could decide exactly how the elements supported one another and construct a richer lesson around the media instead of forcing the media into a conventional document layout.
+
+### 6. Easier Formatting and Image Placement
+
+Google Docs was very hard to format when a lesson required anything beyond a straightforward text document.
+Moving pictures around was particularly frustrating because changing an image's position or wrapping could shift nearby text, disturb spacing, alter page breaks, or disrupt the rest of the layout.
+Achieving the intended result often required repeated adjustments and still produced an unpredictable page.
+
+Canva made this work much easier through direct drag-and-drop positioning.
+Pictures and other elements could be moved, resized, aligned, grouped, layered, and placed exactly where we wanted them without causing the rest of the lesson to reflow unexpectedly.
+This gave us both faster editing and much more reliable control over the final appearance.
+
+### 7. More Export and Distribution Options
+
+Google Docs was primarily designed to remain a document, with options such as sharing the document itself or exporting it as a PDF.
+That was limiting when the same lesson needed to be presented through different channels.
+
+Canva could turn the same lesson into a presentation, PDF, set of page images, or video.
+These formats made it easier to reuse material for printing, offline distribution, WhatsApp, presentations, or social media without rebuilding the lesson in a separate application.
+
+### 8. Built-In Design Resources
+
+Producing an attractive Google Doc often required finding visual material elsewhere, downloading it, importing it, and then struggling to position it inside the document.
+Google Docs did not provide the same integrated range of design assets needed for fast visual production.
+
+Canva included templates, stock photographs, illustrations, icons, shapes, fonts, and other drag-and-drop resources in one workspace.
+This reduced the need to search across separate tools and made it possible to create polished lessons more quickly without specialist design software.
 
 ## Why Google Docs and Canva Were Still Not Enough
 
@@ -230,11 +275,12 @@ It reduces repetitive work, prevents avoidable errors, and gives future maintain
 ### Google Drive and Google Docs
 
 Google Drive and Google Docs gave Shabab an accessible starting point for storing, writing, and sharing digital lessons.
-Their main weaknesses were long links, unattractive student-facing pages, scattered organization, difficult video replacement, duplicate files, and dependence on a Google account.
+Their main weaknesses were long links, unattractive student-facing pages, scattered organization, difficult video replacement, frustrating formatting and picture placement, duplicate files, limited multimedia composition, and dependence on a Google account.
 
 ### Canva
 
 Canva improved the visual quality of lessons, provided shorter WhatsApp-friendly links, and made it possible to update cloud-processed videos behind a stable public address.
+It also gave us reusable templates, easier formatting and image placement, richer multimedia composition, built-in design resources, and multiple export formats for different distribution channels.
 Its main weaknesses were slow loading, continued dependence on a proprietary account, weak curriculum-wide organization, outdated and duplicate files, and a static lesson experience without the website-level animations we wanted.
 
 ### Obsidian, Digital Garden, and Shabab's Website
@@ -247,8 +293,9 @@ It provides fast static pages, organized modules, duplicate detection, stable le
 The move from Google Docs to Canva and then to Shabab's own website was not simply a sequence of design preferences.
 Each transition responded to concrete operational problems discovered while creating and distributing real lessons.
 
-Google Docs was useful for basic writing and cloud access, but its links, appearance, organization, and video workflow did not scale.
-Canva made lessons easier to share, more attractive, and much easier to update when videos changed, but it remained slow, proprietary, poorly organized at curriculum scale, and visually static in delivery.
+Google Docs was useful for basic writing and cloud access, but its links, appearance, organization, formatting, image placement, multimedia limitations, and video workflow did not scale.
+Canva made lessons easier to share, more attractive, easier to format, consistent through reusable templates, richer in multimedia, simpler to export, and much easier to update when videos changed.
+Its built-in design resources also accelerated production, but Canva remained slow, proprietary, poorly organized at curriculum scale, and visually static in delivery.
 The local-first Obsidian, Digital Garden, and static website system keeps the best lessons from those stages while solving their deeper limitations.
 
 Most importantly, the new system gives Shabab control over both its educational archive and its future.

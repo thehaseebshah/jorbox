@@ -1,3 +1,11 @@
+---
+dg-publish: true
+category: Shabab Tarbiyah Curriculum
+permalink: /lessons/
+---
+# Shabab Skills Lessons
+
+```base
 views:
   - type: table
     name: Table
@@ -11,5 +19,4 @@ views:
     sort:
       - property: file.name
         direction: ASC
-    columnSize:
-      file.name: 116
+```
