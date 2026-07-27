@@ -16,7 +16,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 3
-- **Code:** O-900
 
 ### Reference
 Watch: [Human Ladder team building game](https://www.youtube.com/watch?v=-ZZlhZFdqj0&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=126)

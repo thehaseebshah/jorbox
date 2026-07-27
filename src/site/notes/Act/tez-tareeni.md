@@ -18,7 +18,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 4
-- **Code:** D-151
 
 ### Reference
 Watch: https://www.youtube.com/watch?v=-gN56kKwb7o

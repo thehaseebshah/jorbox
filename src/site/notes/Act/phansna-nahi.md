@@ -18,7 +18,6 @@ tried: false
 - **Duration:** 99 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 4
-- **Code:** P-270
 
 ### Items Needed
 - Role Cards (e.g., Mujahid/Jasoos)

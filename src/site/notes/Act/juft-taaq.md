@@ -16,7 +16,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 4
-- **Code:** O-370
 
 ### Reference
 Watch: https://www.loom.com/share/b86b6d31130a4e98b7541cf06ef652b8

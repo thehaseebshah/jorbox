@@ -18,7 +18,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 5
-- **Code:** D-040
 
 ### Reference
 Watch: https://www.youtube.com/watch?v=pKzAbWFhmtk

@@ -18,7 +18,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 3
-- **Code:** O-810
 
 ### Items Needed
 - Role Cards (e.g., Mujahid/Jasoos)

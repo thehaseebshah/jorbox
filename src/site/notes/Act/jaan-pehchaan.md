@@ -18,7 +18,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 4
-- **Code:** O-270
 
 ### Reference
 Watch: https://m.youtube.com/watch?v=eN8x4-0M4XE

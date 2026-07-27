@@ -18,7 +18,6 @@ tried: true
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 4
-- **Code:** P-300
 
 ### Items Needed
 - Role Cards (e.g., Mujahid/Jasoos)

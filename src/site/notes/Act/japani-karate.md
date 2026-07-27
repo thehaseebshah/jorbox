@@ -16,7 +16,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 4
-- **Code:** O-730
 
 ### Reference
 Watch: [Camp Games: Ninja - Ultimate Camp Resource](https://www.youtube.com/watch?v=M-9F06_uOGo&list=PL929CC4949C2AF3A9&index=40)

@@ -18,7 +18,6 @@ tried: false
 - **Duration:** 10 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 3
-- **Code:** C-130
 
 ### Items Needed
 - Role Cards (e.g., Mujahid/Jasoos)

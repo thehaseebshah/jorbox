@@ -16,7 +16,6 @@ tried: false
 - **Duration:** 99 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 4
-- **Code:** L-120
 
 ### Items Needed
 - Role Cards (e.g., Mujahid/Jasoos)

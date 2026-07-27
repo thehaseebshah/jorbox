@@ -16,7 +16,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 4
-- **Code:** O-340
 
 ### Reference
 - Watch: https://www.loom.com/share/d57c12099f8e404897921ef63a4430b9?from_recorder=1&focus_title=1

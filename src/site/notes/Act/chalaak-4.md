@@ -18,7 +18,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 4
-- **Code:** O-200
 
 ### Reference
 Watch: https://m.youtube.com/watch?v=jtMAXP7re1o

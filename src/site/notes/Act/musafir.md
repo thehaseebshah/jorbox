@@ -18,7 +18,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 5
-- **Code:** O-161
 
 ### Reference
 Watch: https://www.loom.com/share/6688c94113aa4a1194d4c3fc6e9ffb9e

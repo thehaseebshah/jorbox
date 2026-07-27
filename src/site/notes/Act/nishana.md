@@ -16,7 +16,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 4
-- **Code:** O-650
 
 ### Reference
 Watch: [Physical Education Games - The Serving Game (Volleyball)](https://www.youtube.com/watch?v=k16Pauv7NzQ&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=158)

@@ -18,7 +18,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 4
-- **Code:** O-290
 
 ### Reference
 Watch: https://www.loom.com/share/813d926741134a2b8bd2bd982bc2f46d

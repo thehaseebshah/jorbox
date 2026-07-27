@@ -16,7 +16,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 5
-- **Code:** O-150
 
 ### How to Play
 Ask these questions to groups to start a conversation.

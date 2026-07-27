@@ -16,7 +16,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 3
-- **Code:** O-980
 
 ### Reference
 Watch: [Human Pinball Camp Game - Ultimate Camp Resource](https://www.youtube.com/watch?v=y-_iF1mDbv8&list=PL929CC4949C2AF3A9&index=29)

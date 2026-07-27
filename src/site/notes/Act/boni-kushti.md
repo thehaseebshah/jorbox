@@ -18,7 +18,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 4
-- **Code:** O-420
 
 ### Reference
 Watch: https://m.youtube.com/watch?v=ZqfeLN8VMNE

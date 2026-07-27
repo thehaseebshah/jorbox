@@ -16,7 +16,6 @@ tried: false
 - **Duration:** 60 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 4
-- **Code:** S-080
 
 ### Items Needed
 - Role Cards (e.g., Mujahid/Jasoos)

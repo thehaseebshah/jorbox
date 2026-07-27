@@ -18,7 +18,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 5
-- **Code:** V-020
 
 ### Reference
 Watch: https://www.youtube.com/watch?v=go_xpGrwa7I

@@ -16,7 +16,6 @@ tried: false
 - **Duration:** 99 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 4
-- **Code:** L-010
 
 ### Reference
 Watch: https://youtu.be/j_OAzZvDBwc?si=0Bx71dvjHTXO7XaX&t=454

@@ -18,7 +18,6 @@ tried: true
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 5
-- **Code:** P-090
 
 ### Reference
 Watch: https://www.loom.com/share/33b177acd7424404949eddc68bd10bd3

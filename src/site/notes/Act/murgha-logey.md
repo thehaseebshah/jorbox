@@ -16,7 +16,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 3
-- **Code:** O-991
 
 ### Reference
 Watch: [Wanna Buy a Duck? Camp Game - Ultimate Camp Resource](https://www.youtube.com/watch?v=QsrN7S-NVvc&list=PL929CC4949C2AF3A9&index=38)

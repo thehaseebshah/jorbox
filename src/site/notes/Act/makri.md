@@ -18,7 +18,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 4
-- **Code:** O-780
 
 ### Reference
 Watch: https://www.youtube.com/watch?v=b4M_0v4TAyY&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=59

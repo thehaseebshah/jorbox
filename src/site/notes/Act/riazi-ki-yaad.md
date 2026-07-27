@@ -16,7 +16,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 4
-- **Code:** O-601
 
 ### Reference
 Watch: [Excalidraw Whiteboard - 29 August 2025](https://www.loom.com/share/8c4896507d29431ca417860f31f6a826)

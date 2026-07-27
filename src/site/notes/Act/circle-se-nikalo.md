@@ -18,7 +18,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 4
-- **Code:** C-080
 
 ### Reference
 Watch: https://www.youtube.com/watch?v=h9H2a65gAFw&list=PLINo1uFUv6C-qwBsSvORSQ9TzEk5PdxPV&index=11

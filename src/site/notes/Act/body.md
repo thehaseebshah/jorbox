@@ -18,7 +18,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 5
-- **Code:** C-050
 
 ### Reference
 Watch: https://youtu.be/mNY8FjhQfMw?si=MMdBvNpA1YpP_QLa&t=32

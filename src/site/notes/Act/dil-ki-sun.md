@@ -18,7 +18,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 3
-- **Code:** P-430
 
 ### Reference
 Watch: https://www.youtube.com/watch?v=uXl8MC0GMYE

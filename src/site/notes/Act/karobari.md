@@ -20,7 +20,6 @@ tried: false
 - **Difficulty:** 5
 - **Items Needed:** Cards
 - **Rating:** 5
-- **Code:** P-010
 
 ### Mode
 - Snake Oil mode (people are given a problem and they draw a solution)

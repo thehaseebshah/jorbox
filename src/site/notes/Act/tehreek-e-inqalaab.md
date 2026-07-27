@@ -18,7 +18,6 @@ tried: true
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 5
-- **Code:** P-030
 
 ### Reference
 Visit the lesson: https://shababskills.my.canva.site/shb-skills-lesson-12

@@ -18,7 +18,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 5
-- **Code:** O-090
 
 ### How to Play
 **Inspired by:** Jump In, Jump Out. Eliminate those that are unable to do it

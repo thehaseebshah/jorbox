@@ -16,7 +16,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 5
-- **Code:** O-060
 
 ### Reference
 Watch: [05 Blindfold Challenges](https://www.canva.com/design/DAGrce5W9go/887GJOqXg2YnjxYHzpSUTQ/watch?utlId=h01efe52494)

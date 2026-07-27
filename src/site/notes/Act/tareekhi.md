@@ -18,7 +18,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 5
-- **Code:** P-160
 
 ### Items Needed
 - Role Cards (e.g., Mujahid/Jasoos)

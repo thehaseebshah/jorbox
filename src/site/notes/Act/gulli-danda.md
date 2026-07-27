@@ -16,7 +16,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 5
-- **Code:** C-040
 
 ### Reference
 Watch: https://youtu.be/J3wU0buWUJY?si=o_RWIuXEqzij6wNN&t=85

@@ -18,7 +18,6 @@ tried: false
 - **Duration:** 30 minutes
 - **Prep Time:** < 5 minutes
 - **Difficulty:** 4
-- **Code:** P-280
 
 ### Reference
 Watch: https://www.loom.com/share/12da42f564134c299e58456ba79b4e2c
