@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: miscellaneous
-final: false
-added-to-shabab: true
-tried: false
+{"dg-publish":true,"permalink":"/bol-keh-lab-azaad-hen-tere/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false}}
 ---
+
 # Bol keh Lab Azaad hen Tere
 
 ## How to Play

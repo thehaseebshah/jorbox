@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: location-based
-final: false
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/local-visits/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
 ---
+
 # Local Visits
 
 ## How to Play

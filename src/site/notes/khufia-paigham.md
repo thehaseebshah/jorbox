@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: party
-final: false
-added-to-shabab: false
-tried: true
+{"dg-publish":true,"permalink":"/khufia-paigham/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":false,"tried":true}}
 ---
+
 # Khufia Paigham
 
 ## How to Play

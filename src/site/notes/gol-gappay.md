@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: outdoor
-final: true
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/gol-gappay/","dg-note-properties":{"type":"outdoor","final":true,"added-to-shabab":false,"tried":false}}
 ---
+
 # Gol Gappay
 
 ## How to Play

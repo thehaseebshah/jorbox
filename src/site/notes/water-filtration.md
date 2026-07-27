@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: miscellaneous
-final: false
-added-to-shabab: true
-tried: false
+{"dg-publish":true,"permalink":"/water-filtration/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false}}
 ---
+
 # Water Filtration
 
 ## How to Play

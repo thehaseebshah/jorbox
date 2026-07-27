@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-type: party
-final: false
+{"dg-publish":true,"permalink":"/telestrations/","dg-note-properties":{"type":"party","final":false}}
 ---
+
 # Telestrations
 
 - **Date:** Feb 2025

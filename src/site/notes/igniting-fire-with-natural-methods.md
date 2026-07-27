@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: miscellaneous
-final: false
-added-to-shabab: true
-tried: false
+{"dg-publish":true,"permalink":"/igniting-fire-with-natural-methods/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false}}
 ---
+
 # Igniting Fire with Natural Methods
 
 ## How to Play

@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: miscellaneous
-final: false
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/first-aid-workshop/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":false,"tried":false}}
 ---
+
 # First Aid Workshop
 
 ## How to Play

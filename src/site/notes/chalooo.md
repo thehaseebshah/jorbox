@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: deck
-final: false
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/chalooo/","dg-note-properties":{"type":"deck","final":false,"added-to-shabab":false,"tried":false}}
 ---
+
 # Chalooo
 
 ## How to Play

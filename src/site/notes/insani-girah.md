@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: outdoor
-final: true
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/insani-girah/","dg-note-properties":{"type":"outdoor","final":true,"added-to-shabab":false,"tried":false}}
 ---
+
 # Insani Girah (Human Knot)
 
 ## How to Play
