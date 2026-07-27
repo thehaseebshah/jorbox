@@ -48,7 +48,7 @@ function basesPlugin(md) {
 function notesFingerprint(notes) {
   let hash = 0;
   for (const note of notes) {
-    const s = (note.url || note.fileSlug || "");
+    const s = (note.url || note.fileSlug || "") + ":" + (note.metadata ? JSON.stringify(note.metadata) : "");
     for (let i = 0; i < s.length; i++) {
       hash = ((hash << 5) - hash + s.charCodeAt(i)) | 0;
     }
