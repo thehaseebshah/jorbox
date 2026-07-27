@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/qismen/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Qismen"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Qismen"
+type: party
+final: false
+added-to-shabab: true
+tried: true
 ---
-
 
 # Qismen
 

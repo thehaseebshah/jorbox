@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/murghi-qurbani-and-cooking/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Murghi Qurbani and Cooking"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Murghi Qurbani and Cooking"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Murghi Qurbani and Cooking
 

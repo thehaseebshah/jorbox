@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/jang/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Jang"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Jang"
+type: board
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Jang
 

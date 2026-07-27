@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/chalak-chor/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Chalak Chor"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Chalak Chor"
+type: deck
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Chalak Chor
 

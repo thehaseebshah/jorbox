@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/chalaak-4/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Chalaak 4"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Chalaak 4"
+type: outdoor
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Chalaak 4
 

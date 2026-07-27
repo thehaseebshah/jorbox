@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/yildirim/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Yildirim"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Yildirim"
+type: sports
+final: true
+added-to-shabab: false
+tried: false
 ---
-
 
 # Yildirim
 

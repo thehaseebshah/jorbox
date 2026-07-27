@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/aabdoz/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Aabdoz"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Aabdoz"
+type: party
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Aabdoz
 

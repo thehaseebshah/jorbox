@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/cooking/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Cooking"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Cooking"
+type: location-based
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Cooking
 

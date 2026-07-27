@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/operation-jhanda/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Operation Jhanda"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Operation Jhanda"
+type: outdoor
+final: true
+added-to-shabab: true
+tried: false
 ---
-
 
 # Operation Jhanda
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/murgha-logey/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Murgha Logey?"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Murgha Logey?"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Murgha Logey?
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/shelterbuilding-contest/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Shelterbuilding Contest"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Shelterbuilding Contest"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Shelterbuilding Contest
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/croquett/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Croquett"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Croquett"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Croquett
 

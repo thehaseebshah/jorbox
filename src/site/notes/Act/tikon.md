@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/tikon/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Tikon"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Tikon"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Tikon
 

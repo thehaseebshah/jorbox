@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/sparring/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Sparring"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Sparring"
+type: sports
+final: true
+added-to-shabab: false
+tried: false
 ---
-
 
 # Sparring
 

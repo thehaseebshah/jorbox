@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/cheel-ki-nazar/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Cheel ki Nazar"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Cheel ki Nazar"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Cheel ki Nazar
 

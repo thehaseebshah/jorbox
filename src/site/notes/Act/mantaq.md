@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/mantaq/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Mantaq"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Mantaq"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Mantaq
 

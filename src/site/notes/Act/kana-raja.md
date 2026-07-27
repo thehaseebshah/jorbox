@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/kana-raja/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Kana Raja"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Kana Raja"
+type: deck
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Kana Raja
 

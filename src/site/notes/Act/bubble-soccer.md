@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/bubble-soccer/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Bubble Soccer"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Bubble Soccer"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Bubble Soccer
 

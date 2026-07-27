@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/attend-a-conference/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Attend a Conference"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Attend a Conference"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Attend a Conference
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/carpentry/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Carpentary"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Carpentry"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Carpentary
 

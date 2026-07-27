@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/do-goti/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Do Goti"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Do Goti"
+type: kaghaz
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Do Goti
 

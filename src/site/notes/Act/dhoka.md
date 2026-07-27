@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/dhoka/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Dhoka"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Dhoka"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Dhoka
 

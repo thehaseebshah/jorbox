@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/chala-kooch/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Chala Kooch"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Chala Kooch"
+type: childhood
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Chala Kooch
 

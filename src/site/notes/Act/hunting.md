@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/hunting/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Hunting"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Hunting"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Hunting
 

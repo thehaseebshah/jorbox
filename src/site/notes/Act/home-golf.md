@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/home-golf/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Home Golf"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Home Golf"
+type: sports
+final: true
+added-to-shabab: false
+tried: false
 ---
-
 
 # Home Golf
 

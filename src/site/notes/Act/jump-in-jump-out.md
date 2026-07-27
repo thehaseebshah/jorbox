@@ -1,7 +1,11 @@
 ---
 category: Shabab Skills Activity
 dg-publish: true
-name: "Jump In, Jump Out"
+name: "Jump In Jump Out"
+type: activity
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 ### Jump In, Jump Out

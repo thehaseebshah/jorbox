@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/munazra/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Munazra (Debate Competition)"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Munazra"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Munazra (Debate Competition)
 

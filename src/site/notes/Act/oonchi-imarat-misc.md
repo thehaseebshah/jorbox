@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/oonchi-imarat-misc/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Oonchi Imarat (Tallest Building)"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Oonchi Imarat Misc"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Oonchi Imarat (Tallest Building)
 

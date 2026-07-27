@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/icebreaking-groups/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Icebreaking Groups"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Icebreaking Groups"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Icebreaking Groups
 

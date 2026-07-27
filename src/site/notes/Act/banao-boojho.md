@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/banao-boojho/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Banao Boojho"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Banao Boojho"
+type: party
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Banao Boojho
 

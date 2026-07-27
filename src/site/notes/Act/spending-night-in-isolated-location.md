@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/spending-night-in-isolated-location/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Spending Night in Isolated Location"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Spending Night in Isolated Location"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Spending Night in Isolated Location
 

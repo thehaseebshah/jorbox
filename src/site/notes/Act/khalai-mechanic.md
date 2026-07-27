@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/khalai-mechanic/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Khalai Mechanic"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Khalai Mechanic"
+type: deck
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Khalai Mechanic
 

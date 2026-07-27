@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/piddi-piddi/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Piddi Piddi"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Piddi Piddi"
+type: childhood
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Piddi Piddi
 

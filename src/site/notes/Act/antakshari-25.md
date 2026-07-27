@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/antakshari-25/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Antakshari 25"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Antakshari 25"
+type: childhood
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Antakshari 25
 

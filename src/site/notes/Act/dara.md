@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/dara/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Dara"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Dara"
+type: kaghaz
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Dara
 

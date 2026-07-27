@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/dunya-mere-agay/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Dunya Mere Agay"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Dunya Mere Agay"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Dunya Mere Agay
 

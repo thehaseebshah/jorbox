@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/survival-camping/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Survival Camping"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Survival Camping"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Survival Camping
 

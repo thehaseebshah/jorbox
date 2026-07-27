@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/carrom/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Carrom"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Carrom"
+type: board
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Carrom
 

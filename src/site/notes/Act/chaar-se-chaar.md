@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/chaar-se-chaar/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Chaar se Chaar"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Chaar se Chaar"
+type: kaghaz
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Chaar se Chaar
 

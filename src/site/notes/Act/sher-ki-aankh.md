@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/sher-ki-aankh/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Sher ki Aankh (Eye of the Tiger)"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Sher Ki Aankh"
+type: outdoor
+final: true
+added-to-shabab: true
+tried: false
 ---
-
 
 # Sher ki Aankh (Eye of the Tiger)
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/lessons-v1/","dg-note-properties":{"category":"Shabab Skills Curriculum","name":"Shabab Skills v1 Lessons (Feb 2025)"}}
+category: Shabab Skills Activity
+dg-publish: true
+name: "Lessons V1"
+type: activity
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Shabab Skills v1 Lessons (Feb 2025)
 

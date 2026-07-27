@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/rassa-kashi/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Rassa Kashi"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Rassa Kashi"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Rassa Kashi
 

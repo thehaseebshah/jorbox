@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/scubadiving/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Scubadiving"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Scubadiving"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Scubadiving
 

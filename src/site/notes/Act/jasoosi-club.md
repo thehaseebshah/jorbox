@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/jasoosi-club/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Jasoosi Club"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Jasoosi Club"
+type: party
+final: false
+added-to-shabab: true
+tried: true
 ---
-
 
 # Jasoosi Club
 

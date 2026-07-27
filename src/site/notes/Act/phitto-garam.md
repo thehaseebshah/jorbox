@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/phitto-garam/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Phitto Garam"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Phitto Garam"
+type: childhood
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Phitto Garam
 

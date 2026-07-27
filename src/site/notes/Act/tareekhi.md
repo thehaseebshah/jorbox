@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/tareekhi/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Tareekhi"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Tareekhi"
+type: party
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Tareekhi
 

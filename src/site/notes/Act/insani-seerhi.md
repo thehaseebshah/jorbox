@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/insani-seerhi/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Insani Seerhi"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Insani Seerhi"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Insani Seerhi
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/zoo-museum/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Zoo/Meuseum"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Zoo Museum"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Zoo/Meuseum
 

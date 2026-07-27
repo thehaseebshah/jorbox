@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/waterballoon-fight/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Waterbaloon Fight"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Waterballoon Fight"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Waterbaloon Fight
 

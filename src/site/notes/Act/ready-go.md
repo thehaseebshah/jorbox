@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/ready-go/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Ready Go"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Ready Go"
+type: childhood
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Ready Go
 

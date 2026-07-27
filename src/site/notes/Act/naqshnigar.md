@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/naqshnigar/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Naqshnigar"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Naqshnigar"
+type: party
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Naqshnigar
 

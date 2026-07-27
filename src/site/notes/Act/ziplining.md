@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/ziplining/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Ziplining"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Ziplining"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Ziplining
 

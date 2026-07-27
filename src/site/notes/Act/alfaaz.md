@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/alfaaz/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Alfaaz"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Alfaaz"
+type: party
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Alfaaz
 

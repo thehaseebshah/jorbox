@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/cooking-auction/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Cooking Auction"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Cooking Auction"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Cooking Auction
 

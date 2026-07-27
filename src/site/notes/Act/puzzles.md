@@ -2,6 +2,10 @@
 category: Shabab Skills Activity
 dg-publish: true
 name: "Puzzles"
+type: activity
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 ### Puzzles

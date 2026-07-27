@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/muhafiz/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Muhafiz"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Muhafiz"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Muhafiz
 

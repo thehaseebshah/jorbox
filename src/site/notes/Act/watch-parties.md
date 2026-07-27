@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/watch-parties/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Watch Parties"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Watch Parties"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Watch Parties
 

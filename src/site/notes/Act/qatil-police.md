@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/qatil-police/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Qatil Police"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Qatil Police"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Qatil Police
 

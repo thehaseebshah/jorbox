@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/pro-obstacle-course/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Pro Obstacle Course"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Pro Obstacle Course"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Pro Obstacle Course
 

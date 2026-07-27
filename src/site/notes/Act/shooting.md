@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/shooting/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Shooting"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Shooting"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Shooting
 

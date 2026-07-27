@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/gardening/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Gardening"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Gardening"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Gardening
 

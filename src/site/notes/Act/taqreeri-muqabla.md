@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/taqreeri-muqabla/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Taqreeri Muqabla"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Taqreeri Muqabla"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Taqreeri Muqabla
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/mountain-biking/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Mountain Biking"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Mountain Biking"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Mountain Biking
 

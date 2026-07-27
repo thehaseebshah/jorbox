@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/geocaching/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Geocaching"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Geocaching"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Geocaching
 

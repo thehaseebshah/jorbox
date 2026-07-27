@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/pakran-ghumai/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Pakran Ghumai"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Pakran Ghumai"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Pakran Ghumai
 

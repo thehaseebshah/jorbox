@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/night-hike/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Night Hike"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Night Hike"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Night Hike
 

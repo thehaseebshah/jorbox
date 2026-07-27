@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/handball/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Handball"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Handball"
+type: sports
+final: true
+added-to-shabab: false
+tried: false
 ---
-
 
 # Handball
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/local-visits/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Local Visits"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Local Visits"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Local Visits
 

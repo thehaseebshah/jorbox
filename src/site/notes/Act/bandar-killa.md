@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/bandar-killa/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Bandar Killa"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Bandar Killa"
+type: childhood
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Bandar Killa
 

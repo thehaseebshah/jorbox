@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/dimagh-ka-dahi/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Dimagh Ka Dahi"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Dimagh Ka Dahi"
+type: party
+final: false
+added-to-shabab: true
+tried: true
 ---
-
 
 # Dimagh Ka Dahi
 

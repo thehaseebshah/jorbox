@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/bird-watching/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Bird Watching"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Bird Watching"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Bird Watching
 

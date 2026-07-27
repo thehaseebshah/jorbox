@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/charity-visits/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Charity Visits"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Charity Visits"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Charity Visits
 

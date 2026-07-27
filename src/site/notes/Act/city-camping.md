@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/city-camping/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"City Camping"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "City Camping"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # City Camping
 

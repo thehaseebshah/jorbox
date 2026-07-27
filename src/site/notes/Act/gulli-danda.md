@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/gulli-danda/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Gulli Danda"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Gulli Danda"
+type: childhood
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Gulli Danda
 

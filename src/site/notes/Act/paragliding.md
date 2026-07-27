@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/paragliding/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Paragliding"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Paragliding"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Paragliding
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/khufia-paigham/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Khufia Paigham"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Khufia Paigham"
+type: party
+final: false
+added-to-shabab: false
+tried: true
 ---
-
 
 # Khufia Paigham
 

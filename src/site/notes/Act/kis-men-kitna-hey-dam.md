@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/kis-men-kitna-hey-dam/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Kis men Kitna hey Dam"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Kis men Kitna hey Dam"
+type: outdoor
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Kis men Kitna hey Dam
 

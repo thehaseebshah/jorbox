@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/night-manhunt-w-torches-whistles/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Night Manhunt w. Torches/Whistles"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Night Manhunt w. Torches/Whistles"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Night Manhunt w. Torches/Whistles
 

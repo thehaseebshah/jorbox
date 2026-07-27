@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/karigari/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Karigari (Crafting)"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Karigari"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Karigari (Crafting)
 

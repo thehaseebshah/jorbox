@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/hold-breath-challenge/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Hold Breath Challenge"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Hold Breath Challenge"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Hold Breath Challenge
 

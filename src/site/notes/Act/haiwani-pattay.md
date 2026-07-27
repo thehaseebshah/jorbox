@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/haiwani-pattay/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Haiwani Pattay"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Haiwani Pattay"
+type: party
+final: false
+added-to-shabab: false
+tried: true
 ---
-
 
 # Haiwani Pattay
 

@@ -1,7 +1,11 @@
 ---
 category: Shabab Tarbiyah Curriculum
 dg-publish: true
-name: Shabab Skills Lessons
+name: "Lessons"
+type: activity
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Shabab Skills Lessons

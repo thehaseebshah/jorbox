@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/dil-ki-sun/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Dil ki Sun"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Dil ki Sun"
+type: party
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Dil ki Sun
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/igniting-fire-with-natural-methods/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Igniting Fire with Natural Methods"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Igniting Fire with Natural Methods"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Igniting Fire with Natural Methods
 

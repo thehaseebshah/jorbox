@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/shabab-dawah-campaign/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Shabab Dawah Campaign"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Shabab Dawah Campaign"
+type: miscellaneous
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Shabab Dawah Campaign
 

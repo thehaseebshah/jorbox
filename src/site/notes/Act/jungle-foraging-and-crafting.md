@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/jungle-foraging-and-crafting/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Jungle Foraging and Crafting"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Jungle Foraging and Crafting"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Jungle Foraging and Crafting
 

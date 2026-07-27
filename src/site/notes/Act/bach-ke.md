@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/bach-ke/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Bach Ke"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Bach Ke"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Bach Ke
 

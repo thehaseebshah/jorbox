@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/sirf-sawal/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Sirf Sawal"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Sirf Sawal"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Sirf Sawal
 

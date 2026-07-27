@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/skydiving/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Skydiving"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Skydiving"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Skydiving
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/badminton/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Badminton"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Badminton"
+type: sports
+final: true
+added-to-shabab: false
+tried: false
 ---
-
 
 # Badminton
 

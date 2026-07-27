@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/kiting/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Kiting"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Kiting"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Kiting
 

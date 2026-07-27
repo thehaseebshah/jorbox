@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/archery/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Archery"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Archery"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Archery
 

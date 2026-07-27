@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/sailing/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Sailing"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Sailing"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Sailing
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/naqshey/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Naqshey (Map Drawing)"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Naqshey"
+type: miscellaneous
+final: true
+added-to-shabab: true
+tried: false
 ---
-
 
 # Naqshey (Map Drawing)
 

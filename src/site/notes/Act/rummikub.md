@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/rummikub/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Rummikub"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Rummikub"
+type: board
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Rummikub
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/baseball/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Baseball"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Baseball"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Baseball
 

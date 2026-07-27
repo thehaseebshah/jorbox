@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/dodge-the-ball/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Dodge the Ball"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Dodge the Ball"
+type: outdoor
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Dodge the Ball
 

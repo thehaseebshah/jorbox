@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/riazi-ki-yaad/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Riazi ki Yaad"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Riazi ki Yaad"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Riazi ki Yaad
 

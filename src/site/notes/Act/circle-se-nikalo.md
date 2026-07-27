@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/circle-se-nikalo/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Circle se Nikalo"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Circle se Nikalo"
+type: childhood
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Circle se Nikalo
 

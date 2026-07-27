@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/citywide-manhunt-with-gps/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Citywide Manhunt with GPS"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Citywide Manhunt with GPS"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Citywide Manhunt with GPS
 

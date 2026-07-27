@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/hike-bingo/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Hike Bingo"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Hike Bingo"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Hike Bingo
 

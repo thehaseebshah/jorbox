@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/first-aid-workshop/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"First Aid Workshop"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "First Aid Workshop"
+type: miscellaneous
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # First Aid Workshop
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/chalooo/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Chalooo"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Chalooo"
+type: deck
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Chalooo
 

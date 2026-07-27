@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/kayaking/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Kayaking"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Kayaking"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Kayaking
 

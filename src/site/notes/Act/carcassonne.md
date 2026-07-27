@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/carcassonne/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Carcassonne"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Carcassonne"
+type: board
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Carcassonne
 

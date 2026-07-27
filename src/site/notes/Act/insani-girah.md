@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/insani-girah/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Insani Girah (Human Knot)"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Insani Girah"
+type: outdoor
+final: true
+added-to-shabab: false
+tried: false
 ---
-
 
 # Insani Girah (Human Knot)
 

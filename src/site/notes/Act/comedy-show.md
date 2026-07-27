@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/comedy-show/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Comedy Show"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Comedy Show"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Comedy Show
 

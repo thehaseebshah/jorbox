@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/frisbee/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Frisbee"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Frisbee"
+type: sports
+final: true
+added-to-shabab: false
+tried: false
 ---
-
 
 # Frisbee
 

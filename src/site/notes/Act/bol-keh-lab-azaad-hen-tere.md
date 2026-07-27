@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/bol-keh-lab-azaad-hen-tere/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Bol keh Lab Azaad hen Tere"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Bol keh Lab Azaad hen Tere"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Bol keh Lab Azaad hen Tere
 

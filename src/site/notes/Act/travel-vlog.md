@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/travel-vlog/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Travel VLOG"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Travel VLOG"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Travel VLOG
 

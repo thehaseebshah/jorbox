@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/calligraphy-painting-competition/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Caligraphy/Painting Competition"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Calligraphy Painting Competition"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Caligraphy/Painting Competition
 

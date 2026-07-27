@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/aik-rangi-soch/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Aik Rangi Soch"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Aik Rangi Soch"
+type: party
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Aik Rangi Soch
 

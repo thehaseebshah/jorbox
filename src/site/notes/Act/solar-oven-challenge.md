@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/solar-oven-challenge/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Solar Oven Challenge"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Solar Oven Challenge"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Solar Oven Challenge
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/seerat-model-project-competition/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Seerat Model Project Competition"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Seerat Model Project Competition"
+type: miscellaneous
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Seerat Model Project Competition
 

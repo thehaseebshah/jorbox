@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/human-foosball/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Human Foosball"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Human Foosball"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Human Foosball
 

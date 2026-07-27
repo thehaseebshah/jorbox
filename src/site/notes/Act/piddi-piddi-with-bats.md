@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/piddi-piddi-with-bats/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Piddi Piddi with Bats"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Piddi Piddi with Bats"
+type: childhood
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Piddi Piddi with Bats
 

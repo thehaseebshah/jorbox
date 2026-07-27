@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/gogogo/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Gogogo"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Gogogo"
+type: miscellaneous
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Gogogo
 

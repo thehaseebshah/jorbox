@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/mandi/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Mandi"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Mandi"
+type: deck
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Mandi
 

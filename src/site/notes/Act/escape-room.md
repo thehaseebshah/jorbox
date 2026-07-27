@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/escape-room/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Escape Room"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Escape Room"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Escape Room
 

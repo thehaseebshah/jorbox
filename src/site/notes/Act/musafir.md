@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/musafir/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Musafir"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Musafir"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Musafir
 

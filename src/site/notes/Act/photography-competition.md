@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/photography-competition/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Photography Competition"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Photography Competition"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Photography Competition
 

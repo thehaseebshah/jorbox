@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/juft-taaq/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Juft Taaq"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Juft Taaq"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Juft Taaq
 

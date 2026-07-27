@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/gupshup/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"GupShup"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "GupShup"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # GupShup
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/swimming/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Swimming"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Swimming"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Swimming
 

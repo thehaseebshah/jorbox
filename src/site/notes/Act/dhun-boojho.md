@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/dhun-boojho/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Dhun Boojho"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Dhun Boojho"
+type: party
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Dhun Boojho
 

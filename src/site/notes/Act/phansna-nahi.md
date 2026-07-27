@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/phansna-nahi/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Phansna Nahi"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Phansna Nahi"
+type: party
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Phansna Nahi
 

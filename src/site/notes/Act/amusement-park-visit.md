@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/amusement-park-visit/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Amusement Park Visit"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Amusement Park Visit"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Amusement Park Visit
 

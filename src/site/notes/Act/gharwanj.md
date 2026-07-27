@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/gharwanj/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Gharwanj"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Gharwanj"
+type: deck
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Gharwanj
 

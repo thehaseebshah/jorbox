@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/pottery/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Pottery"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Pottery"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Pottery
 

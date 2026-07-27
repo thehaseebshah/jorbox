@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/kushti/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Kushti"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Kushti"
+type: outdoor
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Kushti
 

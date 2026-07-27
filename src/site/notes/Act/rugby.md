@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/rugby/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Rugby"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Rugby"
+type: sports
+final: true
+added-to-shabab: true
+tried: false
 ---
-
 
 # Rugby
 

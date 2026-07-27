@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/tabdeeli/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Tabdeeli"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Tabdeeli"
+type: outdoor
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Tabdeeli
 

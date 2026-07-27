@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/intelligence-tests/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Intelligence Tests"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Intelligence Tests"
+type: miscellaneous
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Intelligence Tests
 

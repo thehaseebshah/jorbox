@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/makri/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Makri"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Makri"
+type: outdoor
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Makri
 

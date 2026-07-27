@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/writing-set/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Writing Set"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Writing Set"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Writing Set
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/ankh-macholi-plus/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Ankh Macholi Plus"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Ankh Macholi Plus"
+type: outdoor
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Ankh Macholi Plus
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/yasu-panjo-pro-max/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Yasu Panjo Pro Max"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Yasu Panjo Pro Max"
+type: party
+final: false
+added-to-shabab: true
+tried: true
 ---
-
 
 # Yasu Panjo Pro Max
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/daal-men-kaala/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Daal men Kaala"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Daal men Kaala"
+type: party
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Daal men Kaala
 

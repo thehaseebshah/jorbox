@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/cleanup-of-masjid/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Cleanup of Masjid"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Cleanup of Masjid"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Cleanup of Masjid
 

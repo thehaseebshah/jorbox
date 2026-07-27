@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/tree-plantation-campaign/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Tree Plantation Campaign"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Tree Plantation Campaign"
+type: miscellaneous
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Tree Plantation Campaign
 

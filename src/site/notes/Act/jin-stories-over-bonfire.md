@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/jin-stories-over-bonfire/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Jin Stories over Bonfire"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Jin Stories over Bonfire"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Jin Stories over Bonfire
 

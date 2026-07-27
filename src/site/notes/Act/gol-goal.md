@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/gol-goal/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Gol Goal"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Gol Goal"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Gol Goal
 

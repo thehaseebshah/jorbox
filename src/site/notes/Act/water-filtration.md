@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/water-filtration/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Water Filtration"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Water Filtration"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Water Filtration
 

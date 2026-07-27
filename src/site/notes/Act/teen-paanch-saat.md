@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/teen-paanch-saat/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Teen Paanch Saat"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Teen Paanch Saat"
+type: kaghaz
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Teen Paanch Saat
 

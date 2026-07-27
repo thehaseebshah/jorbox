@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/purane-bantay/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Purane Bantay"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Purane Bantay"
+type: childhood
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Purane Bantay
 

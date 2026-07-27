@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/daur/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Daur"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Daur"
+type: outdoor
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Daur
 

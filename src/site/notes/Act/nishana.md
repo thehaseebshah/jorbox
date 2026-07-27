@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/nishana/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Nishana"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Nishana"
+type: outdoor
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Nishana
 

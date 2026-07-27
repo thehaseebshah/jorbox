@@ -1,5 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/act/why-shabab-moved-from-google-docs-to-canva-and-then-to-its-own-website-urdu/","dg-note-properties":{"category":"Shabab Skills Curriculum","name":"شباب نے گوگل ڈاکس سے کینوا اور پھر اپنی ویب سائٹ کی طرف منتقلی کیوں کی"}}
+category: Shabab Skills Activity
+dg-publish: true
+name: "Why Shabab Moved From Google Docs To Canva And Then To Its Own Website Urdu"
+type: activity
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # شباب نے گوگل ڈاکس سے کینوا اور پھر اپنی ویب سائٹ کی طرف منتقلی کیوں کی

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/moaddabana-guzarish-hey/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Moaddabana Guzarish Hey"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Moaddabana Guzarish Hey"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Moaddabana Guzarish Hey
 

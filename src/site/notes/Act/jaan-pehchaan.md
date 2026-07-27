@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/jaan-pehchaan/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Jaan Pehchaan"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Jaan Pehchaan"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Jaan Pehchaan
 

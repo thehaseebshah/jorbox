@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/billi-chuha/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Billi Chuha"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Billi Chuha"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Billi Chuha
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/ghutham-ghutha/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Ghutham Ghutha"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Ghutham Ghutha"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Ghutham Ghutha
 

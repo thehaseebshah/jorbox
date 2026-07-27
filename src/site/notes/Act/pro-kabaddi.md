@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/pro-kabaddi/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Pro Kabaddi"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Pro Kabaddi"
+type: sports
+final: true
+added-to-shabab: false
+tried: false
 ---
-
 
 # Pro Kabaddi
 

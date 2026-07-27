@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/river-crossing-with-ropes/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"River Crossing with Ropes"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "River Crossing with Ropes"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # River Crossing with Ropes
 

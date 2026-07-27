@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/zehni-azmaish/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Zehni Azmaish"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Zehni Azmaish"
+type: outdoor
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Zehni Azmaish
 

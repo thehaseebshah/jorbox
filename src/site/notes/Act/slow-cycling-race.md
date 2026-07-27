@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/slow-cycling-race/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Slow Cycling Race"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Slow Cycling Race"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Slow Cycling Race
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/tehreek-e-inqalaab/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Tehreek e Inqalaab"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Tehreek e Inqalaab"
+type: party
+final: false
+added-to-shabab: true
+tried: true
 ---
-
 
 # Tehreek e Inqalaab
 

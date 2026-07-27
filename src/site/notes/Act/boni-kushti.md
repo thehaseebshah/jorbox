@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/boni-kushti/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Boni Kushti"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Boni Kushti"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Boni Kushti
 

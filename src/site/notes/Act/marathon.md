@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/marathon/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Marathon"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Marathon"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Marathon
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/home-soccer/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Home Soccer"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Home Soccer"
+type: sports
+final: true
+added-to-shabab: false
+tried: false
 ---
-
 
 # Home Soccer
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/long-bike-tour/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Long Bike Tour"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Long Bike Tour"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Long Bike Tour
 

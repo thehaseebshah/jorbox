@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/langre-dost/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Langre Dost"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Langre Dost"
+type: outdoor
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Langre Dost
 

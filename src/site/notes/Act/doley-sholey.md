@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/doley-sholey/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Doley Sholey"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Doley Sholey"
+type: outdoor
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Doley Sholey
 

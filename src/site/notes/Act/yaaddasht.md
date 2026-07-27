@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/yaaddasht/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Yaaddasht"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Yaaddasht"
+type: deck
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Yaaddasht
 

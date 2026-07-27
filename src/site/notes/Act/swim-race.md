@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/swim-race/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Swim Race"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Swim Race"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Swim Race
 

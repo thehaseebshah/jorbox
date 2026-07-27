@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/teen-ball/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Teen Ball"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Teen Ball"
+type: childhood
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Teen Ball
 

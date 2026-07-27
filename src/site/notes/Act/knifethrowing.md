@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/knifethrowing/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Knifethrowing"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Knifethrowing"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Knifethrowing
 

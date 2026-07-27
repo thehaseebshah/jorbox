@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/dilchasp-haqaiq/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Dilchasp Haqaiq"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Dilchasp Haqaiq"
+type: party
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Dilchasp Haqaiq
 

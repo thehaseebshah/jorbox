@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/mahaz/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Mahaz"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Mahaz"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Mahaz
 

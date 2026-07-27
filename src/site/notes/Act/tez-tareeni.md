@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/tez-tareeni/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Tez Tareeni"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Tez Tareeni"
+type: deck
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Tez Tareeni
 

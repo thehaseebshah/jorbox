@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/gol-gappay/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Gol Gappay"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Gol Gappay"
+type: outdoor
+final: true
+added-to-shabab: false
+tried: false
 ---
-
 
 # Gol Gappay
 

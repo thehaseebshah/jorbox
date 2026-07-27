@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/afsana-nigaari/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Afsana Nigaari"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Afsana Nigaari"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Afsana Nigaari
 

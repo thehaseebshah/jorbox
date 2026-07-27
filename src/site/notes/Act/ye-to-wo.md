@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/ye-to-wo/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Ye to Wo"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Ye to Wo"
+type: outdoor
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Ye to Wo
 

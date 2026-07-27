@@ -1,7 +1,11 @@
 ---
 category: Shabab Skills Activity
 dg-publish: true
-name: "Questions from a Video"
+name: "Questions From A Video"
+type: activity
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 ### Questions from a Video

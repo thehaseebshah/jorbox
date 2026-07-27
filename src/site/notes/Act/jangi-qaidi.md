@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/jangi-qaidi/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Jangi Qaidi"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Jangi Qaidi"
+type: party
+final: false
+added-to-shabab: true
+tried: true
 ---
-
 
 # Jangi Qaidi
 

@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/hiking/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Hiking"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Hiking"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Hiking
 

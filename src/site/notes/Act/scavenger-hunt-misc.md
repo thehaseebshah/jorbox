@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/scavenger-hunt-misc/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Scavenger Hunt"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Scavenger Hunt Misc"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Scavenger Hunt
 

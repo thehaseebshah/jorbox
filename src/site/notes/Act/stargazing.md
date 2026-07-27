@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/stargazing/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Stargazing"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Stargazing"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Stargazing
 

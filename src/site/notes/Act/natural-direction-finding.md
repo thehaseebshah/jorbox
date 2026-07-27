@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/natural-direction-finding/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Natural Direction Finding"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Natural Direction Finding"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
-
 
 # Natural Direction Finding
 

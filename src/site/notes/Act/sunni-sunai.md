@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/sunni-sunai/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Sunni Sunai"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Sunni Sunai"
+type: party
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Sunni Sunai
 

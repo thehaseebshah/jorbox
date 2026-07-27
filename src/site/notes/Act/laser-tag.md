@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/laser-tag/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Laser Tag"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Laser Tag"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Laser Tag
 

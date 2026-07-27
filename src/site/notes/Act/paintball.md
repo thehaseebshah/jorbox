@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/act/paintball/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Paintball"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: "Paintball"
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
-
 
 # Paintball
 
