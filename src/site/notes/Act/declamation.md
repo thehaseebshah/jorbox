@@ -1,15 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/v2/19/","dg-note-properties":{"category":"Shabab Skills Curriculum","lesson-batch":"July 2026","module":"Communication","name":"Declamation/Debate"}}
+category: JorBox Activity
+dg-publish: true
+name: "Declamation"
+type: shabab-act
+final: false
+added-to-shabab: false
+tried: false
 ---
-
-# Declamation/Debate
-
-> [!info] Learning Objectives
-> Eloquent expression, Adab in speech, Prophetic communication principles, Spiritual reflection, Moral reasoning, Emotional regulation, Leadership presence, Persuasive rhetoric, Vocal control, Active listening, Audience engagement, Public speaking composure.
-
-## Activity 1:
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 ### Declamation
 
@@ -37,5 +34,3 @@
 | Clarity & Articulation | 10 pts | Clear pronunciation and rhythmic flow |
 | Emotional Depth | 10 pts | Speaking from the heart with genuine passion |
 | Structure & Impact | 10 pts | Powerful opening hook and memorable conclusion |
-
-</div></div>
