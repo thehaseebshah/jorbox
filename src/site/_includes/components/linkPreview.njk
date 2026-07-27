@@ -163,16 +163,19 @@
           const titleEl = iframeDoc.querySelector('h1');
           const contentEl = iframeDoc.querySelector('.content');
 
-          tooltipContentHtml = ''
+          tooltipContentHtml = '';
           if (titleEl) {
-            tooltipContentHtml += '<div style="font-weight: bold; unicode-bidi: plaintext;">' + titleEl.innerHTML + '</div>'
+            tooltipContentHtml += '<div style="font-weight: bold; font-size: 1.1em; margin-bottom: 0.6rem; unicode-bidi: plaintext;">' + titleEl.innerHTML + '</div>';
           }
           if (contentEl) {
-            tooltipContentHtml += contentEl.innerHTML
+            const clone = contentEl.cloneNode(true);
+            const headerEl = clone.querySelector('header');
+            if (headerEl) headerEl.remove();
+            const junkEls = clone.querySelectorAll('script, style, .header-meta');
+            junkEls.forEach(el => el.remove());
+            tooltipContentHtml += clone.innerHTML;
           } else if (iframeDoc.body) {
-            tooltipContentHtml += iframeDoc.body.innerHTML
-          } else if (iframeDoc.documentElement) {
-            tooltipContentHtml += iframeDoc.documentElement.innerHTML
+            tooltipContentHtml += iframeDoc.body.innerHTML;
           } else {
             return;
           }
