@@ -5,7 +5,6 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Caligraphy/Painting Competition
 
 ## How to Play

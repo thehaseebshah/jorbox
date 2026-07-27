@@ -5,7 +5,6 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Seerat Model Project Competition
 
 ## How to Play

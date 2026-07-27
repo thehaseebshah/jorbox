@@ -5,7 +5,6 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Ankh Macholi Plus
 
 ## How to Play

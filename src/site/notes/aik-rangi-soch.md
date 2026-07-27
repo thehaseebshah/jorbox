@@ -5,7 +5,6 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Aik Rangi Soch
 
 ## How to Play

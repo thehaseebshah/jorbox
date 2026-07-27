@@ -5,7 +5,6 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Jin Stories over Bonfire
 
 ## How to Play

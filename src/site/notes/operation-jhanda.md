@@ -5,7 +5,6 @@ final: true
 added-to-shabab: true
 tried: false
 ---
-
 # Operation Jhanda
 
 ## How to Play

@@ -5,7 +5,6 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Night Manhunt w. Torches/Whistles
 
 ## How to Play

@@ -5,7 +5,6 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Bol keh Lab Azaad hen Tere
 
 ## How to Play

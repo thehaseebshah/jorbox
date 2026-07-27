@@ -5,7 +5,6 @@ final: true
 added-to-shabab: false
 tried: false
 ---
-
 # Insani Girah (Human Knot)
 
 ## How to Play

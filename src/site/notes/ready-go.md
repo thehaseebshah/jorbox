@@ -5,7 +5,6 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Ready Go
 
 ## How to Play

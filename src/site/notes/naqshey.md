@@ -5,7 +5,6 @@ final: true
 added-to-shabab: true
 tried: false
 ---
-
 # Naqshey (Map Drawing)
 
 ## How to Play

@@ -5,7 +5,6 @@ final: true
 added-to-shabab: false
 tried: false
 ---
-
 # Badminton
 
 ## How to Play

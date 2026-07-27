@@ -5,7 +5,6 @@ final: false
 added-to-shabab: true
 tried: true
 ---
-
 # Yasu Panjo Pro Max
 
 ## How to Play

@@ -5,7 +5,6 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Taqreeri Muqabla
 
 ## How to Play

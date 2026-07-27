@@ -5,7 +5,6 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Spending Night in Isolated Location
 
 ## How to Play

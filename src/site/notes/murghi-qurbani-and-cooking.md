@@ -5,7 +5,6 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Murghi Qurbani and Cooking
 
 ## How to Play

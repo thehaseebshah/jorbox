@@ -5,7 +5,6 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # River Crossing with Ropes
 
 ## How to Play

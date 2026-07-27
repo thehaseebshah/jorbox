@@ -5,7 +5,6 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Citywide Manhunt with GPS
 
 ## How to Play

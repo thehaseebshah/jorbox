@@ -5,7 +5,6 @@ final: false
 added-to-shabab: true
 tried: true
 ---
-
 # Jangi Qaidi
 
 ## How to Play

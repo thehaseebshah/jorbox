@@ -5,7 +5,6 @@ final: false
 added-to-shabab: true
 tried: true
 ---
-
 # Tehreek e Inqalaab
 
 ## How to Play

@@ -5,7 +5,6 @@ final: false
 added-to-shabab: true
 tried: true
 ---
-
 # Jasoosi Club
 
 ## How to Play

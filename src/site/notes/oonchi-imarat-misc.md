@@ -5,7 +5,6 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Oonchi Imarat (Tallest Building)
 
 ## How to Play
