@@ -1,8 +1,6 @@
 ---
 category: Shabab Skills Activity
 dg-publish: true
-lesson-batch: July 2026
-module: Team Building
 name: "Questions from a Video"
 ---
 
