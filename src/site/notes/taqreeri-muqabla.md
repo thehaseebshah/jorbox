@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /taqreeri-muqabla/
 type: miscellaneous
 final: false
 added-to-shabab: true

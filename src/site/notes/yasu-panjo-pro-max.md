@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /yasu-panjo-pro-max/
 type: party
 final: false
 added-to-shabab: true

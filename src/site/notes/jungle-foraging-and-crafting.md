@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /jungle-foraging-and-crafting/
 type: location-based
 final: false
 added-to-shabab: false

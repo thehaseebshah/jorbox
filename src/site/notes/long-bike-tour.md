@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /long-bike-tour/
 type: location-based
 final: false
 added-to-shabab: false

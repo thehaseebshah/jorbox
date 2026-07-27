@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /sher-ki-aankh/
 type: outdoor
 final: true
 added-to-shabab: true

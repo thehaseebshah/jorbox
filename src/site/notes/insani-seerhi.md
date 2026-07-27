@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /insani-seerhi/
 type: outdoor
 final: false
 added-to-shabab: false

@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /dhun-boojho/
 type: party
 final: false
 added-to-shabab: false

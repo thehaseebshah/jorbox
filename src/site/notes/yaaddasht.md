@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /yaaddasht/
 type: deck
 final: false
 added-to-shabab: false

@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /hiking/
 type: location-based
 final: false
 added-to-shabab: false

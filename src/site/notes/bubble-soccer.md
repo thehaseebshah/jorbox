@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /bubble-soccer/
 type: outdoor
 final: false
 added-to-shabab: false

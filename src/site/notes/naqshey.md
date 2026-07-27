@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /naqshey/
 type: miscellaneous
 final: true
 added-to-shabab: true
@@ -71,7 +70,10 @@ Explain the **Winning Criteria**:
 
 ## 5. Scoring Rubric (Max Score: 20)
 | Criteria | Points | What to look for |
-|---|---|---|
+|
+---|
+---|
+---|
 | Structure & Flow | 5 | Did they get the shape of the river/coastline or main city wall correct? |
 | The "Anchor" | 5 | Is the main road/artery placed correctly? (e.g., The Nile in Cairo, Mall Road in Lahore). |
 | Landmarks | 5 | Are specific buildings (Mosques, Forts) in the correct relative location? |

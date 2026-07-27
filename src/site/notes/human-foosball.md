@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /human-foosball/
 type: outdoor
 final: false
 added-to-shabab: false

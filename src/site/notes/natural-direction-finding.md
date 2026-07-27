@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /natural-direction-finding/
 type: miscellaneous
 final: false
 added-to-shabab: true

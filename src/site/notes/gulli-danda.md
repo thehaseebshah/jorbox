@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /gulli-danda/
 type: childhood
 final: false
 added-to-shabab: false

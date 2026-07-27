@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /riazi-ki-yaad/
 type: outdoor
 final: false
 added-to-shabab: false

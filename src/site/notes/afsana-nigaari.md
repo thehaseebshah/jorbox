@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /afsana-nigaari/
 type: miscellaneous
 final: false
 added-to-shabab: true

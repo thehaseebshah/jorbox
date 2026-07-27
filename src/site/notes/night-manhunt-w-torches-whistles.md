@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /night-manhunt-w-torches-whistles/
 type: location-based
 final: false
 added-to-shabab: false

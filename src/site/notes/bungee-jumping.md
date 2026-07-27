@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /bungee-jumping/
 type: outdoor
 final: false
 added-to-shabab: false

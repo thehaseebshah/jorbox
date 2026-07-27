@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /watch-parties/
 type: location-based
 final: false
 added-to-shabab: false

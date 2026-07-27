@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /purane-bantay/
 type: childhood
 final: false
 added-to-shabab: false

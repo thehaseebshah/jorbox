@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /ankh-macholi-plus/
 type: outdoor
 final: false
 added-to-shabab: true

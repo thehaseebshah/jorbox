@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /chalooo/
 type: deck
 final: false
 added-to-shabab: false

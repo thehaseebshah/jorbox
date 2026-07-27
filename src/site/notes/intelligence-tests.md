@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /intelligence-tests/
 type: miscellaneous
 final: false
 added-to-shabab: false

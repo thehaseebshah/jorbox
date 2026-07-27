@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /murgha-logey/
 type: outdoor
 final: false
 added-to-shabab: false

@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /bol-keh-lab-azaad-hen-tere/
 type: miscellaneous
 final: false
 added-to-shabab: true

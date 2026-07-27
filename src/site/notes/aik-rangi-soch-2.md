@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /aik-rangi-soch-2/
 type: party
 final: false
 ---

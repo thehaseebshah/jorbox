@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /rassa-kashi/
 type: outdoor
 final: false
 added-to-shabab: false

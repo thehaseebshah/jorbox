@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /phansna-nahi/
 type: party
 final: false
 added-to-shabab: false

@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /gharwanj/
 type: deck
 final: false
 added-to-shabab: false

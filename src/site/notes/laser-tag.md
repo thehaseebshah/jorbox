@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /laser-tag/
 type: location-based
 final: false
 added-to-shabab: false

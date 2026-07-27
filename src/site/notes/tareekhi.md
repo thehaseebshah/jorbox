@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /tareekhi/
 type: party
 final: false
 added-to-shabab: true

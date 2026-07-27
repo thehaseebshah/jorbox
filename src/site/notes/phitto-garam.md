@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /phitto-garam/
 type: childhood
 final: false
 added-to-shabab: true

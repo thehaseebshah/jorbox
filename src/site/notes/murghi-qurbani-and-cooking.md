@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /murghi-qurbani-and-cooking/
 type: location-based
 final: false
 added-to-shabab: false

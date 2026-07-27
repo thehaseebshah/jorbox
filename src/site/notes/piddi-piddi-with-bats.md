@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /piddi-piddi-with-bats/
 type: childhood
 final: false
 added-to-shabab: true

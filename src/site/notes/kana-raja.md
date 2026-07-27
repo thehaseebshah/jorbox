@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /kana-raja/
 type: deck
 final: false
 added-to-shabab: false

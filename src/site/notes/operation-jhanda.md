@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /operation-jhanda/
 type: outdoor
 final: true
 added-to-shabab: true

@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /kushti/
 type: outdoor
 final: false
 added-to-shabab: true

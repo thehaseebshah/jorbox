@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /river-crossing-with-ropes/
 type: location-based
 final: false
 added-to-shabab: false

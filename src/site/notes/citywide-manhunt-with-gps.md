@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /citywide-manhunt-with-gps/
 type: location-based
 final: false
 added-to-shabab: false

@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /tikon/
 type: outdoor
 final: false
 added-to-shabab: false

@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /jangi-qaidi/
 type: party
 final: false
 added-to-shabab: true

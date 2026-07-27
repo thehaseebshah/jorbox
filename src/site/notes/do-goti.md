@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /do-goti/
 type: kaghaz
 final: false
 added-to-shabab: false

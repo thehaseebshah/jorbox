@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /gol-gappay/
 type: outdoor
 final: true
 added-to-shabab: false

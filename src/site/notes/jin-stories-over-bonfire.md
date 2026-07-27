@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /jin-stories-over-bonfire/
 type: location-based
 final: false
 added-to-shabab: false

@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /bomb-squad/
 type: miscellaneous
 final: false
 added-to-shabab: false

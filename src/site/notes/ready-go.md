@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /ready-go/
 type: childhood
 final: false
 added-to-shabab: true

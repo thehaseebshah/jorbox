@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /chalak-chor/
 type: deck
 final: false
 added-to-shabab: false

@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /spending-night-in-isolated-location/
 type: location-based
 final: false
 added-to-shabab: false

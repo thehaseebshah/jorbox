@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /daur/
 type: outdoor
 final: false
 added-to-shabab: true

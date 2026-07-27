@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /mandi/
 type: deck
 final: false
 added-to-shabab: false

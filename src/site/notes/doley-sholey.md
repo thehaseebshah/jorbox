@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /doley-sholey/
 type: outdoor
 final: false
 added-to-shabab: true

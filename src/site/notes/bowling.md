@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /bowling/
 type: location-based
 final: false
 added-to-shabab: false

@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /haiwani-pattay/
 type: party
 final: false
 added-to-shabab: false

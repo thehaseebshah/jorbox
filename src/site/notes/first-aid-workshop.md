@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /first-aid-workshop/
 type: miscellaneous
 final: false
 added-to-shabab: false

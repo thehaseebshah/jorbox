@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /moaddabana-guzarish-hey/
 type: miscellaneous
 final: false
 added-to-shabab: true

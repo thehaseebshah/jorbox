@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /frisbee/
 type: sports
 final: true
 added-to-shabab: false

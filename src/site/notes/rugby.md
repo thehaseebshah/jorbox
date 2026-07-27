@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /rugby/
 type: sports
 final: true
 added-to-shabab: true

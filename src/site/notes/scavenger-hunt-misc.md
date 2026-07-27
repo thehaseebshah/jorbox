@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /scavenger-hunt-misc/
 type: miscellaneous
 final: false
 added-to-shabab: true

@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /stargazing/
 type: location-based
 final: false
 added-to-shabab: false

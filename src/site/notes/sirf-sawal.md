@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /sirf-sawal/
 type: miscellaneous
 final: false
 added-to-shabab: true

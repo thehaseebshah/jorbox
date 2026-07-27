@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /tree-plantation-campaign/
 type: miscellaneous
 final: false
 added-to-shabab: false

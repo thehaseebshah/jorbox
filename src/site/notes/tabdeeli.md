@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /tabdeeli/
 type: outdoor
 final: false
 added-to-shabab: true

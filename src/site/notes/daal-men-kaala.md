@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /daal-men-kaala/
 type: party
 final: false
 added-to-shabab: true

@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /tehreek-e-inqalaab/
 type: party
 final: false
 added-to-shabab: true

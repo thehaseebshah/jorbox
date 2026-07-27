@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /home-golf/
 type: sports
 final: true
 added-to-shabab: false

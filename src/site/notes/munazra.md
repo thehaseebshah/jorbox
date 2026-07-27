@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /munazra/
 type: miscellaneous
 final: false
 added-to-shabab: true

@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /mantaq/
 type: miscellaneous
 final: false
 added-to-shabab: true

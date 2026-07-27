@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /cooking/
 type: location-based
 final: false
 added-to-shabab: true

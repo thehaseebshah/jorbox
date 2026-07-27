@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /catan/
 type: board
 final: false
 added-to-shabab: false

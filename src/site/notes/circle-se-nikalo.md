@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /circle-se-nikalo/
 type: childhood
 final: false
 added-to-shabab: false

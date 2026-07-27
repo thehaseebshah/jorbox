@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /chaar-se-chaar/
 type: kaghaz
 final: false
 added-to-shabab: false

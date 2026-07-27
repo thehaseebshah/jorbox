@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /igniting-fire-with-natural-methods/
 type: miscellaneous
 final: false
 added-to-shabab: true

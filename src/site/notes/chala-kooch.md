@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /chala-kooch/
 type: childhood
 final: false
 added-to-shabab: false

@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /langre-dost/
 type: outdoor
 final: false
 added-to-shabab: true

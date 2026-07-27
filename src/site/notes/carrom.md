@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /carrom/
 type: board
 final: false
 added-to-shabab: false

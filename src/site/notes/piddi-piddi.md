@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /piddi-piddi/
 type: childhood
 final: false
 added-to-shabab: false

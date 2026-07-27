@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /hike-bingo/
 type: location-based
 final: false
 added-to-shabab: false

@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /ghutham-ghutha/
 type: outdoor
 final: false
 added-to-shabab: false

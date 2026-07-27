@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /jasoosi-club/
 type: party
 final: false
 added-to-shabab: true

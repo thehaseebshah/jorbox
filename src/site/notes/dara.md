@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /dara/
 type: kaghaz
 final: false
 added-to-shabab: false

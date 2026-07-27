@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /hold-breath-challenge/
 type: location-based
 final: false
 added-to-shabab: false

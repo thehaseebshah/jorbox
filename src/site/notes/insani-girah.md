@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /insani-girah/
 type: outdoor
 final: true
 added-to-shabab: false

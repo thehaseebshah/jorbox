@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /shabab-dawah-campaign/
 type: miscellaneous
 final: false
 added-to-shabab: false

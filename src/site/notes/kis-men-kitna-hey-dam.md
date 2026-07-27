@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /kis-men-kitna-hey-dam/
 type: outdoor
 final: false
 added-to-shabab: true

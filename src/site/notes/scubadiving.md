@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /scubadiving/
 type: location-based
 final: false
 added-to-shabab: false

@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /antakshari-25/
 type: childhood
 final: false
 added-to-shabab: false

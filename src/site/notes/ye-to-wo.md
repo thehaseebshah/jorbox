@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /ye-to-wo/
 type: outdoor
 final: false
 added-to-shabab: true

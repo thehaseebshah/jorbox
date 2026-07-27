@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /water-filtration/
 type: miscellaneous
 final: false
 added-to-shabab: true

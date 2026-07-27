@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /pro-obstacle-course/
 type: location-based
 final: false
 added-to-shabab: false

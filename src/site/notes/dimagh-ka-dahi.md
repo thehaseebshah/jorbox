@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /dimagh-ka-dahi/
 type: party
 final: false
 added-to-shabab: true

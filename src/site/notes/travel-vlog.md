@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /travel-vlog/
 type: location-based
 final: false
 added-to-shabab: false

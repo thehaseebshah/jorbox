@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /dunya-mere-agay/
 type: miscellaneous
 final: false
 added-to-shabab: true

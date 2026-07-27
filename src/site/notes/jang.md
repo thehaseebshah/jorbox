@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /jang/
 type: board
 final: false
 added-to-shabab: true

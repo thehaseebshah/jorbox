@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /dodge-the-ball/
 type: outdoor
 final: false
 added-to-shabab: true

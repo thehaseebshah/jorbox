@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /cheel-ki-nazar/
 type: outdoor
 final: false
 added-to-shabab: false

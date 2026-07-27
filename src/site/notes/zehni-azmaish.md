@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /zehni-azmaish/
 type: outdoor
 final: false
 added-to-shabab: true

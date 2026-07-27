@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /shelterbuilding-contest/
 type: location-based
 final: false
 added-to-shabab: false

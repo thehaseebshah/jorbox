@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /naqshnigar/
 type: party
 final: false
 added-to-shabab: false

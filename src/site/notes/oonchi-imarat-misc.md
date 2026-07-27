@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /oonchi-imarat-misc/
 type: miscellaneous
 final: false
 added-to-shabab: true

@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /surfing/
 type: location-based
 final: false
 added-to-shabab: false

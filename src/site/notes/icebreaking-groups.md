@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /icebreaking-groups/
 type: outdoor
 final: false
 added-to-shabab: false

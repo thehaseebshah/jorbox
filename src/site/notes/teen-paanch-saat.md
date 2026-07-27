@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /teen-paanch-saat/
 type: kaghaz
 final: false
 added-to-shabab: false

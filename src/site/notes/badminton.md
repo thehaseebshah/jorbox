@@ -1,6 +1,5 @@
 ---
 dg-publish: true
-permalink: /badminton/
 type: sports
 final: true
 added-to-shabab: false
