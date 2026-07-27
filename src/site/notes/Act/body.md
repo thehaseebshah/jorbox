@@ -6,6 +6,11 @@ type: childhood
 final: false
 added-to-shabab: false
 tried: false
+age-limit: "14+"
+group-size: "5–10 players"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 5
 ---
 
 # Body
@@ -13,11 +18,6 @@ tried: false
 ## How to Play
 **Rule:** Score teams based on total time
 
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 5
 
 ### Reference
 Watch: https://youtu.be/mNY8FjhQfMw?si=MMdBvNpA1YpP_QLa&t=32

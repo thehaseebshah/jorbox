@@ -6,6 +6,11 @@ type: party
 final: false
 added-to-shabab: false
 tried: false
+age-limit: "14+"
+group-size: "5–10 players"
+duration: "99 minutes"
+prep-time: "< 5 minutes"
+difficulty: 4
 ---
 
 # Phansna Nahi
@@ -13,11 +18,6 @@ tried: false
 ## How to Play
 **Inspired by:** Don't get Got (Loser does a Dare from Truth or Dare) / Dont get Got; Loser does a Dare (from Truth or Dare)
 
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 99 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4
 
 ### Items Needed
 - Role Cards (e.g., Mujahid/Jasoos)

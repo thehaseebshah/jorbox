@@ -6,6 +6,11 @@ type: miscellaneous
 final: false
 added-to-shabab: true
 tried: false
+age-limit: "14+"
+group-size: "3+"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: "Medium"
 ---
 
 # Munazra (Debate Competition)
@@ -13,9 +18,4 @@ tried: false
 ## How to Play
 **AKA:** Debate Competition
 
-- **Age Limit:** 14+
-- **Group Size:** 3+
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** Medium
 - **Rating:** 5

@@ -6,6 +6,11 @@ type: deck
 final: false
 added-to-shabab: false
 tried: false
+age-limit: "8+"
+group-size: "2+"
+duration: "15 minutes"
+prep-time: "< 5 minutes"
+difficulty: 5
 ---
 
 # Yaaddasht
@@ -13,11 +18,6 @@ tried: false
 ## How to Play
 **Inspired by:** With Khoti Mechanic
 
-- **Age Limit:** 8+
-- **Group Size:** 2+
-- **Duration:** 15 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 5
 - **Items Needed:** Cards
 
 ### Reference

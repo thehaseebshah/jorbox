@@ -6,16 +6,16 @@ type: sports
 final: true
 added-to-shabab: false
 tried: false
+age-limit: "10+"
+group-size: "4–20 players"
+duration: "60 minutes"
+prep-time: "< 5 minutes"
+difficulty: "Easy"
 ---
 
 # Pro Kabaddi
 
 ## How to Play
-- **Age Limit:** 10+
-- **Group Size:** 4–20 players
-- **Duration:** 60 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** Easy
 - **Rating:** 5
 
 ### Reference

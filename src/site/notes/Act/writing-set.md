@@ -6,16 +6,16 @@ type: miscellaneous
 final: false
 added-to-shabab: true
 tried: false
+age-limit: "14+"
+group-size: "5–10 players"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 4
 ---
 
 # Writing Set
 
 ## How to Play
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4
 - **Items Needed:** Papers, pens
 
 ### Reference

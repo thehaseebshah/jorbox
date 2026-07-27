@@ -6,6 +6,11 @@ type: party
 final: false
 added-to-shabab: false
 tried: false
+age-limit: "14+"
+group-size: "5–10 players"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 3
 ---
 
 # Dil ki Sun
@@ -13,11 +18,6 @@ tried: false
 ## How to Play
 **Inspired by:** The Mind
 
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 3
 
 ### Reference
 Watch: https://www.youtube.com/watch?v=uXl8MC0GMYE

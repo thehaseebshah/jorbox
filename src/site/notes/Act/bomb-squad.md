@@ -6,16 +6,16 @@ type: miscellaneous
 final: false
 added-to-shabab: false
 tried: false
+age-limit: "8+"
+group-size: "2+"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 5
 ---
 
 # Bomb Squad
 
 ## How to Play
-- **Age Limit:** 8+
-- **Group Size:** 2+
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 5
 - **Items Needed:** Mobiles
 
 ### Reference

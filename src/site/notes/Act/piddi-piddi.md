@@ -6,6 +6,11 @@ type: childhood
 final: false
 added-to-shabab: false
 tried: false
+age-limit: "14+"
+group-size: "5–10 players"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 4
 ---
 
 # Piddi Piddi
@@ -13,11 +18,6 @@ tried: false
 > **Note:** The Canva folder title is "Piddi Piddi" but the design content header reads "Chala Kooch". This may be a Canvas title mismatch or a renamed upload.
 
 ## How to Play
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4
 
 ### Items Needed
 - Role Cards (e.g., Mujahid/Jasoos)

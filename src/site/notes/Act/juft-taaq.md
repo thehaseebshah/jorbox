@@ -6,16 +6,16 @@ type: outdoor
 final: false
 added-to-shabab: false
 tried: false
+age-limit: "14+"
+group-size: "5–10 players"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 4
 ---
 
 # Juft Taaq
 
 ## How to Play
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4
 
 ### Reference
 Watch: https://www.loom.com/share/b86b6d31130a4e98b7541cf06ef652b8

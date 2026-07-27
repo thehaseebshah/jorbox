@@ -6,16 +6,16 @@ type: sports
 final: true
 added-to-shabab: false
 tried: false
+age-limit: "8+"
+group-size: "4+"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: "Easy"
 ---
 
 # Handball
 
 ## How to Play
-- **Age Limit:** 8+
-- **Group Size:** 4+
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** Easy
 - **Rating:** 5
 
 ### Items Needed

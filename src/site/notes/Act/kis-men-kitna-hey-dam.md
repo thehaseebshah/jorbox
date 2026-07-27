@@ -6,6 +6,11 @@ type: outdoor
 final: false
 added-to-shabab: true
 tried: false
+age-limit: "14+"
+group-size: "5–10 players"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 5
 ---
 
 # Kis men Kitna hey Dam
@@ -13,11 +18,6 @@ tried: false
 ## How to Play
 **Inspired by:** TicTacToe Relay and Shuffle Relay
 
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 5
 
 ### Reference
 Watch: [Excalidraw Whiteboard - 29 August 2025](https://www.loom.com/share/ff8e2c8aa8de415ab4df3072c066f1c4)

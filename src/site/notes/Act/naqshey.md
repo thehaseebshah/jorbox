@@ -6,16 +6,16 @@ type: miscellaneous
 final: true
 added-to-shabab: true
 tried: false
+age-limit: "7+"
+group-size: "2+"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: "Easy"
 ---
 
 # Naqshey (Map Drawing)
 
 ## How to Play
-- **Age Limit:** 7+
-- **Group Size:** 2+
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** Easy
 - **Rating:** 4
 - **Items Needed:** Mentioned in description
 

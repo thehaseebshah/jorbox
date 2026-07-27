@@ -6,16 +6,16 @@ type: location-based
 final: false
 added-to-shabab: false
 tried: false
+age-limit: "14+"
+group-size: "5–10 players"
+duration: "99 minutes"
+prep-time: "< 5 minutes"
+difficulty: 4
 ---
 
 # Gardening
 
 ## How to Play
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 99 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4
 
 ### Items Needed
 - Role Cards (e.g., Mujahid/Jasoos)

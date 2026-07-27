@@ -6,16 +6,16 @@ type: sports
 final: true
 added-to-shabab: false
 tried: false
+age-limit: "8+"
+group-size: "2+"
+duration: "20 minutes"
+prep-time: "< 5 minutes"
+difficulty: "Easy"
 ---
 
 # Badminton
 
 ## How to Play
-- **Age Limit:** 8+
-- **Group Size:** 2+
-- **Duration:** 20 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** Easy
 - **Rating:** 3
 
 ### Items Needed

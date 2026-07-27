@@ -6,6 +6,11 @@ type: outdoor
 final: false
 added-to-shabab: true
 tried: false
+age-limit: "14+"
+group-size: "5–10 players"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 4
 ---
 
 # Langre Dost
@@ -13,11 +18,6 @@ tried: false
 ## How to Play
 **Inspired by:** Handicap Obstacles
 
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4
 
 ### Reference
 Watch: [Troop Meeting Team Building Challenge: Handicap Obstacle Course](https://m.youtube.com/watch?v=zBG2VyN_VjI&list=PLu2gNN17oxCXAF0zkXCqLJMrbufyY8mLN&index=14&t=102s&pp=2AFmkAIB)

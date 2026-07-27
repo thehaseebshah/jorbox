@@ -6,16 +6,16 @@ type: miscellaneous
 final: false
 added-to-shabab: true
 tried: false
+age-limit: "10+"
+group-size: "5+"
+duration: "45 minutes"
+prep-time: "30 minutes"
+difficulty: "Medium"
 ---
 
 # Scavenger Hunt
 
 ## How to Play
-- **Age Limit:** 10+
-- **Group Size:** 5+
-- **Duration:** 45 minutes
-- **Prep Time:** 30 minutes
-- **Difficulty:** Medium
 - **Items Needed:** Hint Cards, Phones
 - **Rating:** 5
 

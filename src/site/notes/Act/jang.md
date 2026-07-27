@@ -6,16 +6,16 @@ type: board
 final: false
 added-to-shabab: true
 tried: false
+age-limit: "12+"
+group-size: "3+"
+duration: "60 minutes"
+prep-time: "60 minutes"
+difficulty: 5
 ---
 
 # Jang
 
 ## How to Play
-- **Age Limit:** 12+
-- **Group Size:** 3+
-- **Duration:** 60 minutes
-- **Prep Time:** 60 minutes
-- **Difficulty:** 5
 - **Items Needed:** Map, tokens, paper, pencil
 
 *Reference: How to Play Kriegsspiel*

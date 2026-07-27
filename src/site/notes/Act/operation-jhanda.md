@@ -6,16 +6,16 @@ type: outdoor
 final: true
 added-to-shabab: true
 tried: false
+age-limit: "10+"
+group-size: "4+"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 5
 ---
 
 # Operation Jhanda
 
 ## How to Play
-- **Age Limit:** 10+
-- **Group Size:** 4+
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 5
 - **Items Needed:** Flags
 
 ### Reference

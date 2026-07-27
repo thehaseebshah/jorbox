@@ -6,16 +6,16 @@ type: sports
 final: true
 added-to-shabab: false
 tried: false
+age-limit: "5+"
+group-size: "2+"
+duration: "20 minutes"
+prep-time: "< 5 minutes"
+difficulty: "Easy"
 ---
 
 # Sparring
 
 ## How to Play
-- **Age Limit:** 5+
-- **Group Size:** 2+
-- **Duration:** 20 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** Easy
 - **Rating:** 5
 
 ### Items Needed

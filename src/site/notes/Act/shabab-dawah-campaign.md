@@ -6,14 +6,14 @@ type: miscellaneous
 final: false
 added-to-shabab: false
 tried: false
+age-limit: "8+"
+group-size: "2+"
+duration: "90 minutes"
+prep-time: "< 5 minutes"
+difficulty: "Easy"
 ---
 
 # Shabab Dawah Campaign
 
 ## How to Play
-- **Age Limit:** 8+
-- **Group Size:** 2+
-- **Duration:** 90 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** Easy
 - **Rating:** 4

@@ -6,6 +6,11 @@ type: party
 final: false
 added-to-shabab: true
 tried: false
+age-limit: "14+"
+group-size: "5–10 players"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 4
 ---
 
 # Alfaaz
@@ -13,11 +18,6 @@ tried: false
 ## How to Play
 **Inspired by:** Word on the Street
 
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4
 
 ### Reference
 Watch: https://www.loom.com/share/12da42f564134c299e58456ba79b4e2c

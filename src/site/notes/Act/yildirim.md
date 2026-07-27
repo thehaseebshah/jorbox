@@ -6,6 +6,11 @@ type: sports
 final: true
 added-to-shabab: false
 tried: false
+age-limit: "5+"
+group-size: "1+"
+duration: "30+ minutes"
+prep-time: "< 5 minutes"
+difficulty: "Easy"
 ---
 
 # Yildirim
@@ -13,9 +18,4 @@ tried: false
 ## How to Play
 **How to Play:** Learn Ninjitsu if you don't know Yildirim
 
-- **Age Limit:** 5+
-- **Group Size:** 1+
-- **Duration:** 30+ minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** Easy
 - **Rating:** 5

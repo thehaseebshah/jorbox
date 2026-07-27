@@ -6,6 +6,11 @@ type: outdoor
 final: false
 added-to-shabab: true
 tried: false
+age-limit: "14+"
+group-size: "5–10 players"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 5
 ---
 
 # Daur
@@ -13,11 +18,6 @@ tried: false
 ## How to Play
 **Inspired by:** + Gattu Daur + Jazeeray + Pass an Object
 
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 5
 
 ### Reference
 Watch: https://www.canva.com/design/DAGrcQBXztY/fVsrTd7fGzQrPLKGZA-EAQ/watch?utm_content=DAGrcQBXztY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h87a712316c

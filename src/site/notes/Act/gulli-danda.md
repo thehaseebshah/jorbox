@@ -6,16 +6,16 @@ type: childhood
 final: false
 added-to-shabab: false
 tried: false
+age-limit: "14+"
+group-size: "5–10 players"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 5
 ---
 
 # Gulli Danda
 
 ## How to Play
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 5
 
 ### Reference
 Watch: https://youtu.be/J3wU0buWUJY?si=o_RWIuXEqzij6wNN&t=85

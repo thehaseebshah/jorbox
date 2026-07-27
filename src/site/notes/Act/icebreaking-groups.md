@@ -6,16 +6,16 @@ type: outdoor
 final: false
 added-to-shabab: false
 tried: false
+age-limit: "14+"
+group-size: "5–10 players"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 4
 ---
 
 # Icebreaking Groups
 
 ## How to Play
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4
 
 ### Reference
 - Watch: https://www.loom.com/share/d57c12099f8e404897921ef63a4430b9?from_recorder=1&focus_title=1

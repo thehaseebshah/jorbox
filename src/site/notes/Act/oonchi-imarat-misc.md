@@ -6,15 +6,14 @@ type: miscellaneous
 final: false
 added-to-shabab: true
 tried: false
+age-limit: "8+"
+group-size: "4+"
+duration: "60 minutes"
+prep-time: "< 5 minutes"
+difficulty: 4
 ---
 
 # Oonchi Imarat (Tallest Building)
 
 ## How to Play
 **Goal:** Create the tallest building
-
-- **Age Limit:** 8+
-- **Group Size:** 4+
-- **Duration:** 60 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4

@@ -6,6 +6,11 @@ type: outdoor
 final: false
 added-to-shabab: false
 tried: false
+age-limit: "14+"
+group-size: "5–10 players"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 4
 ---
 
 # Billi Chuha
@@ -13,11 +18,6 @@ tried: false
 ## How to Play
 **Inspired by:** Dog and the Bone
 
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4
 
 ### Reference
 Watch: https://youtube.com/shorts/M7Stk4eRjrU?si=pJAmWRZ53yC8EcIt
