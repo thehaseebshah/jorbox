@@ -1,15 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/v2/18/","dg-note-properties":{"category":"Shabab Skills Curriculum","lesson-batch":"July 2026","module":"Communication","name":"Story Writing Set"}}
+category: JorBox Activity
+dg-publish: true
+name: "Story Writing"
+type: shabab-act
+final: false
+added-to-shabab: false
+tried: false
 ---
-
-# Story Writing Set
-
-> [!info] Learning Objectives
-> To develop imagination and creativity through Islamic themes; to practice structuring a clear beginning, middle, and end in storytelling; to improve communication and confidence in narrating; to learn the importance of clarity, relevance, and moral purpose in stories; and to strengthen brotherhood by listening respectfully and encouraging one another's creativity.
-
-## Activity 1:
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 ### Story Writing
 
@@ -63,8 +60,3 @@ The team with the highest score wins.
 - Emphasize: "A story without conflict is just a description—conflict makes people want to listen."
 - Encourage Shabab to surprise the audience with at least one plot twist.
 - If time allows, challenge teams to rewrite their ending with a different twist.
-
-</div></div>
-
-## Declamation Announcement
-Check the next lesson please and announce it.
