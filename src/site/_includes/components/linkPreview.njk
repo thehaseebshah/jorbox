@@ -167,9 +167,6 @@
           const badgeBarEl = iframeDoc.querySelector('.hero-badge-bar');
 
           tooltipContentHtml = '';
-          if (badgeBarEl) {
-            tooltipContentHtml += '<div class="hero-badge-bar-preview" style="display: flex; gap: 0.5rem; margin-bottom: 0.4rem; opacity: 0.9;">' + badgeBarEl.innerHTML + '</div>';
-          }
           if (titleEl) {
             tooltipContentHtml += '<div style="font-weight: bold; font-size: 1.15em; margin-bottom: 0.6rem; unicode-bidi: plaintext;">' + titleEl.innerHTML + '</div>';
           }
@@ -180,7 +177,7 @@
             // Remove duplicate h1 elements inside body content
             const duplicateH1s = clone.querySelectorAll('h1');
             duplicateH1s.forEach(h => h.remove());
-            const junkEls = clone.querySelectorAll('script, style, .header-meta');
+            const junkEls = clone.querySelectorAll('script, style, .header-meta, .hero-badge-bar, .reading-time, .read-time');
             junkEls.forEach(el => el.remove());
             tooltipContentHtml += clone.innerHTML;
           } else if (iframeDoc.body) {
