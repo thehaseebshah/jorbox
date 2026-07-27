@@ -1708,3 +1708,82 @@ body.not-found-page {
     border-color: rgba(104, 76, 140, 0.24);
     box-shadow: 0 32px 80px rgba(48, 34, 62, 0.2);
 }
+
+/* --------------------------------------------------------------------------
+   14. OBSIDIAN BASE & MARKDOWN TABLE STYLING
+   -------------------------------------------------------------------------- */
+.obsidian-base-table-wrapper {
+    overflow-x: auto;
+    margin: 1.5rem 0;
+    border-radius: var(--jb-radius-md, 12px);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.obsidian-base-table,
+table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    font-size: 0.93rem !important;
+
+    th, td {
+        padding: 0.75rem 1rem !important;
+        border: 1px solid rgba(255, 255, 255, 0.1) !important;
+        text-align: left !important;
+        vertical-align: middle !important;
+    }
+
+    th {
+        background: rgba(30, 20, 48, 0.9) !important;
+        color: #f7f4fb !important;
+        font-weight: 700 !important;
+        white-space: nowrap !important;
+        mask-image: none !important;
+        -webkit-mask-image: none !important;
+        box-shadow: none !important;
+
+        &::before, &::after {
+            display: none !important;
+            content: none !important;
+        }
+    }
+
+    td {
+        background: rgba(13, 9, 21, 0.4) !important;
+        color: var(--jb-text-primary) !important;
+    }
+
+    tr:hover td {
+        background: rgba(255, 255, 255, 0.04) !important;
+    }
+}
+
+.theme-light .obsidian-base-table-wrapper {
+    border-color: rgba(62, 48, 78, 0.18) !important;
+}
+
+.theme-light .obsidian-base-table,
+.theme-light table {
+    th {
+        background: #e6dfef !important;
+        color: #17131e !important;
+        border: 1px solid rgba(62, 48, 78, 0.18) !important;
+        mask-image: none !important;
+        -webkit-mask-image: none !important;
+        box-shadow: none !important;
+
+        &::before, &::after {
+            display: none !important;
+            content: none !important;
+        }
+    }
+
+    td {
+        background: #fbfafc !important;
+        color: #17131e !important;
+        border: 1px solid rgba(62, 48, 78, 0.12) !important;
+    }
+
+    tr:hover td {
+        background: #f1eef5 !important;
+    }
+}
