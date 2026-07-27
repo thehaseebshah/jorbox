@@ -2,38 +2,40 @@
 <style>
 #tooltip-wrapper {
   background: var(--background-primary);
-  padding: 1em;
-  border-radius: 4px;
+  padding: 1.2em;
+  border-radius: 12px;
   overflow: hidden;
   position: fixed;
-  width: 80%;
-  max-width: 400px;
+  width: 90%;
+  max-width: 520px;
   height: auto;
-  max-height: 300px;
-  font-size: 0.8em;
-  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+  max-height: 420px;
+  font-size: 0.85em;
+  box-shadow: 0 20px 45px rgba(0,0,0,0.5), 0 0 25px rgba(126, 34, 206, 0.18);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  backdrop-filter: blur(16px);
   opacity: 0;
-  transition: opacity 100ms;
+  transition: opacity 120ms;
   unicode-bidi: plaintext;
-  overflow-y: scroll;
-  z-index: 10;
+  overflow-y: auto;
+  z-index: 10000;
 }
 
-#tooltip-wrapper:after {
-  content: "";
-  position: absolute;
-  z-index: 1;
-  bottom: 0;
-  left: 0;
-  pointer-events: none;
-  width: 100%;
-  unicode-bidi: plaintext;
-  height: 75px;
+#tooltip-wrapper .callout {
+  padding: 0.6rem 0.85rem !important;
+  margin: 0.6rem 0 !important;
+  border-radius: 8px !important;
+}
+
+#tooltip-wrapper h2, #tooltip-wrapper h3 {
+  font-size: 1.05em !important;
+  margin-top: 0.8rem !important;
+  margin-bottom: 0.4rem !important;
 }
 
 .tooltip-pdf {
   width: 100%;
-  height: 260px;
+  height: 280px;
   border: 0;
 }
 </style>
