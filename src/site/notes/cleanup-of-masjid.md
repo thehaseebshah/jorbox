@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/cleanup-of-masjid/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Cleanup of Masjid
 
 ## How to Play

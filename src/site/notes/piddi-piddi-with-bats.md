@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/piddi-piddi-with-bats/","dg-note-properties":{"type":"childhood","final":false,"added-to-shabab":true,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Piddi Piddi with Bats
 
 ## How to Play

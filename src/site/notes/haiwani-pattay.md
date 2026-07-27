@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/haiwani-pattay/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":false,"tried":true}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Haiwani Pattay
 
 ## How to Play

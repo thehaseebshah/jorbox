@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/igniting-fire-with-natural-methods/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Igniting Fire with Natural Methods
 
 ## How to Play

@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/jang/","dg-note-properties":{"type":"board","final":false,"added-to-shabab":true,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Jang
 
 ## How to Play

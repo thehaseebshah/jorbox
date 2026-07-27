@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/langre-dost/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":true,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Langre Dost
 
 ## How to Play

@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/yildirim/","dg-note-properties":{"type":"sports","final":true,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Yildirim
 
 ## How to Play

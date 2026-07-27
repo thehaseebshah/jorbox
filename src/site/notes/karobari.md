@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/karobari/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":true,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Karobari
 
 ## How to Play

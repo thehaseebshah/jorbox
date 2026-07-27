@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/operation-jhanda/","dg-note-properties":{"type":"outdoor","final":true,"added-to-shabab":true,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Operation Jhanda
 
 ## How to Play

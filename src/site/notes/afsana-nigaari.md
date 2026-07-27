@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/afsana-nigaari/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Afsana Nigaari
 
 ## How to Play

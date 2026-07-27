@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/gol-gappay/","dg-note-properties":{"type":"outdoor","final":true,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Gol Gappay
 
 ## How to Play

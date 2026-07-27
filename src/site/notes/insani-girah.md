@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/insani-girah/","dg-note-properties":{"type":"outdoor","final":true,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Insani Girah (Human Knot)
 
 ## How to Play

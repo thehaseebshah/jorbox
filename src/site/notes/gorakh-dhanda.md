@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/gorakh-dhanda/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Gorakh Dhanda
 
 ## How to Play

@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/tree-plantation-campaign/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Tree Plantation Campaign
 
 ## How to Play

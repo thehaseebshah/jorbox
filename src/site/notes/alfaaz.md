@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/alfaaz/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":true,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Alfaaz
 
 ## How to Play

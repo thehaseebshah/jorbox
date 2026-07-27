@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/tabdeeli/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":true,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Tabdeeli
 
 ## How to Play

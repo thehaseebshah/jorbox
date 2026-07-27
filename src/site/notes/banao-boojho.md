@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/banao-boojho/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Banao Boojho
 
 ## How to Play

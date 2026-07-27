@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/dodge-the-ball/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":true,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Dodge the Ball
 
 ## How to Play

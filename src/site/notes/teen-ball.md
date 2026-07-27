@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/teen-ball/","dg-note-properties":{"type":"childhood","final":false,"added-to-shabab":true,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Teen Ball
 
 ## How to Play

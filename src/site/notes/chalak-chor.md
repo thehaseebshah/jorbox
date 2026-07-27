@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/chalak-chor/","dg-note-properties":{"type":"deck","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Chalak Chor
 
 ## How to Play

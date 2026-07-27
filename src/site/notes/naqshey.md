@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/naqshey/","dg-note-properties":{"type":"miscellaneous","final":true,"added-to-shabab":true,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Naqshey (Map Drawing)
 
 ## How to Play

@@ -36,11 +36,11 @@
         badgeBar.className = "hero-badge-bar";
 
         const mainEl = document.querySelector("main.content");
-        const moduleName = mainEl?.getAttribute("data-module") || "Shabab Curriculum";
+        const categoryName = mainEl?.getAttribute("data-category") || "Shabab Skills Curriculum";
 
         const catChip = document.createElement("span");
         catChip.className = "hero-chip category-chip";
-        catChip.innerHTML = `📚 ${moduleName}`;
+        catChip.innerHTML = categoryName;
 
         const contentText = mainEl?.innerText || "";
         const wordCount = contentText.trim().split(/\s+/).length;

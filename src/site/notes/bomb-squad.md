@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bomb-squad/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Bomb Squad
 
 ## How to Play

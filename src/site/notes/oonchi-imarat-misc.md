@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/oonchi-imarat-misc/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Oonchi Imarat (Tallest Building)
 
 ## How to Play

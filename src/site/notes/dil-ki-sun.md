@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/dil-ki-sun/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Dil ki Sun
 
 ## How to Play

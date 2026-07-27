@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/jasoosi-club/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":true,"tried":true}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Jasoosi Club
 
 ## How to Play

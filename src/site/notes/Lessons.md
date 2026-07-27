@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+category: Shabab Tarbiyah Curriculum
 ---
 # Shabab Skills Lessons
 

@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/kis-men-kitna-hey-dam/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":true,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Kis men Kitna hey Dam
 
 ## How to Play

@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/gulli-danda/","dg-note-properties":{"type":"childhood","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Gulli Danda
 
 ## How to Play

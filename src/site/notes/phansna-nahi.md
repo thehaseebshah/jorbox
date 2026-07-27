@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/phansna-nahi/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Phansna Nahi
 
 ## How to Play

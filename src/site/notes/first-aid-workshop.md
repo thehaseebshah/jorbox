@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/first-aid-workshop/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # First Aid Workshop
 
 ## How to Play

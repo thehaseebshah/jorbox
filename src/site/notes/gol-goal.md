@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/gol-goal/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Gol Goal
 
 ## How to Play

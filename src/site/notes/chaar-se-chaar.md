@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/chaar-se-chaar/","dg-note-properties":{"type":"kaghaz","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Chaar se Chaar
 
 ## How to Play

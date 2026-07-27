@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/ankh-macholi-plus/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":true,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Ankh Macholi Plus
 
 ## How to Play

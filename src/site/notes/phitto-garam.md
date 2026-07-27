@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/phitto-garam/","dg-note-properties":{"type":"childhood","final":false,"added-to-shabab":true,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Phitto Garam
 
 ## How to Play

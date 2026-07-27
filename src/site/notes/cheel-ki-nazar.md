@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/cheel-ki-nazar/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Cheel ki Nazar
 
 ## How to Play

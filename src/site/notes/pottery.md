@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/pottery/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Pottery
 
 ## How to Play

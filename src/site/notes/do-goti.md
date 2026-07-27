@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/do-goti/","dg-note-properties":{"type":"kaghaz","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Do Goti
 
 ## How to Play

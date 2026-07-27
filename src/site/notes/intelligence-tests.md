@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/intelligence-tests/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Intelligence Tests
 
 ## How to Play

@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/hold-breath-challenge/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Hold Breath Challenge
 
 ## How to Play

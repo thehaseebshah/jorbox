@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/jangi-qaidi/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":true,"tried":true}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Jangi Qaidi
 
 ## How to Play

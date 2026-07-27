@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/makri/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":true,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Makri
 
 ## How to Play

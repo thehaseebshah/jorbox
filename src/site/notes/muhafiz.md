@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/muhafiz/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Muhafiz
 
 ## How to Play

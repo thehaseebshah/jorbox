@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/human-foosball/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Human Foosball
 
 ## How to Play

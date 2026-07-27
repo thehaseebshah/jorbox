@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/dilchasp-haqaiq/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":false,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Dilchasp Haqaiq
 
 ## How to Play

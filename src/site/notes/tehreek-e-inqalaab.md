@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/tehreek-e-inqalaab/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":true,"tried":true}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Tehreek e Inqalaab
 
 ## How to Play

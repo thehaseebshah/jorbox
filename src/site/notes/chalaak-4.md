@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/chalaak-4/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":true,"tried":false}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
 ---
-
 # Chalaak 4
 
 ## How to Play
