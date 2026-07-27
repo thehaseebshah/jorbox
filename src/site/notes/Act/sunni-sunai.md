@@ -11,6 +11,7 @@ group-size: "5+"
 duration: "10 minutes"
 prep-time: "< 5 minutes"
 difficulty: 3
+rating:
 ---
 ### Sunni Sunai
 

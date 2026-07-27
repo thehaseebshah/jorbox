@@ -11,6 +11,7 @@ group-size: "2–20 players"
 duration: "15 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
+rating:
 ---
 ### Sher ki Aankh (Eye of the Tiger)
 

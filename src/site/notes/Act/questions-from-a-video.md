@@ -6,6 +6,7 @@ type: shabab-act
 final: false
 added-to-shabab: false
 tried: false
+rating:
 ---
 ##### Questions from a Video
 Video instructions are [here](https://www.canva.com/design/DAGrcwneozM/awb66Baf91wxsJKDyBBMHw/watch). Use this YouTube video: [youtu.be/7bu84ZXybjo](http://youtu.be/7bu84ZXybjo).

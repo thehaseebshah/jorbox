@@ -6,6 +6,7 @@ type: shabab-act
 final: false
 added-to-shabab: false
 tried: false
+rating:
 ---
 ### Shabab Skills v1 Lessons (Feb 2025)
 

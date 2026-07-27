@@ -11,6 +11,7 @@ group-size: "5+"
 duration: "15 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
+rating:
 ---
 ### Insani Girah (Human Knot)
 

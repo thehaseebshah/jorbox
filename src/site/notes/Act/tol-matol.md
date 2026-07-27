@@ -11,6 +11,7 @@ group-size: "5–10 players"
 duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
+rating:
 ---
 ### Tol Matol
 

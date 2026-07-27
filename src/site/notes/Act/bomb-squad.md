@@ -11,6 +11,7 @@ group-size: "2+"
 duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 5
+rating:
 ---
 ### Bomb Squad
 

@@ -11,6 +11,7 @@ group-size: "4+"
 duration: "60 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
+rating:
 ---
 
 ### Oonchi Imarat (Tallest Building)

@@ -11,6 +11,7 @@ group-size: "5–10 players"
 duration: "10 minutes"
 prep-time: "< 5 minutes"
 difficulty: 3
+rating:
 ---
 ### Antakshari 25
 

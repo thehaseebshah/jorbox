@@ -11,6 +11,7 @@ group-size: "3+"
 duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
+rating:
 ---
 
 ### Bol keh Lab Azaad hen Tere

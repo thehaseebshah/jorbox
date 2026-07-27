@@ -6,6 +6,7 @@ type: shabab-act
 final: false
 added-to-shabab: false
 tried: false
+rating:
 ---
 ##### Jump In, Jump Out
 [Video instructions here](https://canva.link/c668p0p1ndslyf1)

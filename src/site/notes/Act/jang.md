@@ -11,6 +11,7 @@ group-size: "3+"
 duration: "60 minutes"
 prep-time: "60 minutes"
 difficulty: 5
+rating:
 ---
 ### Jang
 

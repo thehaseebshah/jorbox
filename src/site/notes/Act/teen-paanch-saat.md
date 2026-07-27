@@ -11,6 +11,7 @@ group-size: "2+"
 duration: "15 minutes"
 prep-time: "< 5 minutes"
 difficulty: 3
+rating:
 ---
 ### Teen Paanch Saat
 

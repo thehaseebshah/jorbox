@@ -6,6 +6,7 @@ type: shabab-act
 final: false
 added-to-shabab: false
 tried: false
+rating:
 ---
 ##### Introduction and Importance of Shabab
 Murabbi will tell Shabab about importance of the Shabab program.

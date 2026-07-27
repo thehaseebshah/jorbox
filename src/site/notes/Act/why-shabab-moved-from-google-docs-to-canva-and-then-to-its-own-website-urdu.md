@@ -6,6 +6,7 @@ type: shabab-act
 final: false
 added-to-shabab: false
 tried: false
+rating:
 ---
 ### شباب نے گوگل ڈاکس سے کینوا اور پھر اپنی ویب سائٹ کی طرف منتقلی کیوں کی
 

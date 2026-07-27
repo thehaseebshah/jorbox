@@ -6,6 +6,7 @@ type: shabab-act
 final: false
 added-to-shabab: false
 tried: false
+rating:
 ---
 ##### Puzzles
 Video instructions are [here](https://www.canva.com/design/DAGrc90HrnU/FALysM67vmZfL88iB8jQIg/watch).

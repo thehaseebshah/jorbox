@@ -11,6 +11,7 @@ group-size: "5+"
 duration: "45 minutes"
 prep-time: "30 minutes"
 difficulty: "Medium"
+rating:
 ---
 
 ### Scavenger Hunt
