@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Muhafiz
 
 ## How to Play
-
 **Inspired by:** Bodygaurd
 
 - **Age Limit:** 14+

@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Tez Tareeni
 
 ## How to Play
-
 **Inspired by:** Speed
 
 - **Age Limit:** 14+

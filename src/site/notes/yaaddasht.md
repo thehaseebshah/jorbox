@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Yaaddasht
 
 ## How to Play
-
 **Inspired by:** With Khoti Mechanic
 
 - **Age Limit:** 8+

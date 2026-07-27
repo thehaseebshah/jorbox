@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Gorakh Dhanda
 
 ## How to Play
-
 **Inspired by:** Minesweeper Maze
 
 - **Age Limit:** 14+

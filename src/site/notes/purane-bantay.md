@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Purane Bantay
 
 ## How to Play
-
 **Inspired by:** Goldaire men bantay rankhna
 
 - **Age Limit:** 14+

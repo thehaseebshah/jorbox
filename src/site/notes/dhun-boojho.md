@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Dhun Boojho
 
 ## How to Play
-
 **Inspired by:** Guess the Scene + Guess the Drawing / + Guess the Scene + Guess the Drawing
 
 - **Age Limit:** 14+

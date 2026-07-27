@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Kana Raja
 
 ## How to Play
-
 **Inspired by:** Hanabi with 52 Cards
 
 - **Age Limit:** 14+

@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Carcassonne
 
 ## How to Play
-
 - **Age Limit:** 14+
 - **Group Size:** 2+
 - **Duration:** 60 minutes

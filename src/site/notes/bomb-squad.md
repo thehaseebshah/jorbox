@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Bomb Squad
 
 ## How to Play
-
 - **Age Limit:** 8+
 - **Group Size:** 2+
 - **Duration:** 30 minutes

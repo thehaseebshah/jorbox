@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Ready Go
 
 ## How to Play
-
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players
 - **Duration:** 30 minutes

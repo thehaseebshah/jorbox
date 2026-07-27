@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Sunni Sunai
 
 ## How to Play
-
 **Inspired by:** Telephone
 
 - **Age Limit:** 5+

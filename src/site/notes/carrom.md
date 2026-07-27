@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Carrom
 
 ## How to Play
-
 - **Age Limit:** 9+
 - **Group Size:** 2+
 - **Duration:** 60 minutes

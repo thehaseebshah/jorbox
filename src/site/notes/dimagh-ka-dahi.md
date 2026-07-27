@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: true
 ---
-
 # Dimagh Ka Dahi
 
 ## How to Play
-
 **Inspired by:** Monikers, Banned Words, Poetry for Neanderthals
 
 - **Age Limit:** 14+

@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Igniting Fire with Natural Methods
 
 ## How to Play
-
 - **Age Limit:** 10+
 - **Group Size:** 2+
 - **Duration:** 60 minutes

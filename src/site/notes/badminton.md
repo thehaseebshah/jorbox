@@ -5,11 +5,9 @@ final: true
 added-to-shabab: false
 tried: false
 ---
-
 # Badminton
 
 ## How to Play
-
 - **Age Limit:** 8+
 - **Group Size:** 2+
 - **Duration:** 20 minutes

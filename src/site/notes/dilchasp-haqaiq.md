@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Dilchasp Haqaiq
 
 ## How to Play
-
 **Inspired by:** Fun Facts
 
 - **Age Limit:** 14+

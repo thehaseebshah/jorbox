@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Pakran Ghumai
 
 ## How to Play
-
 **Inspired by:** Triangle Tag
 
 - **Age Limit:** 14+

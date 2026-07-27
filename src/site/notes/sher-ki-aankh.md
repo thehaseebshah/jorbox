@@ -5,11 +5,9 @@ final: true
 added-to-shabab: true
 tried: false
 ---
-
 # Sher ki Aankh (Eye of the Tiger)
 
 ## How to Play
-
 - **Age Limit:** 9+
 - **Group Size:** 2–20 players
 - **Duration:** 15 minutes

@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: true
 ---
-
 # Jasoosi Club
 
 ## How to Play
-
 **Inspired by:** Spyfall / Chameleon Mode, Spyfall Mode, Fake Artist Mode, Push the Button Modes
 
 - **Age Limit:** 14+

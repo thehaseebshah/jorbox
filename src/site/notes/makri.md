@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Makri
 
 ## How to Play
-
 **Inspired by:** Spider Web
 
 - **Age Limit:** 14+

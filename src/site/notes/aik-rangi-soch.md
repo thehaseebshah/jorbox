@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Aik Rangi Soch
 
 ## How to Play
-
 **Inspired by:** Wavelength (with drawing and non-related drawing prompts — last two like non-sensory) / Wavelength, with drawing and non-related drawing prompts (last two like non-sensory)
 
 - **Age Limit:** 14+

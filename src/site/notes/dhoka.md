@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Dhoka
 
 ## How to Play
-
 **Inspired by:** Bluff
 
 - **Age Limit:** 14+

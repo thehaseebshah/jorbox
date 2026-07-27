@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Sirf Sawal
 
 ## How to Play
-
 - **Age Limit:** 8+
 - **Group Size:** 2+
 - **Duration:** 15 minutes

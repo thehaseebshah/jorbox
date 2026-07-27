@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Dara
 
 ## How to Play
-
 - **Age Limit:** 10+
 - **Group Size:** 2
 - **Duration:** 15 minutes

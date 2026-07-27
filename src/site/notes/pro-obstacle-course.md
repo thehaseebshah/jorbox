@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Pro Obstacle Course
 
 ## How to Play
-
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players
 - **Duration:** 99 minutes

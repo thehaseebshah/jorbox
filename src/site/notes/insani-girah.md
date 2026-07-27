@@ -5,11 +5,9 @@ final: true
 added-to-shabab: false
 tried: false
 ---
-
 # Insani Girah (Human Knot)
 
 ## How to Play
-
 - **Age Limit:** 9+
 - **Group Size:** 5+
 - **Duration:** 15 minutes

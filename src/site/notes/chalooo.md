@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Chalooo
 
 ## How to Play
-
 **Inspired by:** Go Fish
 
 - **Age Limit:** 10+

@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: true
 ---
-
 # Tehreek e Inqalaab
 
 ## How to Play
-
 **Inspired by:** The Resistance
 
 - **Age Limit:** 14+

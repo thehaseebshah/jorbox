@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Daur
 
 ## How to Play
-
 **Inspired by:** + Gattu Daur + Jazeeray + Pass an Object
 
 - **Age Limit:** 14+

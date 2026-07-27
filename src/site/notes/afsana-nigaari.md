@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Afsana Nigaari
 
 ## How to Play
-
 - **Age Limit:** 12+
 - **Group Size:** 3+
 - **Duration:** 30 minutes

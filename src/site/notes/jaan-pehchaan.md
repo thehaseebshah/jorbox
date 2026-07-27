@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Jaan Pehchaan
 
 ## How to Play
-
 **Inspired by:** Change "Celebrity" to "Category Questions" / Change Celebrity to Category Questions
 
 - **Age Limit:** 14+

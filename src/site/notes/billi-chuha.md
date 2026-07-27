@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Billi Chuha
 
 ## How to Play
-
 **Inspired by:** Dog and the Bone
 
 - **Age Limit:** 14+

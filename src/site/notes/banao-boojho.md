@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Banao Boojho
 
 ## How to Play
-
 **Inspired by:** Catch Sketch
 
 - **Age Limit:** 14+

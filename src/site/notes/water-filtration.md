@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Water Filtration
 
 ## How to Play
-
 - **Age Limit:** 8+
 - **Group Size:** 4+
 - **Duration:** 30 minutes

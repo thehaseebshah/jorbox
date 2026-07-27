@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Phansna Nahi
 
 ## How to Play
-
 **Inspired by:** Don't get Got (Loser does a Dare from Truth or Dare) / Dont get Got; Loser does a Dare (from Truth or Dare)
 
 - **Age Limit:** 14+

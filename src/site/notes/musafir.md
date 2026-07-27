@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Musafir
 
 ## How to Play
-
 **Inspired by:** Navigators
 
 - **Age Limit:** 14+

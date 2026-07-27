@@ -5,11 +5,9 @@ final: true
 added-to-shabab: false
 tried: false
 ---
-
 # Frisbee
 
 ## How to Play
-
 - **Age Limit:** 8+
 - **Group Size:** 4+
 - **Duration:** 30 minutes

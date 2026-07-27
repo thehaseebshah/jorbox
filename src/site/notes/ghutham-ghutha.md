@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Ghutham Ghutha
 
 ## How to Play
-
 **Inspired by:** Twister
 
 - **Age Limit:** 14+

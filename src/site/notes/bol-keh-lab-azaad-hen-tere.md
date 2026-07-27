@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Bol keh Lab Azaad hen Tere
 
 ## How to Play
-
 **Inspired by:** Impromptu Speaking / Impromtu Speaking
 
 - **Age Limit:** 12+

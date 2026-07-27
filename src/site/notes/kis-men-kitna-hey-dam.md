@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Kis men Kitna hey Dam
 
 ## How to Play
-
 **Inspired by:** TicTacToe Relay and Shuffle Relay
 
 - **Age Limit:** 14+

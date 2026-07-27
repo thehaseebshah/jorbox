@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Langre Dost
 
 ## How to Play
-
 **Inspired by:** Handicap Obstacles
 
 - **Age Limit:** 14+

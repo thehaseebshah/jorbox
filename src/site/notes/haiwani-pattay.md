@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: true
 ---
-
 # Haiwani Pattay
 
 ## How to Play
-
 **Inspired by:** Cards Against Humanity / Cards Against Humanity, Quiplash, Bring Your Own Book, Sound mode
 
 - **Age Limit:** 14+

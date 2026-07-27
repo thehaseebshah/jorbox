@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Aabdoz
 
 ## How to Play
-
 **Inspired by:** Sonar
 
 - **Age Limit:** 14+

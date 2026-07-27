@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Jurwa
 
 ## How to Play
-
 **Inspired by:** Grab a ball using a chosen body part
 
 - **Age Limit:** 14+

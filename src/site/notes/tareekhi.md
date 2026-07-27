@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Tareekhi
 
 ## How to Play
-
 **Inspired by:** Timeline (Add categories like Quixort) / Timeline; Add categories like Quixort
 
 - **Age Limit:** 14+

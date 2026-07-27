@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Qatil Police
 
 ## How to Play
-
 **Inspired by:** Killer detective
 
 - **Age Limit:** 14+

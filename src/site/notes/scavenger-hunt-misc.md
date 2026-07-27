@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Scavenger Hunt
 
 ## How to Play
-
 - **Age Limit:** 10+
 - **Group Size:** 5+
 - **Duration:** 45 minutes

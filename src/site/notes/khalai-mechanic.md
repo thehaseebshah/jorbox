@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Khalai Mechanic
 
 ## How to Play
-
 **Inspired by:** Spaceteam
 
 - **Age Limit:** 14+

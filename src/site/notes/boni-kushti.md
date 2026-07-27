@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Boni Kushti
 
 ## How to Play
-
 **Inspired by:** One legged Kushti
 
 - **Age Limit:** 14+

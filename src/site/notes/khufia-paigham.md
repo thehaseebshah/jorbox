@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: true
 ---
-
 # Khufia Paigham
 
 ## How to Play
-
 **Inspired by:** Decrypto
 
 - **Age Limit:** 14+

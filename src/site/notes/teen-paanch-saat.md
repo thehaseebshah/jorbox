@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Teen Paanch Saat
 
 ## How to Play
-
 **Inspired by:** NIM
 
 - **Age Limit:** 10+

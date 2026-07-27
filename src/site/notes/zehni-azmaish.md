@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Zehni Azmaish
 
 ## How to Play
-
 **Inspired by:** Quiz
 
 - **Age Limit:** 14+

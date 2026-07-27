@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: true
 ---
-
 # Yasu Panjo Pro Max
 
 ## How to Play
-
 **Inspired by:** Taco Goat Cheese Pizza
 
 - **Age Limit:** 14+

@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Doley Sholey
 
 ## How to Play
-
 **Inspired by:** Muscle Power
 
 - **Age Limit:** 14+

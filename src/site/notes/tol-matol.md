@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Tol Matol
 
 ## How to Play
-
 **Inspired by:** Circle/Hoop Pass
 
 - **Age Limit:** 14+

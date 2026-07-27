@@ -5,11 +5,9 @@ final: true
 added-to-shabab: true
 tried: false
 ---
-
 # Rugby
 
 ## How to Play
-
 - **Age Limit:** 5+
 - **Group Size:** 4+
 - **Duration:** 30 minutes

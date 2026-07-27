@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Tadbeer
 
 ## How to Play
-
 **Inspired by:** Use two carpets, Group ISSB Challenge / Use two carpets, Group ISSB Challenges
 
 - **Age Limit:** 14+

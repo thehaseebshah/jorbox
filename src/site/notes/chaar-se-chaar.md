@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Chaar se Chaar
 
 ## How to Play
-
 **Inspired by:** Connect 4
 
 - **Age Limit:** 10+

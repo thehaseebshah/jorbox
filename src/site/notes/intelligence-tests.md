@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Intelligence Tests
 
 ## How to Play
-
 **How to Play:** Find tests to solve online
 
 - **Age Limit:** 14+

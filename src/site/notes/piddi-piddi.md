@@ -5,13 +5,11 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Piddi Piddi
 
 > **Note:** The Canva folder title is "Piddi Piddi" but the design content header reads "Chala Kooch". This may be a Canvas title mismatch or a renamed upload.
 
 ## How to Play
-
 - **Age Limit:** 14+
 - **Group Size:** 5–10 players
 - **Duration:** 30 minutes

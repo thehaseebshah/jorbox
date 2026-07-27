@@ -5,11 +5,9 @@ final: true
 added-to-shabab: false
 tried: false
 ---
-
 # Home Soccer
 
 ## How to Play
-
 - **Age Limit:** 5+
 - **Group Size:** 2+
 - **Duration:** 30 minutes

@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Chalaak 4
 
 ## How to Play
-
 **Inspired by:** 4 on a couch
 
 - **Age Limit:** 14+

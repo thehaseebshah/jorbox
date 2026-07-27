@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Dil ki Sun
 
 ## How to Play
-
 **Inspired by:** The Mind
 
 - **Age Limit:** 14+

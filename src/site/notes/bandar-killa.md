@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Bandar Killa
 
 ## How to Play
-
 **Variation:** Use a Circle instead of a rope and a peg; and score people based on how many shoes they collect
 
 - **Age Limit:** 14+

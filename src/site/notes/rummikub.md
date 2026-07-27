@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Rummikub
 
 ## How to Play
-
 *Note: Content not retrieved from the Canva API due to repeated failures. Only metadata is available.*
 
 Rummikub is a classic tile-based game. The standard ruleset is widely available online:

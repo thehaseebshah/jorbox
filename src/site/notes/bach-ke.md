@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Bach Ke
 
 ## How to Play
-
 **Inspired by:** Cheese Movers
 
 - **Age Limit:** 14+

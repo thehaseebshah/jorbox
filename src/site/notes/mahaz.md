@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Mahaz
 
 ## How to Play
-
 **Inspired by:** Nerf Wars (Play with Paper Balls or Plastic Guns)
 
 - **Age Limit:** 14+

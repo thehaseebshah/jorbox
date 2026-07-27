@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Solar Oven Challenge
 
 ## How to Play
-
 - **Age Limit:** 10+
 - **Group Size:** 5–10 players
 - **Duration:** 60 minutes

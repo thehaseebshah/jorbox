@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Mandi
 
 ## How to Play
-
 **Inspired by:** Pit
 
 - **Age Limit:** 14+

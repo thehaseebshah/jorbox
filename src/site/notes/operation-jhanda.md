@@ -5,11 +5,9 @@ final: true
 added-to-shabab: true
 tried: false
 ---
-
 # Operation Jhanda
 
 ## How to Play
-
 - **Age Limit:** 10+
 - **Group Size:** 4+
 - **Duration:** 30 minutes

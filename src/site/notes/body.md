@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Body
 
 ## How to Play
-
 **Rule:** Score teams based on total time
 
 - **Age Limit:** 14+

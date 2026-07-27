@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Munazra (Debate Competition)
 
 ## How to Play
-
 **AKA:** Debate Competition
 
 - **Age Limit:** 14+

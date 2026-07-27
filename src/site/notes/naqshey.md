@@ -5,11 +5,9 @@ final: true
 added-to-shabab: true
 tried: false
 ---
-
 # Naqshey (Map Drawing)
 
 ## How to Play
-
 - **Age Limit:** 7+
 - **Group Size:** 2+
 - **Duration:** 30 minutes
@@ -19,18 +17,15 @@ tried: false
 - **Items Needed:** Mentioned in description
 
 ## 1. Objective
-
 To foster teamwork, observation skills, and appreciation for the urban planning of major cities in the Muslim world (past and present). Teams must recreate an accurate map of a city based solely on short-term memory.
 
 ## 2. Materials Required
-
 - **Source Maps:** Printed A4 color copies of city maps (Cairo, Karachi, Lahore, Cordoba/Andalus). Note: Ensure maps show main roads and landmarks clearly. Or you can use Google Maps on phones.
 - **Drawing Materials:** A4 blank paper (one per team).
 - **Stationery:** Pens
 - **Timer:** A stopwatch or phone timer.
 
 ## 3. Preparation (Instructor)
-
 Print or Screenshot the "Source Maps" before the session.
 
 - **Cairo:** Focus on the Nile River split, Tahrir Square, and the Citadel.
@@ -73,7 +68,6 @@ Explain the **Winning Criteria**:
 - Judge the maps using the scoring rubric below.
 
 ## 5. Scoring Rubric (Max Score: 20)
-
 | Criteria | Points | What to look for |
 |---|---|---|
 | Structure & Flow | 5 | Did they get the shape of the river/coastline or main city wall correct? |
@@ -84,7 +78,6 @@ Explain the **Winning Criteria**:
 **Bonus:** Award +2 points for correctly naming specific neighborhoods or streets.
 
 ## 6. Instructor Cheat Sheet (Key Features to Look For)
-
 When judging, look for these specific details in their drawings:
 
 - **Cairo:**

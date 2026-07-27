@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Ye to Wo
 
 ## How to Play
-
 **Inspired by:** Jump In, Jump Out. Eliminate those that are unable to do it
 
 - **Age Limit:** 14+

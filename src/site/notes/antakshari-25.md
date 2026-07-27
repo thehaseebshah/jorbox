@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Antakshari 25
 
 ## How to Play
-
 **Inspired by:** Akinator
 
 - **Age Limit:** 14+

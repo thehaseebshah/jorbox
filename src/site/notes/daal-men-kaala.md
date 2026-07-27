@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: false
 ---
-
 # Daal men Kaala
 
 ## How to Play
-
 **Inspired by:** Sounds Fishy (Variation: Add Personal Prompts like Fibbage 3 "Enough about You") / Sounds Fishy; Variation: Add Personal Prompts like Fibbage 3 Enough about You
 
 - **Age Limit:** 14+

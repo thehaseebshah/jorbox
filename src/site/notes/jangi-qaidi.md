@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: true
 ---
-
 # Jangi Qaidi
 
 ## How to Play
-
 **Inspired by:** Codenames
 
 - **Age Limit:** 14+

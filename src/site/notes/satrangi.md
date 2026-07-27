@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Satrangi
 
 ## How to Play
-
 **Inspired by:** Grabbing Colors
 
 - **Age Limit:** 14+

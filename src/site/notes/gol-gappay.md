@@ -5,11 +5,9 @@ final: true
 added-to-shabab: false
 tried: false
 ---
-
 # Gol Gappay
 
 ## How to Play
-
 - **Age Limit:** 5+
 - **Group Size:** 4+
 - **Duration:** 30 minutes

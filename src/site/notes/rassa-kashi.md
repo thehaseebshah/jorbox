@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Rassa Kashi
 
 ## How to Play
-
 **Inspired by:** Tug Of War
 
 - **Age Limit:** 14+

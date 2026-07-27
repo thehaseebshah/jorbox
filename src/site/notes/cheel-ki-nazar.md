@@ -5,11 +5,9 @@ final: false
 added-to-shabab: false
 tried: false
 ---
-
 # Cheel ki Nazar
 
 ## How to Play
-
 **Inspired by:** Nerves of Steel / Catch Ball When Thrown only
 
 - **Age Limit:** 14+

@@ -5,11 +5,9 @@ final: false
 added-to-shabab: true
 tried: true
 ---
-
 # Qismen
 
 ## How to Play
-
 **Inspired by:** Categories
 
 - **Age Limit:** 14+

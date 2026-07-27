@@ -5,11 +5,9 @@ final: true
 added-to-shabab: false
 tried: false
 ---
-
 # Pro Kabaddi
 
 ## How to Play
-
 - **Age Limit:** 10+
 - **Group Size:** 4–20 players
 - **Duration:** 60 minutes

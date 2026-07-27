@@ -3,11 +3,9 @@ dg-publish: true
 type: party
 final: false
 ---
-
 # Aik Rangi Soch (v2)
 
 ## How to Play
-
 **Inspired by:** Wavelength
 
 - **Age Limit:** 14+
