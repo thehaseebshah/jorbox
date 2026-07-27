@@ -13,3 +13,8 @@
 - Standard Markdown image links (e.g. `![alt](/img/user/Attachments/Pasted%20image...)` or `![alt](/img/user/...)`) CANNOT render inside the Obsidian Vault.
 - In both `src/site/notes/` and `D:\Shabab` (`/mnt/d/Shabab/`), ALL image attachments MUST use Obsidian Wikilink embed syntax: `![[Pasted image 20260727004152.png]]` or `![[filename.ext]]`.
 - Never leave converted/raw HTML or standard Markdown path image links in notes; always convert them to Obsidian Wikilink embeds (`![[Pasted image ...]]`).
+
+## Build & Verification Rule
+- **Never run `npm run build`** to verify changes. It takes 30+ seconds and is unnecessary.
+- Use **`npm test`** instead — it runs all unit tests in under 1 second and is sufficient to confirm nothing is broken.
+- The user manages builds and deployments themselves.
