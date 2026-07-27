@@ -48,7 +48,17 @@ function basesPlugin(md) {
 function notesFingerprint(notes) {
   let hash = 0;
   for (const note of notes) {
-    const s = (note.url || note.fileSlug || "") + ":" + (note.metadata ? JSON.stringify(note.metadata) : "");
+    let metaStr = "";
+    if (note.metadata) {
+      for (const k in note.metadata) {
+        if (k === "collections" || k === "pkg" || k === "eleventy" || k === "page") continue;
+        const v = note.metadata[k];
+        if (typeof v === "string" || typeof v === "number" || typeof v === "boolean") {
+          metaStr += k + ":" + v + ";";
+        }
+      }
+    }
+    const s = (note.url || note.fileSlug || "") + ":" + metaStr;
     for (let i = 0; i < s.length; i++) {
       hash = ((hash << 5) - hash + s.charCodeAt(i)) | 0;
     }
