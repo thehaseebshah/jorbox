@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/pro-obstacle-course/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Pro Obstacle Course
 
 ## How to Play

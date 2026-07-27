@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/sirf-sawal/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Sirf Sawal
 
 ## How to Play

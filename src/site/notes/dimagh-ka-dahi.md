@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/dimagh-ka-dahi/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Dimagh Ka Dahi
 
 ## How to Play

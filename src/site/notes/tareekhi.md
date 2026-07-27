@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/tareekhi/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Tareekhi
 
 ## How to Play

@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/satrangi/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Satrangi
 
 ## How to Play

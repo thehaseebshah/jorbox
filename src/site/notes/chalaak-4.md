@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/chalaak-4/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Chalaak 4
 
 ## How to Play

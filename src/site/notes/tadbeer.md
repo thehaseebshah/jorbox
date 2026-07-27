@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/tadbeer/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Tadbeer
 
 ## How to Play

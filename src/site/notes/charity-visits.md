@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/charity-visits/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Charity Visits
 
 ## How to Play

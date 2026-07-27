@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/carpentry/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Carpentary
 
 ## How to Play

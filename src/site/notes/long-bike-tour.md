@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/long-bike-tour/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Long Bike Tour
 
 ## How to Play

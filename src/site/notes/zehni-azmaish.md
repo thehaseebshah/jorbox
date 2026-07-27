@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/zehni-azmaish/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Zehni Azmaish
 
 ## How to Play

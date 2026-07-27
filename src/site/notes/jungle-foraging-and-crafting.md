@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/jungle-foraging-and-crafting/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Jungle Foraging and Crafting
 
 ## How to Play

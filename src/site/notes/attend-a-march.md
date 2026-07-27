@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/attend-a-march/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Attend a March
 
 ## How to Play

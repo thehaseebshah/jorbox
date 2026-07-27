@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/riazi-ki-yaad/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Riazi ki Yaad
 
 ## How to Play

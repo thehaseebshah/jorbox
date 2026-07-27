@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/bandar-killa/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Bandar Killa
 
 ## How to Play

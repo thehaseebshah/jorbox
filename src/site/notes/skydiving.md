@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/skydiving/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Skydiving
 
 ## How to Play

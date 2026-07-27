@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/bubble-soccer/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Bubble Soccer
 
 ## How to Play

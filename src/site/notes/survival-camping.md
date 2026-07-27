@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/survival-camping/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Survival Camping
 
 ## How to Play

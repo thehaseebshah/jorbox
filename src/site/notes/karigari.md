@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/karigari/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Karigari (Crafting)
 
 ## How to Play

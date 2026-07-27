@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/dodge-the-ball/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Dodge the Ball
 
 ## How to Play

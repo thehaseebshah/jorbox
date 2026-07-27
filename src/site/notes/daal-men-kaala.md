@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/daal-men-kaala/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Daal men Kaala
 
 ## How to Play

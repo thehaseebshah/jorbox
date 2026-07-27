@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/rugby/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Rugby
 
 ## How to Play

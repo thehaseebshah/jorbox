@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/surfing/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Surfing
 
 ## How to Play

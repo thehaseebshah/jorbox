@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/water-race/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Water Race
 
 ## How to Play

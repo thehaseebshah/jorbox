@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/juft-taaq/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Juft Taaq
 
 ## How to Play

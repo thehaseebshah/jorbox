@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/rassa-kashi/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Rassa Kashi
 
 ## How to Play

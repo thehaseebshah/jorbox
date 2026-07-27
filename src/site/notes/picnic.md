@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/picnic/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Picnic
 
 ## How to Play

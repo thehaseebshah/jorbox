@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/rummikub/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Rummikub
 
 ## How to Play

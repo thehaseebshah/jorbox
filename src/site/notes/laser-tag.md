@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/laser-tag/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Laser Tag
 
 ## How to Play

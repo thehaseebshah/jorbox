@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/igniting-fire-with-natural-methods/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Igniting Fire with Natural Methods
 
 ## How to Play

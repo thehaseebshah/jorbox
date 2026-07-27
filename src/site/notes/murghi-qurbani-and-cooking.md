@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/murghi-qurbani-and-cooking/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Murghi Qurbani and Cooking
 
 ## How to Play

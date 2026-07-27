@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/kayaking/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Kayaking
 
 ## How to Play

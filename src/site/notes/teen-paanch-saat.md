@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/teen-paanch-saat/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Teen Paanch Saat
 
 ## How to Play

@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/aik-rangi-soch-2/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Aik Rangi Soch (v2)
 
 ## How to Play

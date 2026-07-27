@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/aabdoz/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Aabdoz
 
 ## How to Play

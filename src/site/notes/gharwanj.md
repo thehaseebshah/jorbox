@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/gharwanj/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Gharwanj
 
 ## How to Play

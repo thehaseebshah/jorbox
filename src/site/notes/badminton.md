@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/badminton/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Badminton
 
 ## How to Play

@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/pro-kabaddi/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Pro Kabaddi
 
 ## How to Play

@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/operation-jhanda/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Operation Jhanda
 
 ## How to Play

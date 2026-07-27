@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/sher-ki-aankh/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Sher ki Aankh (Eye of the Tiger)
 
 ## How to Play

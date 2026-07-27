@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/baseball/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Baseball
 
 ## How to Play

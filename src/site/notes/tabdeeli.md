@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/tabdeeli/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Tabdeeli
 
 ## How to Play

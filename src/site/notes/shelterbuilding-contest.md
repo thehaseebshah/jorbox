@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/shelterbuilding-contest/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Shelterbuilding Contest
 
 ## How to Play

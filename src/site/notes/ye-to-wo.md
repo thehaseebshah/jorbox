@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/ye-to-wo/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Ye to Wo
 
 ## How to Play

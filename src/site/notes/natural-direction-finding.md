@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/natural-direction-finding/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Natural Direction Finding
 
 ## How to Play

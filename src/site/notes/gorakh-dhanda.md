@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/gorakh-dhanda/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Gorakh Dhanda
 
 ## How to Play

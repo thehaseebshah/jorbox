@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/attend-a-conference/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Attend a Conference
 
 ## How to Play

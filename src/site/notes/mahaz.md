@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/mahaz/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Mahaz
 
 ## How to Play

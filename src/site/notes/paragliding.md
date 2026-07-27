@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/paragliding/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Paragliding
 
 ## How to Play

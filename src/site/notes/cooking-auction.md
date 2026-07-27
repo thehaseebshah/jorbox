@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/cooking-auction/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Cooking Auction
 
 ## How to Play

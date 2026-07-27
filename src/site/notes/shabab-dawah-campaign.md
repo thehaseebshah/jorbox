@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/shabab-dawah-campaign/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Shabab Dawah Campaign
 
 ## How to Play

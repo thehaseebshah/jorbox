@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/river-crossing-with-ropes/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # River Crossing with Ropes
 
 ## How to Play

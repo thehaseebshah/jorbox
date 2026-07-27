@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/horseriding/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Horseriding
 
 ## How to Play

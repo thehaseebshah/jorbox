@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/bowling/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Bowling
 
 ## How to Play

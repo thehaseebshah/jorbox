@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/tez-tareeni/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Tez Tareeni
 
 ## How to Play

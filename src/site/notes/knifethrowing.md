@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/knifethrowing/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Knifethrowing
 
 ## How to Play

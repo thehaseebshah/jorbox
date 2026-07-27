@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/dunya-mere-agay/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Dunya Mere Agay
 
 ## How to Play

@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/solar-oven-challenge/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Solar Oven Challenge
 
 ## How to Play

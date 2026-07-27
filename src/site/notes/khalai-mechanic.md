@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/khalai-mechanic/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Khalai Mechanic
 
 ## How to Play

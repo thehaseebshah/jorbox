@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/chala-kooch/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Chala Kooch
 
 ## How to Play

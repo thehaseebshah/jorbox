@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/water-filtration/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Water Filtration
 
 ## How to Play

@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/scavenger-hunt-misc/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Scavenger Hunt
 
 ## How to Play

@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/calligraphy-painting-competition/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Caligraphy/Painting Competition
 
 ## How to Play

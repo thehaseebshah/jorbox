@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/munazra/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Munazra (Debate Competition)
 
 ## How to Play

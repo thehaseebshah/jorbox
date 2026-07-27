@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/bach-ke/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Bach Ke
 
 ## How to Play

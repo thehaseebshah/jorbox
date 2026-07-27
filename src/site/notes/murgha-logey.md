@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/murgha-logey/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Murgha Logey?
 
 ## How to Play

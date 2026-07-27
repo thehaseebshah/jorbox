@@ -1,8 +1,7 @@
 ---
-category: Shabab Skills Curriculum
-dg-publish: true
-permalink: /v1-lessons/
+{"dg-publish":true,"permalink":"/v1-lessons/","dg-note-properties":{"category":"Shabab Skills Curriculum"}}
 ---
+
 # Shabab Skills v1 Lessons (Feb 2025)
 
 ```base
@@ -14,6 +13,7 @@ views:
         - note["lesson-batch"] == "Feb 2025"
     order:
       - file.name
+      - file.title
       - lesson-batch
       - module
     sort:

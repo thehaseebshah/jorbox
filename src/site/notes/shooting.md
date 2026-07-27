@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/shooting/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Shooting
 
 ## How to Play

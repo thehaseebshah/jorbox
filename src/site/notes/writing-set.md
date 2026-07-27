@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/writing-set/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Writing Set
 
 ## How to Play

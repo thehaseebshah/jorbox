@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/yildirim/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Yildirim
 
 ## How to Play

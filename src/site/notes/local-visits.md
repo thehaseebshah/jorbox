@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/local-visits/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Local Visits
 
 ## How to Play

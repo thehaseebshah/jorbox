@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/icebreaking-groups/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Icebreaking Groups
 
 ## How to Play

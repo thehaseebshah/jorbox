@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/mountain-biking/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Mountain Biking
 
 ## How to Play

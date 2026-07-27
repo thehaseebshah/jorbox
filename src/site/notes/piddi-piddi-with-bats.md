@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/piddi-piddi-with-bats/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Piddi Piddi with Bats
 
 ## How to Play

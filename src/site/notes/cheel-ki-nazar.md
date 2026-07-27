@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/cheel-ki-nazar/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Cheel ki Nazar
 
 ## How to Play

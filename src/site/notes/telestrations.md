@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/telestrations/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Telestrations
 
 - **Date:** Feb 2025

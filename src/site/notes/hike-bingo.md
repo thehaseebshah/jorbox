@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/hike-bingo/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Hike Bingo
 
 ## How to Play

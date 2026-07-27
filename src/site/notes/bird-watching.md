@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/bird-watching/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Bird Watching
 
 ## How to Play

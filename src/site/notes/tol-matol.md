@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/tol-matol/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Tol Matol
 
 ## How to Play

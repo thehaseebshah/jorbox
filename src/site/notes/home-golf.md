@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/home-golf/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Home Golf
 
 ## How to Play

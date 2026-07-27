@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/hiking/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Hiking
 
 ## How to Play

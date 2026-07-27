@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/sunni-sunai/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Sunni Sunai
 
 ## How to Play

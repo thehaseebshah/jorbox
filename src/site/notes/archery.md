@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/archery/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Archery
 
 ## How to Play

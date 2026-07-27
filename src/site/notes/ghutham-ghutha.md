@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/ghutham-ghutha/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Ghutham Ghutha
 
 ## How to Play

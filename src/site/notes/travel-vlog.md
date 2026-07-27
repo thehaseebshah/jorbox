@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/travel-vlog/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Travel VLOG
 
 ## How to Play

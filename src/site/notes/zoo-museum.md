@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/zoo-museum/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Zoo/Meuseum
 
 ## How to Play

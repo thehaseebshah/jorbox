@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/yasu-panjo-pro-max/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Yasu Panjo Pro Max
 
 ## How to Play

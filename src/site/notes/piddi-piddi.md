@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/piddi-piddi/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Piddi Piddi
 
 > **Note:** The Canva folder title is "Piddi Piddi" but the design content header reads "Chala Kooch". This may be a Canvas title mismatch or a renamed upload.

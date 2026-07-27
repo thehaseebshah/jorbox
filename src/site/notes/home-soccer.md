@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/home-soccer/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Home Soccer
 
 ## How to Play

@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/carcassonne/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Carcassonne
 
 ## How to Play

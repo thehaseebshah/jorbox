@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/spending-night-in-isolated-location/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Spending Night in Isolated Location
 
 ## How to Play

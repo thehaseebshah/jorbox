@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/antakshari-25/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Antakshari 25
 
 ## How to Play

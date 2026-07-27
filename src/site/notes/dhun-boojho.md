@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/dhun-boojho/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Dhun Boojho
 
 ## How to Play

@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/mantaq/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Mantaq
 
 ## How to Play

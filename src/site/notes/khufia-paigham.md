@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/khufia-paigham/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Khufia Paigham
 
 ## How to Play

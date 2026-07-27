@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/circle-se-nikalo/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Circle se Nikalo
 
 ## How to Play

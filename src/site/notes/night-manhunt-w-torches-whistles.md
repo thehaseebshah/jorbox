@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/night-manhunt-w-torches-whistles/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Night Manhunt w. Torches/Whistles
 
 ## How to Play

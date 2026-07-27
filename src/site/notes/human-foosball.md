@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/human-foosball/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Human Foosball
 
 ## How to Play

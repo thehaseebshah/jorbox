@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/ankh-macholi-plus/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Ankh Macholi Plus
 
 ## How to Play

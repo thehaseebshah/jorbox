@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/ziplining/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Ziplining
 
 ## How to Play

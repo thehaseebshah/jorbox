@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/gardening/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Gardening
 
 ## How to Play

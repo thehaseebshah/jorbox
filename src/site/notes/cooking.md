@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/cooking/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Cooking
 
 ## How to Play

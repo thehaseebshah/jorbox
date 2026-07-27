@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/gol-goal/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Gol Goal
 
 ## How to Play

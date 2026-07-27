@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/kana-raja/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Kana Raja
 
 ## How to Play

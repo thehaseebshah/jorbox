@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/purane-bantay/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Purane Bantay
 
 ## How to Play

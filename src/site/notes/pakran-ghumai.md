@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/pakran-ghumai/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Pakran Ghumai
 
 ## How to Play

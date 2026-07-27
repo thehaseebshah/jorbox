@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/escape-room/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Escape Room
 
 ## How to Play

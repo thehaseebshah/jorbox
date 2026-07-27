@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/why-shabab-moved-from-google-docs-to-canva-and-then-to-its-own-website/","dg-note-properties":{"category":"Shabab Skills Curriculum"}}
 ---
+
 # Why Shabab Moved From Google Docs to Canva and Then to Its Own Website
 
 ## Purpose
@@ -219,6 +219,16 @@ If the subscription price rises or the plan ends, important tools or assets may 
 Our website still has legitimate costs such as its domain, hosting, and maintenance, but publishing the curriculum no longer requires an ongoing Canva subscription.
 Shabab pays for infrastructure it controls instead of paying continuously for permission to edit and present its own lesson collection inside Canva.
 
+### 9. Easy Markdown Formatting Without Configuring Fonts, Sizes, or Colors
+
+Google Docs and Canva require authors to make repeated visual decisions while editing, including choosing fonts, font sizes, colors, spacing, alignment, and other presentation details.
+These controls can distract from the lesson itself and make formatting inconsistent between authors or documents.
+
+Markdown keeps authoring simple and content-focused.
+Writers use straightforward markers for headings, lists, links, emphasis, and other structure without manually styling every element.
+The website's shared design system automatically applies the correct fonts, sizes, colors, spacing, and responsive behavior when the lesson is published.
+This makes lessons faster to write, easier to keep consistent, and simpler for non-designers to maintain.
+
 ## Why the Local-First System Is the Right Long-Term Foundation
 
 ### 1. Ownership, Protection From Account Loss, and Censorship Resilience
@@ -324,7 +334,7 @@ Its main weaknesses were slow loading, an ongoing subscription cost, limited con
 ### Obsidian, Digital Garden, and Shabab's Website
 
 The current system combines local ownership with public web publishing.
-It provides fast static pages, organized modules, duplicate detection, stable lesson addresses, attractive animations, AI and automation support, offline editing, portable Markdown files, one source of truth, centrally managed site-wide design, multilingual possibilities, greater control over student privacy, and direct control over the entire learning experience.
+It provides fast static pages, organized modules, duplicate detection, stable lesson addresses, attractive animations, AI and automation support, simple Markdown formatting without repeated font or color configuration, offline editing, portable Markdown files, one source of truth, centrally managed site-wide design, multilingual possibilities, greater control over student privacy, and direct control over the entire learning experience.
 
 ## Conclusion
 

@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/insani-girah/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Insani Girah (Human Knot)
 
 ## How to Play

@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/watch-parties/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Watch Parties
 
 ## How to Play

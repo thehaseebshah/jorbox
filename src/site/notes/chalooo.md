@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/chalooo/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Chalooo
 
 ## How to Play

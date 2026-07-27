@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/citywide-manhunt-with-gps/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Citywide Manhunt with GPS
 
 ## How to Play

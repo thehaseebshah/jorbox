@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/japani-karate/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Japani Karate
 
 ## How to Play

@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/amusement-park-visit/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Amusement Park Visit
 
 ## How to Play

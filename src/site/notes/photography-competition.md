@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/photography-competition/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Photography Competition
 
 ## How to Play

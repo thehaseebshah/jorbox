@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/jaan-pehchaan/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Jaan Pehchaan
 
 ## How to Play

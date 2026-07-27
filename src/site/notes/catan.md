@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/catan/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Catan
 
 ## How to Play

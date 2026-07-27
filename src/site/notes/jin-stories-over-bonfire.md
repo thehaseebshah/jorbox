@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/jin-stories-over-bonfire/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Jin Stories over Bonfire
 
 ## How to Play

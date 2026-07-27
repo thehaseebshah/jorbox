@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/kis-men-kitna-hey-dam/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Kis men Kitna hey Dam
 
 ## How to Play

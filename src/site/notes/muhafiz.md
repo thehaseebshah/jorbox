@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/muhafiz/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Muhafiz
 
 ## How to Play

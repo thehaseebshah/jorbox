@@ -1,7 +1,7 @@
 ---
-category: Shabab Tarbiyah Curriculum
-dg-publish: true
+{"dg-publish":true,"permalink":"/nishana/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum"}}
 ---
+
 # Nishana
 
 ## How to Play
