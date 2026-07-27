@@ -19,11 +19,6 @@ difficulty: 5
 **Inspired by:** Wavelength (with drawing and non-related drawing prompts — last two like non-sensory) / Wavelength, with drawing and non-related drawing prompts (last two like non-sensory)
 
 
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade
 
 ### Reference
 Watch: https://www.youtube.com/watch?v=4ulLmUQ7omU

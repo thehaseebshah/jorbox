@@ -19,11 +19,6 @@ difficulty: 5
 **Inspired by:** Codenames
 
 
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade
 
 ### Reference
 Watch the video: https://www.canva.com/design/DAGqhsDdJAc/jXsqVK-7KI58Oh1mYBQS-g/watch?utm_content=DAGqhsDdJAc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfa0d56879d

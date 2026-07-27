@@ -19,11 +19,6 @@ difficulty: 5
 **Inspired by:** Spyfall / Chameleon Mode, Spyfall Mode, Fake Artist Mode, Push the Button Modes
 
 
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade
 
 ### Reference
 Visit the lesson: https://shababskills.my.canva.site/shb-skills-lesson-12

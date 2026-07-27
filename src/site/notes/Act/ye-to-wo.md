@@ -26,9 +26,3 @@ Eliminate those that are unable to do it.
 
 ### Reference
 Watch: https://www.youtube.com/watch?v=ImKsV_SAuyg
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade

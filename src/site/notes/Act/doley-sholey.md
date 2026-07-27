@@ -21,9 +21,3 @@ difficulty: 4
 
 ### Reference
 Watch: [Excalidraw Whiteboard - 29 August 2025](https://www.loom.com/share/e091416f7dd6423fa195470ff48b9d68)
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade

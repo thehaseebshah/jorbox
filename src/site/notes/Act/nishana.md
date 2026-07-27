@@ -19,9 +19,3 @@ difficulty: 4
 
 ### Reference
 Watch: [Physical Education Games - The Serving Game (Volleyball)](https://www.youtube.com/watch?v=k16Pauv7NzQ&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=158)
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade

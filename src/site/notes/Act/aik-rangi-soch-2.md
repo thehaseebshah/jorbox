@@ -19,10 +19,5 @@ difficulty: 4
 **Inspired by:** Wavelength
 
 
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade
 
 > **Note:** This is a duplicate/alternate version of "Aik Rangi Soch". See also `aik-rangi-soch.md`.

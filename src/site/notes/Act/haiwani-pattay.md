@@ -19,11 +19,6 @@ difficulty: 5
 **Inspired by:** Cards Against Humanity / Cards Against Humanity, Quiplash, Bring Your Own Book, Sound mode
 
 
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade
 
 ### Reference
 Watch the video: https://www.youtube.com/watch?v=Uyciy8LmmXg

@@ -19,9 +19,3 @@ difficulty: 4
 
 ### Reference
 Watch: https://www.loom.com/share/f09e80b47fc04d5ca398ae17b3c48980
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade

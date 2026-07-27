@@ -19,9 +19,3 @@ difficulty: 3
 
 ### Reference
 Watch: [Wanna Buy a Duck? Camp Game - Ultimate Camp Resource](https://www.youtube.com/watch?v=QsrN7S-NVvc&list=PL929CC4949C2AF3A9&index=38)
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade

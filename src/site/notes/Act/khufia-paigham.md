@@ -17,10 +17,3 @@ difficulty: 5
 
 ## How to Play
 **Inspired by:** Decrypto
-
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade

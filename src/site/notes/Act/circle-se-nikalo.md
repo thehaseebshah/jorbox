@@ -21,9 +21,3 @@ difficulty: 4
 
 ### Reference
 Watch: https://www.youtube.com/watch?v=h9H2a65gAFw&list=PLINo1uFUv6C-qwBsSvORSQ9TzEk5PdxPV&index=11
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade

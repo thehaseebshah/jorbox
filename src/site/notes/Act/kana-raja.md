@@ -17,10 +17,3 @@ difficulty: 4
 
 ## How to Play
 **Inspired by:** Hanabi with 52 Cards
-
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade

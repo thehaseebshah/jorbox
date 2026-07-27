@@ -17,10 +17,3 @@ difficulty: 5
 
 ## How to Play
 **Inspired by:** Timeline (Add categories like Quixort) / Timeline; Add categories like Quixort
-
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade
