@@ -33,18 +33,51 @@
   transition: none !important;
 }
 
-#tooltip-wrapper h2, #tooltip-wrapper h3, #tooltip-wrapper h4 {
-  font-size: 1em !important;
+#tooltip-wrapper h1 {
+  font-size: 1.25em !important;
+  font-weight: 800 !important;
+  color: var(--jb-text-primary, #e7e2ed) !important;
+  margin-top: 0.9rem !important;
+  margin-bottom: 0.4rem !important;
+  line-height: 1.3 !important;
+}
+
+#tooltip-wrapper h2 {
+  font-size: 1.1em !important;
   font-weight: 700 !important;
+  color: var(--jb-text-primary, #e7e2ed) !important;
   margin-top: 0.85rem !important;
-  margin-bottom: 0.2rem !important;
-  color: var(--text-normal) !important;
+  margin-bottom: 0.3rem !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+  padding-bottom: 0.2rem !important;
+  line-height: 1.3 !important;
   background: none !important;
   -webkit-background-clip: unset !important;
   background-clip: unset !important;
   -webkit-text-fill-color: unset !important;
   mask-image: none !important;
   -webkit-mask-image: none !important;
+}
+
+#tooltip-wrapper h3, #tooltip-wrapper h4 {
+  font-size: 1.02em !important;
+  font-weight: 700 !important;
+  color: var(--jb-text-secondary, #aaa3b3) !important;
+  margin-top: 0.75rem !important;
+  margin-bottom: 0.25rem !important;
+  line-height: 1.3 !important;
+  background: none !important;
+  -webkit-background-clip: unset !important;
+  background-clip: unset !important;
+  -webkit-text-fill-color: unset !important;
+  mask-image: none !important;
+  -webkit-mask-image: none !important;
+}
+
+#tooltip-wrapper .external-link,
+#tooltip-wrapper a.external-link {
+  padding-right: 0 !important;
+  background: none !important;
 }
 
 .tooltip-pdf {
