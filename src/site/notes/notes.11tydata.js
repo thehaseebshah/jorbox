@@ -1,7 +1,9 @@
 require("dotenv").config();
+const fs = require("fs");
 const settings = require("../../helpers/constants");
 
 const allSettings = settings.ALL_NOTE_SETTINGS;
+
 
 module.exports = {
   eleventyComputed: {
@@ -22,12 +24,15 @@ module.exports = {
     },
     basesNotes: (data) => {
       if (!data.collections || !data.collections.note) return [];
-      return data.collections.note.map((item) => ({
-        path: item.filePathStem.replace("/notes/", ""),
-        url: item.url,
-        metadata: item.data,
-        fileSlug: item.fileSlug,
-      }));
+      return data.collections.note.map((item) => {
+        return {
+          path: item.filePathStem.replace("/notes/", ""),
+          url: item.url,
+          metadata: item.data,
+          fileSlug: item.fileSlug,
+          inputPath: item.inputPath,
+        };
+      });
     },
     settings: (data) => {
       const noteSettings = {};

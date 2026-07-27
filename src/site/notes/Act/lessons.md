@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/act/lessons/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Shabab Skills Lessons"}}
+category: Shabab Tarbiyah Curriculum
+dg-publish: true
+name: Shabab Skills Lessons
 ---
-
 
 # Shabab Skills Lessons
 

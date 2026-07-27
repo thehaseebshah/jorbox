@@ -95,6 +95,7 @@ function getDisplayName(column, properties) {
 	}
 
 	if (column === "file.name") return "Name";
+	if (column === "formula.name") return "Name";
 
 	// Strip prefixes: formula.x → x, file.folder → folder, note.x → x
 	let name = column;
@@ -176,6 +177,11 @@ function formatCellValue(value, column, row) {
 		const name = getFileName(row);
 		const url = row.url || "";
 		return `<a href="${escapeHtml(url)}" class="internal-link">${escapeHtml(name)}</a>`;
+	}
+	if (column === "formula.name") {
+		const title = value != null && value !== "" ? String(value) : getFileName(row);
+		const url = row.url || "";
+		return `<a href="${escapeHtml(url)}" class="internal-link">${escapeHtml(title)}</a>`;
 	}
 
 	if (value === true) {

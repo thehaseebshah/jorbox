@@ -1,4 +1,5 @@
 const { parseExpression } = require("./exprParser");
+const fs = require("fs");
 
 /**
  * Get a user-defined property from note metadata.
@@ -37,8 +38,15 @@ function resolveFileProperty(prop, note) {
 			const filename = parts[parts.length - 1];
 			return filename.replace(/\.[^.]+$/, "");
 		}
+		case "title": {
+			const metaTitle = getUserProperty(note.metadata, "title");
+			if (metaTitle) return metaTitle;
+			return resolveFileProperty("name", note);
+		}
 		case "path":
 			return note.path;
+		case "inputPath":
+			return note.inputPath;
 		case "folder": {
 			const lastSlash = note.path.lastIndexOf("/");
 			return lastSlash === -1 ? "" : note.path.substring(0, lastSlash);
@@ -470,6 +478,18 @@ function callGlobalFunction(name, args) {
 		}
 		case "if":
 			return args[0] ? args[1] : args[2];
+		case "readH1": {
+			const filePath = args[0];
+			if (!filePath || typeof filePath !== "string") return "";
+			try {
+				const raw = fs.readFileSync(filePath, "utf8");
+				const body = raw.replace(/^---[\s\S]*?---\n?/, "");
+				const m = body.match(/^#\s+(.+)$/m);
+				return m ? m[1].trim() : "";
+			} catch {
+				return "";
+			}
+		}
 		case "number":
 			return Number(args[0]);
 		case "min":

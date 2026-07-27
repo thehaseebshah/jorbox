@@ -173,13 +173,14 @@ async function getGraph(data) {
   // Now that we know all links and backlinks, inject them into the notes
   // so bases queries can access file.links and file.backlinks.
   const urlToNode = nodes;
-  const basesNotes = notes.map((item) => {
+  const basesNotes = notes.map((item, idx) => {
     const url = (urlToNode[item.url] || {});
     return {
       path: item.filePathStem.replace("/notes/", ""),
       url: item.url,
       metadata: item.data,
       fileSlug: item.fileSlug,
+      inputPath: item.inputPath,
       // Inject computed link data for bases queries
       _links: url.outBound || [],
       _backlinks: url.backLinks || [],
