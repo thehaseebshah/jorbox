@@ -1,14 +1,14 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Dimagh Ka Dahi"
+name: "Mamnoo Alfaaz"
 type: shabab-act
 final: false
 added-to-shabab: false
 tried: false
 ---
 
-### Dimagh Ka Dahi
+### Mamnoo Alfaaz
 
 #### How to Play
-Video instructions are [here](https://shababskills.my.canva.site/dimagh-ka-dahi).
+Video instructions are [here](https://shababskills.my.canva.site/mamnoo-alfaaz).
