@@ -178,7 +178,7 @@ function formatCellValue(value, column, row) {
 		const url = row.url || "";
 		return `<a href="${escapeHtml(url)}" class="internal-link">${escapeHtml(name)}</a>`;
 	}
-	if (column === "formula.name") {
+	if (column === "formula.name" || column === "note.name" || column === "name") {
 		const title = value != null && value !== "" ? String(value) : getFileName(row);
 		const url = row.url || "";
 		return `<a href="${escapeHtml(url)}" class="internal-link">${escapeHtml(title)}</a>`;
