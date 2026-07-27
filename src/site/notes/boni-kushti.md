@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: outdoor
-final: false
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/boni-kushti/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
 ---
+
 # Boni Kushti
 
 ## How to Play

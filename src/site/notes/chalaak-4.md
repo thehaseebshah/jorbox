@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: outdoor
-final: false
-added-to-shabab: true
-tried: false
+{"dg-publish":true,"permalink":"/chalaak-4/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":true,"tried":false}}
 ---
+
 # Chalaak 4
 
 ## How to Play

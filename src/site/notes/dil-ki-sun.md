@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: party
-final: false
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/dil-ki-sun/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":false,"tried":false}}
 ---
+
 # Dil ki Sun
 
 ## How to Play

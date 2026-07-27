@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: location-based
-final: false
-added-to-shabab: true
-tried: false
+{"dg-publish":true,"permalink":"/cooking/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":true,"tried":false}}
 ---
+
 # Cooking
 
 ## How to Play

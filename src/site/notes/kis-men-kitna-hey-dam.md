@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: outdoor
-final: false
-added-to-shabab: true
-tried: false
+{"dg-publish":true,"permalink":"/kis-men-kitna-hey-dam/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":true,"tried":false}}
 ---
+
 # Kis men Kitna hey Dam
 
 ## How to Play

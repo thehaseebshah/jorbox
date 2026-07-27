@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: location-based
-final: false
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/water-race/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
 ---
+
 # Water Race
 
 ## How to Play

@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: sports
-final: true
-added-to-shabab: true
-tried: false
+{"dg-publish":true,"permalink":"/rugby/","dg-note-properties":{"type":"sports","final":true,"added-to-shabab":true,"tried":false}}
 ---
+
 # Rugby
 
 ## How to Play

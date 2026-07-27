@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: sports
-final: true
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/home-golf/","dg-note-properties":{"type":"sports","final":true,"added-to-shabab":false,"tried":false}}
 ---
+
 # Home Golf
 
 ## How to Play

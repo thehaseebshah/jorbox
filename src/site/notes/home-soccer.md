@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-type: sports
-final: true
-added-to-shabab: false
-tried: false
+{"dg-publish":true,"permalink":"/home-soccer/","dg-note-properties":{"type":"sports","final":true,"added-to-shabab":false,"tried":false}}
 ---
+
 # Home Soccer
 
 ## How to Play
