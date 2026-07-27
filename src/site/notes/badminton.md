@@ -13,6 +13,5 @@ dg-publish: true
 - **Rating:** 3
 
 ### Items Needed
-
 - Rackets
 - Shuttle

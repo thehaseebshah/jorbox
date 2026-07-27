@@ -13,11 +13,9 @@ dg-publish: true
 - **Code:** C-060
 
 ### Reference
-
 Watch: [Excalidraw - 8 August 2025](https://www.loom.com/share/84fa2ffbf9be46179f229aa529f602eb)
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)

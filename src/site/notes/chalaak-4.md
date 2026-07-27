@@ -15,11 +15,9 @@ dg-publish: true
 - **Code:** O-200
 
 ### Reference
-
 Watch: https://m.youtube.com/watch?v=jtMAXP7re1o
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)

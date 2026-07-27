@@ -15,11 +15,9 @@ dg-publish: true
 - **Code:** O-640
 
 ### Reference
-
 Watch: https://www.youtube.com/watch?v=efXn646cC58&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=38
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)

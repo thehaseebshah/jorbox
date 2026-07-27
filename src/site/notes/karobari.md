@@ -17,5 +17,4 @@ dg-publish: true
 - **Code:** P-010
 
 ### Mode
-
 - Snake Oil mode (people are given a problem and they draw a solution)

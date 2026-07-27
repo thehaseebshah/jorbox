@@ -15,18 +15,15 @@ dg-publish: true
 - **Code:** P-060
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)
 - Can be handmade
 
 ### Reference
-
 Visit the lesson: https://shababskills.my.canva.site/shb-skills-lesson-12
 
 ### Mode
-
 - Chameleon Mode
 - Spyfall Mode
 - Fake Artist Mode

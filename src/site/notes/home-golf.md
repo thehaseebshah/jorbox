@@ -15,6 +15,5 @@ dg-publish: true
 - **Rating:** 5
 
 ### Items Needed
-
 - Stick
 - Ball

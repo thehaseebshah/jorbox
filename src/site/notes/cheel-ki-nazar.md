@@ -15,12 +15,10 @@ dg-publish: true
 - **Code:** O-760
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)
 - Can be handmade
 
 ### Reference
-
 Watch: Nerves of Steel.AVI

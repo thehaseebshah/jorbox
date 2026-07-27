@@ -15,11 +15,9 @@ dg-publish: true
 - **Code:** P-030
 
 ### Reference
-
 Visit the lesson: https://shababskills.my.canva.site/shb-skills-lesson-12
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)

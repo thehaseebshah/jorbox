@@ -15,11 +15,9 @@ dg-publish: true
 - **Code:** O-780
 
 ### Reference
-
 Watch: https://www.youtube.com/watch?v=b4M_0v4TAyY&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=59
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)

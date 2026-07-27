@@ -13,5 +13,4 @@ dg-publish: true
 - **Items Needed:** Mobiles
 
 ### Reference
-
 Download: https://apkpure.com/bombsquad-app/net.froemling.bombsquad

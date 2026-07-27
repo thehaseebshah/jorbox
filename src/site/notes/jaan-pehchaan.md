@@ -15,11 +15,9 @@ dg-publish: true
 - **Code:** O-270
 
 ### Reference
-
 Watch: https://m.youtube.com/watch?v=eN8x4-0M4XE
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)

@@ -15,11 +15,9 @@ dg-publish: true
 - **Code:** O-011
 
 ### Reference
-
 Watch: https://www.canva.com/design/DAGrcQBXztY/fVsrTd7fGzQrPLKGZA-EAQ/watch?utm_content=DAGrcQBXztY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h87a712316c
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)

@@ -15,11 +15,9 @@ dg-publish: true
 - **Code:** P-280
 
 ### Reference
-
 Watch: https://www.loom.com/share/12da42f564134c299e58456ba79b4e2c
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)

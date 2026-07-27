@@ -15,17 +15,14 @@ dg-publish: true
 - **Code:** O-090
 
 ### How to Play
-
 **Inspired by:** Jump In, Jump Out. Eliminate those that are unable to do it
 
 Eliminate those that are unable to do it.
 
 ### Reference
-
 Watch: https://www.youtube.com/watch?v=ImKsV_SAuyg
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)

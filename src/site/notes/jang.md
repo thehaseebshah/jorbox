@@ -15,7 +15,6 @@ dg-publish: true
 *Reference: How to Play Kriegsspiel*
 
 ### Introduction: Welcome to the Commander's Tent
-
 This handbook is designed to give you a simple, accessible framework to run your first game of Jang.
 
 The heart of Jang, and its most enjoyable aspect, isn't the minutia of combat. The real fun comes from "making the big decisions." It's about answering the big questions: "How am I going to get to the battle? Where am I going to commit my troops? Where am I going to put my reserve? Win, lose, or draw, what's my plan to get out?" That's where the magic is.
@@ -36,7 +35,6 @@ For your first in-person game, you can remember the essential equipment with a s
 - **Pieces:** You need three identical sets of playing pieces (blocks or tokens that represent your units). To keep your first game manageable, it's recommended to have a simple "order of battle" with "between 6 to 12 pieces" for each player.
 
 ### A "Double Blind" Setup
-
 The reason for three tables, maps, and sets of pieces is to create a "double blind" experience. Each player's table only has their own pieces on their map. The Umpire's table is the master view, containing everything. This setup is crucial because it creates the "Fog of War" — the uncertainty and limited information of a real battlefield. Players can only see what their commander on the map can see, not the enemy's hidden dispositions.
 
 ## 3. Setting the Stage: Your Mission

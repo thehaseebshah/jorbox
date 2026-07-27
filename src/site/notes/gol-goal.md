@@ -13,11 +13,9 @@ dg-publish: true
 - **Code:** O-980
 
 ### Reference
-
 Watch: [Human Pinball Camp Game - Ultimate Camp Resource](https://www.youtube.com/watch?v=y-_iF1mDbv8&list=PL929CC4949C2AF3A9&index=29)
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)

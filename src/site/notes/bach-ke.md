@@ -15,11 +15,9 @@ dg-publish: true
 - **Code:** O-770
 
 ### Reference
-
 Watch: https://www.youtube.com/watch?v=_exo0hJ4Ovs&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=58
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)

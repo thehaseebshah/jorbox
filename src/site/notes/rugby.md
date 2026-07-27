@@ -13,6 +13,5 @@ dg-publish: true
 - **Rating:** 5
 
 ### Items Needed
-
 - Football
 - Goal posts

@@ -13,7 +13,6 @@ dg-publish: true
 - **Code:** L-480
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)

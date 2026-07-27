@@ -13,11 +13,9 @@ dg-publish: true
 - **Code:** Z-100
 
 ### Reference
-
 Watch: [Excalidraw - 8 August 2025](https://www.loom.com/share/12d55aac4a5a4cc883843de3ef03d5a6)
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)

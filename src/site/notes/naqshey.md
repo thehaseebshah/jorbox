@@ -31,9 +31,7 @@ Print or Screenshot the "Source Maps" before the session.
 - **Cordoba (Andalus):** Focus on the Guadalquivir River, the Roman Bridge, and the Great Mosque.
 
 ## 4. Step-by-Step Instructions
-
 ### Phase 1: The Briefing (5 Minutes)
-
 Gather the Shabab and explain the scenario: You are Muslim travelers and cartographers. You have been given access to the royal archives for exactly 5 minutes. You must memorize the layout of the city to guide your caravan safely. Precision is key as getting lost means failure.
 
 Explain the **Winning Criteria**:
@@ -43,7 +41,6 @@ Explain the **Winning Criteria**:
 - **Key Landmarks:** Are the Masjids, Forts, and Rivers in the right place?
 
 ### Phase 2: The Study (5 Minutes)
-
 - Divide Shabab into groups of 3.
 - Hand out one Source Map face-down to each group.
 - Each group gets the same map.
@@ -52,14 +49,12 @@ Explain the **Winning Criteria**:
 - After exactly 5 minutes, shout "TIME" and collect all Source Maps immediately.
 
 ### Phase 3: The Drawing (15 Minutes)
-
 - Hand out the blank A3 paper and pencils.
 - Groups must draw the map from memory.
 - They should label roads and landmarks if they remember the names.
 - **Instructor Note:** Walk around and encourage them, but do not give hints. Give a "2-minute warning" before the end.
 
 ### Phase 4: The Reveal (10 Minutes)
-
 - Ask groups to stick their drawings on the wall.
 - Tape the original Source Map next to their drawing for comparison.
 - Judge the maps using the scoring rubric below.

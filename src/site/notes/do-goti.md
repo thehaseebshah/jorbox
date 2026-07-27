@@ -13,5 +13,4 @@ dg-publish: true
 - **Items Needed:** Paper, pencil
 
 ### Reference
-
 Watch: https://m.youtube.com/watch?v=3m94y_4_9Jw

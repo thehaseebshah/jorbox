@@ -15,11 +15,9 @@ dg-publish: true
 - **Code:** V-020
 
 ### Reference
-
 Watch: https://www.youtube.com/watch?v=go_xpGrwa7I
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)

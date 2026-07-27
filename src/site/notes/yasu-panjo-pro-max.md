@@ -15,7 +15,6 @@ dg-publish: true
 - **Code:** P-300
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)

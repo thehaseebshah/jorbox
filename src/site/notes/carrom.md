@@ -12,5 +12,4 @@ dg-publish: true
 - **Difficulty:** 4
 
 ### How to Play
-
 You already know.

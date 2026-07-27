@@ -15,18 +15,15 @@ dg-publish: true
 - **Code:** P-050
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)
 - Can be handmade
 
 ### Reference
-
 Watch the video: https://www.youtube.com/watch?v=Uyciy8LmmXg
 
 ### Mode
-
 - Cards Against Humanity
 - Quiplash
 - Bring Your Own Book

@@ -13,11 +13,9 @@ dg-publish: true
 - **Code:** O-370
 
 ### Reference
-
 Watch: https://www.loom.com/share/b86b6d31130a4e98b7541cf06ef652b8
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)

@@ -13,5 +13,4 @@ dg-publish: true
 - **Rating:** 5
 
 ### Reference
-
 Watch: [Excalidraw Whiteboard - 29 August 2025](https://www.loom.com/share/f3b68ab002f94985b672ae2dc351825c)

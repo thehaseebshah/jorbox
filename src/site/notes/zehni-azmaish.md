@@ -15,11 +15,9 @@ dg-publish: true
 - **Code:** O-290
 
 ### Reference
-
 Watch: https://www.loom.com/share/813d926741134a2b8bd2bd982bc2f46d
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)

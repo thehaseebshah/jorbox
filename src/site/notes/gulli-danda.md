@@ -13,11 +13,9 @@ dg-publish: true
 - **Code:** C-040
 
 ### Reference
-
 Watch: https://youtu.be/J3wU0buWUJY?si=o_RWIuXEqzij6wNN&t=85
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)

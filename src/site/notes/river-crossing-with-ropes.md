@@ -13,11 +13,9 @@ dg-publish: true
 - **Code:** L-010
 
 ### Reference
-
 Watch: https://youtu.be/j_OAzZvDBwc?si=0Bx71dvjHTXO7XaX&t=454
 
 ### Items Needed
-
 - Role Cards (e.g., Mujahid/Jasoos)
 - Mission Cards (Success/Fail)
 - Voting Tokens (Approve/Reject)
