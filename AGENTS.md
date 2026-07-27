@@ -18,3 +18,9 @@
 - **Never run `npm run build`** to verify changes. It takes 30+ seconds and is unnecessary.
 - Use **`npm test`** instead — it runs all unit tests in under 1 second and is sufficient to confirm nothing is broken.
 - The user manages builds and deployments themselves.
+
+## Metadata & Synchronization Integrity Rule
+- **NO `permalink:` Frontmatter:** NEVER add or restore `permalink:` in the YAML frontmatter of any markdown notes.
+- **NO Blind Copying/Overwriting:** NEVER blindly copy-paste files or overwrite notes between `src/site/notes/` and `D:\Shabab` (`/mnt/d/Shabab/`).
+- **Frontmatter Differences:** Notes in `D:\Shabab` (`/mnt/d/Shabab/`) use clean top-level YAML keys (`category`, `lesson-batch`, `module`). When published via the Digital Garden plugin, metadata is generated as `dg-note-properties: {...}` in `src/site/notes/`.
+- Always preserve clean metadata and respect vault vs site format distinctions when manually editing or synchronizing files.
