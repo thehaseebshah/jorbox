@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/night-hike/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /night-hike/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Night Hike

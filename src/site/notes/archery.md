@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/archery/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /archery/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Archery

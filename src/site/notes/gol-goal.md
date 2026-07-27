@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/gol-goal/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /gol-goal/
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Gol Goal

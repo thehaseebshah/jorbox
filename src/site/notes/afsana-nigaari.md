@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/afsana-nigaari/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /afsana-nigaari/
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
 
 # Afsana Nigaari

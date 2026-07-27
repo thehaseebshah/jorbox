@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ghutham-ghutha/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /ghutham-ghutha/
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Ghutham Ghutha

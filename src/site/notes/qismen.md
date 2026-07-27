@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/qismen/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":true,"tried":true}}
+dg-publish: true
+permalink: /qismen/
+type: party
+final: false
+added-to-shabab: true
+tried: true
 ---
 
 # Qismen

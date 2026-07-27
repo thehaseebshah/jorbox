@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/murgha-logey/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /murgha-logey/
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Murgha Logey?

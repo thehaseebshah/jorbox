@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/survival-camping/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /survival-camping/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Survival Camping

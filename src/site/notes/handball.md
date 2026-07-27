@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/handball/","dg-note-properties":{"type":"sports","final":true,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /handball/
+type: sports
+final: true
+added-to-shabab: false
+tried: false
 ---
 
 # Handball

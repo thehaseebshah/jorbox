@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/travel-vlog/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /travel-vlog/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Travel VLOG

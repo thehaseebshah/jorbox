@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/shabab-dawah-campaign/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /shabab-dawah-campaign/
+type: miscellaneous
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Shabab Dawah Campaign

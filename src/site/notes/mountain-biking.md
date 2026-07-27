@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/mountain-biking/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /mountain-biking/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Mountain Biking

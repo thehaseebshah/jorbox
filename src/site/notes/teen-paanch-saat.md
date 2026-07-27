@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/teen-paanch-saat/","dg-note-properties":{"type":"kaghaz","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /teen-paanch-saat/
+type: kaghaz
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Teen Paanch Saat

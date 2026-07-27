@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/satrangi/","dg-note-properties":{"type":"childhood","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /satrangi/
+type: childhood
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Satrangi

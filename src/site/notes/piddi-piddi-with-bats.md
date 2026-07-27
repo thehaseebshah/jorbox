@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/piddi-piddi-with-bats/","dg-note-properties":{"type":"childhood","final":false,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /piddi-piddi-with-bats/
+type: childhood
+final: false
+added-to-shabab: true
+tried: false
 ---
 
 # Piddi Piddi with Bats

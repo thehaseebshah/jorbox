@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bandar-killa/","dg-note-properties":{"type":"childhood","final":false,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /bandar-killa/
+type: childhood
+final: false
+added-to-shabab: true
+tried: false
 ---
 
 # Bandar Killa

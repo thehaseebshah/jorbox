@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/carcassonne/","dg-note-properties":{"type":"board","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /carcassonne/
+type: board
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Carcassonne

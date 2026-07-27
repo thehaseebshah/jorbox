@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/calligraphy-painting-competition/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /calligraphy-painting-competition/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Caligraphy/Painting Competition

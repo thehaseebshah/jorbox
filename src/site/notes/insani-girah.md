@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/insani-girah/","dg-note-properties":{"type":"outdoor","final":true,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /insani-girah/
+type: outdoor
+final: true
+added-to-shabab: false
+tried: false
 ---
 
 # Insani Girah (Human Knot)

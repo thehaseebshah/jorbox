@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/daur/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /daur/
+type: outdoor
+final: false
+added-to-shabab: true
+tried: false
 ---
 
 # Daur

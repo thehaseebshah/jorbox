@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/sparring/","dg-note-properties":{"type":"sports","final":true,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /sparring/
+type: sports
+final: true
+added-to-shabab: false
+tried: false
 ---
 
 # Sparring

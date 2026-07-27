@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/night-manhunt-w-torches-whistles/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /night-manhunt-w-torches-whistles/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Night Manhunt w. Torches/Whistles

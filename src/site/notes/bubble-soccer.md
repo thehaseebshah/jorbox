@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bubble-soccer/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /bubble-soccer/
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Bubble Soccer

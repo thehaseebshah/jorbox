@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/naqshey/","dg-note-properties":{"type":"miscellaneous","final":true,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /naqshey/
+type: miscellaneous
+final: true
+added-to-shabab: true
+tried: false
 ---
 
 # Naqshey (Map Drawing)

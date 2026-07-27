@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/laser-tag/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /laser-tag/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Laser Tag

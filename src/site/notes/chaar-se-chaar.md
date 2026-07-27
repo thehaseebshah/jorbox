@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/chaar-se-chaar/","dg-note-properties":{"type":"kaghaz","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /chaar-se-chaar/
+type: kaghaz
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Chaar se Chaar

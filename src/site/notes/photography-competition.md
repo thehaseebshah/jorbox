@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/photography-competition/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /photography-competition/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Photography Competition

@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/rugby/","dg-note-properties":{"type":"sports","final":true,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /rugby/
+type: sports
+final: true
+added-to-shabab: true
+tried: false
 ---
 
 # Rugby

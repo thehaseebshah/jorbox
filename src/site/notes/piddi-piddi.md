@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/piddi-piddi/","dg-note-properties":{"type":"childhood","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /piddi-piddi/
+type: childhood
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Piddi Piddi

@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/body/","dg-note-properties":{"type":"childhood","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /body/
+type: childhood
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Body

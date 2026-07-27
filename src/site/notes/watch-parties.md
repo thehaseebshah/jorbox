@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/watch-parties/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /watch-parties/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Watch Parties

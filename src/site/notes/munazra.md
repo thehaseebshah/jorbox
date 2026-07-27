@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/munazra/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /munazra/
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
 
 # Munazra (Debate Competition)

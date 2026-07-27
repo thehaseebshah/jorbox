@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/jasoosi-club/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":true,"tried":true}}
+dg-publish: true
+permalink: /jasoosi-club/
+type: party
+final: false
+added-to-shabab: true
+tried: true
 ---
 
 # Jasoosi Club

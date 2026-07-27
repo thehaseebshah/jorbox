@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/dara/","dg-note-properties":{"type":"kaghaz","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /dara/
+type: kaghaz
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Dara

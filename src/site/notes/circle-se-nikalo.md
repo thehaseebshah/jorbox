@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/circle-se-nikalo/","dg-note-properties":{"type":"childhood","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /circle-se-nikalo/
+type: childhood
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Circle se Nikalo

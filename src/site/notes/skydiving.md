@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/skydiving/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /skydiving/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Skydiving

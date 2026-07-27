@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/gharwanj/","dg-note-properties":{"type":"deck","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /gharwanj/
+type: deck
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Gharwanj

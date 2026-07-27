@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/nishana/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /nishana/
+type: outdoor
+final: false
+added-to-shabab: true
+tried: false
 ---
 
 # Nishana

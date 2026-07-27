@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/human-foosball/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /human-foosball/
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Human Foosball

@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/pottery/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /pottery/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Pottery

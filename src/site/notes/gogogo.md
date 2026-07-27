@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/gogogo/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /gogogo/
+type: miscellaneous
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Gogogo

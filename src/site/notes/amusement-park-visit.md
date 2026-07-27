@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/amusement-park-visit/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /amusement-park-visit/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Amusement Park Visit

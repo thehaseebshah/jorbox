@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/kushti/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /kushti/
+type: outdoor
+final: false
+added-to-shabab: true
+tried: false
 ---
 
 # Kushti

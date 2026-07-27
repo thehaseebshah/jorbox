@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/tree-plantation-campaign/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /tree-plantation-campaign/
+type: miscellaneous
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Tree Plantation Campaign

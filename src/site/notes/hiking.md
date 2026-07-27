@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/hiking/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /hiking/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Hiking

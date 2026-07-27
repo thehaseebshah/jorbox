@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/kana-raja/","dg-note-properties":{"type":"deck","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /kana-raja/
+type: deck
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Kana Raja

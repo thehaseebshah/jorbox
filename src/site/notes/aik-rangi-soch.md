@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/aik-rangi-soch/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /aik-rangi-soch/
+type: party
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Aik Rangi Soch

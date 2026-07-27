@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/jangi-qaidi/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":true,"tried":true}}
+dg-publish: true
+permalink: /jangi-qaidi/
+type: party
+final: false
+added-to-shabab: true
+tried: true
 ---
 
 # Jangi Qaidi

@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/solar-oven-challenge/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /solar-oven-challenge/
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
 
 # Solar Oven Challenge

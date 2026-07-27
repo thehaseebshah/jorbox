@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/waterballoon-fight/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /waterballoon-fight/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Waterbaloon Fight

@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/swimming/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /swimming/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Swimming

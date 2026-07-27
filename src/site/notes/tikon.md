@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/tikon/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /tikon/
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Tikon

@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/yaaddasht/","dg-note-properties":{"type":"deck","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /yaaddasht/
+type: deck
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Yaaddasht

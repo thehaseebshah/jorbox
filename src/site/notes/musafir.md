@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/musafir/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /musafir/
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Musafir

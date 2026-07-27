@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/qatil-police/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /qatil-police/
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Qatil Police

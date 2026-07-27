@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/rummikub/","dg-note-properties":{"type":"board","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /rummikub/
+type: board
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Rummikub

@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/insani-seerhi/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /insani-seerhi/
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Insani Seerhi

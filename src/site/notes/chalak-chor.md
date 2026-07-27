@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/chalak-chor/","dg-note-properties":{"type":"deck","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /chalak-chor/
+type: deck
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Chalak Chor

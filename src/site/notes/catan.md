@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/catan/","dg-note-properties":{"type":"board","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /catan/
+type: board
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Catan

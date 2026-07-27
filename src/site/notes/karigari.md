@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/karigari/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /karigari/
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
 
 # Karigari (Crafting)

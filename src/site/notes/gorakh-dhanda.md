@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/gorakh-dhanda/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /gorakh-dhanda/
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Gorakh Dhanda

@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ready-go/","dg-note-properties":{"type":"childhood","final":false,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /ready-go/
+type: childhood
+final: false
+added-to-shabab: true
+tried: false
 ---
 
 # Ready Go

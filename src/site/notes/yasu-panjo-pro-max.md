@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/yasu-panjo-pro-max/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":true,"tried":true}}
+dg-publish: true
+permalink: /yasu-panjo-pro-max/
+type: party
+final: false
+added-to-shabab: true
+tried: true
 ---
 
 # Yasu Panjo Pro Max

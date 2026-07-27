@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/purane-bantay/","dg-note-properties":{"type":"childhood","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /purane-bantay/
+type: childhood
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Purane Bantay

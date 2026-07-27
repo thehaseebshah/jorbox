@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/teen-ball/","dg-note-properties":{"type":"childhood","final":false,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /teen-ball/
+type: childhood
+final: false
+added-to-shabab: true
+tried: false
 ---
 
 # Teen Ball

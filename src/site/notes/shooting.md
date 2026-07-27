@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/shooting/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /shooting/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Shooting

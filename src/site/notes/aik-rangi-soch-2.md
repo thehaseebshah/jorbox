@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/aik-rangi-soch-2/","dg-note-properties":{"type":"party","final":false}}
+dg-publish: true
+permalink: /aik-rangi-soch-2/
+type: party
+final: false
 ---
 
 # Aik Rangi Soch (v2)

@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/charity-visits/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /charity-visits/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Charity Visits

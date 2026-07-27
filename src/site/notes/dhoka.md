@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/dhoka/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /dhoka/
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Dhoka

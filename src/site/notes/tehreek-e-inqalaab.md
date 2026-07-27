@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/tehreek-e-inqalaab/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":true,"tried":true}}
+dg-publish: true
+permalink: /tehreek-e-inqalaab/
+type: party
+final: false
+added-to-shabab: true
+tried: true
 ---
 
 # Tehreek e Inqalaab

@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/natural-direction-finding/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /natural-direction-finding/
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
 
 # Natural Direction Finding

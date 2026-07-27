@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/phansna-nahi/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /phansna-nahi/
+type: party
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Phansna Nahi

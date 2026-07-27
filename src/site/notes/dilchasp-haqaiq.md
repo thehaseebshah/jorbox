@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/dilchasp-haqaiq/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /dilchasp-haqaiq/
+type: party
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Dilchasp Haqaiq

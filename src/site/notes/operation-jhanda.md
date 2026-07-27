@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/operation-jhanda/","dg-note-properties":{"type":"outdoor","final":true,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /operation-jhanda/
+type: outdoor
+final: true
+added-to-shabab: true
+tried: false
 ---
 
 # Operation Jhanda

@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/moaddabana-guzarish-hey/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /moaddabana-guzarish-hey/
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
 
 # Moaddabana Guzarish Hey

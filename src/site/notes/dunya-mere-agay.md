@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/dunya-mere-agay/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /dunya-mere-agay/
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
 ---
 
 # Dunya Mere Agay

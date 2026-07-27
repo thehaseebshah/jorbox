@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/attend-a-conference/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /attend-a-conference/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Attend a Conference

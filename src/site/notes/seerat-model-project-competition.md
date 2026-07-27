@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/seerat-model-project-competition/","dg-note-properties":{"type":"miscellaneous","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /seerat-model-project-competition/
+type: miscellaneous
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Seerat Model Project Competition

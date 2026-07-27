@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/sailing/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /sailing/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Sailing

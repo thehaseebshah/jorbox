@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/alfaaz/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /alfaaz/
+type: party
+final: false
+added-to-shabab: true
+tried: false
 ---
 
 # Alfaaz

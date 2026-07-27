@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/phitto-garam/","dg-note-properties":{"type":"childhood","final":false,"added-to-shabab":true,"tried":false}}
+dg-publish: true
+permalink: /phitto-garam/
+type: childhood
+final: false
+added-to-shabab: true
+tried: false
 ---
 
 # Phitto Garam

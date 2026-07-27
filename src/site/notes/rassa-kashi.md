@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/rassa-kashi/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /rassa-kashi/
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Rassa Kashi

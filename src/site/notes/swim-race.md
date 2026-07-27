@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/swim-race/","dg-note-properties":{"type":"location-based","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /swim-race/
+type: location-based
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Swim Race

@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/tadbeer/","dg-note-properties":{"type":"outdoor","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /tadbeer/
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Tadbeer

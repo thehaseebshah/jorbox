@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/chala-kooch/","dg-note-properties":{"type":"childhood","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /chala-kooch/
+type: childhood
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Chala Kooch

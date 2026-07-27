@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/sunni-sunai/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /sunni-sunai/
+type: party
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Sunni Sunai

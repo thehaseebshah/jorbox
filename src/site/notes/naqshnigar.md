@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/naqshnigar/","dg-note-properties":{"type":"party","final":false,"added-to-shabab":false,"tried":false}}
+dg-publish: true
+permalink: /naqshnigar/
+type: party
+final: false
+added-to-shabab: false
+tried: false
 ---
 
 # Naqshnigar
