@@ -186,7 +186,7 @@
             // Remove duplicate h1 elements inside body content
             const duplicateH1s = clone.querySelectorAll('h1');
             duplicateH1s.forEach(h => h.remove());
-            const junkEls = clone.querySelectorAll('script, style, .header-meta, .hero-badge-bar, .reading-time, .read-time');
+            const junkEls = clone.querySelectorAll('script, style, .header-meta, .hero-badge-bar, .reading-time, .read-time, [data-lucide]');
             junkEls.forEach(el => el.remove());
             tooltipContentHtml += clone.innerHTML;
           } else if (iframeDoc.body) {
