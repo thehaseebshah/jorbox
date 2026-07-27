@@ -33,6 +33,31 @@ body #tooltip-wrapper .scroll-reveal {
   transition: none !important;
 }
 
+body #tooltip-wrapper #tooltip-content,
+body #tooltip-wrapper .content,
+body #tooltip-wrapper .preview-tooltip-body,
+body #tooltip-wrapper main,
+body #tooltip-wrapper header {
+  padding: 0 !important;
+  margin: 0 !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  background: none !important;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+body #tooltip-wrapper #tooltip-content > *:first-child,
+body #tooltip-wrapper .preview-tooltip-body > *:first-child,
+body #tooltip-wrapper .hero-badge-bar-preview:first-child,
+body #tooltip-wrapper h1:first-child,
+body #tooltip-wrapper h2:first-child,
+body #tooltip-wrapper .callout:first-child {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+
 body #tooltip-wrapper h1,
 body #tooltip-wrapper .content h1,
 body #tooltip-wrapper .cm-s-obsidian h1 {
