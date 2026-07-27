@@ -1789,3 +1789,39 @@ table {
 .obsidian-bases-toolbar {
     display: none !important;
 }
+
+/* --- Node / Markdown Transclusions & Embeds --- */
+:root {
+    --embed-border-start: none !important;
+    --embed-border-left: none !important;
+    --embed-border-right: none !important;
+    --embed-border-top: none !important;
+    --embed-border-bottom: none !important;
+    --embed-padding: 0 !important;
+    --dg-transclusion-padding: 0 !important;
+}
+
+.markdown-embed,
+.internal-embed,
+div.transclusion,
+.markdown-embed-content,
+.markdown-preview-view .markdown-embed {
+    border: none !important;
+    border-left: none !important;
+    border-inline-start: none !important;
+    padding: 0 !important;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    box-shadow: none !important;
+}
+
+.markdown-embed .markdown-preview-view,
+div.transclusion .markdown-preview-view,
+.internal-embed .markdown-preview-view {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
