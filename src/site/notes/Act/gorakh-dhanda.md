@@ -1,18 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Gorakh Dhanda"
-type: outdoor
-final: false
-added-to-shabab: false
-tried: false
-age-limit: "14+"
-group-size: "5–10 players"
-duration: "30 minutes"
-prep-time: "< 5 minutes"
-difficulty: 5
-rating:
+{"dg-publish":true,"permalink":"/act/gorakh-dhanda/","dg-note-properties":{"category":"JorBox Activity","name":"Gorakh Dhanda","type":"outdoor","final":false,"added-to-shabab":false,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":5,"rating":null}}
 ---
+
 ### Gorakh Dhanda
 #### How to Play
 **Inspired by:** Minesweeper Maze

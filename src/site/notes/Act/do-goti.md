@@ -1,18 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Do Goti"
-type: kaghaz
-final: false
-added-to-shabab: false
-tried: false
-age-limit: "10+"
-group-size: "2"
-duration: "15 minutes"
-prep-time: "< 5 minutes"
-difficulty: 3
-rating:
+{"dg-publish":true,"permalink":"/act/do-goti/","dg-note-properties":{"category":"JorBox Activity","name":"Do Goti","type":"kaghaz","final":false,"added-to-shabab":false,"tried":false,"age-limit":"10+","group-size":"2","duration":"15 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
 ---
+
 ### Do Goti
 #### How to Play
 - **Items Needed:** Paper, pencil

@@ -1,18 +1,10 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Cooking"
-type: location-based
-final: false
-added-to-shabab: true
-tried: false
-age-limit: "14+"
-group-size: "5–10 players"
-duration: "99 minutes"
-prep-time: "< 5 minutes"
-difficulty: 4
-rating:
+{"dg-publish":true,"permalink":"/act/cooking/","dg-note-properties":{"category":"JorBox Activity","name":"Cooking","type":"location-based","final":false,"added-to-shabab":true,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"99 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
 ---
+### Cooking
+#### How to Play
+Each cooking group will have to cook a meal, food or dish with the help of available resources. Each group will be having an Ameer. Mashwarat process is must to follow.
+
 ### Cooking
 #### How to Play
 Each cooking group will have to cook a meal, food or dish with the help of available resources. Each group will be having an Ameer. Mashwarat process is must to follow.

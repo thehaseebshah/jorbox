@@ -1,18 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Minesweeper"
-type: mindset
-final: true
-added-to-shabab: true
-tried: false
-age-limit: "12+"
-group-size: "4+"
-duration: "30 minutes"
-prep-time: "< 5 minutes"
-difficulty: "Medium"
-rating:
+{"dg-publish":true,"permalink":"/act/minesweeper/","dg-note-properties":{"category":"JorBox Activity","name":"Minesweeper","type":"mindset","final":true,"added-to-shabab":true,"tried":false,"age-limit":"12+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Medium","rating":null}}
 ---
+
 ### Minesweeper
 #### How to Play
 Watch: https://www.loom.com/share/1121b21d99174c3eb2d246d76c00f385

@@ -1,13 +1,10 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Igniting Fire with Natural Methods"
-type: shabab-act
-final: false
-added-to-shabab: false
-tried: false
-rating:
+{"dg-publish":true,"permalink":"/act/igniting-fire-with-natural-methods/","dg-note-properties":{"category":"JorBox Activity","name":"Igniting Fire with Natural Methods","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
 ---
+### Igniting Fire with Natural Methods
+#### How to Play
+Starting a fire without modern tools is a fundamental survival skill that teaches perseverance, problem-solving, and resourcefulness. This challenging activity builds patience (sabr) and reliance on effort. Always prioritize safety and be aware of local fire regulations.
+
 ### Igniting Fire with Natural Methods
 #### How to Play
 Starting a fire without modern tools is a fundamental survival skill that teaches perseverance, problem-solving, and resourcefulness. This challenging activity builds patience (sabr) and reliance on effort. Always prioritize safety and be aware of local fire regulations.

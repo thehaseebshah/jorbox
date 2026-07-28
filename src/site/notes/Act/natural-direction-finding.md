@@ -1,13 +1,10 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Natural Direction Finding"
-type: shabab-act
-final: false
-added-to-shabab: false
-tried: false
-rating:
+{"dg-publish":true,"permalink":"/act/natural-direction-finding/","dg-note-properties":{"category":"JorBox Activity","name":"Natural Direction Finding","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
 ---
+### Natural Direction Finding
+#### How to Play
+Navigation is a critical skill for outdoor adventures, survival situations, and fostering self-reliance. It enhances your confidence and reduces vulnerability to technological failures. Several natural methods can be used to find your direction.
+
 ### Natural Direction Finding
 #### How to Play
 Navigation is a critical skill for outdoor adventures, survival situations, and fostering self-reliance. It enhances your confidence and reduces vulnerability to technological failures. Several natural methods can be used to find your direction.

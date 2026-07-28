@@ -1,13 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Operation: Virtue Scrolls"
-type: shabab-act
-final: false
-added-to-shabab: false
-tried: false
-rating:
+{"dg-publish":true,"permalink":"/act/operation-virtue-scrolls/","dg-note-properties":{"category":"JorBox Activity","name":"Operation: Virtue Scrolls","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
 ---
+
 ### Operation: Virtue Scrolls
 
 ##### Setup

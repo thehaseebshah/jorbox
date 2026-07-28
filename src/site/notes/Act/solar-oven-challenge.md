@@ -1,13 +1,10 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Solar Oven Challenge"
-type: shabab-act
-final: false
-added-to-shabab: false
-tried: false
-rating:
+{"dg-publish":true,"permalink":"/act/solar-oven-challenge/","dg-note-properties":{"category":"JorBox Activity","name":"Solar Oven Challenge","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
 ---
+### Solar Oven Challenge
+#### How to Play
+Building a solar oven is a practical activity that demonstrates how to harness the sun's power to cook food using simple materials. The oven's efficiency will depend on factors like sunlight intensity, reflector angle, and insulation.
+
 ### Solar Oven Challenge
 #### How to Play
 Building a solar oven is a practical activity that demonstrates how to harness the sun's power to cook food using simple materials. The oven's efficiency will depend on factors like sunlight intensity, reflector angle, and insulation.

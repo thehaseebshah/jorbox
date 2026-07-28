@@ -1,18 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Journaling and Mindfulness"
-type: mindset
-final: true
-added-to-shabab: true
-tried: false
-age-limit: "12+"
-group-size: "1+"
-duration: "35 minutes"
-prep-time: "< 5 minutes"
-difficulty: "Medium"
-rating:
+{"dg-publish":true,"permalink":"/act/journaling-and-mindfulness/","dg-note-properties":{"category":"JorBox Activity","name":"Journaling and Mindfulness","type":"mindset","final":true,"added-to-shabab":true,"tried":false,"age-limit":"12+","group-size":"1+","duration":"35 minutes","prep-time":"< 5 minutes","difficulty":"Medium","rating":null}}
 ---
+
 ### Journaling and Mindfulness
 #### Instructions
 This is a deeply personal and serious activity. The Murabbi must establish a quiet, sincere, and respectful atmosphere, free from distractions.

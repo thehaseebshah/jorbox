@@ -1,18 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Map Activity"
-type: mindset
-final: true
-added-to-shabab: true
-tried: false
-age-limit: "10+"
-group-size: "4+"
-duration: "30 minutes"
-prep-time: "< 5 minutes"
-difficulty: "Medium"
-rating: 5
+{"dg-publish":true,"permalink":"/act/map-activity/","dg-note-properties":{"category":"JorBox Activity","name":"Map Activity","type":"mindset","final":true,"added-to-shabab":true,"tried":false,"age-limit":"10+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Medium","rating":5}}
 ---
+
 ### Map Activity
 #### How to Play
 Watch: https://www.loom.com/share/c0830bb592b048dd945262b11a22f960
