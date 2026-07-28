@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Ready Go
-
 #### How to Play
 ### How to Play
 

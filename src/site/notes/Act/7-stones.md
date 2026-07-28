@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### 7 Stones
-
 #### How to Play
 ### How to Play
 

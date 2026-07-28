@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Rassa Kashi
-
 #### How to Play
 ### How to Play
 

@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Surfing
-
 #### How to Play
 ### How to Play
 

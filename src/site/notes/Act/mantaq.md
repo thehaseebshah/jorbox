@@ -14,7 +14,6 @@ difficulty: "Easy"
 rating: 5
 ---
 ### Mantaq
-
 #### How to Play
 ### How to Play
 

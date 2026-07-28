@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Local Visits
-
 #### How to Play
 ### How to Play
 

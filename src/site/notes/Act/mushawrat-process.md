@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Mushawrat Process
-
 #### How to Play
 ### How to Play
 

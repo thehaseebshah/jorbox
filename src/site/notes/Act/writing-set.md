@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Writing Set
-
 #### How to Play
 ### How to Play
 

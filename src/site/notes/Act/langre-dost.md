@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Langre Dost
-
 #### How to Play
 ### How to Play
 

@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Riazi ki Yaad
-
 #### How to Play
 ### How to Play
 

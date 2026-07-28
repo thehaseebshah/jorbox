@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Gorakh Dhanda
-
 #### How to Play
 ### How to Play
 

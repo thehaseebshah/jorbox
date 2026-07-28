@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Banao Boojho
-
 #### How to Play
 ### How to Play
 

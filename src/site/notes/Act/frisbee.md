@@ -14,7 +14,6 @@ difficulty: "Easy"
 rating: 4
 ---
 ### Frisbee
-
 #### How to Play
 ### How to Play
 

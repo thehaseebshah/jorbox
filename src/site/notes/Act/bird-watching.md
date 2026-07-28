@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Bird Watching
-
 #### How to Play
 ### How to Play
 

@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Skydiving
-
 #### How to Play
 ### How to Play
 

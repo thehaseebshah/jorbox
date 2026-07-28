@@ -14,7 +14,6 @@ difficulty: 3
 rating:
 ---
 ### Antakshari 25
-
 #### How to Play
 ### How to Play
 

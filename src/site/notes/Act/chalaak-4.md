@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Chalaak 4
-
 #### How to Play
 ### How to Play
 

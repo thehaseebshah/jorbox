@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Change
-
 #### How to Play
 ### How to Play
 

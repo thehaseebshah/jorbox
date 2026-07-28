@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Gol Gappay
-
 #### How to Play
 ### How to Play
 

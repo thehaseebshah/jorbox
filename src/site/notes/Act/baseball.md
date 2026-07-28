@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Baseball
-
 #### How to Play
 ### How to Play
 

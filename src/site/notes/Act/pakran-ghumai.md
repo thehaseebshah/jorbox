@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Pakran Ghumai
-
 #### How to Play
 ### How to Play
 

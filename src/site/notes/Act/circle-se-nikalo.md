@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Circle se Nikalo
-
 #### How to Play
 ### How to Play
 

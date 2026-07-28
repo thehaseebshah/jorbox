@@ -14,7 +14,6 @@ difficulty: 3
 rating:
 ---
 ### Ghutham Ghutha
-
 #### How to Play
 ### How to Play
 

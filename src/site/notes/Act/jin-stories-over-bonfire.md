@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Jin Stories over Bonfire
-
 #### How to Play
 ### How to Play
 

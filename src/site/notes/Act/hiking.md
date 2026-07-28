@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Hiking
-
 #### How to Play
 ### How to Play
 

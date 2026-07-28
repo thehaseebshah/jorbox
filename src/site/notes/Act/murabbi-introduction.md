@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Murabbi Introduction
-
 #### How to Play
 ### How to Play
 

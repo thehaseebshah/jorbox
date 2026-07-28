@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Pro Obstacle Course
-
 #### How to Play
 ### How to Play
 

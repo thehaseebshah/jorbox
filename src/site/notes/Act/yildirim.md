@@ -14,7 +14,6 @@ difficulty: "Easy"
 rating: 5
 ---
 ### Yildirim
-
 #### How to Play
 ### How to Play
 

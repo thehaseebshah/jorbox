@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Boni Kushti
-
 #### How to Play
 ### How to Play
 

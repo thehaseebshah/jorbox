@@ -14,7 +14,6 @@ difficulty: "Medium"
 rating:
 ---
 ### Scavenger Hunt
-
 #### How to Play
 ### How to Play
 

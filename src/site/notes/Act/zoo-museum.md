@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Zoo/Meuseum
-
 #### How to Play
 ### How to Play
 

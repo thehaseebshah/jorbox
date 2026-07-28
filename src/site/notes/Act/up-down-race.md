@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Up Down Race
-
 #### How to Play
 ### How to Play
 

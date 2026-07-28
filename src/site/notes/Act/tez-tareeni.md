@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Tez Tareeni
-
 #### How to Play
 ### How to Play
 

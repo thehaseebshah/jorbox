@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Attend a Conference
-
 #### How to Play
 ### How to Play
 

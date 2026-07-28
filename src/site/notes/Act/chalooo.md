@@ -13,7 +13,6 @@ difficulty: 3
 rating:
 ---
 ### Chalooo
-
 #### How to Play
 ### How to Play
 

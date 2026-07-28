@@ -14,7 +14,6 @@ difficulty: "Easy"
 rating: 4
 ---
 ### Dunya Mere Agay
-
 #### How to Play
 ### How to Play
 

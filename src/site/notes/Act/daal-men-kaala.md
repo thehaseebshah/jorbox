@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Daal men Kaala
-
 #### How to Play
 ### How to Play
 

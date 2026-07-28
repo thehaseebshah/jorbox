@@ -14,7 +14,6 @@ difficulty: 3
 rating:
 ---
 ### Dara
-
 #### How to Play
 ### How to Play
 

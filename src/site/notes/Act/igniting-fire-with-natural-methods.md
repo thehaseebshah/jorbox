@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Igniting Fire with Natural Methods
-
 #### How to Play
 ### How to Play
 

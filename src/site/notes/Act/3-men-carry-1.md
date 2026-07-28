@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### 3 Men Carry 1
-
 #### How to Play
 ### How to Play
 

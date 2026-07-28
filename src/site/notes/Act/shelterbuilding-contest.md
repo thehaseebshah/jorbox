@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Shelterbuilding Contest
-
 #### How to Play
 ### How to Play
 

@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Mahaz
-
 #### How to Play
 ### How to Play
 

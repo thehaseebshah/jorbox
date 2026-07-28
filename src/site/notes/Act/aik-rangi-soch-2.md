@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Aik Rangi Soch (v2)
-
 #### How to Play
 ### How to Play
 

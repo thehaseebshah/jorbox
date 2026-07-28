@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Night Manhunt w. Torches/Whistles
-
 #### How to Play
 ### How to Play
 

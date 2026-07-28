@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Sirf Sawal
-
 #### How to Play
 ### How to Play
 

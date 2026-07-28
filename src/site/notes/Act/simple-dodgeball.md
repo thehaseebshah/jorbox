@@ -14,7 +14,6 @@ difficulty: "Easy"
 rating:
 ---
 ### Simple Dodgeball
-
 #### How to Play
 ### How to Play
 

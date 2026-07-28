@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Yaaddasht
-
 #### How to Play
 ### How to Play
 

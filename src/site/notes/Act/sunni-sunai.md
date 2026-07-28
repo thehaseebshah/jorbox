@@ -14,7 +14,6 @@ difficulty: 3
 rating:
 ---
 ### Sunni Sunai
-
 #### How to Play
 ### How to Play
 

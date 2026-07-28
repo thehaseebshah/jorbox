@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Long Bike Tour
-
 #### How to Play
 ### How to Play
 

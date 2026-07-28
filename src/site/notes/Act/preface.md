@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Preface
-
 #### How to Play
 ### How to Play
 

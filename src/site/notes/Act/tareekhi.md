@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Tareekhi
-
 #### How to Play
 ### How to Play
 

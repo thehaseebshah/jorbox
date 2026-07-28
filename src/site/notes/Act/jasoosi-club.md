@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Jasoosi Club
-
 #### How to Play
 ### How to Play
 

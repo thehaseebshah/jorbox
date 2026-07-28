@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### River Crossing with Ropes
-
 #### How to Play
 ### How to Play
 

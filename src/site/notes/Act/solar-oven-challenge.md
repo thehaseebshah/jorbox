@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Solar Oven Challenge
-
 #### How to Play
 ### How to Play
 

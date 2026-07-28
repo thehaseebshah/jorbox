@@ -14,7 +14,6 @@ difficulty: 3
 rating:
 ---
 ### Teen Paanch Saat
-
 #### How to Play
 ### How to Play
 

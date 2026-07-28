@@ -14,7 +14,6 @@ difficulty: "Easy"
 rating: 3
 ---
 ### Badminton
-
 #### How to Play
 ### How to Play
 

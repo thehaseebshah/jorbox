@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Shooting
-
 #### How to Play
 ### How to Play
 

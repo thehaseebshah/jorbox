@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Octopus Race
-
 #### How to Play
 ### How to Play
 

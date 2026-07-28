@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Dimagh Ka Dahi
-
 #### How to Play
 ### How to Play
 

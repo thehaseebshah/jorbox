@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Ye to Wo
-
 #### How to Play
 ### How to Play
 

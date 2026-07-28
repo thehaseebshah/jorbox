@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Piddi Piddi
-
 #### How to Play
 ### How to Play
 

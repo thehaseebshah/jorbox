@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Travel VLOG
-
 #### How to Play
 ### How to Play
 

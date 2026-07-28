@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Frog Race
-
 #### How to Play
 ### How to Play
 

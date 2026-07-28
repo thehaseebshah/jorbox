@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Citywide Manhunt with GPS
-
 #### How to Play
 ### How to Play
 

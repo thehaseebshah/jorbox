@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Cheel ki Nazar
-
 #### How to Play
 ### How to Play
 

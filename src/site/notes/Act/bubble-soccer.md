@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Bubble Soccer
-
 #### How to Play
 ### How to Play
 

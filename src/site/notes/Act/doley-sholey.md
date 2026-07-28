@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Doley Sholey
-
 #### How to Play
 ### How to Play
 

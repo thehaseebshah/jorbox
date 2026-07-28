@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Human Foosball
-
 #### How to Play
 ### How to Play
 

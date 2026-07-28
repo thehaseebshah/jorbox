@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Capture the Flag
-
 #### How to Play
 ### How to Play
 

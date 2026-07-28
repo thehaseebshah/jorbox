@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Kana Raja
-
 #### How to Play
 ### How to Play
 

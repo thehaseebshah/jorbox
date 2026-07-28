@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Japani Karate
-
 #### How to Play
 ### How to Play
 

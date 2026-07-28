@@ -14,7 +14,6 @@ difficulty: "Easy"
 rating: 5
 ---
 ### Seerat Model Project Competition
-
 #### How to Play
 ### How to Play
 

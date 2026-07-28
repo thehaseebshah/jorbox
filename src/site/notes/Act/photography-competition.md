@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Photography Competition
-
 #### How to Play
 ### How to Play
 

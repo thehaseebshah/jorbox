@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Rummikub
-
 #### How to Play
 ### How to Play
 

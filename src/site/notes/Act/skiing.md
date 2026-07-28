@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Skiing
-
 #### How to Play
 ### How to Play
 

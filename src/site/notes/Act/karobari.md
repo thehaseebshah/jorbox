@@ -14,7 +14,6 @@ difficulty: 5
 rating: 5
 ---
 ### Karobari
-
 #### How to Play
 ### How to Play
 

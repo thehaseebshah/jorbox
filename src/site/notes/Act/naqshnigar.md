@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Naqshnigar
-
 #### How to Play
 ### How to Play
 

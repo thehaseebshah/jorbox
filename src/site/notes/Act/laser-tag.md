@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Laser Tag
-
 #### How to Play
 ### How to Play
 

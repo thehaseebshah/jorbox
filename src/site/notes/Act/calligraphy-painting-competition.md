@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Caligraphy/Painting Competition
-
 #### How to Play
 ### How to Play
 

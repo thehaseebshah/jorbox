@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Operation Jhanda
-
 #### How to Play
 ### How to Play
 

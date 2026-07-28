@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Dhun Boojho
-
 #### How to Play
 ### How to Play
 

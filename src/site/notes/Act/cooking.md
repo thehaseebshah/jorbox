@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Cooking
-
 #### How to Play
 ### How to Play
 

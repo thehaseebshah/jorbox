@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Swimming Volleyball
-
 #### How to Play
 ### How to Play
 

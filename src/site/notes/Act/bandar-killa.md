@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Bandar Killa
-
 #### How to Play
 ### How to Play
 

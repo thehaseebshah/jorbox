@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Khalai Mechanic
-
 #### How to Play
 ### How to Play
 

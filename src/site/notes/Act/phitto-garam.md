@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Phitto Garam
-
 #### How to Play
 ### How to Play
 

@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Carpentary
-
 #### How to Play
 ### How to Play
 

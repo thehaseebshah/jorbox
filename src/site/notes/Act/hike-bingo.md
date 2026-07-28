@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Hike Bingo
-
 #### How to Play
 ### How to Play
 

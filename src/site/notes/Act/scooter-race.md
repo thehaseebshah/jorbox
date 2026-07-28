@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Scooter Race
-
 #### How to Play
 ### How to Play
 

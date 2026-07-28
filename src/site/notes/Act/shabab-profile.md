@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Shabab Profile
-
 #### How to Play
 ### How to Play
 

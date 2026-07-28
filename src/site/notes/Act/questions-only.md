@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Questions Only
-
 #### How to Play
 ### How to Play
 

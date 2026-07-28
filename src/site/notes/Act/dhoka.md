@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Dhoka
-
 #### How to Play
 ### How to Play
 

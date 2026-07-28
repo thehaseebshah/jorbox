@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Natural Direction Finding
-
 #### How to Play
 ### How to Play
 

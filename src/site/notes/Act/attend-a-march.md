@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Attend a March
-
 #### How to Play
 ### How to Play
 

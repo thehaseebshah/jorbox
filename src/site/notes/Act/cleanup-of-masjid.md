@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Cleanup of Masjid
-
 #### How to Play
 ### How to Play
 

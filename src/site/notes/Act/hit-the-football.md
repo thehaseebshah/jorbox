@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Hit the Football
-
 #### How to Play
 ### How to Play
 

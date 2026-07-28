@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Slow Cycling Race
-
 #### How to Play
 ### How to Play
 

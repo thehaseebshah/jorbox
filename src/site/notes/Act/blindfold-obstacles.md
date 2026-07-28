@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Blindfold Obstacles
-
 #### How to Play
 ### How to Play
 

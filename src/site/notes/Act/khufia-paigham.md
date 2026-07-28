@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Khufia Paigham
-
 #### How to Play
 ### How to Play
 

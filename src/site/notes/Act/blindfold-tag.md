@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Blindfold Tag
-
 #### How to Play
 ### How to Play
 

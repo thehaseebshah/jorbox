@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Kushti
-
 #### How to Play
 ### How to Play
 

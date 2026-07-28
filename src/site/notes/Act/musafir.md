@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Musafir
-
 #### How to Play
 ### How to Play
 

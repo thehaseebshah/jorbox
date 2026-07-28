@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Hold Breath Challenge
-
 #### How to Play
 ### How to Play
 

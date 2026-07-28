@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Mamnoo Alfaaz
-
 #### How to Play
 ### How to Play
 

@@ -14,7 +14,6 @@ difficulty: 3
 rating:
 ---
 ### Do Goti
-
 #### How to Play
 ### How to Play
 

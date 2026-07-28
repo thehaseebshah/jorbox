@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Billi Chuha
-
 #### How to Play
 ### How to Play
 

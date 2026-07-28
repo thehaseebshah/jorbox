@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Marathon
-
 #### How to Play
 ### How to Play
 

@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Moaddabana Guzarish Hey
-
 #### How to Play
 ### How to Play
 

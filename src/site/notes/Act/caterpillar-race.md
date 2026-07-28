@@ -9,7 +9,6 @@ tried: false
 rating:
 ---
 ### Caterpillar Race
-
 #### How to Play
 ### How to Play
 

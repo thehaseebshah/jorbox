@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Watch Parties
-
 #### How to Play
 ### How to Play
 

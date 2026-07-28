@@ -14,7 +14,6 @@ difficulty: 3
 rating:
 ---
 ### Dil ki Sun
-
 #### How to Play
 ### How to Play
 

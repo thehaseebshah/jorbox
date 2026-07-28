@@ -14,7 +14,6 @@ difficulty: 4
 rating:
 ---
 ### Alfaaz
-
 #### How to Play
 ### How to Play
 

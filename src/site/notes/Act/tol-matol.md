@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Tol Matol
-
 #### How to Play
 ### How to Play
 

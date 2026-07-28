@@ -14,7 +14,6 @@ difficulty: 5
 rating:
 ---
 ### Catan
-
 #### How to Play
 ### How to Play
 
