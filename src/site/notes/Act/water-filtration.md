@@ -1,18 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Water Filtration"
-type: outdoor
-final: true
-added-to-shabab: true
-tried: false
-age-limit: "8+"
-group-size: "4+"
-duration: "30 minutes"
-prep-time: "< 5 minutes"
-difficulty: "Medium"
-rating:
+{"dg-publish":true,"permalink":"/act/water-filtration/","dg-note-properties":{"category":"JorBox Activity","name":"Water Filtration","type":"outdoor","final":true,"added-to-shabab":true,"tried":false,"age-limit":"8+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Medium","rating":null}}
 ---
+
 ### Water Filtration
 #### Instructions
 This activity provides hands-on learning about the importance of clean water and how natural materials can be used to filter contaminants. It encourages critical thinking about the efficiency of different filtration methods.
@@ -29,6 +18,7 @@ This activity provides hands-on learning about the importance of clean water and
      - A final layer of sand.
 
 ##### Video Instructions
+Click [here](https://www.youtube.com/shorts/MQWosAbsxLc?feature=share)
 *(You don’t have to use 3 bottles, you can do this with just one bottle – and use tissue instead of cloth)*
 
 ##### The Filtering Process
