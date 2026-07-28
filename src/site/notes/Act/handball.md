@@ -16,9 +16,9 @@ rating: 5
 
 ### Handball
 
-#### How to Play
+### How to Play
 
-##### Game Setup
+### Game Setup
 - **Teams:** 2 teams, 6 players each (adjust based on group size).
 - **Field:** Mark rectangle (~20x10 meters) with halfway line and two goal areas (2-3m wide). Around each goal, mark a 3-step square "no-entry zone" (only goalkeeper allowed inside).
 - **Ball:** Football or handball-sized ball.

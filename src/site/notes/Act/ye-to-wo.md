@@ -13,12 +13,16 @@ prep-time: "< 5 minutes"
 difficulty: 5
 rating:
 ---
+
 ### Ye to Wo
 
 #### How to Play
+
+
+### How to Play
 **Inspired by:** Jump In, Jump Out. Eliminate those that are unable to do it
 
-#### How to Play
+### How to Play
 **Inspired by:** Jump In, Jump Out. Eliminate those that are unable to do it
 
 Eliminate those that are unable to do it.

@@ -13,7 +13,14 @@ prep-time: "< 5 minutes"
 difficulty: 5
 rating:
 ---
+
 ### Mandi
 
 #### How to Play
+
+
+### How to Play
+
+
+### How to Play
 **Inspired by:** Pit

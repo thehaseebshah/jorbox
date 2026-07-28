@@ -13,6 +13,13 @@ prep-time: "< 5 minutes"
 difficulty: "Easy"
 rating: 4
 ---
+
 ### Taqreeri Muqabla
 
 #### How to Play
+
+
+### How to Play
+
+
+### How to Play

@@ -16,10 +16,10 @@ rating:
 
 ### Bol keh Lab Azaad hen Tere
 
-#### How to Play
+### How to Play
 **Inspired by:** Impromptu Speaking
 
-#### Setup
+### Setup
 - **Groups Formation:** Divide Shabab into groups of 10 (8-12 acceptable).
 - **Speaking Order:** Sit in a circle, number participants 1-10 to establish order.
 - **Topic Pool:** Prepare 15-20 topic cards with funny, desi-themed topics.

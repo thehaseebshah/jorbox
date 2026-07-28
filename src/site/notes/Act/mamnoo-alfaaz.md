@@ -12,4 +12,10 @@ rating:
 ### Mamnoo Alfaaz
 
 #### How to Play
+
+
+### How to Play
+
+
+### How to Play
 Video instructions are [here](https://shababskills.my.canva.site/mamnoo-alfaaz).

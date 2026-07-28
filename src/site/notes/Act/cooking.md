@@ -17,6 +17,12 @@ rating:
 ### Cooking
 
 #### How to Play
+
+
+### How to Play
+
+
+### How to Play
 Each cooking group will have to cook a meal, food or dish with the help of available resources. Each group will be having an Ameer. Mashwarat process is must to follow.
 
 Please make sure they have taken food material along equipment for cooking.

@@ -12,6 +12,12 @@ rating:
 ### Igniting Fire with Natural Methods
 
 #### How to Play
+
+
+### How to Play
+
+
+### How to Play
 Starting a fire without modern tools is a fundamental survival skill that teaches perseverance, problem-solving, and resourcefulness. This challenging activity builds patience (sabr) and reliance on effort. Always prioritize safety and be aware of local fire regulations.
 
 ##### 1. Gather Your Materials

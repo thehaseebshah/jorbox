@@ -11,13 +11,13 @@ rating:
 
 ### Ummah Innovators
 
-#### Setup
+### Setup
 - **Group Formation:** Divide all Shabab into groups of 6-8 players sitting in a circle.
 - **Word Cards:** Prepare 30-40 word cards with nouns, adjectives, and concepts.
 - **Starting Hand:** Each player draws 6 word cards to form their starting hand.
 - **Starting Judge:** Choose a starting player to be the first "Judge".
 
-#### How to Play
+### How to Play
 **Theme:** Players are inventors in a thriving Islamic civilization pitching revolutionary inventions to the Ministry of Innovation. Remember that Muslims were pioneers in science, mathematics, medicine, and technology — now it's your turn to continue that legacy!
 
 #### Round Structure

@@ -16,13 +16,13 @@ rating:
 
 ### Oonchi Imarat (Tallest Building)
 
-#### Setup
+### Setup
 - **Teams:** Divide the Shabab into small teams of 3-5 players.
 - **Materials:** Before activity day, ask each team to bring material such as Marshmallows (regular/mini), toothpicks or small sticks, construction paper, and tape/rope etc.
 - **Environment:** Gather the participants in a designated area of the park rich with natural objects like leaves, small rocks, pinecones, and branches.
 - **Rules Briefing:** The Murabbi explains that the goal is to build the tallest possible freestanding structure. Crucially, no single material used can be longer than 12 inches (1 foot), but objects can be joined together.
 
-#### How to Play
+### How to Play
 
 ##### Brainstorming & Mashawrat (5 Mins)
 Teams are given a few minutes to brainstorm and sketch out their tower designs. They must follow the formal mashawrat process. They should discuss which natural objects they plan to collect and how they will integrate them into their design for stability and height.

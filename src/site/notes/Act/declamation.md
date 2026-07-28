@@ -11,12 +11,12 @@ rating:
 
 ### Declamation
 
-#### Setup
+### Setup
 - **The Stage:** Set up a clear stage area facing the audience.
 - **The Audience:** Remaining Shabab sit formally as the audience.
 - **The Jury:** 2–3 Murabbis sit at a front table acting as judges.
 
-#### Instructions
+### Instructions
 1. **Pre-Announcement & Theme Selection:** 1 week before the event, participants select or draw a speech topic.
 2. **Order of Declamation:** Random draw determines speaking order on the day of the event.
 3. **The Delivery:** Each speaker has 3 to 4 minutes to deliver their speech.

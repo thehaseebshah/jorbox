@@ -13,7 +13,14 @@ prep-time: "< 5 minutes"
 difficulty: 5
 rating:
 ---
+
 ### Tadbeer
 
 #### How to Play
+
+
+### How to Play
+
+
+### How to Play
 **Inspired by:** Use two carpets, Group ISSB Challenge / Use two carpets, Group ISSB Challenges

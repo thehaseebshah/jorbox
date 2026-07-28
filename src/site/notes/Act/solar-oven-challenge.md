@@ -12,9 +12,12 @@ rating:
 ### Solar Oven Challenge
 
 #### How to Play
+
+
+### How to Play
 Building a solar oven is a practical activity that demonstrates how to harness the sun's power to cook food using simple materials. The oven's efficiency will depend on factors like sunlight intensity, reflector angle, and insulation.
 
-#### Instructions for Building
+### Instructions for Building
 1. **Prepare the Box:** Choose a suitable cardboard box; a pizza box is recommended due to its flap lid. Paint the inside of the box black with spray paint or line it with black construction paper to help absorb heat.
 2. **Create a Reflective Surface:** Cover the inside of the box lid securely with aluminum foil, ensuring it is smooth to reflect sunlight effectively.
 3. **Make a Clear Cover:** Cut a piece of clear plastic wrap or an oven bag to cover the box's opening. This creates a greenhouse effect, allowing sunlight in while trapping heat.

@@ -13,9 +13,13 @@ prep-time: "< 5 minutes"
 difficulty: 4
 rating:
 ---
+
 ### Carrom
 
 #### How to Play
 
-#### How to Play
+
+### How to Play
+
+### How to Play
 You already know.

@@ -13,12 +13,13 @@ prep-time: "< 5 minutes"
 difficulty: "Easy"
 rating: 4
 ---
+
 ### Naqshey (Map Drawing)
 
-#### How to Play
+### How to Play
 - **Items Needed:** Mentioned in description
 
-#### 1. Objective
+### 1. Objective
 To foster teamwork, observation skills, and appreciation for the urban planning of major cities in the Muslim world (past and present). Teams must recreate an accurate map of a city based solely on short-term memory.
 
 #### 2. Materials Required

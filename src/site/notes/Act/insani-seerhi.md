@@ -13,8 +13,15 @@ prep-time: "< 5 minutes"
 difficulty: 3
 rating:
 ---
+
 ### Insani Seerhi
 
 #### How to Play
+
+
+### How to Play
+
+
+### How to Play
 
 Watch: [Human Ladder team building game](https://www.youtube.com/watch?v=-ZZlhZFdqj0&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=126)

@@ -13,8 +13,15 @@ prep-time: "< 5 minutes"
 difficulty: 5
 rating:
 ---
+
 ### Ankh Macholi Plus
 
 #### How to Play
+
+
+### How to Play
+
+
+### How to Play
 
 Watch: [05 Blindfold Challenges](https://www.canva.com/design/DAGrce5W9go/887GJOqXg2YnjxYHzpSUTQ/watch?utlId=h01efe52494)

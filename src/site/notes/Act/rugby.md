@@ -16,9 +16,9 @@ rating: 5
 
 ### Rugby
 
-#### How to Play
+### How to Play
 
-##### Game Setup
+### Game Setup
 - **Teams:** 2 teams, each consisting of 6 or more players.
 - **Field:** Use chalk, sticks, or tape to mark a halfway line, two scoring lines, and two cones/bags on each end for scoring zones.
 - **Ball:** Use any football (no need for a rugby ball).

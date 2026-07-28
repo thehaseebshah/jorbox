@@ -11,11 +11,11 @@ rating:
 
 ### A Legacy of the Lions
 
-#### Setup
+### Setup
 - **Present the Prompts:** The Murabbi presents prompt options clearly.
 - **Set the Atmosphere:** Ensure a quiet, serious, and reflective environment.
 
-#### How to Participate
+### How to Participate
 1. **The Reminder (5 mins):** Short talk on legacy in Islam vs. materialism.
 2. **Choose Your Path (1 min):** Select one of the two prompts.
 3. **The Ink Flows (25 mins):** Participants write focusing on sincerity (*Ikhlas*).

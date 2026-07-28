@@ -13,14 +13,15 @@ prep-time: "60 minutes"
 difficulty: 5
 rating:
 ---
+
 ### Jang
 
-#### How to Play
+### How to Play
 - **Items Needed:** Map, tokens, paper, pencil
 
 *Reference: How to Play Kriegsspiel*
 
-##### Introduction: Welcome to the Commander's Tent
+### Introduction: Welcome to the Commander's Tent
 This handbook is designed to give you a simple, accessible framework to run your first game of Jang.
 
 The heart of Jang, and its most enjoyable aspect, isn't the minutia of combat. The real fun comes from "making the big decisions." It's about answering the big questions: "How am I going to get to the battle? Where am I going to commit my troops? Where am I going to put my reserve? Win, lose, or draw, what's my plan to get out?" That's where the magic is.

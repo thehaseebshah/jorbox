@@ -13,6 +13,13 @@ prep-time: "< 5 minutes"
 difficulty: 4
 rating:
 ---
+
 ### Jungle Foraging and Crafting
 
 #### How to Play
+
+
+### How to Play
+
+
+### How to Play

@@ -11,7 +11,7 @@ rating:
 
 ### Operation: Virtue Scrolls
 
-#### Setup
+### Setup
 - **Teams:** Divide the Shabab into teams of 4. There can be as many teams as needed. Murabbis can join teams to make the numbers even.
 - **Bases & Virtue Stacks:** Each team chooses a starting corner or area for their base. In the center of their base, they will have their "Virtue Stack," a pile of folded papers in plain sight. Each team starts with 10 Virtue Scrolls in their stack.
 - **Central Cache:** An additional 10 Virtue Scrolls are placed in a pile in the exact center of the field.
@@ -20,7 +20,7 @@ rating:
 	- ![Pasted image 20260727011215.png](/img/user/Attachments/Pasted%20image%2020260727011215.png)
 - **Referees:** One or more Murabbis will act as timekeepers and referees to ensure fair play.
 
-#### How to Play
+### How to Play
 **Start of the Round:** On the Murabbi's signal, the game begins. Players can move anywhere on the field.
 
 **The Objective:** The goal is to have the most Virtue Scrolls in your team's stack when the time runs out. You can acquire more scrolls by taking them from the central cache or by retrieving them from the stacks of other teams.

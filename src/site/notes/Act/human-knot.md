@@ -12,6 +12,12 @@ rating:
 ### Human Knot
 
 #### How to Play
+
+
+### How to Play
+
+
+### How to Play
 Watch [this video guide](https://www.canva.com/design/DAGrcbXXAQg/kXYsSv2Zvi15-W-3-MMQkQ/watch).
 
 Ask questions to Shabab such as:

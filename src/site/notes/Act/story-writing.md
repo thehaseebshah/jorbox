@@ -11,12 +11,12 @@ rating:
 
 ### Story Writing
 
-#### Setup
+### Setup
 - Divide Shabab into teams of two.
 - Give all teams the same starter prompt: "A traveler loses his way in a strange land…"
 - Tell them they must craft a story with a full arc and a moral conclusion.
 
-#### Murabbi Briefing (Before Play)
+### Murabbi Briefing (Before Play)
 **Why stories are important:**
 - Stories are one of the oldest ways humans learn and remember.
 - The Qur'an itself teaches through stories of Prophets and nations—because stories touch the heart and stay in the mind.

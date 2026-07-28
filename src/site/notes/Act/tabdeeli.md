@@ -13,8 +13,15 @@ prep-time: "< 5 minutes"
 difficulty: 4
 rating:
 ---
+
 ### Tabdeeli
 
 #### How to Play
+
+
+### How to Play
+
+
+### How to Play
 
 Watch: [Excalidraw - 8 August 2025](https://www.loom.com/share/12d55aac4a5a4cc883843de3ef03d5a6)
