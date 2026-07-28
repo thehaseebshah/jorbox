@@ -10,8 +10,7 @@ rating:
 ---
 ### Spy Club
 
-### Setup
-
+##### Setup
 - **Players:** 4–15 Shabab per group.
 - **Topic Pages:** 10 topic pages featuring a 4x4 grid of 16 related words.
 - **Murabbi:** Responsible for running the game and ensuring fairness throughout.
@@ -23,7 +22,7 @@ rating:
 4. **Discussion Round (2 mins):** Players debate who the Spy is. The Spy acts natural.
 5. **Voting Round:** Players vote by pointing on count.
 
-#### Winning Conditions
+##### Winning Conditions
 - **The Spy Wins if:** They are not identified by majority vote, OR if identified, they correctly guess the secret word.
 - **The Non-spies Win if:** They correctly identify the Spy AND the Spy fails to guess the secret word.
 

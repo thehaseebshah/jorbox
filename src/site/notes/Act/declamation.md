@@ -10,8 +10,7 @@ rating:
 ---
 ### Declamation
 
-### Setup
-
+##### Setup
 - **The Stage:** Set up a clear stage area facing the audience.
 - **The Audience:** Remaining Shabab sit formally as the audience.
 - **The Jury:** 2–3 Murabbis sit at a front table acting as judges.

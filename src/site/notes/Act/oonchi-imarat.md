@@ -15,8 +15,7 @@ rating:
 ---
 ### Oonchi Imarat (Tallest Building)
 
-### Setup
-
+##### Setup
 - **Teams:** Divide the Shabab into small teams of 3-5 players.
 - **Materials:** Before activity day, ask each team to bring material such as Marshmallows (regular/mini), toothpicks or small sticks, construction paper, and tape/rope etc.
 - **Environment:** Gather the participants in a designated area of the park rich with natural objects like leaves, small rocks, pinecones, and branches.
@@ -33,7 +32,7 @@ The Murabbi should evaluate each shabab's contribution, teamwork, and problem-so
 
 Encourage creativity and innovative uses of the natural objects to achieve height and stability.
 
-#### Winning Conditions
+##### Winning Conditions
 - **Primary Winner:** Once the building time is up, the Murabbi will use a measuring tape to measure the height of each team's tower from its base to its highest point. The team with the tallest freestanding tower is declared the winner.
 - **Secondary Categories:** The Murabbi can also announce winners for:
   - **Most Creative Design:** For the most innovative and artistic tower.

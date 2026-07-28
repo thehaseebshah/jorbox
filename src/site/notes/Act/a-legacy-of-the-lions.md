@@ -10,8 +10,7 @@ rating:
 ---
 ### A Legacy of the Lions
 
-### Setup
-
+##### Setup
 - **Present the Prompts:** The Murabbi presents prompt options clearly.
 - **Set the Atmosphere:** Ensure a quiet, serious, and reflective environment.
 
@@ -29,7 +28,7 @@ rating:
 
 **Prompt B: Letter to My Son:** Write a one-page letter to your 15-year-old future son, outlining the most important principles he must live by as a Muslim man.
 
-#### Evaluation & Scoring
+##### Evaluation & Scoring
 The Murabbi will score the chosen written piece out of 20 points based on the following criteria:
 
 | Criterion | Description | Points |

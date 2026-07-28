@@ -10,8 +10,7 @@ rating:
 ---
 ### Breach & Clear
 
-### Setup
-
+##### Setup
 - **Teams & Roles:** Divide players into two even teams. For the first round, designate one team as Attackers and the other as Defenders.
 - **The Fortress:** Define the defensive area. A playground structure is ideal, but any clearly marked area with good cover will work. Defenders must stay within this area.
 - **The Objective Bag:** The "flag" is a bag filled with papers inscribed with Emaani Sifaat (Virtue Scrolls). Have some chits with Emaani Sifaat written on them and don't tell Shabab. At the end of the game tell them what was in the bag, and explain the importance of these Sifaat. This bag is placed in a visible but defensible spot deep inside the Fortress.
@@ -33,7 +32,7 @@ The game is played in two rounds, with teams switching roles for the second roun
 
 **Round 2: Switching Sides:** The teams now switch roles. The former Defenders become the new Attackers, and vice-versa. The clock is reset. The new Attacking team now attempts to capture the bag in the same scenario.
 
-#### Winning Conditions
+##### Winning Conditions
 This game is a time trial. The first team of Attackers sets the time to beat. To win, the second team of Attackers must capture the bag faster than the first team. If the first team failed to capture the bag within the time limit, the second team only needs to succeed in capturing it at all to win. If both teams fail to capture the bag, the game is a draw.
 
 #### Core Gameplay Rules

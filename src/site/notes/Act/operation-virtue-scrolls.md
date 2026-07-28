@@ -10,8 +10,7 @@ rating:
 ---
 ### Operation: Virtue Scrolls
 
-### Setup
-
+##### Setup
 - **Teams:** Divide the Shabab into teams of 4. There can be as many teams as needed. Murabbis can join teams to make the numbers even.
 - **Bases & Virtue Stacks:** Each team chooses a starting corner or area for their base. In the center of their base, they will have their "Virtue Stack," a pile of folded papers in plain sight. Each team starts with 10 Virtue Scrolls in their stack.
 - **Central Cache:** An additional 10 Virtue Scrolls are placed in a pile in the exact center of the field.

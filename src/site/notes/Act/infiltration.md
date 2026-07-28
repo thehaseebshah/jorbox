@@ -10,12 +10,10 @@ rating:
 ---
 ### Infiltration
 
-### Game Objective
-
+##### Game Objective
 The goal of the Operatives is to successfully complete 3 out of 5 missions. The goal of the Spies is to cause 3 missions to fail. The Spies know who their fellow spies are, but the Operatives are in the dark, forced to rely on deduction and trust.
 
-### Players & Roles
-
+##### Players & Roles
 - Total Players: 7 Shabab
 - Operatives (4): Strive to complete missions successfully.
 - Spies (3): Work quietly to fail missions.
@@ -28,7 +26,7 @@ Only the Murabbi knows the identity of the Spies.
 3. Spies Reveal: Close eyes, Spies open and see each other, close eyes, everyone open.
 4. Explain the Rules: Describe game flow.
 
-#### Game Flow
+##### Game Flow
 The game consists of 5 rounds, or "Missions." Each mission follows these steps:
 
 ##### 1. Appoint the Mission Ameer
@@ -64,7 +62,7 @@ The game consists of 5 rounds, or "Missions." Each mission follows these steps:
 - Players may discuss, question, or stay silent—but must not make false claims about their identity or actions.
 - The Murabbi ensures smooth play and resolves any disputes.
 
-#### Strategy Tips
+##### Strategy Tips
 **For Operatives:**
 - Track who consistently approves or rejects teams, especially when a Spies is likely on the team.
 - Pay close attention to which players serve on failed missions. A failed mission with 3 players has at least one Spies.

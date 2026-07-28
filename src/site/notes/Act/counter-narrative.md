@@ -10,8 +10,7 @@ rating:
 ---
 ### Counter-Narrative
 
-### Setup
-
+##### Setup
 - **Prepare the Gauntlet:** The Murabbi prepares 5-10 topic cards with common anti-Islamic or secular arguments.
 - **Arrange the Majlis:** Shabab sit in a semi-circle, ready to write.
 
@@ -26,7 +25,7 @@ This is an Essay Writing Activity.
 
 **Language of Submission:** Urdu
 
-#### Evaluation & Scoring
+##### Evaluation & Scoring
 The Murabbi will score each piece out of 20 points based on:
 
 | Criterion | Description | Points |

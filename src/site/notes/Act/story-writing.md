@@ -10,8 +10,7 @@ rating:
 ---
 ### Story Writing
 
-### Setup
-
+##### Setup
 - Divide Shabab into teams of two.
 - Give all teams the same starter prompt: "A traveler loses his way in a strange land…"
 - Tell them they must craft a story with a full arc and a moral conclusion.
