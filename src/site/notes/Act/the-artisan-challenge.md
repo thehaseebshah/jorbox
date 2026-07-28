@@ -1,16 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/v1/30/","dg-note-properties":{"category":"Shabab Skills Curriculum","lesson-batch":"Feb 2025","module":"V1 Curriculum","name":"Crafting"}}
+category: JorBox Activity
+dg-publish: true
+name: "The Artisan Challenge"
+type: crafting
+final: true
+added-to-shabab: true
+tried: false
+age-limit: "8+"
+group-size: "2–3 players per team"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: "Medium"
+rating: 5
 ---
-
-# Crafting
-
-> [!info] Learning Objectives
-> To develop imagination and creativity through Islamic themes; to practice structuring a clear beginning, middle, and end in storytelling; to improve communication and confidence in narrating; to learn the importance of clarity, relevance, and moral purpose in stories; and to strengthen brotherhood by listening respectfully and encouraging one another's creativity.
-
-## Activity 1:
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
 ### The Artisan Challenge
 #### How to Play
 - Divide into individuals or small teams (2–3 members).
@@ -63,5 +65,3 @@ Shabab do not know beforehand that they will be crafting. They must use:
 - Emphasize creativity over perfection.
 - Remind Shabab: even Sahabah and great leaders used what they had with Amanah and skill.
 - Encourage short reflections: "What does this object represent?" or "How could this help someone?"
-
-</div></div>
