@@ -29,3 +29,9 @@
 - Both the site repository (`/home/haseeb/Personal-Dev/Shabab-Skills/shabab/`) and the Obsidian Vault repository (`D:\Shabab` / `/mnt/d/Shabab/`) are independent git repositories.
 - Whenever any notes or files are modified, created, or deleted, you MUST commit the changes to BOTH repositories (`git commit` in site repo and `git -C /mnt/d/Shabab commit` in vault repo) on each change.
 
+## Extra Caution & Precision Rule
+- **Be Extra Cautious:** ALWAYS exercise extreme care, thoroughness, and precision before performing batch edits, file modifications, or script executions.
+- **Verify Original Intent & Structure:** NEVER blindly overwrite, copy, or refactor notes without verifying the exact original content and structure of both the vault and site files.
+- **Surgical Modifications Only:** Make exact, targeted edits without deleting required links, headings, or metadata unless explicitly requested.
+
+
