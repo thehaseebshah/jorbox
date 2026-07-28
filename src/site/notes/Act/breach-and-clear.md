@@ -60,7 +60,7 @@ They must follow the Core Gameplay Rules for being hit.
 The former Defenders become the new Attackers, and vice-versa.
 The clock is reset.
 
-6. **New Objective:** The new Attacking team now attempts to capture the bag in the same scenario.
+**New Objective:** The new Attacking team now attempts to capture the bag in the same scenario.
 
 #### Winning Conditions
 

@@ -102,7 +102,7 @@ Repetition is allowed to make enough for all the scrolls.
 - Shuja'at (Courage)
 - Istiqamah (Steadfastness)
 - Yaqeen (Certainty)
-- Tawbah (Repentance) 1aws
+- Tawbah (Repentance)
 - Afw (Forgiveness)
 - Himmah (High Ambition)
 - Jihad al-Nafs (Struggle against the self)
