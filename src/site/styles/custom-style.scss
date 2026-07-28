@@ -1168,6 +1168,15 @@ main.content img:hover {
     transform: translateY(-3px);
 }
 
+/* Keep consecutive attachments grouped without tightening standalone media. */
+main.content picture[src^="/img/user/Attachments/"]:has(+ br + picture[src^="/img/user/Attachments/"]) > img {
+    margin-bottom: 0.5rem;
+}
+
+main.content picture[src^="/img/user/Attachments/"] + br + picture[src^="/img/user/Attachments/"] > img {
+    margin-top: 0.5rem;
+}
+
 /* --------------------------------------------------------------------------
    8. MUTED GLASS CALLOUT TILES
    -------------------------------------------------------------------------- */
