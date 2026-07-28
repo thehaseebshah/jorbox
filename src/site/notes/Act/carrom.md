@@ -17,5 +17,5 @@ rating:
 
 #### How to Play
 
-##### How to Play
+#### How to Play
 You already know.

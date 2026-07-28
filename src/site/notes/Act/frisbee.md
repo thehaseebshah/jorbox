@@ -17,7 +17,7 @@ rating: 4
 
 #### How to Play
 
-##### Variations
+#### Variations
 - **Variation 1:** [How to Play Ultimate Frisbee](https://www.wikihow.com/Play-Ultimate-Frisbee)
 - **Variation 2:** Qaidi Qaidi (Popular game)
 

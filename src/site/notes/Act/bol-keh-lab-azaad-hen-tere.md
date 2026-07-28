@@ -19,7 +19,7 @@ rating:
 #### How to Play
 **Inspired by:** Impromptu Speaking
 
-##### Setup
+#### Setup
 - **Groups Formation:** Divide Shabab into groups of 10 (8-12 acceptable).
 - **Speaking Order:** Sit in a circle, number participants 1-10 to establish order.
 - **Topic Pool:** Prepare 15-20 topic cards with funny, desi-themed topics.
@@ -82,6 +82,6 @@ rating:
 19. "Explaining Modern Fashion to Your Conservative Uncle"
 20. "The Philosophy of Waiting for 'Bas 5 Minute'"
 
-##### Rules & Strategy
+#### Rules & Strategy
 - **Preparation Strategy:** First 30s understand angle; next 60s think of 2-3 points; final 30s plan opening/closing.
 - **Speaking Strategy:** Start with a hook/observation, use personal experiences, include desi phrases naturally, end with a memorable conclusion.
