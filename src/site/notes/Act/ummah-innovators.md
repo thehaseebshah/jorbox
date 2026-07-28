@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/act/ummah-innovators/","dg-note-properties":{"category":"JorBox Activity","name":"Ummah Innovators","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
+category: JorBox Activity
+dg-publish: true
+name: "Ummah Innovators"
+type: shabab-act
+final: false
+added-to-shabab: false
+tried: false
+rating:
 ---
-
 ### Ummah Innovators
 
 ##### Setup

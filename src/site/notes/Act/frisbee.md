@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/act/frisbee/","dg-note-properties":{"category":"JorBox Activity","name":"Frisbee","type":"sports","final":true,"added-to-shabab":false,"tried":false,"age-limit":"8+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Easy","rating":4}}
+category: JorBox Activity
+dg-publish: true
+name: "Frisbee"
+type: sports
+final: true
+added-to-shabab: false
+tried: false
+age-limit: "8+"
+group-size: "4+"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: "Easy"
+rating: 4
 ---
-
 ### Frisbee
 #### How to Play
 ### Variations

@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/act/questions-from-a-video/","dg-note-properties":{"category":"JorBox Activity","name":"Questions From A Video","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
+category: JorBox Activity
+dg-publish: true
+name: "Questions From A Video"
+type: shabab-act
+final: false
+added-to-shabab: false
+tried: false
+rating:
 ---
-
 ### Questions from a Video
 #### How to Play
 Video instructions are [here](https://www.canva.com/design/DAGrcwneozM/awb66Baf91wxsJKDyBBMHw/watch). Use this YouTube video: [youtu.be/7bu84ZXybjo](http://youtu.be/7bu84ZXybjo).

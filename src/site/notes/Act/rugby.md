@@ -1,13 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/act/rugby/","dg-note-properties":{"category":"JorBox Activity","name":"Rugby","type":"sports","final":true,"added-to-shabab":true,"tried":false,"age-limit":"5+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Easy","rating":5}}
+category: JorBox Activity
+dg-publish: true
+name: "Rugby"
+type: sports
+final: true
+added-to-shabab: true
+tried: false
+age-limit: "5+"
+group-size: "4+"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: "Easy"
+rating: 5
 ---
-### Rugby
-#### How to Play
-##### Game Setup
-- **Teams:** 2 teams, each consisting of 6 or more players.
-- **Field:** Use chalk, sticks, or tape to mark a halfway line, two scoring lines, and two cones/bags on each end for scoring zones.
-- **Ball:** Use any football (no need for a rugby ball).
-
 ### Rugby
 #### How to Play
 ##### Game Setup

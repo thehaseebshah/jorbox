@@ -1,13 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/act/handball/","dg-note-properties":{"category":"JorBox Activity","name":"Handball","type":"sports","final":true,"added-to-shabab":false,"tried":false,"age-limit":"8+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Easy","rating":5}}
+category: JorBox Activity
+dg-publish: true
+name: "Handball"
+type: sports
+final: true
+added-to-shabab: false
+tried: false
+age-limit: "8+"
+group-size: "4+"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: "Easy"
+rating: 5
 ---
-### Handball
-#### How to Play
-##### Game Setup
-- **Teams:** 2 teams, 6 players each (adjust based on group size).
-- **Field:** Mark rectangle (~20x10 meters) with halfway line and two goal areas (2-3m wide). Around each goal, mark a 3-step square "no-entry zone" (only goalkeeper allowed inside).
-- **Ball:** Football or handball-sized ball.
-
 ### Handball
 #### How to Play
 ##### Game Setup

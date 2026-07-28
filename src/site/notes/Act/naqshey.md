@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/act/naqshey/","dg-note-properties":{"category":"JorBox Activity","name":"Naqshey","type":"miscellaneous","final":true,"added-to-shabab":true,"tried":false,"age-limit":"7+","group-size":"2+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Easy","rating":4}}
+category: JorBox Activity
+dg-publish: true
+name: "Naqshey"
+type: miscellaneous
+final: true
+added-to-shabab: true
+tried: false
+age-limit: "7+"
+group-size: "2+"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: "Easy"
+rating: 4
 ---
-
 ### Naqshey (Map Drawing)
 #### How to Play
 - **Items Needed:** Mentioned in description

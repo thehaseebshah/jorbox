@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/act/declamation/","dg-note-properties":{"category":"JorBox Activity","name":"Declamation","type":"debate","final":true,"added-to-shabab":true,"tried":false,"age-limit":"10+","group-size":"3+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Easy","rating":4}}
+category: JorBox Activity
+dg-publish: true
+name: "Declamation"
+type: debate
+final: true
+added-to-shabab: true
+tried: false
+age-limit: "10+"
+group-size: "3+"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: "Easy"
+rating: 4
 ---
-
 ### Declamation
 #### Instructions
 1. **Pre-Announcement & Theme Selection:** 1 week before the event, participants select or draw a speech topic.
@@ -27,5 +38,3 @@
 | Clarity & Articulation | 10 pts | Clear pronunciation and rhythmic flow |
 | Emotional Depth | 10 pts | Speaking from the heart with genuine passion |
 | Structure & Impact | 10 pts | Powerful opening hook and memorable conclusion |
-
-</div></div>

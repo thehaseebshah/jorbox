@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/act/v1-lessons/","dg-note-properties":{"category":"JorBox Activity","name":"V1 Lessons","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
+category: JorBox Activity
+dg-publish: true
+name: "V1 Lessons"
+type: shabab-act
+final: false
+added-to-shabab: false
+tried: false
+rating:
 ---
-
 ### Shabab Skills v1 Lessons (Feb 2025)
 #### How to Play
 ```base

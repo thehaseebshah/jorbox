@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/act/muhafiz/","dg-note-properties":{"category":"JorBox Activity","name":"Muhafiz","type":"outdoor","final":false,"added-to-shabab":false,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
+category: JorBox Activity
+dg-publish: true
+name: "Muhafiz"
+type: outdoor
+final: false
+added-to-shabab: false
+tried: false
+age-limit: "14+"
+group-size: "5–10 players"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 4
+rating:
 ---
-
 ### Muhafiz
 #### How to Play
 **Inspired by:** Bodygaurd

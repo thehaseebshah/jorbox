@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/act/tez-tareeni/","dg-note-properties":{"category":"JorBox Activity","name":"Tez Tareeni","type":"deck","final":false,"added-to-shabab":false,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
+category: JorBox Activity
+dg-publish: true
+name: "Tez Tareeni"
+type: deck
+final: false
+added-to-shabab: false
+tried: false
+age-limit: "14+"
+group-size: "5–10 players"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 4
+rating:
 ---
-
 ### Tez Tareeni
 #### How to Play
 **Inspired by:** Speed

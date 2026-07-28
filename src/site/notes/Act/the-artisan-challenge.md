@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/act/the-artisan-challenge/","dg-note-properties":{"category":"JorBox Activity","name":"The Artisan Challenge","type":"crafting","final":true,"added-to-shabab":true,"tried":false,"age-limit":"8+","group-size":"2–3 players per team","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Medium","rating":5}}
+category: JorBox Activity
+dg-publish: true
+name: "The Artisan Challenge"
+type: crafting
+final: true
+added-to-shabab: true
+tried: false
+age-limit: "8+"
+group-size: "2–3 players per team"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: "Medium"
+rating: 5
 ---
-
 ### The Artisan Challenge
 #### How to Play
 - Divide into individuals or small teams (2–3 members).

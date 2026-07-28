@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/act/kis-men-kitna-hey-dam/","dg-note-properties":{"category":"JorBox Activity","name":"Kis men Kitna hey Dam","type":"outdoor","final":false,"added-to-shabab":true,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":5,"rating":null}}
+category: JorBox Activity
+dg-publish: true
+name: "Kis men Kitna hey Dam"
+type: outdoor
+final: false
+added-to-shabab: true
+tried: false
+age-limit: "14+"
+group-size: "5–10 players"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 5
+rating:
 ---
-
 ### Kis men Kitna hey Dam
 #### How to Play
 **Inspired by:** TicTacToe Relay and Shuffle Relay

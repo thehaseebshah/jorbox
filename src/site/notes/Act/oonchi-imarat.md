@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/act/oonchi-imarat/","dg-note-properties":{"category":"JorBox Activity","name":"Oonchi Imarat","type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false,"age-limit":"8+","group-size":"4+","duration":"60 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
+category: JorBox Activity
+dg-publish: true
+name: "Oonchi Imarat"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
+age-limit: "8+"
+group-size: "4+"
+duration: "60 minutes"
+prep-time: "< 5 minutes"
+difficulty: 4
+rating:
 ---
-
 ### Oonchi Imarat (Tallest Building)
 
 ##### Setup
@@ -38,5 +49,3 @@ Engage participants in a discussion about the activity. Ask questions like:
 
 #### Cleanup and Nature Respect
 Remind participants to clean up their areas and return any unused natural objects they collected back to where they found them. Stress the importance of respecting the environment and leaving the park as beautiful as they found it.
-
-</div></div>

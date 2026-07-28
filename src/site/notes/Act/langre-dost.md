@@ -1,7 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/act/langre-dost/","dg-note-properties":{"category":"JorBox Activity","name":"Langre Dost","type":"outdoor","final":false,"added-to-shabab":true,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
+category: JorBox Activity
+dg-publish: true
+name: "Langre Dost"
+type: outdoor
+final: false
+added-to-shabab: true
+tried: false
+age-limit: "14+"
+group-size: "5–10 players"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 4
+rating:
 ---
-
 ### Langre Dost
 #### How to Play
 **Inspired by:** Handicap Obstacles

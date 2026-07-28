@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/act/lessons/","dg-note-properties":{"category":"JorBox Activity","name":"Lessons","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
+category: JorBox Activity
+dg-publish: true
+name: "Lessons"
+type: shabab-act
+final: false
+added-to-shabab: false
+tried: false
+rating:
 ---
-
 ### Shabab Skills Lessons
 #### How to Play
 ```base

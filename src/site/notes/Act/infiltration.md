@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/act/infiltration/","dg-note-properties":{"category":"JorBox Activity","name":"Infiltration","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
+category: JorBox Activity
+dg-publish: true
+name: "Infiltration"
+type: shabab-act
+final: false
+added-to-shabab: false
+tried: false
+rating:
 ---
-
 ### Infiltration
 
 ##### Game Objective

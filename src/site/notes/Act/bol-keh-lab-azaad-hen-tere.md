@@ -1,10 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/act/bol-keh-lab-azaad-hen-tere/","dg-note-properties":{"category":"JorBox Activity","name":"Bol keh Lab Azaad hen Tere","type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false,"age-limit":"12+","group-size":"3+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
+category: JorBox Activity
+dg-publish: true
+name: "Bol keh Lab Azaad hen Tere"
+type: miscellaneous
+final: false
+added-to-shabab: true
+tried: false
+age-limit: "12+"
+group-size: "3+"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: 4
+rating:
 ---
-### Bol keh Lab Azaad hen Tere
-#### How to Play
-**Inspired by:** Impromptu Speaking
-
 ### Bol keh Lab Azaad hen Tere
 #### How to Play
 **Inspired by:** Impromptu Speaking

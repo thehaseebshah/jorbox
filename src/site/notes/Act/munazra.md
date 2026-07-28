@@ -1,8 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/act/munazra/","dg-note-properties":{"category":"JorBox Activity","name":"Munazra","type":"debate","final":true,"added-to-shabab":true,"tried":false,"age-limit":"14+","group-size":"4+","duration":"60 minutes","prep-time":"30 minutes","difficulty":"Medium","rating":5}}
+category: JorBox Activity
+dg-publish: true
+name: "Munazra"
+type: debate
+final: true
+added-to-shabab: true
+tried: false
+age-limit: "14+"
+group-size: "4+"
+duration: "60 minutes"
+prep-time: "30 minutes"
+difficulty: "Medium"
+rating: 5
 ---
-### Munazra (The Scholar's Blade)
-
 ### Munazra (The Scholar's Blade)
 
 ##### Murabbi Briefing

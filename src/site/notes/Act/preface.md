@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/act/preface/","dg-note-properties":{"category":"JorBox Activity","name":"Preface","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
+category: JorBox Activity
+dg-publish: true
+name: "Preface"
+type: shabab-act
+final: false
+added-to-shabab: false
+tried: false
+rating:
 ---
-
 ### Preface
 #### How to Play
 What Shabab will get after completion of 6 months, what will be the benefits? *(For Murabbi Reading)*

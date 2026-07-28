@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/act/a-legacy-of-the-lions/","dg-note-properties":{"category":"JorBox Activity","name":"A Legacy of the Lions","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
+category: JorBox Activity
+dg-publish: true
+name: "A Legacy of the Lions"
+type: shabab-act
+final: false
+added-to-shabab: false
+tried: false
+rating:
 ---
-
 ### A Legacy of the Lions
 
 ##### Setup
