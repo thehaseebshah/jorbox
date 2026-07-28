@@ -2,8 +2,8 @@
 category: JorBox Activity
 dg-publish: true
 name: "Taqreeri Muqabla"
-type: miscellaneous
-final: false
+type: debate
+final: true
 added-to-shabab: true
 tried: false
 age-limit: "10+"
@@ -14,7 +14,5 @@ difficulty: "Easy"
 rating: 4
 ---
 ### Taqreeri Muqabla
-#### How to Play
-### How to Pla
-
-y
+#### Instructions
+Speech competition on assigned topics focusing on vocal delivery, structure, and persuasive argumentation.
