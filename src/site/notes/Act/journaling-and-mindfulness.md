@@ -1,16 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/v1/24/","dg-note-properties":{"category":"Shabab Skills Curriculum","lesson-batch":"Feb 2025","module":"V1 Curriculum","name":"Mindfullness, Journalling and Productivity"}}
+category: JorBox Activity
+dg-publish: true
+name: "Journaling and Mindfulness"
+type: mindset
+final: true
+added-to-shabab: true
+tried: false
+age-limit: "12+"
+group-size: "1+"
+duration: "35 minutes"
+prep-time: "< 5 minutes"
+difficulty: "Medium"
+rating:
 ---
-
-# Mindfullness, Journalling and Productivity
-
-> [!info] Learning Objectives
-> Cultivating sincere self-accountability (Muhasabah) by reflecting on one's deeds, instilling a conscious awareness of death (Dhikr al-Mawt) to focus the heart on the Akhirah, fostering a state of gratitude (Shukr) and repentance (Tawbah), and establishing journaling (Tadwin) as a practical tool for spiritual growth.
-
-## Activity 1:
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
 ### Journaling and Mindfulness
 #### Instructions
 This is a deeply personal and serious activity. The Murabbi must establish a quiet, sincere, and respectful atmosphere, free from distractions.
@@ -40,5 +42,3 @@ After the reflection, the Murabbi will explain the importance of journaling as a
 
 **The Journal Entry (15 minutes):**
 The Shabab will spend the next 15 minutes writing their private journal entry based on the reflections and prompts. The Murabbi must ensure there is absolute silence during this time. The activity concludes when the time is up. There is no sharing session, as the purpose is private accountability.
-
-</div></div>
