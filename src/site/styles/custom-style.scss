@@ -1825,3 +1825,18 @@ div.transclusion .markdown-preview-view,
     margin-right: 0 !important;
 }
 
+/* Published note transclusions use a distinct framed card. */
+main.content div.transclusion.internal-embed {
+    margin: 1.5rem 0 !important;
+    padding: 14px !important;
+    overflow: hidden;
+    border: 1px solid var(--jb-border-subtle) !important;
+    border-radius: var(--jb-radius-md);
+    background: var(--jb-bg-1) !important;
+    box-shadow: 0 16px 38px rgba(0, 0, 0, 0.18) !important;
+}
+
+.theme-light main.content div.transclusion.internal-embed {
+    box-shadow: 0 14px 32px rgba(34, 1, 126, 0.08) !important;
+}
+
