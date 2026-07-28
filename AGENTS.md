@@ -24,3 +24,8 @@
 - **NO Blind Copying/Overwriting:** NEVER blindly copy-paste files or overwrite notes between `src/site/notes/` and `D:\Shabab` (`/mnt/d/Shabab/`).
 - **Frontmatter Differences:** Notes in `D:\Shabab` (`/mnt/d/Shabab/`) use clean top-level YAML keys (`category`, `lesson-batch`, `module`). When published via the Digital Garden plugin, metadata is generated as `dg-note-properties: {...}` in `src/site/notes/`.
 - Always preserve clean metadata and respect vault vs site format distinctions when manually editing or synchronizing files.
+
+## Dual Git Repositories Commit Rule
+- Both the site repository (`/home/haseeb/Personal-Dev/Shabab-Skills/shabab/`) and the Obsidian Vault repository (`D:\Shabab` / `/mnt/d/Shabab/`) are independent git repositories.
+- Whenever any notes or files are modified, created, or deleted, you MUST commit the changes to BOTH repositories (`git commit` in site repo and `git -C /mnt/d/Shabab commit` in vault repo) on each change.
+
