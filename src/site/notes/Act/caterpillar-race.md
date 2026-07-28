@@ -10,4 +10,6 @@ rating:
 ---
 
 ### Caterpillar Race
+
+#### How to Play
 Video instructions are [here](https://canva.link/u3cbk3jueuyuwe4).

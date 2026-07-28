@@ -10,6 +10,8 @@ rating:
 ---
 ### Shabab Skills Lessons
 
+#### How to Play
+
 ```base
 properties:
   file.name:

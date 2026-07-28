@@ -10,4 +10,6 @@ rating:
 ---
 
 ### 3 Men Carry 1
+
+#### How to Play
 Video instructions are [here](https://canva.link/3gjit1og1ppnvof).
