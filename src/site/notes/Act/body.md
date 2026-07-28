@@ -15,10 +15,6 @@ rating:
 ---
 ### Body
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Rule:** Score teams based on total time
 
 Watch: https://youtu.be/mNY8FjhQfMw?si=MMdBvNpA1YpP_QLa&t=32

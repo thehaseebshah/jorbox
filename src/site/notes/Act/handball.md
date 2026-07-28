@@ -14,9 +14,7 @@ difficulty: "Easy"
 rating: 5
 ---
 ### Handball
-
-### How to Play
-
+#### How to Play
 ### Game Setup
 
 - **Teams:** 2 teams, 6 players each (adjust based on group size).

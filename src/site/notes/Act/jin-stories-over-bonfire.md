@@ -15,8 +15,6 @@ rating:
 ---
 ### Jin Stories over Bonfire
 #### How to Play
-### How to Play
-
 ### How to Pla
 
 y

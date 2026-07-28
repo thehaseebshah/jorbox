@@ -10,8 +10,4 @@ rating:
 ---
 ### Introduction and Importance of Shabab
 #### How to Play
-### How to Play
-
-### How to Play
-
 Murabbi will tell Shabab about importance of the Shabab program.

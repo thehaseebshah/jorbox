@@ -15,8 +15,4 @@ rating:
 ---
 ### Satrangi
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Grabbing Colors

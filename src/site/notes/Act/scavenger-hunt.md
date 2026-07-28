@@ -15,10 +15,6 @@ rating:
 ---
 ### Scavenger Hunt
 #### How to Play
-### How to Play
-
-### How to Play
-
 Watch this video guide: [16 Scavenger Hunt](https://www.canva.com/design/DAGtdI1qbao/gLhdIQ2W-2mAG0AS8kueVw/watch).
 
 There are different ways to reveal location to Shabab:

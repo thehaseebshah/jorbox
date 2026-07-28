@@ -15,10 +15,6 @@ rating:
 ---
 ### Do Goti
 #### How to Play
-### How to Play
-
-### How to Play
-
 - **Items Needed:** Paper, pencil
 
 Watch: https://m.youtube.com/watch?v=3m94y_4_9Jw

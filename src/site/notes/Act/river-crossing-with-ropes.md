@@ -15,8 +15,4 @@ rating:
 ---
 ### River Crossing with Ropes
 #### How to Play
-### How to Play
-
-### How to Play
-
 Watch: https://youtu.be/j_OAzZvDBwc?si=0Bx71dvjHTXO7XaX&t=454

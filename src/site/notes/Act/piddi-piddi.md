@@ -15,8 +15,6 @@ rating:
 ---
 ### Piddi Piddi
 #### How to Play
-### How to Play
-
 > **Note:** The Canva folder title is "Piddi Piddi" but the design content header reads "Chala Kooch". This may be a Canvas title mismatch or a renamed upload.
 
 ### How to Pla

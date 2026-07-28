@@ -15,8 +15,4 @@ rating:
 ---
 ### Gol Goal
 #### How to Play
-### How to Play
-
-### How to Play
-
 Watch: [Human Pinball Camp Game - Ultimate Camp Resource](https://www.youtube.com/watch?v=y-_iF1mDbv8&list=PL929CC4949C2AF3A9&index=29)

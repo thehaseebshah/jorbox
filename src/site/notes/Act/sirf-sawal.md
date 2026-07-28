@@ -15,8 +15,4 @@ rating:
 ---
 ### Sirf Sawal
 #### How to Play
-### How to Play
-
-### How to Play
-
 Watch: https://www.loom.com/share/07ec310c5ef74fcaae593bdec9d62fc8

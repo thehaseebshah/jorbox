@@ -15,10 +15,6 @@ rating:
 ---
 ### Jurwa
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Grab a ball using a chosen body part
 
 Watch: https://www.youtube.com/watch?v=efXn646cC58&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=38

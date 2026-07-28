@@ -15,8 +15,4 @@ rating:
 ---
 ### Banao Boojho
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Catch Sketch

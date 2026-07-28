@@ -14,9 +14,7 @@ difficulty: "Easy"
 rating: 5
 ---
 ### Rugby
-
-### How to Play
-
+#### How to Play
 ### Game Setup
 
 - **Teams:** 2 teams, each consisting of 6 or more players.

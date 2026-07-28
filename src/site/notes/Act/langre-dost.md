@@ -15,10 +15,6 @@ rating:
 ---
 ### Langre Dost
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Handicap Obstacles
 
 Watch: [Troop Meeting Team Building Challenge: Handicap Obstacle Course](https://m.youtube.com/watch?v=zBG2VyN_VjI&list=PLu2gNN17oxCXAF0zkXCqLJMrbufyY8mLN&index=14&t=102s&pp=2AFmkAIB)

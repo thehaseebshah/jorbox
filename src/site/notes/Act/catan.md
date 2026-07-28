@@ -15,8 +15,4 @@ rating:
 ---
 ### Catan
 #### How to Play
-### How to Play
-
-### How to Play
-
 Watch: https://www.youtube.com/watch?v=lxSIcG3emgs

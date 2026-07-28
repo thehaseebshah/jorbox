@@ -15,10 +15,6 @@ rating:
 ---
 ### Dil ki Sun
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** The Mind
 
 Watch: https://www.youtube.com/watch?v=uXl8MC0GMYE

@@ -15,10 +15,6 @@ rating:
 ---
 ### Sunni Sunai
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Telephone
 
 Watch: [02-01 Suni Sunai](https://www.canva.com/design/DAGrcUbs9WU/yvf37zz8c22Jn25lEBdSsg/watch?utlId=hfbfbbf35a2)

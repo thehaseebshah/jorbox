@@ -14,9 +14,7 @@ difficulty: 4
 rating:
 ---
 ### Bol keh Lab Azaad hen Tere
-
-### How to Play
-
+#### How to Play
 **Inspired by:** Impromptu Speaking
 
 ### Setup

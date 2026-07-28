@@ -15,8 +15,4 @@ rating:
 ---
 ### Purane Bantay
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Goldaire men bantay rankhna

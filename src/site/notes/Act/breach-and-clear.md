@@ -20,8 +20,7 @@ rating:
 - **Attacker Spawn Point:** The Attackers' spawn point should be placed well out of shooting range of the Fortress, but not so far that it takes too long to get back into the action.
 - **Timekeeper:** One Murabbi must be designated as the official timekeeper with a stopwatch.
 
-### How to Play
-
+#### How to Play
 The game is played in two rounds, with teams switching roles for the second round.
 
 **Round 1:**

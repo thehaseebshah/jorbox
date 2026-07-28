@@ -10,8 +10,4 @@ rating:
 ---
 ### Dimagh Ka Dahi
 #### How to Play
-### How to Play
-
-### How to Play
-
 Video instructions are [here](https://shababskills.my.canva.site/dimagh-ka-dahi).

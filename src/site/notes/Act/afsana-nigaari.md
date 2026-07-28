@@ -15,8 +15,4 @@ rating: 5
 ---
 ### Afsana Nigaari
 #### How to Play
-### How to Play
-
-### How to Play
-
 Watch: [Excalidraw Whiteboard - 29 August 2025](https://www.loom.com/share/f3b68ab002f94985b672ae2dc351825c)

@@ -15,8 +15,6 @@ rating:
 ---
 ### Agriculture
 #### How to Play
-### How to Play
-
 ### How to Pla
 
 y

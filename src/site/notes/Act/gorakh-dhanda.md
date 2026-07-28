@@ -15,10 +15,6 @@ rating:
 ---
 ### Gorakh Dhanda
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Minesweeper Maze
 
 Watch: https://www.loom.com/share/1121b21d99174c3eb2d246d76c00f385

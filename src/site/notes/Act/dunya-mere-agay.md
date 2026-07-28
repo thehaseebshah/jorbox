@@ -15,8 +15,4 @@ rating: 4
 ---
 ### Dunya Mere Agay
 #### How to Play
-### How to Play
-
-### How to Play
-
 Watch: [Excalidraw Whiteboard - 29 August 2025](https://www.loom.com/share/9034e77748294baba19f045eba9c33d1)

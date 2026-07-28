@@ -15,8 +15,4 @@ rating:
 ---
 ### Mahaz
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Nerf Wars (Play with Paper Balls or Plastic Guns)

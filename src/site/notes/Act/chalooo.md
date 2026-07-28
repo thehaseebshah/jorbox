@@ -14,10 +14,6 @@ rating:
 ---
 ### Chalooo
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Go Fish
 
 Watch: https://www.youtube.com/watch?v=psOjK8Y06m0&t=42s

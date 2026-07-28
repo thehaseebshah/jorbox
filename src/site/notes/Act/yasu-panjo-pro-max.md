@@ -15,8 +15,4 @@ rating:
 ---
 ### Yasu Panjo Pro Max
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Taco Goat Cheese Pizza

@@ -15,10 +15,6 @@ rating:
 ---
 ### Dhoka
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Bluff
 
 Watch: https://www.youtube.com/watch?v=pKzAbWFhmtk

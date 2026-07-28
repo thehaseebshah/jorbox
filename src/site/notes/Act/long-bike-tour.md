@@ -15,8 +15,6 @@ rating:
 ---
 ### Long Bike Tour
 #### How to Play
-### How to Play
-
 ### How to Pla
 
 y

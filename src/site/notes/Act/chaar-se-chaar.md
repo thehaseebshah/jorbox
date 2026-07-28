@@ -15,10 +15,6 @@ rating:
 ---
 ### Chaar se Chaar
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Connect 4
 
 - **Items Needed:** Paper, pencil

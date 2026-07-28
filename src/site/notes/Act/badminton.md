@@ -15,10 +15,6 @@ rating: 3
 ---
 ### Badminton
 #### How to Play
-### How to Play
-
-### How to Play
-
 ##### Items Needed
 - Rackets
 - Shuttle

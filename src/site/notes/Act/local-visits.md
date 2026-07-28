@@ -15,8 +15,6 @@ rating:
 ---
 ### Local Visits
 #### How to Play
-### How to Play
-
 ### How to Pla
 
 y

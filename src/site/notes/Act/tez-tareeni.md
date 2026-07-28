@@ -15,10 +15,6 @@ rating:
 ---
 ### Tez Tareeni
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Speed
 
 Watch: https://www.youtube.com/watch?v=-gN56kKwb7o

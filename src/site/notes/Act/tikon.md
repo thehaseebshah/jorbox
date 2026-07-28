@@ -15,8 +15,4 @@ rating:
 ---
 ### Tikon
 #### How to Play
-### How to Play
-
-### How to Play
-
 Watch: [Geometry -- Teambuilding Games on a Shoestring](https://www.youtube.com/watch?v=6CaBKpy_qh4&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=104)

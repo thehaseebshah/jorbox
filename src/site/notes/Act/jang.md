@@ -14,9 +14,7 @@ difficulty: 5
 rating:
 ---
 ### Jang
-
-### How to Play
-
+#### How to Play
 - **Items Needed:** Map, tokens, paper, pencil
 
 *Reference: How to Play Kriegsspiel*

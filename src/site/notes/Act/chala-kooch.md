@@ -15,8 +15,6 @@ rating:
 ---
 ### Chala Kooch
 #### How to Play
-### How to Play
-
 ### How to Pla
 
 y

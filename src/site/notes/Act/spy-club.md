@@ -16,8 +16,7 @@ rating:
 - **Topic Pages:** 10 topic pages featuring a 4x4 grid of 16 related words.
 - **Murabbi:** Responsible for running the game and ensuring fairness throughout.
 
-### How to Play
-
+#### How to Play
 1. **Start of the Round:** Murabbi selects one of the 10 topic pages and writes a secret word from it on a paper.
 2. **Choosing the Spy & Reveal:** Murabbi selects one player to be the Spy (shown the blank side of the paper). All other players see the secret word.
 3. **Questioning Round (5 mins):** Players take turns asking one indirect question. Everyone (including the Spy) must answer subtly and truthfully without revealing the exact word.

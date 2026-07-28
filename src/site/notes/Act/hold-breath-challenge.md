@@ -15,8 +15,6 @@ rating:
 ---
 ### Hold Breath Challenge
 #### How to Play
-### How to Play
-
 ### How to Pla
 
 y

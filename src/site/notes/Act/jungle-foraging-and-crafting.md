@@ -15,8 +15,6 @@ rating:
 ---
 ### Jungle Foraging and Crafting
 #### How to Play
-### How to Play
-
 ### How to Pla
 
 y

@@ -15,8 +15,4 @@ rating:
 ---
 ### Murgha Logey?
 #### How to Play
-### How to Play
-
-### How to Play
-
 Watch: [Wanna Buy a Duck? Camp Game - Ultimate Camp Resource](https://www.youtube.com/watch?v=QsrN7S-NVvc&list=PL929CC4949C2AF3A9&index=38)

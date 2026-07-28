@@ -10,10 +10,6 @@ rating:
 ---
 ### Natural Direction Finding
 #### How to Play
-### How to Play
-
-### How to Play
-
 Navigation is a critical skill for outdoor adventures, survival situations, and fostering self-reliance. It enhances your confidence and reduces vulnerability to technological failures. Several natural methods can be used to find your direction.
 
 ##### 1. Celestial Navigation

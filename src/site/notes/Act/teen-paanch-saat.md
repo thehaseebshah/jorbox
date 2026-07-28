@@ -15,10 +15,6 @@ rating:
 ---
 ### Teen Paanch Saat
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** NIM
 
 - **Items Needed:** 15 items that act as game pieces

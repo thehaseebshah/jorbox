@@ -10,8 +10,4 @@ rating:
 ---
 ### Pass the Ball
 #### How to Play
-### How to Play
-
-### How to Play
-
 Video instructions are [here](https://shababskills.my.canva.site/gol-gappay).

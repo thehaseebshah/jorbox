@@ -20,8 +20,7 @@ rating:
 	- ![Pasted image 20260727011215.png](/img/user/Attachments/Pasted%20image%2020260727011215.png)
 - **Referees:** One or more Murabbis will act as timekeepers and referees to ensure fair play.
 
-### How to Play
-
+#### How to Play
 **Start of the Round:** On the Murabbi's signal, the game begins. Players can move anywhere on the field.
 
 **The Objective:** The goal is to have the most Virtue Scrolls in your team's stack when the time runs out. You can acquire more scrolls by taking them from the central cache or by retrieving them from the stacks of other teams.

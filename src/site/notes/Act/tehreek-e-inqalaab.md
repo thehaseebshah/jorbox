@@ -15,10 +15,6 @@ rating:
 ---
 ### Tehreek e Inqalaab
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** The Resistance
 
 Visit the lesson: https://shababskills.my.canva.site/shb-skills-lesson-12

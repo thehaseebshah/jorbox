@@ -15,8 +15,4 @@ rating:
 ---
 ### Simple Dodgeball
 #### How to Play
-### How to Play
-
-### How to Play
-
 Watch this video: [Audio Note explanation](https://disk.yandex.com/d/T9BFQsrkh0fKMA)

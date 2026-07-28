@@ -26,7 +26,7 @@ Before the activity, the Murabbi gathers the Shabab and delivers a foundational 
 > - Acknowledge valid points made by your opponent.
 > - The intention must be to seek truth (*Haqq*), not to humiliate your brother.
 
-### How to Play
+#### How to Play
 #### Setup
 - **Form the Groups:** Divide Shabab into groups of 4 (two 2-man squads: Affirmation vs. Negation).
 - **Preparation (30 mins):** Squads prepare arguments and counter-points.

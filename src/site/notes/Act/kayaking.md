@@ -15,8 +15,6 @@ rating:
 ---
 ### Kayaking
 #### How to Play
-### How to Play
-
 ### How to Pla
 
 y

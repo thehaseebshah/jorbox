@@ -10,10 +10,6 @@ rating:
 ---
 ### 7 Stones
 #### How to Play
-### How to Play
-
-### How to Play
-
 Video instructions are [here](https://www.canva.com/design/DAGrWLyqhBM/rSUE_Yi9GkSldBDfb_3xcQ/watch).
 
 ##### Variation

@@ -15,8 +15,4 @@ rating:
 ---
 ### Ready Go
 #### How to Play
-### How to Play
-
-### How to Play
-
 Watch: [Excalidraw - 8 August 2025](https://www.loom.com/share/84fa2ffbf9be46179f229aa529f602eb)

@@ -15,10 +15,6 @@ rating:
 ---
 ### Aik Rangi Soch (v2)
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Wavelength
 
 > **Note:** This is a duplicate/alternate version of "Aik Rangi Soch". See also `aik-rangi-soch.md`.

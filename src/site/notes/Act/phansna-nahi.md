@@ -15,8 +15,4 @@ rating:
 ---
 ### Phansna Nahi
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Don't get Got (Loser does a Dare from Truth or Dare) / Dont get Got; Loser does a Dare (from Truth or Dare)

@@ -15,10 +15,6 @@ rating:
 ---
 ### Khalai Mechanic
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Spaceteam
 
 Watch: https://www.youtube.com/watch?v=go_xpGrwa7I

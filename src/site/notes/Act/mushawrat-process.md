@@ -10,10 +10,6 @@ rating:
 ---
 ### Mushawrat Process
 #### How to Play
-### How to Play
-
-### How to Play
-
 Note: Mashwarat process will be followed before the start of each activity/challenge wherever required. Appointment of Ameer for every challenge is a must.
 
 In Islam, meetings and gatherings are an important aspect of community, communication, and decision-making. There are certain principles and etiquettes that Muslims generally follow when conducting meetings. Here is a 10 step process & guidelines that you will explain to shababs in detail:

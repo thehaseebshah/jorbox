@@ -15,8 +15,4 @@ rating:
 ---
 ### Water Filtration
 #### How to Play
-### How to Play
-
-### How to Play
-
 - **Items Needed:** Mentioned in description

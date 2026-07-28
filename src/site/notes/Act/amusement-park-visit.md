@@ -15,8 +15,6 @@ rating:
 ---
 ### Amusement Park Visit
 #### How to Play
-### How to Play
-
 ### How to Pla
 
 y

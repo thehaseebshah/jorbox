@@ -15,10 +15,6 @@ rating:
 ---
 ### Zehni Azmaish
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Quiz
 
 Watch: https://www.loom.com/share/813d926741134a2b8bd2bd982bc2f46d

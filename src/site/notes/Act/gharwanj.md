@@ -15,8 +15,4 @@ rating:
 ---
 ### Gharwanj
 #### How to Play
-### How to Play
-
-### How to Play
-
 Watch: https://www.youtube.com/watch?v=XC3UoMYDuTE

@@ -15,10 +15,6 @@ rating:
 ---
 ### Cheel ki Nazar
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Nerves of Steel / Catch Ball When Thrown only
 
 Watch: Nerves of Steel.AVI

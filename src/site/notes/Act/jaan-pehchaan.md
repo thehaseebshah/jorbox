@@ -15,10 +15,6 @@ rating:
 ---
 ### Jaan Pehchaan
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Change "Celebrity" to "Category Questions" / Change Celebrity to Category Questions
 
 Watch: https://m.youtube.com/watch?v=eN8x4-0M4XE

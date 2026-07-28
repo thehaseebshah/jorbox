@@ -15,8 +15,4 @@ rating:
 ---
 ### Antakshari 25
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Akinator

@@ -15,8 +15,4 @@ rating:
 ---
 ### Naqshnigar
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Drawful (Active player draws a prompt, others guess what the prompt is, and then have others pick their prompt) / Drawful; Acive player draws a prompt, others guess what the prompt is, and then have others pick their prompt

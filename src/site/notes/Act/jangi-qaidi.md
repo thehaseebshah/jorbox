@@ -15,10 +15,6 @@ rating:
 ---
 ### Jangi Qaidi
 #### How to Play
-### How to Play
-
-### How to Play
-
 **Inspired by:** Codenames
 
 Watch the video: https://www.canva.com/design/DAGqhsDdJAc/jXsqVK-7KI58Oh1mYBQS-g/watch?utm_content=DAGqhsDdJAc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfa0d56879d

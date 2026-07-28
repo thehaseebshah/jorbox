@@ -15,8 +15,6 @@ rating: 4
 ---
 ### Frisbee
 #### How to Play
-### How to Play
-
 ### Variations
 
 - **Variation 1:** [How to Play Ultimate Frisbee](https://www.wikihow.com/Play-Ultimate-Frisbee)

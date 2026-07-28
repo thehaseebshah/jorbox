@@ -10,8 +10,6 @@ rating:
 ---
 ### Public Speaking Tips
 #### How to Play
-### How to Play
-
 ### Instructions
 
 Watch [this video](https://www.youtube.com/watch?v=Iqq1roF4C8s) first and let Shabab watch it in the park.

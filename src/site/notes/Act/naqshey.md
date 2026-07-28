@@ -14,9 +14,7 @@ difficulty: "Easy"
 rating: 4
 ---
 ### Naqshey (Map Drawing)
-
-### How to Play
-
+#### How to Play
 - **Items Needed:** Mentioned in description
 
 ### 1. Objective
