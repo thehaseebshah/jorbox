@@ -16,7 +16,6 @@ rating:
 ### Ye to Wo
 
 #### How to Play
-
 ### How to Play
 
 **Inspired by:** Jump In, Jump Out. Eliminate those that are unable to do it

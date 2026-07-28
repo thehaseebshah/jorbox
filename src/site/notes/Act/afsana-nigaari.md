@@ -16,7 +16,6 @@ rating: 5
 ### Afsana Nigaari
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

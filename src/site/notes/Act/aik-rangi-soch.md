@@ -16,7 +16,6 @@ rating:
 ### Aik Rangi Soch
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

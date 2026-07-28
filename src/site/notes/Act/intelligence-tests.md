@@ -16,7 +16,6 @@ rating: 4
 ### Intelligence Tests
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

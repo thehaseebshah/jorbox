@@ -16,7 +16,6 @@ rating:
 ### Chalak Chor
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

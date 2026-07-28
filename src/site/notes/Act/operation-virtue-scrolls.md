@@ -38,7 +38,6 @@ rating:
 **Winning & Scoring:** At the end of the dedicated time (e.g., 15 minutes), the game ends. The Murabbi will count the number of Virtue Scrolls in each team's stack. The team with the most Virtue Scrolls wins the round. There is no point system; the highest count is the only metric for winning.
 
 #### Rules & Strategy
-
 > [!important] The Honesty Rule (Amanah)
 > This is the most important rule. Staying honest is key. Whenever you are hit, you must call it. If you are unsure if you were hit, call it anyway.
 
@@ -46,11 +45,9 @@ rating:
 - **Spawn Camping:** Guarding an enemy team's spawn point to hit them as soon as they respawn is allowed as a valid strategy.
 
 #### Forbidden in the Game
-
 - Physical contact (no pushing, grabbing, or tackling)
 - Moving your team's base or spawn bag
 - Carrying more than one Virtue Scroll at a time
 
 #### The Virtue Scrolls (Emaani Sifaat)
-
 The folded papers are inscribed with the following qualities: *Sabr (Patience), Shukr (Gratitude), Tawakkul (Trust in Allah), Ikhlas (Sincerity), Taqwa (God-consciousness), Sidq (Truthfulness), Amanah (Trustworthiness), Adl (Justice), Ihsan (Excellence), Haya (Modesty), Shuja'at (Courage), Istiqamah (Steadfastness), Yaqeen (Certainty), Tawbah (Repentance), Afw (Forgiveness), Himmah (High Ambition), Jihad al-Nafs (Struggle against the self), Qana'ah (Contentment), Rahmah (Mercy), Ithar (Altruism), Firasah (Insight), Birr (Righteousness), Wafa (Loyalty/Fidelity), Hilm (Forbearance), Tadabbur (Contemplation).*

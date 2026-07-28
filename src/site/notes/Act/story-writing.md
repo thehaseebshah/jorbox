@@ -32,13 +32,11 @@ rating:
 - *Moral lesson:* what value or truth we learn from it.
 
 #### How to Play
-
 - Teams brainstorm and write their story (30 minutes).
 - Each team selects one narrator to present (20 minutes).
 - After narrations, Murabbi highlights the best examples of engaging openings, conflicts, and twists. (10 minutes)
 
 #### Winning & Scoring
-
 Each story is scored out of 30 points:
 - Engaging start: 5 points
 - Clear structure (beginning → middle → end): 5 points
@@ -50,20 +48,17 @@ Each story is scored out of 30 points:
 The team with the highest score wins.
 
 #### Rules & Strategy
-
 - Stick to the story arc; avoid rambling.
 - Make sure the conflict is clear (what the traveler is struggling with).
 - Add a twist to surprise the audience.
 - Keep the story short, clear, and meaningful.
 
 #### Forbidden
-
 - Copying from movies or shows
 - Disrespectful or mocking themes
 - Ignoring the conflict or skipping the moral
 
 #### Murabbi Notes
-
 - Emphasize: "A story without conflict is just a description—conflict makes people want to listen."
 - Encourage Shabab to surprise the audience with at least one plot twist.
 - If time allows, challenge teams to rewrite their ending with a different twist.

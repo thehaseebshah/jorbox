@@ -16,7 +16,6 @@ rating: 4
 ### Taqreeri Muqabla
 
 #### How to Play
-
 ### How to Play
 
 ### How to Pla

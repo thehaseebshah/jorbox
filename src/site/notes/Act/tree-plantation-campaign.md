@@ -16,7 +16,6 @@ rating: 5
 ### Tree Plantation Campaign
 
 #### How to Play
-
 ### How to Play
 
 ### How to Pla

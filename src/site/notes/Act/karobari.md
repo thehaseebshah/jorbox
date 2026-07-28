@@ -16,7 +16,6 @@ rating: 5
 ### Karobari
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play
@@ -26,5 +25,4 @@ rating: 5
 - **Items Needed:** Cards
 
 ##### Mode
-
 - Snake Oil mode (people are given a problem and they draw a solution)

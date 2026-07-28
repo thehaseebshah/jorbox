@@ -16,7 +16,6 @@ rating:
 ### Piddi Piddi with Bats
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

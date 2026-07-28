@@ -16,7 +16,6 @@ rating:
 ### Chalaak 4
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

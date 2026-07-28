@@ -16,7 +16,6 @@ rating:
 ### Gorakh Dhanda
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

@@ -16,7 +16,6 @@ rating:
 ### Purane Bantay
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

@@ -16,7 +16,6 @@ rating: 5
 ### Pro Kabaddi
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

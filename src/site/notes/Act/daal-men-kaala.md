@@ -16,7 +16,6 @@ rating:
 ### Daal men Kaala
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

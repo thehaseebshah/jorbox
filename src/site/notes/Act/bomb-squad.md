@@ -16,7 +16,6 @@ rating:
 ### Bomb Squad
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

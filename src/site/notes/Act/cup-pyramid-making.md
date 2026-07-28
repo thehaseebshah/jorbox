@@ -11,7 +11,6 @@ rating:
 ### Cup Pyramid Making
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

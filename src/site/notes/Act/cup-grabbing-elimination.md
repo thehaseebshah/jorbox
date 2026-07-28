@@ -11,7 +11,6 @@ rating:
 ### Cup Grabbing Elimination
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

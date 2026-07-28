@@ -16,7 +16,6 @@ rating:
 ### Slow Cycling Race
 
 #### How to Play
-
 ### How to Play
 
 ### How to Pla

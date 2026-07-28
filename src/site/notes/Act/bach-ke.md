@@ -16,7 +16,6 @@ rating:
 ### Bach Ke
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

@@ -15,7 +15,6 @@ rating:
 ### Chalooo
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

@@ -24,13 +24,11 @@ rating:
 4. **Jury Evaluation:** Murabbis score speakers on their rubric and provide constructive feedback.
 
 #### Sample Declamation Themes
-
 - **The Letter to the Soul:** A passionate call to the self (*Nafs*) to wake up from heedlessness (*Ghaflah*).
 - **Reviving the Legacy:** Overcoming apathy and reclaiming the intellectual and spiritual honor of the Ummah.
 - **Standing for Justice:** A defense of the oppressed inspired by companions like Bilal ibn Rabah or Husayn ibn Ali (RA).
 
 #### Scoring & Judging Rubric (Out of 50 Points)
-
 | Criteria | Points | What Judges Look For |
 |---|---|---|
 | Presence & Adab | 10 pts | Correct Salam, posture, confidence, eye contact |

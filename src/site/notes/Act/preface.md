@@ -11,7 +11,6 @@ rating:
 ### Preface
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

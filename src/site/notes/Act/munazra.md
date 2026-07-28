@@ -29,14 +29,12 @@ Before the activity, the Murabbi gathers the Shabab and delivers a foundational 
 ### How to Play
 
 #### Setup
-
 - **Form the Groups:** Divide Shabab into groups of 4 (two 2-man squads: Affirmation vs. Negation).
 - **Preparation (30 mins):** Squads prepare arguments and counter-points.
 - **The Debate (20 mins):** Structured debate flow (Opening 2m each → Rebuttals 2m each → Closing 2m each).
 - **Verdict & Debrief:** Murabbi scores both squads and delivers a constructive debrief.
 
 ##### Evaluation & Scoring
-
 | Criterion | Description | Points |
 |---|---|---|
 | Strength of Argument (Hujjah) | Quality of logic, reasoning, and evidence used | / 5 |

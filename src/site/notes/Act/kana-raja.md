@@ -16,7 +16,6 @@ rating:
 ### Kana Raja
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

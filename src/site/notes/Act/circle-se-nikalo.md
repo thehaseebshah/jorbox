@@ -16,7 +16,6 @@ rating:
 ### Circle se Nikalo
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

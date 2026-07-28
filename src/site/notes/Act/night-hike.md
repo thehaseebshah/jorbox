@@ -16,7 +16,6 @@ rating:
 ### Night Hike
 
 #### How to Play
-
 ### How to Play
 
 ### How to Pla

@@ -16,7 +16,6 @@ rating:
 ### Gol Goal
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

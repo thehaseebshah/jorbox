@@ -16,7 +16,6 @@ rating:
 ### Cooking
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play
@@ -38,5 +37,4 @@ Murabbis or Park Admin will taste food to announce the winner based on taste, ef
 Everyone will eat prepared food together. Everyone will share the food with each other.
 
 ##### Sample food ideas
-
 Rice, Sabzi, Samosa, Kebabs, Meetha, Salan, BBQ, Burger, Sandwich, Salad, Roti, Roll, Any Unique or new food.

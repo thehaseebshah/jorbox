@@ -16,7 +16,6 @@ rating:
 ### Kiting
 
 #### How to Play
-
 ### How to Play
 
 ### How to Pla

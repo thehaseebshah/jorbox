@@ -16,7 +16,6 @@ rating:
 ### Attend a March
 
 #### How to Play
-
 ### How to Play
 
 ### How to Pla

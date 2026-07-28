@@ -11,7 +11,6 @@ rating:
 ### Mushawrat Process
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

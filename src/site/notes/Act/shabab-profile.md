@@ -11,7 +11,6 @@ rating:
 ### Shabab Profile
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

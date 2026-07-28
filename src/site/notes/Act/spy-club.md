@@ -25,12 +25,10 @@ rating:
 5. **Voting Round:** Players vote by pointing on count.
 
 #### Winning Conditions
-
 - **The Spy Wins if:** They are not identified by majority vote, OR if identified, they correctly guess the secret word.
 - **The Non-spies Win if:** They correctly identify the Spy AND the Spy fails to guess the secret word.
 
 #### Sample Topic Pages
-
 - **Topic 1: Cities of the Ummah:** Lahore, Makkah, Karachi, Murree, Peshawar, Skardu, Multan, Madinah, Rawalpindi, Gilgit, Gaza, Cairo, Swat, Islamabad, Istanbul.
 - **Topic 2: Ibadah & Islamic Terms:** Tasbih, Jaye Namaz, Prayer Cap, Quran, Wudu, Jihaad, Islah, Salah, Shahadah, Hijab, Du'a, Zakat, Hajj, Ramadan, Tawaf, Zikr.
 - **Topic 3: Virtues & Ethics:** Sabr, Shukr, Tawakkul, Taqwa, Adl, Ihsan, Rahmah, Sidq, Amanah, Haya, Afw, Ikhlas, Birr, Hilm, Istiqamah, Wafa.

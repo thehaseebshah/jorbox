@@ -16,7 +16,6 @@ rating:
 ### Bungee Jumping
 
 #### How to Play
-
 ### How to Play
 
 ### How to Pla

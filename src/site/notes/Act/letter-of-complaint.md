@@ -11,7 +11,6 @@ rating:
 ### Letter of Complaint
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

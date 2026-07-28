@@ -27,7 +27,6 @@ This is an Essay Writing Activity.
 **Language of Submission:** Urdu
 
 #### Evaluation & Scoring
-
 The Murabbi will score each piece out of 20 points based on:
 
 | Criterion | Description | Points |

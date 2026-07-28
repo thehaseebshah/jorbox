@@ -16,7 +16,6 @@ rating:
 ### Aabdoz
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

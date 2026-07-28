@@ -16,7 +16,6 @@ rating:
 ### Sunni Sunai
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

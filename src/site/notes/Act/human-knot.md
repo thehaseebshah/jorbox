@@ -11,7 +11,6 @@ rating:
 ### Human Knot
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

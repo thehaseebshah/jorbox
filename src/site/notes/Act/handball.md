@@ -24,7 +24,6 @@ rating: 5
 - **Ball:** Football or handball-sized ball.
 
 #### Rules
-
 - **Objective:** Score by throwing the ball into opponent's goal (between cones). Each goal = 1 point.
 - **Starting Play:** Coin toss decides starting team; begins from halfway line.
 - **Ball Movement:** Dribble freely. Take up to 3 steps while holding ball before/after dribbling. After 3 steps, must pass, shoot, or dribble.
@@ -36,6 +35,5 @@ rating: 5
 - **Game Time:** 2 halves of 10 minutes each.
 
 ##### Safety Tips
-
 - Teach safe contact and smart defense.
 - Rotate goalies often.

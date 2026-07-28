@@ -16,7 +16,6 @@ rating:
 ### Murgha Logey?
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

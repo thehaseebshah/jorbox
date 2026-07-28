@@ -16,7 +16,6 @@ rating:
 ### Icebreaking Groups
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

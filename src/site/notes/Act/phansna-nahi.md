@@ -16,7 +16,6 @@ rating:
 ### Phansna Nahi
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

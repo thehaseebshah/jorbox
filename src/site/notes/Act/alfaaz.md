@@ -16,7 +16,6 @@ rating:
 ### Alfaaz
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

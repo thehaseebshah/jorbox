@@ -11,7 +11,6 @@ rating:
 ### Solar Oven Challenge
 
 #### How to Play
-
 ### How to Play
 
 Building a solar oven is a practical activity that demonstrates how to harness the sun's power to cook food using simple materials. The oven's efficiency will depend on factors like sunlight intensity, reflector angle, and insulation.

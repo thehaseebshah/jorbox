@@ -11,7 +11,6 @@ rating:
 ### Scooter Race
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

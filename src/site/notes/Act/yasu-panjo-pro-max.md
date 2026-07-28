@@ -16,7 +16,6 @@ rating:
 ### Yasu Panjo Pro Max
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

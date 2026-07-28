@@ -16,7 +16,6 @@ rating:
 ### Night Manhunt w. Torches/Whistles
 
 #### How to Play
-
 ### How to Play
 
 ### How to Pla

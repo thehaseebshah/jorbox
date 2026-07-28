@@ -16,7 +16,6 @@ rating:
 ### Boni Kushti
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

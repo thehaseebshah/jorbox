@@ -16,7 +16,6 @@ rating: 5
 ### First Aid Workshop
 
 #### How to Play
-
 ### How to Play
 
 ### How to Pla

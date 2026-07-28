@@ -11,7 +11,6 @@ rating:
 ### Jump In, Jump Out
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

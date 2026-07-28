@@ -16,7 +16,6 @@ rating:
 ### Phitto Garam
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

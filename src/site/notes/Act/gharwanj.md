@@ -16,7 +16,6 @@ rating:
 ### Gharwanj
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

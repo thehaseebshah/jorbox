@@ -16,7 +16,6 @@ rating:
 ### Dara
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

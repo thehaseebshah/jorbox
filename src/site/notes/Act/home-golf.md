@@ -16,7 +16,6 @@ rating: 5
 ### Home Golf
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play
@@ -24,6 +23,5 @@ rating: 5
 **How to Play:** Design a golf course at home and play with friends, count how many hits it takes to reach each hole by each person.
 
 ##### Items Needed
-
 - Stick
 - Ball

@@ -16,7 +16,6 @@ rating:
 ### Qatil Police
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

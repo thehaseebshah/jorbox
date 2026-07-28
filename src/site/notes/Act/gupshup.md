@@ -16,7 +16,6 @@ rating:
 ### GupShup
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

@@ -16,7 +16,6 @@ rating:
 ### Jasoosi Club
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play
@@ -26,7 +25,6 @@ rating:
 Visit the lesson: https://shababskills.my.canva.site/shb-skills-lesson-12
 
 ##### Mode
-
 - Chameleon Mode
 - Spyfall Mode
 - Fake Artist Mode

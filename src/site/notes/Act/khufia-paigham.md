@@ -16,7 +16,6 @@ rating:
 ### Khufia Paigham
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

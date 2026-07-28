@@ -16,7 +16,6 @@ rating:
 ### Pakran Ghumai
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

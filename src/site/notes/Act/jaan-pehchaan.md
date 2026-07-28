@@ -16,7 +16,6 @@ rating:
 ### Jaan Pehchaan
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

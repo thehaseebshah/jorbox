@@ -16,7 +16,6 @@ rating:
 ### Body
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

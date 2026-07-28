@@ -16,7 +16,6 @@ rating:
 ### Sailing
 
 #### How to Play
-
 ### How to Play
 
 ### How to Pla

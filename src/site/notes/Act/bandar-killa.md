@@ -16,7 +16,6 @@ rating:
 ### Bandar Killa
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

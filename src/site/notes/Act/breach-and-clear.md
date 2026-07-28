@@ -35,23 +35,19 @@ The game is played in two rounds, with teams switching roles for the second roun
 **Round 2: Switching Sides:** The teams now switch roles. The former Defenders become the new Attackers, and vice-versa. The clock is reset. The new Attacking team now attempts to capture the bag in the same scenario.
 
 #### Winning Conditions
-
 This game is a time trial. The first team of Attackers sets the time to beat. To win, the second team of Attackers must capture the bag faster than the first team. If the first team failed to capture the bag within the time limit, the second team only needs to succeed in capturing it at all to win. If both teams fail to capture the bag, the game is a draw.
 
 #### Core Gameplay Rules
-
 - **The Honesty Rule (Amanah):** This is the most important rule. Staying honest is key. Whenever you are hit by a paper ball, you must call it immediately. If you are unsure if you were hit, call it anyway.
 - **The Ghost Looter Rule (Getting Hit):** Immediately raise a hand and loudly call "HIT!" If you are carrying the objective bag, you must drop it on the spot. For the next 10 seconds, you are a "ghost." You cannot be shot, shoot anyone, or touch the objective bag. However, you can move around your immediate area to collect dropped paper balls (ammo). After 10 seconds (be fair about counting), your ghost phase ends, and you must proceed to your designated spawn/recovery point.
 
 #### Forbidden in the Game
-
 - Defenders leaving the designated Fortress area (unless a specific rule allows it)
 - Attackers not returning to their spawn point after the ghost phase
 - Throwing the objective bag (it must be carried)
 - Ghosts interfering with active players (e.g., body blocking, giving directions)
 
 #### Tips for Strategic Play
-
 **For Attackers:**
 - *Coordinated Waves:* With a 30-second respawn timer, attacking one-by-one is a guaranteed failure. Group up at the spawn and rush the Fortress together to overwhelm the defenders.
 - *Strategic Ghosting:* Use the Ghost Looter rule to your advantage. Try to get hit in areas where there is a lot of dropped ammo to resupply yourself and your returning teammates.

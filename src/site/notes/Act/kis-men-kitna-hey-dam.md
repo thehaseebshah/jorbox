@@ -16,7 +16,6 @@ rating:
 ### Kis men Kitna hey Dam
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

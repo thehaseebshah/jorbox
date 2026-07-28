@@ -16,7 +16,6 @@ rating:
 ### Teen Ball
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

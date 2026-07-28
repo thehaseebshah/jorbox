@@ -11,7 +11,6 @@ rating:
 ### Introduction and Importance of Shabab
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

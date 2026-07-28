@@ -16,7 +16,6 @@ rating: 4
 ### Shabab Dawah Campaign
 
 #### How to Play
-
 ### How to Play
 
 ### How to Pla

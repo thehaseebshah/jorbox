@@ -16,7 +16,6 @@ rating:
 ### Carrom
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

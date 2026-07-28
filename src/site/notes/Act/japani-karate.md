@@ -16,7 +16,6 @@ rating:
 ### Japani Karate
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

@@ -16,7 +16,6 @@ rating:
 ### Tehreek e Inqalaab
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

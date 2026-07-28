@@ -16,7 +16,6 @@ rating:
 ### Insani Girah (Human Knot)
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

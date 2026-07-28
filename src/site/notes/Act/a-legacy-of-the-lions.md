@@ -25,13 +25,11 @@ rating:
 **Language of Submission:** Urdu
 
 #### Prompt Options
-
 **Prompt A: The Final Verdict:** Write the eulogy you hope a close, God-fearing friend would be able to give after your Janazah. What character, deeds, and impact would he speak of?
 
 **Prompt B: Letter to My Son:** Write a one-page letter to your 15-year-old future son, outlining the most important principles he must live by as a Muslim man.
 
 #### Evaluation & Scoring
-
 The Murabbi will score the chosen written piece out of 20 points based on the following criteria:
 
 | Criterion | Description | Points |

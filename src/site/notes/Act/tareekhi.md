@@ -16,7 +16,6 @@ rating:
 ### Tareekhi
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

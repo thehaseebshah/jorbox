@@ -16,7 +16,6 @@ rating:
 ### Gulli Danda
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

@@ -11,7 +11,6 @@ rating:
 ### Natural Direction Finding
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play
@@ -19,7 +18,6 @@ rating:
 Navigation is a critical skill for outdoor adventures, survival situations, and fostering self-reliance. It enhances your confidence and reduces vulnerability to technological failures. Several natural methods can be used to find your direction.
 
 ##### 1. Celestial Navigation
-
 This technique involves using celestial bodies like the sun, moon, and stars to find your way.
 
 **Using the Sun:**
@@ -33,7 +31,6 @@ This technique involves using celestial bodies like the sun, moon, and stars to 
 - *Using Planets:* Bright planets like Venus and Jupiter, often visible after sunset or before sunrise, can help determine direction based on their position.
 
 ##### 2. Other Natural Methods
-
 - *Natural Markers:* Moss often grows more abundantly on the north side of trees in the Northern Hemisphere.
 - *Landmarks:* Use distinct features like mountains or rivers for orientation.
 - *Animal Behaviour:* Some animals travel along established paths which can be used for direction.

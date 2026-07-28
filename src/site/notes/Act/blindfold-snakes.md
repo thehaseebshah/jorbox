@@ -11,7 +11,6 @@ rating:
 ### Blindfold Snakes
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

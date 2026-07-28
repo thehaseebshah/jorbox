@@ -16,7 +16,6 @@ rating:
 ### Pro Obstacle Course
 
 #### How to Play
-
 ### How to Play
 
 ### How to Pla

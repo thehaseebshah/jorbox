@@ -24,7 +24,6 @@ rating: 5
 - **Ball:** Use any football (no need for a rugby ball).
 
 #### Rules
-
 - **Objective:** Get the ball past the opponent's scoring line and place it on the ground in the scoring zone to earn 5 points.
 - **Starting Play:** Coin toss decides starting team; begins from halfway line.
 - **Moving the Ball:** Run or pass backward/sideways only (no forward passes). Kicking is optional and should be safe/low.
@@ -35,6 +34,5 @@ rating: 5
 - **Game Time:** Two 10-minute halves with a short break.
 
 ##### Safety First
-
 - Teach safe, controlled tackling (start gently).
 - No rough play. Emphasize teamwork, passing, and fun.

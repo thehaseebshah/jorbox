@@ -16,7 +16,6 @@ rating: 4
 ### Karigari (Crafting)
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

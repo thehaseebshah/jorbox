@@ -16,7 +16,6 @@ rating:
 ### Writing Set
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

@@ -16,7 +16,6 @@ rating:
 ### Khalai Mechanic
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

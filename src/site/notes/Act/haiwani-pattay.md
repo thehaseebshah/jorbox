@@ -16,7 +16,6 @@ rating:
 ### Haiwani Pattay
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play
@@ -26,7 +25,6 @@ rating:
 Watch the video: https://www.youtube.com/watch?v=Uyciy8LmmXg
 
 ##### Mode
-
 - Cards Against Humanity
 - Quiplash
 - Bring Your Own Book

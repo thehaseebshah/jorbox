@@ -16,7 +16,6 @@ rating:
 ### Tez Tareeni
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

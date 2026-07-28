@@ -11,7 +11,6 @@ rating:
 ### Blindfold Drawing
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

@@ -16,7 +16,6 @@ rating:
 ### Ready Go
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

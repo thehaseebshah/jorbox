@@ -16,7 +16,6 @@ rating:
 ### Cleanup of Masjid
 
 #### How to Play
-
 ### How to Play
 
 ### How to Pla

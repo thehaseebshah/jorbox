@@ -16,7 +16,6 @@ rating:
 ### Chaar se Chaar
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

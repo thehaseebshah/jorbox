@@ -16,7 +16,6 @@ rating:
 ### Rassa Kashi
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

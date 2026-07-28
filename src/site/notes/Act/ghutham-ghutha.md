@@ -16,7 +16,6 @@ rating:
 ### Ghutham Ghutha
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

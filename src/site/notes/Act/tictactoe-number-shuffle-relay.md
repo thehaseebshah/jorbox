@@ -11,7 +11,6 @@ rating:
 ### TicTacToe + Number Shuffle Relay
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

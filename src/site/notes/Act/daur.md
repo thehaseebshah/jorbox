@@ -16,7 +16,6 @@ rating:
 ### Daur
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

@@ -11,7 +11,6 @@ rating:
 ### Questions from a Video
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

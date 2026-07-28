@@ -22,7 +22,6 @@ rating:
 **Theme:** Players are inventors in a thriving Islamic civilization pitching revolutionary inventions to the Ministry of Innovation. Remember that Muslims were pioneers in science, mathematics, medicine, and technology — now it's your turn to continue that legacy!
 
 #### Round Structure
-
 1. **Invention Creation:** Players select 2 cards from their hand to combine into a single invention.
 2. **Pitch Preparation (1 min):** Prepare a 60-second pitch.
 3. **The Pitching Session (60 secs):** Pitch your invention to the Judge (Ministry of Innovation), explaining what it does, how it benefits Muslims, and why it's revolutionary.

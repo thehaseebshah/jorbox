@@ -11,7 +11,6 @@ rating:
 ### Telestrations
 
 #### How to Play
-
 - **Date:** Feb 2025
 
 ### Learning Objectives

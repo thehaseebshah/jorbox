@@ -16,7 +16,6 @@ rating:
 ### Sher ki Aankh (Eye of the Tiger)
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

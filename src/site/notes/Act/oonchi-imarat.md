@@ -25,11 +25,9 @@ rating:
 ### How to Play
 
 ##### Brainstorming & Mashawrat (5 Mins)
-
 Teams are given a few minutes to brainstorm and sketch out their tower designs. They must follow the formal mashawrat process. They should discuss which natural objects they plan to collect and how they will integrate them into their design for stability and height.
 
 ##### Building Phase (25 Mins)
-
 The Murabbi sets a 25-minute time limit. Teams work together to collect their chosen natural objects and combine them with the provided materials to construct their towers.
 
 The Murabbi should evaluate each shabab's contribution, teamwork, and problem-solving skills during this phase to fill up the student profile.
@@ -37,7 +35,6 @@ The Murabbi should evaluate each shabab's contribution, teamwork, and problem-so
 Encourage creativity and innovative uses of the natural objects to achieve height and stability.
 
 #### Winning Conditions
-
 - **Primary Winner:** Once the building time is up, the Murabbi will use a measuring tape to measure the height of each team's tower from its base to its highest point. The team with the tallest freestanding tower is declared the winner.
 - **Secondary Categories:** The Murabbi can also announce winners for:
   - **Most Creative Design:** For the most innovative and artistic tower.
@@ -45,7 +42,6 @@ Encourage creativity and innovative uses of the natural objects to achieve heigh
   - **Strongest Teamwork:** For the team that demonstrates the best collaboration and communication.
 
 #### Discussion and Reflection
-
 Engage participants in a discussion about the activity. Ask questions like:
 
 - What natural objects did you incorporate into your tower's design?
@@ -54,5 +50,4 @@ Engage participants in a discussion about the activity. Ask questions like:
 - How did your team collaborate during the activity?
 
 #### Cleanup and Nature Respect
-
 Remind participants to clean up their areas and return any unused natural objects they collected back to where they found them. Stress the importance of respecting the environment and leaving the park as beautiful as they found it.

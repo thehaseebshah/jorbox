@@ -11,7 +11,6 @@ rating:
 ### Change
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

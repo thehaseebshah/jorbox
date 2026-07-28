@@ -16,7 +16,6 @@ rating:
 ### Caligraphy/Painting Competition
 
 #### How to Play
-
 ### How to Play
 
 ### How to Pla

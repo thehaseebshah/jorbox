@@ -16,7 +16,6 @@ rating:
 ### Teen Paanch Saat
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

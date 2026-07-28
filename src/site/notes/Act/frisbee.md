@@ -16,7 +16,6 @@ rating: 4
 ### Frisbee
 
 #### How to Play
-
 ### How to Play
 
 ### Variations
@@ -25,5 +24,4 @@ rating: 4
 - **Variation 2:** Qaidi Qaidi (Popular game)
 
 ##### Items Needed
-
 - Frisbee

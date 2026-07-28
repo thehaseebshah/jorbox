@@ -16,7 +16,6 @@ rating:
 ### Tol Matol
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

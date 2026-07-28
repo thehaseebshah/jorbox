@@ -16,7 +16,6 @@ rating:
 ### Croquett
 
 #### How to Play
-
 ### How to Play
 
 ### How to Pla

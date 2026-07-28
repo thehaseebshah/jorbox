@@ -16,7 +16,6 @@ rating:
 ### Travel VLOG
 
 #### How to Play
-
 ### How to Play
 
 ### How to Pla

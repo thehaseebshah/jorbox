@@ -16,7 +16,6 @@ rating:
 ### Sirf Sawal
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play

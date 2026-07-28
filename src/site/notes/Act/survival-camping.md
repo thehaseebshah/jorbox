@@ -16,7 +16,6 @@ rating:
 ### Survival Camping
 
 #### How to Play
-
 ### How to Play
 
 ### How to Pla

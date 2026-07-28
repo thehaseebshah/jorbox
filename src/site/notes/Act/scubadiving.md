@@ -16,7 +16,6 @@ rating:
 ### Scubadiving
 
 #### How to Play
-
 ### How to Play
 
 ### How to Pla

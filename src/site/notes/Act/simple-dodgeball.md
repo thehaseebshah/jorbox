@@ -16,7 +16,6 @@ rating:
 ### Simple Dodgeball
 
 #### How to Play
-
 ### How to Play
 
 ### How to Play
