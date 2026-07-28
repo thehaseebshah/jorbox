@@ -1,22 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/act/dhun-boojho/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Dhun Boojho"}}
+{"dg-publish":true,"permalink":"/act/dhun-boojho/","dg-note-properties":{"category":"JorBox Activity","name":"Dhun Boojho","type":"party","final":false,"added-to-shabab":false,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
 ---
 
-
-# Dhun Boojho
-
-## How to Play
+### Dhun Boojho
+#### How to Play
 **Inspired by:** Guess the Scene + Guess the Drawing / + Guess the Scene + Guess the Drawing
-
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4
-- **Code:** P-390
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade

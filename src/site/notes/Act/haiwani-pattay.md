@@ -1,30 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/act/haiwani-pattay/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Haiwani Pattay"}}
+{"dg-publish":true,"permalink":"/act/haiwani-pattay/","dg-note-properties":{"category":"JorBox Activity","name":"Haiwani Pattay","type":"party","final":false,"added-to-shabab":false,"tried":true,"age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":5,"rating":null}}
 ---
 
-
-# Haiwani Pattay
-
-## How to Play
+### Haiwani Pattay
+#### How to Play
 **Inspired by:** Cards Against Humanity / Cards Against Humanity, Quiplash, Bring Your Own Book, Sound mode
 
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 5
-- **Code:** P-050
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade
-
-### Reference
 Watch the video: https://www.youtube.com/watch?v=Uyciy8LmmXg
 
-### Mode
+##### Mode
 - Cards Against Humanity
 - Quiplash
 - Bring Your Own Book

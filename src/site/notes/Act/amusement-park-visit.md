@@ -1,20 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/act/amusement-park-visit/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Amusement Park Visit"}}
+{"dg-publish":true,"permalink":"/act/amusement-park-visit/","dg-note-properties":{"category":"JorBox Activity","name":"Amusement Park Visit","type":"location-based","final":false,"added-to-shabab":false,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"99 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
 ---
 
+### Amusement Park Visit
+#### How to Play
+### How to Pla
 
-# Amusement Park Visit
-
-## How to Play
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 99 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4
-- **Code:** L-600
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade
+y

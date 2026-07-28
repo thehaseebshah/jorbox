@@ -1,20 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/act/hold-breath-challenge/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Hold Breath Challenge"}}
+{"dg-publish":true,"permalink":"/act/hold-breath-challenge/","dg-note-properties":{"category":"JorBox Activity","name":"Hold Breath Challenge","type":"location-based","final":false,"added-to-shabab":false,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"99 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
 ---
 
+### Hold Breath Challenge
+#### How to Play
+### How to Pla
 
-# Hold Breath Challenge
-
-## How to Play
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 99 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4
-- **Code:** L-050
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade
+y

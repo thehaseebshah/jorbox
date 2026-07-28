@@ -1,19 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/act/yaaddasht/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Yaaddasht"}}
+{"dg-publish":true,"permalink":"/act/yaaddasht/","dg-note-properties":{"category":"JorBox Activity","name":"Yaaddasht","type":"deck","final":false,"added-to-shabab":false,"tried":false,"age-limit":"8+","group-size":"2+","duration":"15 minutes","prep-time":"< 5 minutes","difficulty":5,"rating":null}}
 ---
 
-
-# Yaaddasht
-
-## How to Play
+### Yaaddasht
+#### How to Play
 **Inspired by:** With Khoti Mechanic
 
-- **Age Limit:** 8+
-- **Group Size:** 2+
-- **Duration:** 15 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 5
 - **Items Needed:** Cards
 
-### Reference
 Watch: https://www.youtube.com/watch?v=Ryp3xJvsL1c

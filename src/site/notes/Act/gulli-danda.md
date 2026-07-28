@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/act/gulli-danda/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Gulli Danda"}}
+{"dg-publish":true,"permalink":"/act/gulli-danda/","dg-note-properties":{"category":"JorBox Activity","name":"Gulli Danda","type":"childhood","final":false,"added-to-shabab":false,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":5,"rating":null}}
 ---
 
-
-# Gulli Danda
-
-## How to Play
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 5
-- **Code:** C-040
-
-### Reference
+### Gulli Danda
+#### How to Play
 Watch: https://youtu.be/J3wU0buWUJY?si=o_RWIuXEqzij6wNN&t=85
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade

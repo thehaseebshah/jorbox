@@ -1,22 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/act/piddi-piddi/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Piddi Piddi"}}
+{"dg-publish":true,"permalink":"/act/piddi-piddi/","dg-note-properties":{"category":"JorBox Activity","name":"Piddi Piddi","type":"childhood","final":false,"added-to-shabab":false,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
 ---
 
-
-# Piddi Piddi
-
+### Piddi Piddi
+#### How to Play
 > **Note:** The Canva folder title is "Piddi Piddi" but the design content header reads "Chala Kooch". This may be a Canvas title mismatch or a renamed upload.
 
-## How to Play
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4
-- **Code:** C-111
+### How to Pla
 
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade
+y

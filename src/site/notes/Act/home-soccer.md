@@ -1,18 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/act/home-soccer/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Home Soccer"}}
+{"dg-publish":true,"permalink":"/act/home-soccer/","dg-note-properties":{"category":"JorBox Activity","name":"Home Soccer","type":"sports","final":true,"added-to-shabab":false,"tried":false,"age-limit":"5+","group-size":"2+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Easy","rating":5}}
 ---
 
-
-# Home Soccer
-
-## How to Play
-- **Age Limit:** 5+
-- **Group Size:** 2+
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** Easy
-- **Rating:** 5
-
-### Items Needed
+### Home Soccer
+#### How to Play
+##### Items Needed
 - Ball
 - Goal posts

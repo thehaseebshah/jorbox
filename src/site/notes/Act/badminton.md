@@ -1,18 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/act/badminton/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Badminton"}}
+{"dg-publish":true,"permalink":"/act/badminton/","dg-note-properties":{"category":"JorBox Activity","name":"Badminton","type":"sports","final":true,"added-to-shabab":false,"tried":false,"age-limit":"8+","group-size":"2+","duration":"20 minutes","prep-time":"< 5 minutes","difficulty":"Easy","rating":3}}
 ---
 
-
-# Badminton
-
-## How to Play
-- **Age Limit:** 8+
-- **Group Size:** 2+
-- **Duration:** 20 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** Easy
-- **Rating:** 3
-
-### Items Needed
+### Badminton
+#### How to Play
+##### Items Needed
 - Rackets
 - Shuttle

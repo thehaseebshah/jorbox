@@ -1,25 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/act/circle-se-nikalo/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Circle se Nikalo"}}
+{"dg-publish":true,"permalink":"/act/circle-se-nikalo/","dg-note-properties":{"category":"JorBox Activity","name":"Circle se Nikalo","type":"childhood","final":false,"added-to-shabab":false,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
 ---
 
-
-# Circle se Nikalo
-
-## How to Play
+### Circle se Nikalo
+#### How to Play
 **Rule:** Score teams based on total time
 
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4
-- **Code:** C-080
-
-### Reference
 Watch: https://www.youtube.com/watch?v=h9H2a65gAFw&list=PLINo1uFUv6C-qwBsSvORSQ9TzEk5PdxPV&index=11
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade

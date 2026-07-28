@@ -1,17 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/act/mantaq/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Mantaq"}}
+{"dg-publish":true,"permalink":"/act/mantaq/","dg-note-properties":{"category":"JorBox Activity","name":"Mantaq","type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false,"age-limit":"12+","group-size":"3+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Easy","rating":5}}
 ---
 
-
-# Mantaq
-
-## How to Play
-- **Age Limit:** 12+
-- **Group Size:** 3+
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** Easy
-- **Rating:** 5
-
-### Reference
+### Mantaq
+#### How to Play
 Watch: [Excalidraw Whiteboard - 29 August 2025](https://www.loom.com/share/d99bbde878204a91abeecdb9b034c8b7)

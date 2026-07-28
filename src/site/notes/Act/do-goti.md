@@ -1,17 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/act/do-goti/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Do Goti"}}
+{"dg-publish":true,"permalink":"/act/do-goti/","dg-note-properties":{"category":"JorBox Activity","name":"Do Goti","type":"kaghaz","final":false,"added-to-shabab":false,"tried":false,"age-limit":"10+","group-size":"2","duration":"15 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
 ---
 
-
-# Do Goti
-
-## How to Play
-- **Age Limit:** 10+
-- **Group Size:** 2
-- **Duration:** 15 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 3
+### Do Goti
+#### How to Play
 - **Items Needed:** Paper, pencil
 
-### Reference
 Watch: https://m.youtube.com/watch?v=3m94y_4_9Jw

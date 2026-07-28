@@ -1,16 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/act/gol-gappay/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Gol Gappay"}}
+{"dg-publish":true,"permalink":"/act/gol-gappay/","dg-note-properties":{"category":"JorBox Activity","name":"Gol Gappay","type":"outdoor","final":true,"added-to-shabab":false,"tried":false,"age-limit":"5+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":5,"rating":null}}
 ---
 
-
-# Gol Gappay
-
-## How to Play
-- **Age Limit:** 5+
-- **Group Size:** 4+
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 5
-
-### Reference
+### Gol Gappay
+#### How to Play
 Watch: https://www.canva.com/design/DAGrcXP-4S4/h1tVlqXmDzni3Ywx88cznQ/watch?utlId=he48a072ffd

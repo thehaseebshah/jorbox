@@ -1,25 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/act/chalaak-4/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Chalaak 4"}}
+{"dg-publish":true,"permalink":"/act/chalaak-4/","dg-note-properties":{"category":"JorBox Activity","name":"Chalaak 4","type":"outdoor","final":false,"added-to-shabab":true,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
 ---
 
-
-# Chalaak 4
-
-## How to Play
+### Chalaak 4
+#### How to Play
 **Inspired by:** 4 on a couch
 
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4
-- **Code:** O-200
-
-### Reference
 Watch: https://m.youtube.com/watch?v=jtMAXP7re1o
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade

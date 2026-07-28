@@ -1,19 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/act/chaar-se-chaar/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Chaar se Chaar"}}
+{"dg-publish":true,"permalink":"/act/chaar-se-chaar/","dg-note-properties":{"category":"JorBox Activity","name":"Chaar se Chaar","type":"kaghaz","final":false,"added-to-shabab":false,"tried":false,"age-limit":"10+","group-size":"2","duration":"15 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
 ---
 
-
-# Chaar se Chaar
-
-## How to Play
+### Chaar se Chaar
+#### How to Play
 **Inspired by:** Connect 4
 
-- **Age Limit:** 10+
-- **Group Size:** 2
-- **Duration:** 15 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 3
 - **Items Needed:** Paper, pencil
 
-### Reference
 Watch: https://www.youtube.com/watch?v=s-Rqik29V80

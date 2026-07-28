@@ -1,22 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/act/phansna-nahi/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Phansna Nahi"}}
+{"dg-publish":true,"permalink":"/act/phansna-nahi/","dg-note-properties":{"category":"JorBox Activity","name":"Phansna Nahi","type":"party","final":false,"added-to-shabab":false,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"99 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
 ---
 
-
-# Phansna Nahi
-
-## How to Play
+### Phansna Nahi
+#### How to Play
 **Inspired by:** Don't get Got (Loser does a Dare from Truth or Dare) / Dont get Got; Loser does a Dare (from Truth or Dare)
-
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 99 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4
-- **Code:** P-270
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade

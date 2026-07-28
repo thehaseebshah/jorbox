@@ -1,14 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/act/first-aid-workshop/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"First Aid Workshop"}}
+{"dg-publish":true,"permalink":"/act/first-aid-workshop/","dg-note-properties":{"category":"JorBox Activity","name":"First Aid Workshop","type":"miscellaneous","final":false,"added-to-shabab":false,"tried":false,"age-limit":"10+","group-size":"4+","duration":"99 minutes","prep-time":"< 5 minutes","difficulty":"Easy","rating":5}}
 ---
 
+### First Aid Workshop
+#### How to Play
+### How to Pla
 
-# First Aid Workshop
-
-## How to Play
-- **Age Limit:** 10+
-- **Group Size:** 4+
-- **Duration:** 99 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** Easy
-- **Rating:** 5
+y

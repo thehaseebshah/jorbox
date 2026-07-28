@@ -1,22 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/act/khufia-paigham/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Khufia Paigham"}}
+{"dg-publish":true,"permalink":"/act/khufia-paigham/","dg-note-properties":{"category":"JorBox Activity","name":"Khufia Paigham","type":"party","final":false,"added-to-shabab":false,"tried":true,"age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":5,"rating":null}}
 ---
 
-
-# Khufia Paigham
-
-## How to Play
+### Khufia Paigham
+#### How to Play
 **Inspired by:** Decrypto
-
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 5
-- **Code:** P-080
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade

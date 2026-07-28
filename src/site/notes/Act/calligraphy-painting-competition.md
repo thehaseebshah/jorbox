@@ -1,20 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/act/calligraphy-painting-competition/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Caligraphy/Painting Competition"}}
+{"dg-publish":true,"permalink":"/act/calligraphy-painting-competition/","dg-note-properties":{"category":"JorBox Activity","name":"Calligraphy Painting Competition","type":"location-based","final":false,"added-to-shabab":false,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"99 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
 ---
 
+### Caligraphy/Painting Competition
+#### How to Play
+### How to Pla
 
-# Caligraphy/Painting Competition
-
-## How to Play
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 99 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4
-- **Code:** L-560
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade
+y

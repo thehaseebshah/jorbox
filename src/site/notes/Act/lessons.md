@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/act/lessons/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Shabab Skills Lessons"}}
+{"dg-publish":true,"permalink":"/act/lessons/","dg-note-properties":{"category":"JorBox Activity","name":"Lessons","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
 ---
 
-
-# Shabab Skills Lessons
-
+### Shabab Skills Lessons
+#### How to Play
 ```base
 properties:
   file.name:

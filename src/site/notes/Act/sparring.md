@@ -1,17 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/act/sparring/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Sparring"}}
+{"dg-publish":true,"permalink":"/act/sparring/","dg-note-properties":{"category":"JorBox Activity","name":"Sparring","type":"sports","final":true,"added-to-shabab":false,"tried":false,"age-limit":"5+","group-size":"2+","duration":"20 minutes","prep-time":"< 5 minutes","difficulty":"Easy","rating":5}}
 ---
 
-
-# Sparring
-
-## How to Play
-- **Age Limit:** 5+
-- **Group Size:** 2+
-- **Duration:** 20 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** Easy
-- **Rating:** 5
-
-### Items Needed
+### Sparring
+#### How to Play
+##### Items Needed
 - —

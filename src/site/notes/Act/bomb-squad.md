@@ -1,17 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/act/bomb-squad/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Bomb Squad"}}
+{"dg-publish":true,"permalink":"/act/bomb-squad/","dg-note-properties":{"category":"JorBox Activity","name":"Bomb Squad","type":"miscellaneous","final":false,"added-to-shabab":false,"tried":false,"age-limit":"8+","group-size":"2+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":5,"rating":null}}
 ---
 
-
-# Bomb Squad
-
-## How to Play
-- **Age Limit:** 8+
-- **Group Size:** 2+
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 5
+### Bomb Squad
+#### How to Play
 - **Items Needed:** Mobiles
 
-### Reference
 Download: https://apkpure.com/bombsquad-app/net.froemling.bombsquad

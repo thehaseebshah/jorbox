@@ -1,16 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/act/catan/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Catan"}}
+{"dg-publish":true,"permalink":"/act/catan/","dg-note-properties":{"category":"JorBox Activity","name":"Catan","type":"board","final":false,"added-to-shabab":false,"tried":false,"age-limit":"14+","group-size":"2-4","duration":"60 minutes","prep-time":"< 5 minutes","difficulty":5,"rating":null}}
 ---
 
-
-# Catan
-
-## How to Play
-- **Age Limit:** 14+
-- **Group Size:** 2-4
-- **Duration:** 60 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 5
-
-### Reference
+### Catan
+#### How to Play
 Watch: https://www.youtube.com/watch?v=lxSIcG3emgs

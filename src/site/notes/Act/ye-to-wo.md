@@ -1,30 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/act/ye-to-wo/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Ye to Wo"}}
+{"dg-publish":true,"permalink":"/act/ye-to-wo/","dg-note-properties":{"category":"JorBox Activity","name":"Ye to Wo","type":"outdoor","final":false,"added-to-shabab":true,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":5,"rating":null}}
 ---
 
-
-# Ye to Wo
-
-## How to Play
+### Ye to Wo
+#### How to Play
 **Inspired by:** Jump In, Jump Out. Eliminate those that are unable to do it
 
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 5
-- **Code:** O-090
-
-### How to Play
 **Inspired by:** Jump In, Jump Out. Eliminate those that are unable to do it
 
 Eliminate those that are unable to do it.
 
-### Reference
 Watch: https://www.youtube.com/watch?v=ImKsV_SAuyg
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade

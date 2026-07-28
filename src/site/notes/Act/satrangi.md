@@ -1,22 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/act/satrangi/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Satrangi"}}
+{"dg-publish":true,"permalink":"/act/satrangi/","dg-note-properties":{"category":"JorBox Activity","name":"Satrangi","type":"childhood","final":false,"added-to-shabab":false,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":5,"rating":null}}
 ---
 
-
-# Satrangi
-
-## How to Play
+### Satrangi
+#### How to Play
 **Inspired by:** Grabbing Colors
-
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 5
-- **Code:** C-020
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade

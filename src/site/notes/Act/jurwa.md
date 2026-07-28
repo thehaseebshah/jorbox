@@ -1,25 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/act/jurwa/","dg-note-properties":{"category":"Shabab Tarbiyah Curriculum","name":"Jurwa"}}
+{"dg-publish":true,"permalink":"/act/jurwa/","dg-note-properties":{"category":"JorBox Activity","name":"Jurwa","type":"outdoor","final":false,"added-to-shabab":false,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
 ---
 
-
-# Jurwa
-
-## How to Play
+### Jurwa
+#### How to Play
 **Inspired by:** Grab a ball using a chosen body part
 
-- **Age Limit:** 14+
-- **Group Size:** 5–10 players
-- **Duration:** 30 minutes
-- **Prep Time:** < 5 minutes
-- **Difficulty:** 4
-- **Code:** O-640
-
-### Reference
 Watch: https://www.youtube.com/watch?v=efXn646cC58&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=38
-
-### Items Needed
-- Role Cards (e.g., Mujahid/Jasoos)
-- Mission Cards (Success/Fail)
-- Voting Tokens (Approve/Reject)
-- Can be handmade
