@@ -13,14 +13,11 @@ prep-time: "< 5 minutes"
 difficulty: 3
 rating:
 ---
-
 ### Tikon
 
 #### How to Play
 
-
 ### How to Play
-
 
 ### How to Play
 

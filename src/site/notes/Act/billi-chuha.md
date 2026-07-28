@@ -13,16 +13,14 @@ prep-time: "< 5 minutes"
 difficulty: 4
 rating:
 ---
-
 ### Billi Chuha
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 **Inspired by:** Dog and the Bone
 
 Watch: https://youtube.com/shorts/M7Stk4eRjrU?si=pJAmWRZ53yC8EcIt

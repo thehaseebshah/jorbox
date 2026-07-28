@@ -13,16 +13,14 @@ prep-time: "< 5 minutes"
 difficulty: 4
 rating:
 ---
-
 ### Writing Set
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 - **Items Needed:** Papers, pens
 
 Watch: https://www.loom.com/share/770e7a8a37d44136bf4c83c630ccec6b

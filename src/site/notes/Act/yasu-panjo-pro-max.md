@@ -13,14 +13,12 @@ prep-time: "< 5 minutes"
 difficulty: 4
 rating:
 ---
-
 ### Yasu Panjo Pro Max
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 **Inspired by:** Taco Goat Cheese Pizza

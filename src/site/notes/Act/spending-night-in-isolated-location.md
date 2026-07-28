@@ -13,13 +13,12 @@ prep-time: "< 5 minutes"
 difficulty: 4
 rating:
 ---
-
 ### Spending Night in Isolated Location
 
 #### How to Play
 
-
 ### How to Play
 
+### How to Pla
 
-### How to Play
+y

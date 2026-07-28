@@ -8,16 +8,14 @@ added-to-shabab: false
 tried: false
 rating:
 ---
-
 ### Preface
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 What Shabab will get after completion of 6 months, what will be the benefits? *(For Murabbi Reading)*
 
 Tell them that all the learnings in the skills class will be achieved with the help of activities, games & challenges.

@@ -8,16 +8,17 @@ added-to-shabab: false
 tried: false
 rating:
 ---
-
 ### Counter-Narrative
 
 ### Setup
+
 - **Prepare the Gauntlet:** The Murabbi prepares 5-10 topic cards with common anti-Islamic or secular arguments.
 - **Arrange the Majlis:** Shabab sit in a semi-circle, ready to write.
 
 This is an Essay Writing Activity.
 
 ### How to Participate
+
 1. **The Spark (5 mins):** The Murabbi gives a brief introduction about intellectual warfare and defending the truth.
 2. **Draw Your Topic (1 min):** Each participant draws a topic card.
 3. **Forge the Argument (15 mins):** Each participant writes a sharp, concise refutation (100-150 words).
@@ -26,6 +27,7 @@ This is an Essay Writing Activity.
 **Language of Submission:** Urdu
 
 #### Evaluation & Scoring
+
 The Murabbi will score each piece out of 20 points based on:
 
 | Criterion | Description | Points |

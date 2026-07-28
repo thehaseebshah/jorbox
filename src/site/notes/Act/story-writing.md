@@ -8,15 +8,16 @@ added-to-shabab: false
 tried: false
 rating:
 ---
-
 ### Story Writing
 
 ### Setup
+
 - Divide Shabab into teams of two.
 - Give all teams the same starter prompt: "A traveler loses his way in a strange land…"
 - Tell them they must craft a story with a full arc and a moral conclusion.
 
 ### Murabbi Briefing (Before Play)
+
 **Why stories are important:**
 - Stories are one of the oldest ways humans learn and remember.
 - The Qur'an itself teaches through stories of Prophets and nations—because stories touch the heart and stay in the mind.
@@ -31,11 +32,13 @@ rating:
 - *Moral lesson:* what value or truth we learn from it.
 
 #### How to Play
+
 - Teams brainstorm and write their story (30 minutes).
 - Each team selects one narrator to present (20 minutes).
 - After narrations, Murabbi highlights the best examples of engaging openings, conflicts, and twists. (10 minutes)
 
 #### Winning & Scoring
+
 Each story is scored out of 30 points:
 - Engaging start: 5 points
 - Clear structure (beginning → middle → end): 5 points
@@ -47,17 +50,20 @@ Each story is scored out of 30 points:
 The team with the highest score wins.
 
 #### Rules & Strategy
+
 - Stick to the story arc; avoid rambling.
 - Make sure the conflict is clear (what the traveler is struggling with).
 - Add a twist to surprise the audience.
 - Keep the story short, clear, and meaningful.
 
 #### Forbidden
+
 - Copying from movies or shows
 - Disrespectful or mocking themes
 - Ignoring the conflict or skipping the moral
 
 #### Murabbi Notes
+
 - Emphasize: "A story without conflict is just a description—conflict makes people want to listen."
 - Encourage Shabab to surprise the audience with at least one plot twist.
 - If time allows, challenge teams to rewrite their ending with a different twist.

@@ -13,14 +13,12 @@ prep-time: "< 5 minutes"
 difficulty: 5
 rating:
 ---
-
 ### Banao Boojho
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 **Inspired by:** Catch Sketch

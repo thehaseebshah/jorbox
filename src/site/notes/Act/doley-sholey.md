@@ -13,16 +13,14 @@ prep-time: "< 5 minutes"
 difficulty: 4
 rating:
 ---
-
 ### Doley Sholey
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 **Inspired by:** Muscle Power
 
 Watch: [Excalidraw Whiteboard - 29 August 2025](https://www.loom.com/share/e091416f7dd6423fa195470ff48b9d68)

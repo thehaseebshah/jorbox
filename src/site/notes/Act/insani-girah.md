@@ -13,14 +13,11 @@ prep-time: "< 5 minutes"
 difficulty: 4
 rating:
 ---
-
 ### Insani Girah (Human Knot)
 
 #### How to Play
 
-
 ### How to Play
-
 
 ### How to Play
 

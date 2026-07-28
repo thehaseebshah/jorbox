@@ -13,14 +13,11 @@ prep-time: "< 5 minutes"
 difficulty: 4
 rating:
 ---
-
 ### Sher ki Aankh (Eye of the Tiger)
 
 #### How to Play
 
-
 ### How to Play
-
 
 ### How to Play
 

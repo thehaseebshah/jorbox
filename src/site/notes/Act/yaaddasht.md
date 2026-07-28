@@ -13,16 +13,14 @@ prep-time: "< 5 minutes"
 difficulty: 5
 rating:
 ---
-
 ### Yaaddasht
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 **Inspired by:** With Khoti Mechanic
 
 - **Items Needed:** Cards

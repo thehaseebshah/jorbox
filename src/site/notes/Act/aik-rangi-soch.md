@@ -13,16 +13,14 @@ prep-time: "< 5 minutes"
 difficulty: 5
 rating:
 ---
-
 ### Aik Rangi Soch
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 **Inspired by:** Wavelength (with drawing and non-related drawing prompts — last two like non-sensory) / Wavelength, with drawing and non-related drawing prompts (last two like non-sensory)
 
 Watch: https://www.youtube.com/watch?v=4ulLmUQ7omU

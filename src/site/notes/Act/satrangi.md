@@ -13,14 +13,12 @@ prep-time: "< 5 minutes"
 difficulty: 5
 rating:
 ---
-
 ### Satrangi
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 **Inspired by:** Grabbing Colors

@@ -13,14 +13,11 @@ prep-time: "< 5 minutes"
 difficulty: 5
 rating:
 ---
-
 ### Catan
 
 #### How to Play
 
-
 ### How to Play
-
 
 ### How to Play
 

@@ -8,14 +8,12 @@ added-to-shabab: false
 tried: false
 rating:
 ---
-
 ### Caterpillar Race
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 Video instructions are [here](https://canva.link/u3cbk3jueuyuwe4).

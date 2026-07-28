@@ -13,16 +13,14 @@ prep-time: "< 5 minutes"
 difficulty: 4
 rating:
 ---
-
 ### Boni Kushti
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 **Inspired by:** One legged Kushti
 
 Watch: https://m.youtube.com/watch?v=ZqfeLN8VMNE

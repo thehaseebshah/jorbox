@@ -13,16 +13,14 @@ prep-time: "< 5 minutes"
 difficulty: 5
 rating:
 ---
-
 ### Aabdoz
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 **Inspired by:** Sonar
 
 Watch: https://www.youtube.com/watch?v=U2Diix5qYJo

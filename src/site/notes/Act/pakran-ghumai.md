@@ -13,16 +13,14 @@ prep-time: "< 5 minutes"
 difficulty: 5
 rating:
 ---
-
 ### Pakran Ghumai
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 **Inspired by:** Triangle Tag
 
 Watch: https://www.youtube.com/watch?v=a_2epGmCpwg

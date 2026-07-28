@@ -8,7 +8,6 @@ added-to-shabab: true
 tried: false
 rating:
 ---
-
 ### Icebreaking Activity 1
 
 #### How to Play

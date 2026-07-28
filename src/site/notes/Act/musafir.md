@@ -13,16 +13,14 @@ prep-time: "< 5 minutes"
 difficulty: 5
 rating:
 ---
-
 ### Musafir
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 **Inspired by:** Navigators
 
 Watch: https://www.loom.com/share/6688c94113aa4a1194d4c3fc6e9ffb9e

@@ -8,16 +8,14 @@ added-to-shabab: false
 tried: false
 rating:
 ---
-
 ### Questions from a Video
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 Video instructions are [here](https://www.canva.com/design/DAGrcwneozM/awb66Baf91wxsJKDyBBMHw/watch). Use this YouTube video: [youtu.be/7bu84ZXybjo](http://youtu.be/7bu84ZXybjo).
 
 **IMPORTANT:** After watching the video Shabab should write down their answers on their hands. Then ask them the answers and reward the best pair.

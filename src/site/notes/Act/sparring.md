@@ -13,16 +13,14 @@ prep-time: "< 5 minutes"
 difficulty: "Easy"
 rating: 5
 ---
-
 ### Sparring
 
 #### How to Play
 
-
 ### How to Play
-
 
 ### How to Play
 
 ##### Items Needed
+
 - —

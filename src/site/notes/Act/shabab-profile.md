@@ -8,16 +8,14 @@ added-to-shabab: false
 tried: false
 rating:
 ---
-
 ### Shabab Profile
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 Use the following Shabab profile template during the weekdays to gather info from the Shabab and their parents, via WhatsApp or call.
 
 ![Pasted image 20260727004927.png](/img/user/Attachments/Pasted%20image%2020260727004927.png)

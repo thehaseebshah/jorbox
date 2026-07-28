@@ -8,14 +8,15 @@ added-to-shabab: false
 tried: false
 rating:
 ---
-
 ### A Legacy of the Lions
 
 ### Setup
+
 - **Present the Prompts:** The Murabbi presents prompt options clearly.
 - **Set the Atmosphere:** Ensure a quiet, serious, and reflective environment.
 
 ### How to Participate
+
 1. **The Reminder (5 mins):** Short talk on legacy in Islam vs. materialism.
 2. **Choose Your Path (1 min):** Select one of the two prompts.
 3. **The Ink Flows (25 mins):** Participants write focusing on sincerity (*Ikhlas*).
@@ -24,11 +25,13 @@ rating:
 **Language of Submission:** Urdu
 
 #### Prompt Options
+
 **Prompt A: The Final Verdict:** Write the eulogy you hope a close, God-fearing friend would be able to give after your Janazah. What character, deeds, and impact would he speak of?
 
 **Prompt B: Letter to My Son:** Write a one-page letter to your 15-year-old future son, outlining the most important principles he must live by as a Muslim man.
 
 #### Evaluation & Scoring
+
 The Murabbi will score the chosen written piece out of 20 points based on the following criteria:
 
 | Criterion | Description | Points |

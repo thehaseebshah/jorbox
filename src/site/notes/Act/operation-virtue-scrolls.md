@@ -8,10 +8,10 @@ added-to-shabab: false
 tried: false
 rating:
 ---
-
 ### Operation: Virtue Scrolls
 
 ### Setup
+
 - **Teams:** Divide the Shabab into teams of 4. There can be as many teams as needed. Murabbis can join teams to make the numbers even.
 - **Bases & Virtue Stacks:** Each team chooses a starting corner or area for their base. In the center of their base, they will have their "Virtue Stack," a pile of folded papers in plain sight. Each team starts with 10 Virtue Scrolls in their stack.
 - **Central Cache:** An additional 10 Virtue Scrolls are placed in a pile in the exact center of the field.
@@ -21,6 +21,7 @@ rating:
 - **Referees:** One or more Murabbis will act as timekeepers and referees to ensure fair play.
 
 ### How to Play
+
 **Start of the Round:** On the Murabbi's signal, the game begins. Players can move anywhere on the field.
 
 **The Objective:** The goal is to have the most Virtue Scrolls in your team's stack when the time runs out. You can acquire more scrolls by taking them from the central cache or by retrieving them from the stacks of other teams.
@@ -37,6 +38,7 @@ rating:
 **Winning & Scoring:** At the end of the dedicated time (e.g., 15 minutes), the game ends. The Murabbi will count the number of Virtue Scrolls in each team's stack. The team with the most Virtue Scrolls wins the round. There is no point system; the highest count is the only metric for winning.
 
 #### Rules & Strategy
+
 > [!important] The Honesty Rule (Amanah)
 > This is the most important rule. Staying honest is key. Whenever you are hit, you must call it. If you are unsure if you were hit, call it anyway.
 
@@ -44,9 +46,11 @@ rating:
 - **Spawn Camping:** Guarding an enemy team's spawn point to hit them as soon as they respawn is allowed as a valid strategy.
 
 #### Forbidden in the Game
+
 - Physical contact (no pushing, grabbing, or tackling)
 - Moving your team's base or spawn bag
 - Carrying more than one Virtue Scroll at a time
 
 #### The Virtue Scrolls (Emaani Sifaat)
+
 The folded papers are inscribed with the following qualities: *Sabr (Patience), Shukr (Gratitude), Tawakkul (Trust in Allah), Ikhlas (Sincerity), Taqwa (God-consciousness), Sidq (Truthfulness), Amanah (Trustworthiness), Adl (Justice), Ihsan (Excellence), Haya (Modesty), Shuja'at (Courage), Istiqamah (Steadfastness), Yaqeen (Certainty), Tawbah (Repentance), Afw (Forgiveness), Himmah (High Ambition), Jihad al-Nafs (Struggle against the self), Qana'ah (Contentment), Rahmah (Mercy), Ithar (Altruism), Firasah (Insight), Birr (Righteousness), Wafa (Loyalty/Fidelity), Hilm (Forbearance), Tadabbur (Contemplation).*

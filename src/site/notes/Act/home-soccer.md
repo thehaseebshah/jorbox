@@ -13,17 +13,15 @@ prep-time: "< 5 minutes"
 difficulty: "Easy"
 rating: 5
 ---
-
 ### Home Soccer
 
 #### How to Play
 
-
 ### How to Play
-
 
 ### How to Play
 
 ##### Items Needed
+
 - Ball
 - Goal posts

@@ -13,16 +13,14 @@ prep-time: "< 5 minutes"
 difficulty: 4
 rating:
 ---
-
 ### Cooking
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 Each cooking group will have to cook a meal, food or dish with the help of available resources. Each group will be having an Ameer. Mashwarat process is must to follow.
 
 Please make sure they have taken food material along equipment for cooking.
@@ -40,4 +38,5 @@ Murabbis or Park Admin will taste food to announce the winner based on taste, ef
 Everyone will eat prepared food together. Everyone will share the food with each other.
 
 ##### Sample food ideas
+
 Rice, Sabzi, Samosa, Kebabs, Meetha, Salan, BBQ, Burger, Sandwich, Salad, Roti, Roll, Any Unique or new food.

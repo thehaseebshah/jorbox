@@ -13,14 +13,12 @@ prep-time: "< 5 minutes"
 difficulty: 3
 rating:
 ---
-
 ### Antakshari 25
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 **Inspired by:** Akinator

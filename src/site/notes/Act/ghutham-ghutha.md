@@ -13,14 +13,12 @@ prep-time: "< 5 minutes"
 difficulty: 3
 rating:
 ---
-
 ### Ghutham Ghutha
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 **Inspired by:** Twister

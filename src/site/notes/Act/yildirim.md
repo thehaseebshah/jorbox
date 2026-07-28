@@ -13,14 +13,12 @@ prep-time: "< 5 minutes"
 difficulty: "Easy"
 rating: 5
 ---
-
 ### Yildirim
 
 #### How to Play
 
+### How to Play
 
 ### How to Play
 
-
-### How to Play
 **How to Play:** Learn Ninjitsu if you don't know Yildirim
