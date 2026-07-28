@@ -3,7 +3,6 @@
 ---
 
 ### Rugby
-#### How to Play
 #### Game Setup  
 Teams:  
 - 2 teams, each consisting of 6 or more players.  
