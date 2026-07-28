@@ -15,4 +15,5 @@ rating: 5
 ---
 ### 4 on a Couch
 #### How to Play
+Watch [this](https://www.youtube.com/watch?v=3hvWV0qzf-o)
 Use a bench in the park or a dedicated area in the park as the "Couch".
