@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** Cheese Movers
 
-
-##### Reference
 Watch: https://www.youtube.com/watch?v=_exo0hJ4Ovs&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=58

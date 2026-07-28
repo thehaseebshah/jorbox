@@ -17,5 +17,4 @@ rating:
 
 #### How to Play
 
-##### Reference
 Watch: [05 Blindfold Challenges](https://www.canva.com/design/DAGrce5W9go/887GJOqXg2YnjxYHzpSUTQ/watch?utlId=h01efe52494)

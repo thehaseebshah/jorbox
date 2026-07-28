@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** + Gattu Daur + Jazeeray + Pass an Object
 
-
-##### Reference
 Watch: https://www.canva.com/design/DAGrcQBXztY/fVsrTd7fGzQrPLKGZA-EAQ/watch?utm_content=DAGrcQBXztY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h87a712316c

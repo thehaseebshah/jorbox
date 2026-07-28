@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** Spider Web
 
-
-##### Reference
 Watch: https://www.youtube.com/watch?v=b4M_0v4TAyY&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=59

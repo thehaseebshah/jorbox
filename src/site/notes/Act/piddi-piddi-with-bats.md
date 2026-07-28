@@ -17,5 +17,4 @@ rating:
 
 #### How to Play
 
-##### Reference
 Watch: https://www.loom.com/share/f09e80b47fc04d5ca398ae17b3c48980

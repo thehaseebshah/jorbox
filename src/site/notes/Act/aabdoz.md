@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** Sonar
 
-
-##### Reference
 Watch: https://www.youtube.com/watch?v=U2Diix5qYJo

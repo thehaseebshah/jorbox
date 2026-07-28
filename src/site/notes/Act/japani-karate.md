@@ -17,5 +17,4 @@ rating:
 
 #### How to Play
 
-##### Reference
 Watch: [Camp Games: Ninja - Ultimate Camp Resource](https://www.youtube.com/watch?v=M-9F06_uOGo&list=PL929CC4949C2AF3A9&index=40)

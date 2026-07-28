@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** Bluff
 
-
-##### Reference
 Watch: https://www.youtube.com/watch?v=pKzAbWFhmtk

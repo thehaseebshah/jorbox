@@ -18,7 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** Nerves of Steel / Catch Ball When Thrown only
 
-
-
-##### Reference
 Watch: Nerves of Steel.AVI

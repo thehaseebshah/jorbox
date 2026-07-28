@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** Grab a ball using a chosen body part
 
-
-##### Reference
 Watch: https://www.youtube.com/watch?v=efXn646cC58&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=38

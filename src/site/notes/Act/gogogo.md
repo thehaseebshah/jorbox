@@ -18,5 +18,4 @@ rating:
 #### How to Play
 - **Items Needed:** Mobile
 
-##### Reference
 Download: https://apkpure.com/gogogo-the-party-game/com.Studiosaurus.Gogogothegame/

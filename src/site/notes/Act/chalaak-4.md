@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** 4 on a couch
 
-
-##### Reference
 Watch: https://m.youtube.com/watch?v=jtMAXP7re1o

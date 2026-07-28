@@ -17,5 +17,4 @@ rating:
 
 #### How to Play
 
-##### Reference
 Watch: https://www.canva.com/design/DAGrcXP-4S4/h1tVlqXmDzni3Ywx88cznQ/watch?utlId=he48a072ffd

@@ -20,5 +20,4 @@ rating:
 
 - **Items Needed:** Cards
 
-##### Reference
 Watch: https://www.youtube.com/watch?v=Ryp3xJvsL1c

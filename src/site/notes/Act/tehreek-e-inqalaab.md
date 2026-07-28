@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** The Resistance
 
-
-##### Reference
 Visit the lesson: https://shababskills.my.canva.site/shb-skills-lesson-12

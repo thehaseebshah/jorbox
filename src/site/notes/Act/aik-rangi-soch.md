@@ -18,7 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** Wavelength (with drawing and non-related drawing prompts — last two like non-sensory) / Wavelength, with drawing and non-related drawing prompts (last two like non-sensory)
 
-
-
-##### Reference
 Watch: https://www.youtube.com/watch?v=4ulLmUQ7omU

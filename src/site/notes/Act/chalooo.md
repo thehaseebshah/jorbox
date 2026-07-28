@@ -17,6 +17,4 @@ rating:
 #### How to Play
 **Inspired by:** Go Fish
 
-
-##### Reference
 Watch: https://www.youtube.com/watch?v=psOjK8Y06m0&t=42s

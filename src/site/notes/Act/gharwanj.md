@@ -17,5 +17,4 @@ rating:
 
 #### How to Play
 
-##### Reference
 Watch: https://www.youtube.com/watch?v=XC3UoMYDuTE

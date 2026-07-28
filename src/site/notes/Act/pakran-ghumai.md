@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** Triangle Tag
 
-
-##### Reference
 Watch: https://www.youtube.com/watch?v=a_2epGmCpwg

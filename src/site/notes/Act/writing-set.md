@@ -18,5 +18,4 @@ rating:
 #### How to Play
 - **Items Needed:** Papers, pens
 
-##### Reference
 Watch: https://www.loom.com/share/770e7a8a37d44136bf4c83c630ccec6b

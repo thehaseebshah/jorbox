@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** The Mind
 
-
-##### Reference
 Watch: https://www.youtube.com/watch?v=uXl8MC0GMYE

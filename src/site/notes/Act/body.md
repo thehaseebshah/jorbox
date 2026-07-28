@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Rule:** Score teams based on total time
 
-
-##### Reference
 Watch: https://youtu.be/mNY8FjhQfMw?si=MMdBvNpA1YpP_QLa&t=32

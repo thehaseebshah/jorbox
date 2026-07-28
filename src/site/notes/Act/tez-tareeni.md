@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** Speed
 
-
-##### Reference
 Watch: https://www.youtube.com/watch?v=-gN56kKwb7o

@@ -18,5 +18,4 @@ rating:
 
 #### How to Play
 
-##### Reference
 Watch this video: [Audio Note explanation](https://disk.yandex.com/d/T9BFQsrkh0fKMA)

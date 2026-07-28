@@ -18,5 +18,4 @@ rating:
 #### How to Play
 - **Items Needed:** Mobiles
 
-##### Reference
 Download: https://apkpure.com/bombsquad-app/net.froemling.bombsquad

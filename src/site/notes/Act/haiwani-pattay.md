@@ -18,9 +18,6 @@ rating:
 #### How to Play
 **Inspired by:** Cards Against Humanity / Cards Against Humanity, Quiplash, Bring Your Own Book, Sound mode
 
-
-
-##### Reference
 Watch the video: https://www.youtube.com/watch?v=Uyciy8LmmXg
 
 ##### Mode

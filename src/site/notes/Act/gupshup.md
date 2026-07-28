@@ -20,5 +20,4 @@ rating:
 ##### How to Play
 Ask these questions to groups to start a conversation.
 
-##### Reference
 Read: https://docs.google.com/document/d/1FWFLtRsku-Vgn9K2MHjfRZ533VP6mEIpL7ZfiAggjSM/edit?tab=t.0

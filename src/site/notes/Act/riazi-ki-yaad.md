@@ -17,5 +17,4 @@ rating:
 
 #### How to Play
 
-##### Reference
 Watch: [Excalidraw Whiteboard - 29 August 2025](https://www.loom.com/share/8c4896507d29431ca417860f31f6a826)

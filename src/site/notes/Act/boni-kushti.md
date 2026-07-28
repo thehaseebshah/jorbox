@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** One legged Kushti
 
-
-##### Reference
 Watch: https://m.youtube.com/watch?v=ZqfeLN8VMNE

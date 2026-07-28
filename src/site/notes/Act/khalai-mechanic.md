@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** Spaceteam
 
-
-##### Reference
 Watch: https://www.youtube.com/watch?v=go_xpGrwa7I

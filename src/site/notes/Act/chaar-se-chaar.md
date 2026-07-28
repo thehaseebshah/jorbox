@@ -20,5 +20,4 @@ rating:
 
 - **Items Needed:** Paper, pencil
 
-##### Reference
 Watch: https://www.youtube.com/watch?v=s-Rqik29V80

@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** Dog and the Bone
 
-
-##### Reference
 Watch: https://youtube.com/shorts/M7Stk4eRjrU?si=pJAmWRZ53yC8EcIt

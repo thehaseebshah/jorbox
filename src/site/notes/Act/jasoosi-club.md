@@ -18,9 +18,6 @@ rating:
 #### How to Play
 **Inspired by:** Spyfall / Chameleon Mode, Spyfall Mode, Fake Artist Mode, Push the Button Modes
 
-
-
-##### Reference
 Visit the lesson: https://shababskills.my.canva.site/shb-skills-lesson-12
 
 ##### Mode

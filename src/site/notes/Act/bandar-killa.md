@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Variation:** Use a Circle instead of a rope and a peg; and score people based on how many shoes they collect
 
-
-##### Reference
 Watch: [Excalidraw - 8 August 2025](https://www.loom.com/share/b32a3349acea428ebe3143be69d36e96)

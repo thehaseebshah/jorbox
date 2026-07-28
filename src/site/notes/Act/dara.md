@@ -18,5 +18,4 @@ rating:
 #### How to Play
 - **Items Needed:** Paper, pencil
 
-##### Reference
 Watch: https://m.youtube.com/watch?v=fkOT8-_HHow

@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** Quiz
 
-
-##### Reference
 Watch: https://www.loom.com/share/813d926741134a2b8bd2bd982bc2f46d

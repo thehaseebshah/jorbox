@@ -17,5 +17,4 @@ rating: 5
 
 #### How to Play
 
-##### Reference
 Watch: [04 Pro Kabaddi](https://www.canva.com/design/DAGrcdVNEM8/lBLypDsEc8GBT1XQuH-ZCQ/watch?utlId=hc1eb7e816e)

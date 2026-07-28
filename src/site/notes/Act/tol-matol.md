@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** Circle/Hoop Pass
 
-
-##### Reference
 Watch: https://www.youtube.com/watch?v=ivYv1VmUXoQ&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=90

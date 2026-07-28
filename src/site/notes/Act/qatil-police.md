@@ -18,6 +18,4 @@ rating:
 #### How to Play
 **Inspired by:** Killer detective
 
-
-##### Reference
 Watch: https://m.youtube.com/watch?v=8xOFWyYS-hs

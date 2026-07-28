@@ -18,5 +18,4 @@ rating: 4
 #### How to Play
 **Inspired by:** Crafting
 
-##### Reference
 Watch: [Excalidraw Whiteboard - 29 August 2025](https://www.loom.com/share/b1d623a530314a9fb697cef92c84fc53)
