@@ -44,7 +44,16 @@
     font-display: swap;
 }
 
-/* Global Product Sans Enforcement */
+@font-face {
+    font-family: "Noto Nastaliq Urdu";
+    src: url("/fonts/noto-nastaliq-urdu/NotoNastaliqUrdu-Variable.woff2") format("woff2");
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0600-06FF, U+0750-077F, U+0870-089F, U+08A0-08FF, U+200C-200D, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+/* Product Sans remains the global face; language-scoped Urdu content opts into Nastaliq below. */
 body, p, li, h1, h2, h3, h4, h5, h6, input, button, textarea, a, span, div, .content, .cm-s-obsidian {
     font-family: "Product Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
 }
@@ -180,9 +189,50 @@ body {
     padding: 0;
 }
 
+/* Urdu documents retain the site shell while their reading column follows RTL conventions. */
+main.content[lang="ur"],
+main.content[lang="ur"] :is(p, li, h1, h2, h3, h4, h5, h6, a, span, div, blockquote) {
+    font-family: "Noto Nastaliq Urdu", "Product Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+}
 
+main.content[lang="ur"] {
+    direction: rtl;
+    text-align: right;
+    line-height: 2.05;
+    letter-spacing: normal;
+}
 
+main.content[lang="ur"] :lang(ar) {
+    font-family: "Segoe UI", Tahoma, sans-serif !important;
+}
 
+main.content[lang="ur"] :is(h1, h2, h3, h4, h5, h6) {
+    width: 100%;
+    direction: rtl;
+    text-align: right !important;
+    line-height: 1.85 !important;
+    letter-spacing: normal !important;
+}
+
+main.content[lang="ur"] :is(p, li, blockquote) {
+    text-align: right;
+    line-height: 2.05;
+    letter-spacing: normal;
+}
+
+main.content[lang="ur"] h2 {
+    justify-content: flex-start;
+}
+
+main.content[lang="ur"] h2::before {
+    margin-right: 0;
+    margin-left: 14px;
+}
+
+main.content[lang="ur"] h2::after,
+main.content[lang="ur"] hr {
+    background: linear-gradient(270deg, rgba(130, 96, 167, 0.7), rgba(130, 96, 167, 0.15) 72%, transparent);
+}
 
 /* Option 2: Top Reading Progress Bar */
 #reading-progress-bar {
