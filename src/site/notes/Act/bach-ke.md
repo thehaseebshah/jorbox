@@ -1,18 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Bach Ke"
-type: outdoor
-final: false
-added-to-shabab: false
-tried: false
-age-limit: "14+"
-group-size: "5–10 players"
-duration: "30 minutes"
-prep-time: "< 5 minutes"
-difficulty: 4
-rating:
+{"dg-publish":true,"permalink":"/act/bach-ke/","dg-note-properties":{"category":"JorBox Activity","name":"Bach Ke","type":"outdoor","final":false,"added-to-shabab":false,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
 ---
+
 ### Bach Ke
 #### How to Play
 **Inspired by:** Cheese Movers

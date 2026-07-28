@@ -1,13 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Letter of Complaint"
-type: shabab-act
-final: false
-added-to-shabab: false
-tried: false
-rating:
+{"dg-publish":true,"permalink":"/act/letter-of-complaint/","dg-note-properties":{"category":"JorBox Activity","name":"Letter of Complaint","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
 ---
+
 ### Letter of Complaint
 #### How to Play
 Video instructions are [here](https://www.loom.com/share/75c848ea65434d09b073b9b4e80f564f).

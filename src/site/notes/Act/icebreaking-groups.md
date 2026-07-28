@@ -1,18 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Icebreaking Groups"
-type: outdoor
-final: false
-added-to-shabab: false
-tried: false
-age-limit: "14+"
-group-size: "5–10 players"
-duration: "30 minutes"
-prep-time: "< 5 minutes"
-difficulty: 4
-rating:
+{"dg-publish":true,"permalink":"/act/icebreaking-groups/","dg-note-properties":{"category":"JorBox Activity","name":"Icebreaking Groups","type":"outdoor","final":false,"added-to-shabab":false,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
 ---
+
 ### Icebreaking Groups
 #### How to Play
 - Watch: https://www.loom.com/share/d57c12099f8e404897921ef63a4430b9?from_recorder=1&focus_title=1

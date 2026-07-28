@@ -1,13 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Rummikub"
-type: board
-final: false
-added-to-shabab: false
-tried: false
-rating:
+{"dg-publish":true,"permalink":"/act/rummikub/","dg-note-properties":{"category":"JorBox Activity","name":"Rummikub","type":"board","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
 ---
+
 ### Rummikub
 #### How to Play
 *Note: Content not retrieved from the Canva API due to repeated failures. Only metadata is available.*

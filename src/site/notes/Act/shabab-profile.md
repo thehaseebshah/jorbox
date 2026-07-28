@@ -1,13 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Shabab Profile"
-type: shabab-act
-final: false
-added-to-shabab: false
-tried: false
-rating:
+{"dg-publish":true,"permalink":"/act/shabab-profile/","dg-note-properties":{"category":"JorBox Activity","name":"Shabab Profile","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
 ---
+
 ### Shabab Profile
 #### How to Play
 Use the following Shabab profile template during the weekdays to gather info from the Shabab and their parents, via WhatsApp or call.

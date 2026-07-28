@@ -1,18 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Karigari"
-type: miscellaneous
-final: false
-added-to-shabab: true
-tried: false
-age-limit: "10+"
-group-size: "3+"
-duration: "30 minutes"
-prep-time: "< 5 minutes"
-difficulty: "Easy"
-rating: 4
+{"dg-publish":true,"permalink":"/act/karigari/","dg-note-properties":{"category":"JorBox Activity","name":"Karigari","type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false,"age-limit":"10+","group-size":"3+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Easy","rating":4}}
 ---
+
 ### Karigari (Crafting)
 #### How to Play
 **Inspired by:** Crafting

@@ -1,13 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Human Knot"
-type: shabab-act
-final: false
-added-to-shabab: false
-tried: false
-rating:
+{"dg-publish":true,"permalink":"/act/human-knot/","dg-note-properties":{"category":"JorBox Activity","name":"Human Knot","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
 ---
+
 ### Human Knot
 #### How to Play
 Watch [this video guide](https://www.canva.com/design/DAGrcbXXAQg/kXYsSv2Zvi15-W-3-MMQkQ/watch).

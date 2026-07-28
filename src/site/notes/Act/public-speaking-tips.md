@@ -1,13 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Public Speaking Tips"
-type: shabab-act
-final: false
-added-to-shabab: false
-tried: false
-rating:
+{"dg-publish":true,"permalink":"/act/public-speaking-tips/","dg-note-properties":{"category":"JorBox Activity","name":"Public Speaking Tips","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
 ---
+
 ### Public Speaking Tips
 #### How to Play
 ### Instructions

@@ -1,18 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Dara"
-type: kaghaz
-final: false
-added-to-shabab: false
-tried: false
-age-limit: "10+"
-group-size: "2"
-duration: "15 minutes"
-prep-time: "< 5 minutes"
-difficulty: 3
-rating:
+{"dg-publish":true,"permalink":"/act/dara/","dg-note-properties":{"category":"JorBox Activity","name":"Dara","type":"kaghaz","final":false,"added-to-shabab":false,"tried":false,"age-limit":"10+","group-size":"2","duration":"15 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
 ---
+
 ### Dara
 #### How to Play
 - **Items Needed:** Paper, pencil

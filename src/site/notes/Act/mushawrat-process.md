@@ -1,13 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Mushawrat Process"
-type: shabab-act
-final: false
-added-to-shabab: false
-tried: false
-rating:
+{"dg-publish":true,"permalink":"/act/mushawrat-process/","dg-note-properties":{"category":"JorBox Activity","name":"Mushawrat Process","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
 ---
+
 ### Mushawrat Process
 #### How to Play
 Note: Mashwarat process will be followed before the start of each activity/challenge wherever required. Appointment of Ameer for every challenge is a must.

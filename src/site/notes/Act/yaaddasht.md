@@ -1,18 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Yaaddasht"
-type: deck
-final: false
-added-to-shabab: false
-tried: false
-age-limit: "8+"
-group-size: "2+"
-duration: "15 minutes"
-prep-time: "< 5 minutes"
-difficulty: 5
-rating:
+{"dg-publish":true,"permalink":"/act/yaaddasht/","dg-note-properties":{"category":"JorBox Activity","name":"Yaaddasht","type":"deck","final":false,"added-to-shabab":false,"tried":false,"age-limit":"8+","group-size":"2+","duration":"15 minutes","prep-time":"< 5 minutes","difficulty":5,"rating":null}}
 ---
+
 ### Yaaddasht
 #### How to Play
 **Inspired by:** With Khoti Mechanic

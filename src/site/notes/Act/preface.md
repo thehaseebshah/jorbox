@@ -1,15 +1,8 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Preface"
-type: shabab-act
-final: false
-added-to-shabab: false
-tried: false
-rating:
+{"dg-publish":true,"permalink":"/act/preface/","dg-note-properties":{"category":"JorBox Activity","name":"Preface","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
 ---
+
 ### Preface
-#### How to Play
 What Shabab will get after completion of 6 months, what will be the benefits? *(For Murabbi Reading)*
 
 Tell them that all the learnings in the skills class will be achieved with the help of activities, games & challenges.

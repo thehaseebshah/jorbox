@@ -1,18 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Jang"
-type: board
-final: false
-added-to-shabab: true
-tried: false
-age-limit: "12+"
-group-size: "3+"
-duration: "60 minutes"
-prep-time: "60 minutes"
-difficulty: 5
-rating:
+{"dg-publish":true,"permalink":"/act/jang/","dg-note-properties":{"category":"JorBox Activity","name":"Jang","type":"board","final":false,"added-to-shabab":true,"tried":false,"age-limit":"12+","group-size":"3+","duration":"60 minutes","prep-time":"60 minutes","difficulty":5,"rating":null}}
 ---
+
 ### Jang
 #### How to Play
 - **Items Needed:** Map, tokens, paper, pencil

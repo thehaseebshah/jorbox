@@ -1,13 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Telestrations"
-type: party
-final: false
-added-to-shabab: false
-tried: false
-rating:
+{"dg-publish":true,"permalink":"/act/telestrations/","dg-note-properties":{"category":"JorBox Activity","name":"Telestrations","type":"party","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
 ---
+
 ### Telestrations
 #### How to Play
 - **Date:** Feb 2025

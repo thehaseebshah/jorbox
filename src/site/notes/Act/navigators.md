@@ -1,18 +1,7 @@
 ---
-category: JorBox Activity
-dg-publish: true
-name: "Navigators"
-type: mindset
-final: true
-added-to-shabab: true
-tried: false
-age-limit: "12+"
-group-size: "4+"
-duration: "30 minutes"
-prep-time: "< 5 minutes"
-difficulty: "Medium"
-rating:
+{"dg-publish":true,"permalink":"/act/navigators/","dg-note-properties":{"category":"JorBox Activity","name":"Navigators","type":"mindset","final":true,"added-to-shabab":true,"tried":false,"age-limit":"12+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Medium","rating":null}}
 ---
+
 ### Navigators
 #### How to Play
 Watch: https://www.loom.com/share/6688c94113aa4a1194d4c3fc6e9ffb9e
