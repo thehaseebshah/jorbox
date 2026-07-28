@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/why-shabab-moved-from-google-docs-to-canva-and-then-to-its-own-website-urdu/","dg-note-properties":{"category":"JorBox Activity","name":"Why Shabab Moved From Google Docs To Canva And Then To Its Own Website Urdu","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
+{"dg-publish":true,"permalink":"/docs/why-shabab-moved-from-google-docs-to-canva-and-then-to-its-own-website-urdu/","dg-note-properties":{"category":"Docs","name":"Why Shabab Moved From Google Docs To Canva And Then To Its Own Website Urdu"}}
 ---
 
 ### شباب نے گوگل ڈاکس سے کینوا اور پھر اپنی ویب سائٹ کی طرف منتقلی کیوں کی
