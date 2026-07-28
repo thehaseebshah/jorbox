@@ -1,16 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/v1/33/","dg-note-properties":{"category":"Shabab Skills Curriculum","lesson-batch":"Feb 2025","module":"V1 Curriculum","name":"Map Activity"}}
+category: JorBox Activity
+dg-publish: true
+name: "Map Activity"
+type: mindset
+final: true
+added-to-shabab: true
+tried: false
+age-limit: "10+"
+group-size: "4+"
+duration: "30 minutes"
+prep-time: "< 5 minutes"
+difficulty: "Medium"
+rating: 5
 ---
-
-# Map Activity
-
-> [!info] Learning Objectives
-> To cultivate spatial awareness and creativity by constructing a physical map from available materials; to strengthen teamwork through collaborative design and decision-making; to connect geography with Islamic history and the struggles of the Ummah; to improve memory and recall of significant places mentioned in the Qur'an, Seerah, and contemporary events; to sharpen critical thinking by linking locations with Nazriati (ideological) questions; and to foster pride, responsibility, and brotherhood in understanding the geography of the Muslim world.
-
-## Activity 1:
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
 ### Map Activity
 #### How to Play
 Watch: https://www.loom.com/share/c0830bb592b048dd945262b11a22f960
@@ -55,5 +57,3 @@ Watch: https://www.loom.com/share/c0830bb592b048dd945262b11a22f960
 - **Where are the Tatar Muslims indigenous to, who were deported by Stalin?** → Crimea, modern-day Ukraine.
 - **Where are the Somali Muslims suffering from famine and warlordism?** → Somalia, Horn of Africa.
 - **Where is Afghanistan?** → Afghanistan (Kabul as capital).
-
-</div></div>
