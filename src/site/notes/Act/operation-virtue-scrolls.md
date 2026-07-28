@@ -22,6 +22,7 @@ rating:
 - **Spawn Points:** Each team places a bag near their base to serve as their designated spawn point.
 - **Ammunition:** Each player begins with 10 paper balls wrapped in tape for ammunition.
   To create these, crumble sheets of used A5 sized paper into balls and wrap transparent tape around them.
+  - ![Pasted image 20260727011215.png](/img/user/Attachments/Pasted%20image%2020260727011215.png)
 - **Referees:** One or more Murabbis will act as timekeepers and referees to ensure fair play.
 
 #### How to Play

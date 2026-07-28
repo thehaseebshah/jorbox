@@ -23,6 +23,7 @@ rating:
   This bag is placed in a visible but defensible spot deep inside the Fortress.
 - **Ammunition:** Each player on both teams starts with 10 paper balls wrapped in tape.
   To create these, crumble sheets of used A5 sized paper into balls and wrap transparent tape around them.
+  - ![Pasted image 20260727011231.png](/img/user/Attachments/Pasted%20image%2020260727011231.png)
 - **Attacker Spawn Point:** The Attackers' spawn point should be placed well out of shooting range of the Fortress, but not so far that it takes too long to get back into the action.
 - **Timekeeper:** One Murabbi must be designated as the official timekeeper with a stopwatch.
 
