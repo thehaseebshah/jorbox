@@ -148,6 +148,8 @@ This eliminates the need to rewrite, copy, or maintain separate versions of the 
 When instructions, required materials, or learning objectives of an activity are updated, edits are made solely in its source file. Upon the next publish, all lessons embedding that activity automatically display the updated content.
 This creates a scalable shared activity library, reduces redundant effort and inconsistencies, and allows different lesson batches or Majalis to assemble these activities into customized sequences.
 
+Additionally, through backlink tracking, each activity note clearly reveals which specific Shabab lessons and lesson batches it is attached to. This bi-directional visibility makes auditing curriculum coverage and conducting future analysis far easier.
+
 ##### 4. A More Beautiful, Dynamic, and Engaging Experience
 The Google Docs and Canva lesson formats we used were essentially static and lacked meaningful animations within the learning experience.
 Even useful content could feel like an isolated document rather than a living, cohesive educational product.
