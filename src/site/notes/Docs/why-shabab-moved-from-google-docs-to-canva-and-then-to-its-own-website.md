@@ -150,6 +150,8 @@ This creates a scalable shared activity library, reduces redundant effort and in
 
 Additionally, through backlink tracking, each activity note clearly reveals which specific Shabab lessons and lesson batches it is attached to. This bi-directional visibility makes auditing curriculum coverage and conducting future analysis far easier.
 
+Furthermore, leveraging Git version control for activity notes provides seamless history tracking and instant recovery. We can review the full evolution of any activity over time—inspecting exact changes, seeing how feedback was incorporated, and understanding why edits occurred. If a modified activity proves ineffective during a lesson batch, we can cleanly revert to any previous working version. While platforms like Google Docs and Canva offer basic version histories, Git provides a far more powerful, precise, and seamless version control and recovery system.
+
 ##### 4. A More Beautiful, Dynamic, and Engaging Experience
 The Google Docs and Canva lesson formats we used were essentially static and lacked meaningful animations within the learning experience.
 Even useful content could feel like an isolated document rather than a living, cohesive educational product.

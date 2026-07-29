@@ -4,7 +4,6 @@ dg-publish: true
 name: "Sirf Sawal"
 type: miscellaneous
 final: false
-added-to-shabab: true
 age-limit: "8+"
 group-size: "2+"
 duration: "15 minutes"

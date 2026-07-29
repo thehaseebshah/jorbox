@@ -4,7 +4,6 @@ dg-publish: true
 name: "Dimagh Ka Dahi"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Dimagh Ka Dahi

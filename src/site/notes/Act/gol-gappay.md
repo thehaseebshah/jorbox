@@ -4,7 +4,6 @@ dg-publish: true
 name: "Gol Gappay"
 type: outdoor
 final: true
-added-to-shabab: false
 age-limit: "5+"
 group-size: "4+"
 duration: "30 minutes"

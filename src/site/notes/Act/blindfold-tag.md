@@ -4,7 +4,6 @@ dg-publish: true
 name: "Blindfold Tag"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Blindfold Tag

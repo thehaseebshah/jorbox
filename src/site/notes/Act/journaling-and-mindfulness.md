@@ -4,7 +4,6 @@ dg-publish: true
 name: "Journaling and Mindfulness"
 type: mindset
 final: true
-added-to-shabab: true
 age-limit: "12+"
 group-size: "1+"
 duration: "35 minutes"

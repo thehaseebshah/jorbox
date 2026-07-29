@@ -4,7 +4,6 @@ dg-publish: true
 name: "Letter of Complaint"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Letter of Complaint

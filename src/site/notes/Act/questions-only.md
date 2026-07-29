@@ -4,7 +4,6 @@ dg-publish: true
 name: "Questions Only"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Questions Only

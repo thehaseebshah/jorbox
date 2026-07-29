@@ -4,7 +4,6 @@ dg-publish: true
 name: "Public Speaking Tips"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Public Speaking Tips

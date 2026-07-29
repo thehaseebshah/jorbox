@@ -4,7 +4,6 @@ dg-publish: true
 name: "First Aid Workshop"
 type: miscellaneous
 final: false
-added-to-shabab: false
 age-limit: "10+"
 group-size: "4+"
 duration: "99 minutes"

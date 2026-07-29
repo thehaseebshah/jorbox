@@ -4,7 +4,6 @@ dg-publish: true
 name: "Blindfold Drawing"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Blindfold Drawing

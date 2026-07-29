@@ -4,7 +4,6 @@ dg-publish: true
 name: "Operation Jhanda"
 type: outdoor
 final: true
-added-to-shabab: true
 age-limit: "10+"
 group-size: "4+"
 duration: "30 minutes"

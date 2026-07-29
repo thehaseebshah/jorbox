@@ -4,7 +4,6 @@ dg-publish: true
 name: "Time Blocking and Planning"
 type: mindset
 final: true
-added-to-shabab: true
 age-limit: "12+"
 group-size: "1+"
 duration: "30 minutes"

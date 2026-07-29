@@ -4,7 +4,6 @@ dg-publish: true
 name: "Igniting Fire with Natural Methods"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Igniting Fire with Natural Methods

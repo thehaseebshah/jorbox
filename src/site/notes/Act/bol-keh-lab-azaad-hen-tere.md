@@ -4,7 +4,6 @@ dg-publish: true
 name: "Bol keh Lab Azaad hen Tere"
 type: miscellaneous
 final: false
-added-to-shabab: true
 age-limit: "12+"
 group-size: "3+"
 duration: "30 minutes"

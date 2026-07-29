@@ -4,7 +4,6 @@ dg-publish: true
 name: "Change"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Change

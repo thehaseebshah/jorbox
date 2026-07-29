@@ -4,7 +4,6 @@ dg-publish: true
 name: "Gogogo"
 type: miscellaneous
 final: false
-added-to-shabab: false
 age-limit: "8+"
 group-size: "3+"
 duration: "30 minutes"

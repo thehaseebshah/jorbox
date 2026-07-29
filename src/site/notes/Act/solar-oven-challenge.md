@@ -4,7 +4,6 @@ dg-publish: true
 name: "Solar Oven Challenge"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Solar Oven Challenge

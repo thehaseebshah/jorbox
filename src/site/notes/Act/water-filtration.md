@@ -4,7 +4,6 @@ dg-publish: true
 name: "Water Filtration"
 type: outdoor
 final: true
-added-to-shabab: true
 age-limit: "8+"
 group-size: "4+"
 duration: "30 minutes"

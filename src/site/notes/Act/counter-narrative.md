@@ -4,7 +4,6 @@ dg-publish: true
 name: "Counter-Narrative"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Counter-Narrative

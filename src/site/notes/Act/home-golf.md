@@ -4,7 +4,6 @@ dg-publish: true
 name: "Home Golf"
 type: sports
 final: true
-added-to-shabab: false
 age-limit: "10+"
 group-size: "2+"
 duration: "30 minutes"

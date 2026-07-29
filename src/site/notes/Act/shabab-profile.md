@@ -4,7 +4,6 @@ dg-publish: true
 name: "Shabab Profile"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Shabab Profile

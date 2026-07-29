@@ -4,7 +4,6 @@ dg-publish: true
 name: "Sunni Sunai"
 type: party
 final: false
-added-to-shabab: false
 age-limit: "5+"
 group-size: "5+"
 duration: "10 minutes"

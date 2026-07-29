@@ -4,7 +4,6 @@ dg-publish: true
 name: "Handball"
 type: sports
 final: true
-added-to-shabab: false
 age-limit: "8+"
 group-size: "4+"
 duration: "30 minutes"

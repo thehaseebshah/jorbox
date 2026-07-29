@@ -4,7 +4,6 @@ dg-publish: true
 name: "Rugby"
 type: sports
 final: true
-added-to-shabab: true
 age-limit: "5+"
 group-size: "4+"
 duration: "30 minutes"

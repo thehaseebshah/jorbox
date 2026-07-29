@@ -4,7 +4,6 @@ dg-publish: true
 name: "Cup Grabbing Elimination"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Cup Grabbing Elimination

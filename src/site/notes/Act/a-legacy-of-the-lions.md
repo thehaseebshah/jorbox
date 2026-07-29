@@ -4,7 +4,6 @@ dg-publish: true
 name: "A Legacy of the Lions"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### A Legacy of the Lions

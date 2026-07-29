@@ -4,7 +4,6 @@ dg-publish: true
 name: "Octopus Race"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Octopus Race

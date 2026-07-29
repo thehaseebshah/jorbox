@@ -4,7 +4,6 @@ dg-publish: true
 name: "Hit the Football"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Hit the Football

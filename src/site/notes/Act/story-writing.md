@@ -4,7 +4,6 @@ dg-publish: true
 name: "Story Writing"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Story Writing

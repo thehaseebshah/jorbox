@@ -4,7 +4,6 @@ dg-publish: true
 name: "Mamnoo Alfaaz"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Mamnoo Alfaaz

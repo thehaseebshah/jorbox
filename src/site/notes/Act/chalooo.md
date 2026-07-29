@@ -4,7 +4,6 @@ dg-publish: true
 name: "Chalooo"
 type: deck
 final: false
-added-to-shabab: false
 age-limit: "10+"
 duration: "20 minutes"
 prep-time: "< 5 minutes"

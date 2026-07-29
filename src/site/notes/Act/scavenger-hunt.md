@@ -4,7 +4,6 @@ dg-publish: true
 name: "Scavenger Hunt"
 type: outdoor
 final: true
-added-to-shabab: true
 age-limit: "10+"
 group-size: "5+"
 duration: "45 minutes"

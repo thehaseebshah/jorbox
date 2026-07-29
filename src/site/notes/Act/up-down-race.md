@@ -4,7 +4,6 @@ dg-publish: true
 name: "Up Down Race"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Up Down Race

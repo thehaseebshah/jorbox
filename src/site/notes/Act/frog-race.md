@@ -4,7 +4,6 @@ dg-publish: true
 name: "Frog Race"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Frog Race

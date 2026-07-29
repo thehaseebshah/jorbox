@@ -4,7 +4,6 @@ dg-publish: true
 name: "Spy Club"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Spy Club

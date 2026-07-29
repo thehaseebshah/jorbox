@@ -4,7 +4,6 @@ dg-publish: true
 name: "Dunya Mere Agay"
 type: miscellaneous
 final: false
-added-to-shabab: true
 age-limit: "10+"
 group-size: "3+"
 duration: "30 minutes"

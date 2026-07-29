@@ -4,7 +4,6 @@ dg-publish: true
 name: "Insani Girah"
 type: outdoor
 final: true
-added-to-shabab: false
 age-limit: "9+"
 group-size: "5+"
 duration: "15 minutes"

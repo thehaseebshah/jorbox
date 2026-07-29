@@ -4,7 +4,6 @@ dg-publish: true
 name: "Bubble Soccer"
 type: outdoor
 final: false
-added-to-shabab: false
 age-limit: "14+"
 group-size: "5–10 players"
 duration: "99 minutes"

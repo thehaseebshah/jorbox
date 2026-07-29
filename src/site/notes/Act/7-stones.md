@@ -4,7 +4,6 @@ dg-publish: true
 name: "7 Stones"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### 7 Stones

@@ -4,7 +4,6 @@ dg-publish: true
 name: "3 Men Carry 1"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### 3 Men Carry 1

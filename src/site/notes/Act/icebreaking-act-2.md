@@ -4,7 +4,6 @@ dg-publish: true
 name: "Icebreaking act 2"
 type: icebreaker
 final: false
-added-to-shabab: true
 rating:
 ---
 ### Icebreaking Activity 2

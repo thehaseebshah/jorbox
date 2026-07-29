@@ -4,7 +4,6 @@ dg-publish: true
 name: "Floor Race"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Floor Race

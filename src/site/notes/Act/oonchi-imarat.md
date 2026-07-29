@@ -4,7 +4,6 @@ dg-publish: true
 name: "Oonchi Imarat"
 type: miscellaneous
 final: false
-added-to-shabab: true
 age-limit: "8+"
 group-size: "4+"
 duration: "60 minutes"

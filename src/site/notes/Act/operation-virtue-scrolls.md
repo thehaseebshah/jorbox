@@ -4,7 +4,6 @@ dg-publish: true
 name: "Operation: Virtue Scrolls"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Operation: Virtue Scrolls

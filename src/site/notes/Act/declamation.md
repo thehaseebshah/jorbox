@@ -4,7 +4,6 @@ dg-publish: true
 name: "Declamation"
 type: debate
 final: true
-added-to-shabab: true
 age-limit: "10+"
 group-size: "3+"
 duration: "30 minutes"

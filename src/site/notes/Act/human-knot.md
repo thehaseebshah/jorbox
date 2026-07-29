@@ -4,7 +4,6 @@ dg-publish: true
 name: "Human Knot"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Human Knot

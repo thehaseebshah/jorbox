@@ -4,7 +4,6 @@ dg-publish: true
 name: "Writing Set 2"
 type: mindset
 final: true
-added-to-shabab: true
 age-limit: "12+"
 group-size: "3+"
 duration: "30 minutes"

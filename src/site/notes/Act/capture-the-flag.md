@@ -4,7 +4,6 @@ dg-publish: true
 name: "Capture the Flag"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Capture the Flag

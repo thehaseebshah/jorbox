@@ -4,7 +4,6 @@ dg-publish: true
 name: "Puzzles"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Puzzles

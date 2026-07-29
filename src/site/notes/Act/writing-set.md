@@ -4,7 +4,6 @@ dg-publish: true
 name: "Writing Set"
 type: miscellaneous
 final: false
-added-to-shabab: true
 age-limit: "14+"
 group-size: "5–10 players"
 duration: "30 minutes"

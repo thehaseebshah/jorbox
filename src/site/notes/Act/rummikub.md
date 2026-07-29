@@ -4,7 +4,6 @@ dg-publish: true
 name: "Rummikub"
 type: board
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Rummikub

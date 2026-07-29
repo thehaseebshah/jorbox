@@ -4,7 +4,6 @@ dg-publish: true
 name: "Murabbi Introduction"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Murabbi Introduction

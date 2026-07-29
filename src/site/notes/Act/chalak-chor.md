@@ -4,7 +4,6 @@ dg-publish: true
 name: "Chalak Chor"
 type: deck
 final: false
-added-to-shabab: false
 age-limit: "14+"
 group-size: "5–10 players"
 duration: "30 minutes"

@@ -4,7 +4,6 @@ dg-publish: true
 name: "Minesweeper"
 type: mindset
 final: true
-added-to-shabab: true
 age-limit: "12+"
 group-size: "4+"
 duration: "30 minutes"

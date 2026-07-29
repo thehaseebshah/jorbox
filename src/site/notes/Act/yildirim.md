@@ -4,7 +4,6 @@ dg-publish: true
 name: "Yildirim"
 type: sports
 final: true
-added-to-shabab: false
 age-limit: "5+"
 group-size: "1+"
 duration: "30+ minutes"

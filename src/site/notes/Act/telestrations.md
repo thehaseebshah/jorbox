@@ -4,7 +4,6 @@ dg-publish: true
 name: "Telestrations"
 type: party
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Telestrations

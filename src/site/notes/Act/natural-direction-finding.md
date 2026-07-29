@@ -4,7 +4,6 @@ dg-publish: true
 name: "Natural Direction Finding"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Natural Direction Finding

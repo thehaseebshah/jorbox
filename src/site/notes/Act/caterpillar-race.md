@@ -4,7 +4,6 @@ dg-publish: true
 name: "Caterpillar Race"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Caterpillar Race

@@ -4,7 +4,6 @@ dg-publish: true
 name: "Pass the Ball"
 type: shabab-act
 final: false
-added-to-shabab: false
 rating:
 ---
 ### Pass the Ball

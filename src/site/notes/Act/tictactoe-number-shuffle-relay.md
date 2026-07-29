@@ -4,7 +4,6 @@ dg-publish: true
 name: "TicTacToe + Number Shuffle Relay"
 type: sports
 final: true
-added-to-shabab: true
 age-limit: "8+"
 group-size: "4+"
 duration: "30 minutes"
