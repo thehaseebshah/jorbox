@@ -5,7 +5,6 @@ name: "Munazra"
 type: debate
 final: true
 added-to-shabab: true
-tried: false
 age-limit: "14+"
 group-size: "4+"
 duration: "60 minutes"

@@ -5,7 +5,6 @@ name: "Spending Night in Isolated Location"
 type: location-based
 final: false
 added-to-shabab: false
-tried: false
 age-limit: "14+"
 group-size: "5–10 players"
 duration: "99 minutes"

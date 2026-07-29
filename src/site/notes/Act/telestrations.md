@@ -5,7 +5,6 @@ name: "Telestrations"
 type: party
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Telestrations

@@ -5,7 +5,6 @@ name: "Simple Dodgeball"
 type: sports
 final: false
 added-to-shabab: true
-tried: false
 age-limit: "10+"
 group-size: "6+"
 duration: "30 minutes"

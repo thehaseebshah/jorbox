@@ -5,7 +5,6 @@ name: "Puzzles"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Puzzles

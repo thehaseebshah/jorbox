@@ -5,7 +5,6 @@ name: "Jump In Jump Out"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Jump In, Jump Out

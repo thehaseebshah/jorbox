@@ -5,7 +5,6 @@ name: "Public Speaking Tips"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Public Speaking Tips

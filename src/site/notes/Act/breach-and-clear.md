@@ -5,7 +5,6 @@ name: "Breach & Clear"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Breach & Clear

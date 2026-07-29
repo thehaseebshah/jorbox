@@ -5,7 +5,6 @@ name: "Blindfold Tag"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Blindfold Tag

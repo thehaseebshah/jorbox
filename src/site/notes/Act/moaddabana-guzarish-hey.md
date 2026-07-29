@@ -5,7 +5,6 @@ name: "Moaddabana Guzarish Hey"
 type: miscellaneous
 final: false
 added-to-shabab: true
-tried: false
 age-limit: "8+"
 group-size: "2+"
 duration: "15 minutes"

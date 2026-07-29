@@ -5,7 +5,6 @@ name: "Cup Pyramid Making"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Cup Pyramid Making

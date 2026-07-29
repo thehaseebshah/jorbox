@@ -5,7 +5,6 @@ name: "Spy Club"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Spy Club

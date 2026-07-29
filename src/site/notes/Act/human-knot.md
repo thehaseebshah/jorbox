@@ -5,7 +5,6 @@ name: "Human Knot"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Human Knot

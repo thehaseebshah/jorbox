@@ -5,7 +5,6 @@ name: "Story Writing"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Story Writing

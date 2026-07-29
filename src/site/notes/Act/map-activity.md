@@ -5,7 +5,6 @@ name: "Map Activity"
 type: mindset
 final: true
 added-to-shabab: true
-tried: false
 age-limit: "10+"
 group-size: "4+"
 duration: "30 minutes"

@@ -5,7 +5,6 @@ name: "Writing Set 2"
 type: mindset
 final: true
 added-to-shabab: true
-tried: false
 age-limit: "12+"
 group-size: "3+"
 duration: "30 minutes"

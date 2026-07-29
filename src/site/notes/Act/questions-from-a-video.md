@@ -5,7 +5,6 @@ name: "Questions From A Video"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Questions from a Video

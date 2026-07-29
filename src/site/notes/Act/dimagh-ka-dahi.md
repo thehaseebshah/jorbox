@@ -5,7 +5,6 @@ name: "Dimagh Ka Dahi"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Dimagh Ka Dahi

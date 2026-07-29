@@ -5,7 +5,6 @@ name: "Bomb Squad"
 type: miscellaneous
 final: false
 added-to-shabab: false
-tried: false
 age-limit: "8+"
 group-size: "2+"
 duration: "30 minutes"

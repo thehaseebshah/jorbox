@@ -5,7 +5,6 @@ name: "Tunnel Crossing"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Tunnel Crossing

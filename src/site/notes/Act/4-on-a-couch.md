@@ -5,7 +5,6 @@ name: "4 on a Couch"
 type: party
 final: true
 added-to-shabab: true
-tried: false
 age-limit: "8+"
 group-size: "6+"
 duration: "25 minutes"

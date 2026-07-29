@@ -5,7 +5,6 @@ name: "The Artisan Challenge"
 type: crafting
 final: true
 added-to-shabab: true
-tried: false
 age-limit: "8+"
 group-size: "2–3 players per team"
 duration: "30 minutes"

@@ -5,7 +5,6 @@ name: "Igniting Fire with Natural Methods"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Igniting Fire with Natural Methods

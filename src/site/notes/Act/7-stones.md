@@ -5,7 +5,6 @@ name: "7 Stones"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### 7 Stones

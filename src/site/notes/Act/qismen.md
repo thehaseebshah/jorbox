@@ -5,7 +5,6 @@ name: "Qismen"
 type: party
 final: false
 added-to-shabab: true
-tried: true
 age-limit: "14+"
 group-size: "5–10 players"
 duration: "30 minutes"

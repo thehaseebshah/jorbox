@@ -5,7 +5,6 @@ name: "Pro Kabaddi"
 type: sports
 final: true
 added-to-shabab: false
-tried: false
 age-limit: "10+"
 group-size: "4–20 players"
 duration: "60 minutes"

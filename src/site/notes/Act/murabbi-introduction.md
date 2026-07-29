@@ -5,7 +5,6 @@ name: "Murabbi Introduction"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Murabbi Introduction

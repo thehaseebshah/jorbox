@@ -5,7 +5,6 @@ name: "Intelligence Tests"
 type: miscellaneous
 final: false
 added-to-shabab: false
-tried: false
 age-limit: "14+"
 group-size: "2+"
 duration: "30 minutes"

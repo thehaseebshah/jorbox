@@ -5,7 +5,6 @@ name: "Karobari"
 type: party
 final: false
 added-to-shabab: true
-tried: false
 age-limit: "10+"
 group-size: "3+"
 duration: "30 minutes"

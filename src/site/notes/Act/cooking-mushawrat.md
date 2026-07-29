@@ -5,7 +5,6 @@ name: "Cooking Mushawrat"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Cooking Mushawrat

@@ -5,7 +5,6 @@ name: "Navigators"
 type: mindset
 final: true
 added-to-shabab: true
-tried: false
 age-limit: "12+"
 group-size: "4+"
 duration: "30 minutes"

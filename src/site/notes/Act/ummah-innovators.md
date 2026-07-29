@@ -5,7 +5,6 @@ name: "Ummah Innovators"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Ummah Innovators

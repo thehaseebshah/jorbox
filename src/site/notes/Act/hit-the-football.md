@@ -5,7 +5,6 @@ name: "Hit the Football"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Hit the Football

@@ -5,7 +5,6 @@ name: "Solar Oven Challenge"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Solar Oven Challenge

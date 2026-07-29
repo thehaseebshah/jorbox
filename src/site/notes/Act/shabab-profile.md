@@ -5,7 +5,6 @@ name: "Shabab Profile"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Shabab Profile

@@ -5,7 +5,6 @@ name: "Sparring"
 type: sports
 final: true
 added-to-shabab: false
-tried: false
 age-limit: "5+"
 group-size: "2+"
 duration: "20 minutes"

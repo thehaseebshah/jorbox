@@ -5,7 +5,6 @@ name: "Yaaddasht"
 type: deck
 final: false
 added-to-shabab: false
-tried: false
 age-limit: "8+"
 group-size: "2+"
 duration: "15 minutes"

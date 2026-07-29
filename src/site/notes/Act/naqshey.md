@@ -5,7 +5,6 @@ name: "Naqshey"
 type: miscellaneous
 final: true
 added-to-shabab: true
-tried: false
 age-limit: "7+"
 group-size: "2+"
 duration: "30 minutes"

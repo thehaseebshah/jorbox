@@ -5,7 +5,6 @@ name: "Preface"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Preface

@@ -5,7 +5,6 @@ name: "Icebreaking act 2"
 type: icebreaker
 final: false
 added-to-shabab: true
-tried: false
 rating:
 ---
 ### Icebreaking Activity 2

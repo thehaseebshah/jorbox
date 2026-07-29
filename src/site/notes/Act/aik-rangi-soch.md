@@ -5,7 +5,6 @@ name: "Aik Rangi Soch"
 type: party
 final: false
 added-to-shabab: false
-tried: false
 age-limit: "14+"
 group-size: "5–10 players"
 duration: "30 minutes"

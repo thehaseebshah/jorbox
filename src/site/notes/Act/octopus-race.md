@@ -5,7 +5,6 @@ name: "Octopus Race"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Octopus Race

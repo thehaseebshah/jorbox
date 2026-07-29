@@ -5,7 +5,6 @@ name: "Jang"
 type: board
 final: false
 added-to-shabab: true
-tried: false
 age-limit: "12+"
 group-size: "3+"
 duration: "60 minutes"

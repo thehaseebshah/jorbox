@@ -5,7 +5,6 @@ name: "Seerat Model Project Competition"
 type: miscellaneous
 final: false
 added-to-shabab: false
-tried: false
 age-limit: "6+"
 group-size: "4+"
 duration: "99 minutes"

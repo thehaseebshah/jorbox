@@ -5,7 +5,6 @@ name: "Capture the Flag"
 type: shabab-act
 final: false
 added-to-shabab: false
-tried: false
 rating:
 ---
 ### Capture the Flag

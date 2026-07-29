@@ -5,7 +5,6 @@ name: "Insani Girah"
 type: outdoor
 final: true
 added-to-shabab: false
-tried: false
 age-limit: "9+"
 group-size: "5+"
 duration: "15 minutes"
