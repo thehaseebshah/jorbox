@@ -1,17 +1,22 @@
 ---
+<<<<<<< HEAD
 category: JorBox Activity
 dg-publish: true
 type: shabab-act
 final: false
 rating:
+=======
+{"dg-publish":true,"permalink":"/act/a-legacy-of-the-lions/","dg-note-properties":{"category":"JorBox Activity","type":"shabab-act","difficulty":3,"rating":5}}
+>>>>>>> e923a847e6b653e00b2b25cf99879e3a903d99c3
 ---
+
 ### A Legacy of the Lions
 
 ##### Setup
 - **Present the Prompts:** The Murabbi presents prompt options clearly.
 - **Set the Atmosphere:** Ensure a quiet, serious, and reflective environment.
 
-### How to Participate
+##### How to Participate
 
 1. **The Reminder (5 mins):** Short talk on legacy in Islam vs. materialism.
 2. **Choose Your Path (1 min):** Select one of the two prompts.

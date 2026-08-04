@@ -1,10 +1,15 @@
 ---
+<<<<<<< HEAD
 category: JorBox Activity
 dg-publish: true
 type: shabab-act
 final: false
 rating:
+=======
+{"dg-publish":true,"permalink":"/act/caterpillar-race/","dg-note-properties":{"category":"JorBox Activity","type":"outdoor","difficulty":3,"rating":null}}
+>>>>>>> e923a847e6b653e00b2b25cf99879e3a903d99c3
 ---
+
 ### Caterpillar Race
 #### How to Play
 Video instructions are [here](https://canva.link/u3cbk3jueuyuwe4).

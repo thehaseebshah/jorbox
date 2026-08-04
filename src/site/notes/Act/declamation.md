@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 category: JorBox Activity
 dg-publish: true
 type: debate
@@ -9,7 +10,11 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Easy"
 rating: 4
+=======
+{"dg-publish":true,"permalink":"/act/declamation/","dg-note-properties":{"category":"JorBox Activity","type":"debate","age-limit":"10+","group-size":"3+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":4}}
+>>>>>>> e923a847e6b653e00b2b25cf99879e3a903d99c3
 ---
+
 ### Declamation
 #### Instructions
 1. **Pre-Announcement & Theme Selection:** 1 week before the event, participants select or draw a speech topic.

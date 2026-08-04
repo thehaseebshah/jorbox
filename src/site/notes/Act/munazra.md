@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 category: JorBox Activity
 dg-publish: true
 type: debate
@@ -9,7 +10,11 @@ duration: "60 minutes"
 prep-time: "30 minutes"
 difficulty: "Medium"
 rating: 5
+=======
+{"dg-publish":true,"permalink":"/act/munazra/","dg-note-properties":{"category":"JorBox Activity","type":"debate","age-limit":"14+","group-size":"4+","duration":"60 minutes","prep-time":"30 minutes","difficulty":3,"rating":5}}
+>>>>>>> e923a847e6b653e00b2b25cf99879e3a903d99c3
 ---
+
 ### Munazra (The Scholar's Blade)
 
 #### Murabbi's Briefing:

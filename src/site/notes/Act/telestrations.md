@@ -1,10 +1,15 @@
 ---
+<<<<<<< HEAD
 category: JorBox Activity
 dg-publish: true
 type: party
 final: false
 rating:
+=======
+{"dg-publish":true,"permalink":"/act/telestrations/","dg-note-properties":{"category":"JorBox Activity","type":"party","difficulty":3,"rating":null}}
+>>>>>>> e923a847e6b653e00b2b25cf99879e3a903d99c3
 ---
+
 ### Telestrations
 #### How to Play
 - **Date:** Feb 2025

@@ -1,10 +1,15 @@
 ---
+<<<<<<< HEAD
 category: JorBox Activity
 dg-publish: true
 type: shabab-act
 final: false
 rating:
+=======
+{"dg-publish":true,"permalink":"/act/solar-oven-challenge/","dg-note-properties":{"category":"JorBox Activity","type":"shabab-act","difficulty":3,"rating":null}}
+>>>>>>> e923a847e6b653e00b2b25cf99879e3a903d99c3
 ---
+
 ### Solar Oven Challenge
 #### How to Play
 Building a solar oven is a practical activity that demonstrates how to harness the sun's power to cook food using simple materials. The oven's efficiency will depend on factors like sunlight intensity, reflector angle, and insulation.
@@ -16,3 +21,5 @@ Building a solar oven is a practical activity that demonstrates how to harness t
 4. **Enhance Heat Absorption:** Line the bottom of the box's interior with black construction paper or paint it black. This dark surface is crucial for absorbing and retaining heat.
 5. **Assemble and Seal:** Attach the reflective lid to the box. Seal any gaps around the edges with tape to minimize heat loss.
 6. **Adjust and Test:** Use a ruler or stick to prop the reflective lid open at an angle to direct the maximum amount of sunlight into the box. Once the oven is placed in direct sunlight and has heated up, you can test it by cooking simple items like small vegetables or eggs.
+
+Video instructions [here](https://www.youtube.com/watch?v=OOdcH1Ge73s)

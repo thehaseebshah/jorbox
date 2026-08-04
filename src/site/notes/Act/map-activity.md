@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 category: JorBox Activity
 dg-publish: true
 type: mindset
@@ -9,13 +10,16 @@ duration: "30 minutes"
 prep-time: "< 5 minutes"
 difficulty: "Medium"
 rating: 5
+=======
+{"dg-publish":true,"permalink":"/act/map-activity/","dg-note-properties":{"category":"JorBox Activity","type":"mindset","age-limit":"10+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":5}}
+>>>>>>> e923a847e6b653e00b2b25cf99879e3a903d99c3
 ---
+
 ### Map Activity
 #### How to Play
-Watch: https://www.loom.com/share/c0830bb592b048dd945262b11a22f960
+Watch [this](https://www.loom.com/share/c0830bb592b048dd945262b11a22f960)
 
 **Tip:** Keep Google Maps open during the activity.
-
 ##### Trivia Questions List
 - **Where was Prophet Yusuf عليه السلام thrown into a well?** → Near Dothan, close to modern-day Nablus, Palestine.
 - **Where did Prophet Yusuf عليه السلام migrate after being sold?** → Egypt (Misr, modern-day Egypt).

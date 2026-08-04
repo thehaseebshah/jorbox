@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 category: JorBox Activity
 dg-publish: true
 type: miscellaneous
@@ -9,7 +10,11 @@ duration: "60 minutes"
 prep-time: "< 5 minutes"
 difficulty: 4
 rating:
+=======
+{"dg-publish":true,"permalink":"/act/oonchi-imarat/","dg-note-properties":{"category":"JorBox Activity","type":"miscellaneous","age-limit":"8+","group-size":"4+","duration":"60 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
+>>>>>>> e923a847e6b653e00b2b25cf99879e3a903d99c3
 ---
+
 ### Oonchi Imarat (Tallest Building)
 
 ##### Setup
