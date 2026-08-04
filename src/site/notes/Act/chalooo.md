@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/act/chalooo/","dg-note-properties":{"category":"JorBox Activity","name":"Chalooo","type":"deck","final":false,"added-to-shabab":false,"tried":false,"age-limit":"10+","duration":"20 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
+{"dg-publish":true,"permalink":"/act/chalooo/","dg-note-properties":{"category":"JorBox Activity","name":"Go Fish","type":"deck","age-limit":"10+","duration":"20 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
 ---
 
-### Chalooo
+### Go Fish
 #### How to Play
 **Inspired by:** Go Fish
 
