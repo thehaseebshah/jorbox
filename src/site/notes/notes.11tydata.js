@@ -2,6 +2,8 @@ require("dotenv").config();
 const fs = require("fs");
 const settings = require("../../helpers/constants");
 
+const slugify = require("@sindresorhus/slugify");
+
 const allSettings = settings.ALL_NOTE_SETTINGS;
 const rtlLanguages = new Set(["ar", "fa", "he", "ur"]);
 
@@ -25,9 +27,9 @@ module.exports = {
         return "/";
       }
       if (data.page.filePathStem && data.page.filePathStem.startsWith("/notes/v1/")) {
-        return `/v1/${data.page.fileSlug}/`;
+        return `/v1/${slugify(data.page.fileSlug)}/`;
       }
-      return `/${data.page.fileSlug}/`;
+      return `/${slugify(data.page.fileSlug)}/`;
     },
     contentLanguage: getContentLanguage,
     contentDirection: (data) => {
