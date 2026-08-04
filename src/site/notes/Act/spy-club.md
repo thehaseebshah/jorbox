@@ -1,13 +1,5 @@
 ---
-<<<<<<< HEAD
-category: JorBox Activity
-dg-publish: true
-type: shabab-act
-final: false
-rating:
-=======
-{"dg-publish":true,"permalink":"/act/spy-club/","dg-note-properties":{"category":"JorBox Activity","type":"shabab-act","difficulty":3,"rating":null}}
->>>>>>> e923a847e6b653e00b2b25cf99879e3a903d99c3
+{"dg-publish":true,"permalink":"/act/spy-club/","dg-note-properties":{"category":"JorBox Activity","type":"party","difficulty":3,"rating":null}}
 ---
 
 ### Spy Club
@@ -195,3 +187,7 @@ The following topic cards are designed to center Islamic and Pakistani concepts,
 | Abu Ubayda (Hamas) | Khalid ibn al-Walid | Rumi | Shaykh Abdul Qadir Jillani |
 | Salahuddin Ayyubi | Nur ad-Din Zangi | Ashfaq Ahmed | Ali ibn Abi Talib |
 | Ibn Battuta | Umar ibn al-Khattab | Ibn Sina | Tariq ibn Ziyad |
+##### Variations
+- Fake Artist Mode
+- Push the Button Modes
+- Fakin It Modes

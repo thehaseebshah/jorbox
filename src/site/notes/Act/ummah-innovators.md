@@ -1,13 +1,5 @@
 ---
-<<<<<<< HEAD
-category: JorBox Activity
-dg-publish: true
-type: shabab-act
-final: false
-rating:
-=======
-{"dg-publish":true,"permalink":"/act/ummah-innovators/","dg-note-properties":{"category":"JorBox Activity","type":"shabab-act","difficulty":3,"rating":null}}
->>>>>>> e923a847e6b653e00b2b25cf99879e3a903d99c3
+{"dg-publish":true,"permalink":"/act/ummah-innovators/","dg-note-properties":{"category":"JorBox Activity","type":"party","difficulty":3,"rating":null}}
 ---
 
 ### Ummah Innovators
@@ -27,3 +19,6 @@ rating:
 3. **The Pitching Session (60 secs):** Pitch your invention to the Judge (Ministry of Innovation), explaining what it does, how it benefits Muslims, and why it's revolutionary.
 4. **Ministry Decision:** The Judge awards 1 point to the best invention.
 5. **Refill & Rotate:** Discard played cards, draw new ones back up to 6, and rotate the Judge role clockwise.
+
+Other modes:
+ People are given a problem and they draw a solution mode

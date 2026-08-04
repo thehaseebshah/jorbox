@@ -1,19 +1,9 @@
 ---
-<<<<<<< HEAD
-category: JorBox Activity
-dg-publish: true
-type: shabab-act
-final: false
-rating:
-=======
-{"dg-publish":true,"permalink":"/act/operation-virtue-scrolls/","dg-note-properties":{"category":"JorBox Activity","type":"shabab-act","difficulty":3,"rating":null}}
->>>>>>> e923a847e6b653e00b2b25cf99879e3a903d99c3
+{"dg-publish":true,"permalink":"/act/operation-virtue-scrolls/","dg-note-properties":{"category":"JorBox Activity","type":"outdoor","difficulty":3,"rating":null}}
 ---
 
 ### Operation: Virtue Scrolls
-
 #### Setup
-
 - **Teams:** Divide the Shabab into teams of 4.
   There can be as many teams as needed.
   Murabbis can join teams to make the numbers even.

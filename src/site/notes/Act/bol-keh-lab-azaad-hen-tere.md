@@ -1,18 +1,5 @@
 ---
-<<<<<<< HEAD
-category: JorBox Activity
-dg-publish: true
-type: miscellaneous
-final: false
-age-limit: "12+"
-group-size: "3+"
-duration: "30 minutes"
-prep-time: "< 5 minutes"
-difficulty: 4
-rating:
-=======
 {"dg-publish":true,"permalink":"/act/bol-keh-lab-azaad-hen-tere/","dg-note-properties":{"category":"JorBox Activity","type":"shabab-act","age-limit":"12+","group-size":"3+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
->>>>>>> e923a847e6b653e00b2b25cf99879e3a903d99c3
 ---
 
 ### Bol keh Lab Azaad hen Tere

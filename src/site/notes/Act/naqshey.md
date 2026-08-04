@@ -1,24 +1,10 @@
 ---
-<<<<<<< HEAD
-category: JorBox Activity
-dg-publish: true
-type: miscellaneous
-final: true
-age-limit: "7+"
-group-size: "2+"
-duration: "30 minutes"
-prep-time: "< 5 minutes"
-difficulty: "Easy"
-rating: 4
-=======
 {"dg-publish":true,"permalink":"/act/naqshey/","dg-note-properties":{"category":"JorBox Activity","type":"miscellaneous","age-limit":"7+","group-size":"2+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":4}}
->>>>>>> e923a847e6b653e00b2b25cf99879e3a903d99c3
 ---
 
 ### Naqshey (Map Drawing)
 #### How to Play
 - **Items Needed:** Mentioned in description
-
 ### 1. Objective
 
 To foster teamwork, observation skills, and appreciation for the urban planning of major cities in the Muslim world (past and present). Teams must recreate an accurate map of a city based solely on short-term memory.

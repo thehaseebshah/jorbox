@@ -1,18 +1,5 @@
 ---
-<<<<<<< HEAD
-category: JorBox Activity
-dg-publish: true
-type: board
-final: false
-age-limit: "12+"
-group-size: "3+"
-duration: "60 minutes"
-prep-time: "60 minutes"
-difficulty: 5
-rating:
-=======
 {"dg-publish":true,"permalink":"/act/jang/","dg-note-properties":{"category":"JorBox Activity","type":"board","age-limit":"12+","group-size":"3+","duration":"60 minutes","prep-time":"60 minutes","difficulty":3,"rating":null}}
->>>>>>> e923a847e6b653e00b2b25cf99879e3a903d99c3
 ---
 
 ### Jang
