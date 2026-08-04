@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/water-filtration/","dg-note-properties":{"category":"JorBox Activity","name":"Water Filtration","type":"outdoor","final":true,"added-to-shabab":true,"tried":false,"age-limit":"8+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Medium","rating":null}}
+{"dg-publish":true,"permalink":"/act/water-filtration/","dg-note-properties":{"category":"JorBox Activity","type":"outdoor","age-limit":"8+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
 ---
 
 ### Water Filtration

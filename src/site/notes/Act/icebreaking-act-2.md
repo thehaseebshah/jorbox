@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/icebreaking-act-2/","dg-note-properties":{"category":"JorBox Activity","name":"Icebreaking act 2","type":"icebreaker","final":false,"added-to-shabab":true,"tried":false,"rating":null}}
+{"dg-publish":true,"permalink":"/act/icebreaking-act-2/","dg-note-properties":{"category":"JorBox Activity","type":"icebreaker","difficulty":3,"rating":null}}
 ---
 
 ### Icebreaking Activity 2

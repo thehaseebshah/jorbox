@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/oonchi-imarat/","dg-note-properties":{"category":"JorBox Activity","name":"Oonchi Imarat","type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false,"age-limit":"8+","group-size":"4+","duration":"60 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
+{"dg-publish":true,"permalink":"/act/oonchi-imarat/","dg-note-properties":{"category":"JorBox Activity","type":"miscellaneous","age-limit":"8+","group-size":"4+","duration":"60 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
 ---
 
 ### Oonchi Imarat (Tallest Building)

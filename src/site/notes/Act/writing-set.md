@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/writing-set/","dg-note-properties":{"category":"JorBox Activity","name":"Writing Set","type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false,"age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
+{"dg-publish":true,"permalink":"/act/writing-set/","dg-note-properties":{"category":"JorBox Activity","type":"miscellaneous","age-limit":"14+","group-size":"5–10 players","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
 ---
 
 ### Writing Set

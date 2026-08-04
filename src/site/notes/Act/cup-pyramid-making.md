@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/cup-pyramid-making/","dg-note-properties":{"category":"JorBox Activity","name":"Cup Pyramid Making","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
+{"dg-publish":true,"permalink":"/act/cup-pyramid-making/","dg-note-properties":{"category":"JorBox Activity","type":"outdoor","difficulty":3,"rating":null}}
 ---
 
 ### Cup Pyramid Making

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/mamnoo-alfaaz/","dg-note-properties":{"category":"JorBox Activity","name":"Mamnoo Alfaaz","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
+{"dg-publish":true,"permalink":"/act/mamnoo-alfaaz/","dg-note-properties":{"category":"JorBox Activity","type":"shabab-act","difficulty":3,"rating":null}}
 ---
 
 ### Mamnoo Alfaaz

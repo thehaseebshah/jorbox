@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/gogogo/","dg-note-properties":{"category":"JorBox Activity","name":"Gogogo","type":"miscellaneous","final":false,"added-to-shabab":false,"tried":false,"age-limit":"8+","group-size":"3+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":5,"rating":null}}
+{"dg-publish":true,"permalink":"/act/gogogo/","dg-note-properties":{"category":"JorBox Activity","type":"miscellaneous","age-limit":"8+","group-size":"3+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
 ---
 
 ### Gogogo

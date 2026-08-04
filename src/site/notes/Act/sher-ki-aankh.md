@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/sher-ki-aankh/","dg-note-properties":{"category":"JorBox Activity","name":"Sher Ki Aankh","type":"outdoor","final":true,"added-to-shabab":true,"tried":false,"age-limit":"9+","group-size":"2–20 players","duration":"15 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
+{"dg-publish":true,"permalink":"/act/sher-ki-aankh/","dg-note-properties":{"category":"JorBox Activity","type":"outdoor","age-limit":"9+","group-size":"2–20 players","duration":"15 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
 ---
 
 ### Sher ki Aankh (Eye of the Tiger)

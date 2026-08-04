@@ -240,6 +240,15 @@ Google Docs offers an offline mode, but its primary source remains a cloud docum
 In our system, the authoritative original file resides locally on our machines from day one.
 Poor or disconnected internet does not interrupt publishing work, providing a resilient foundation for today's lessons and tomorrow's blog posts.
 
+##### 14. Fast, Friction-Free Offline Editing
+Creating and editing content in cloud-native tools like Google Docs or Canva introduces constant friction—waiting for heavy web applications to load, handling cloud sync delays, and navigating browser interface lag.
+In our local-first Obsidian workflow, offline editing is blazingly fast. Plain text files open instantaneously without splash screens or loading spinners, typing response is zero-latency, and editing happens without network overhead. This speed removes operational friction, allowing creators to focus entirely on writing and refining lessons.
+
+##### 15. Smooth Mobile Writing and Publishing Experience
+The mobile editing applications for both Google Docs and Canva are notoriously clumsy, resource-heavy, and slow. Trying to edit visual designs or long documents on a mobile phone leads to laggy input, cumbersome touch selections, cluttered UI menus, and frequent performance drops on lower-spec smartphones.
+
+In contrast, writing and editing in Obsidian on mobile is lightweight, responsive, and seamless. Plain Markdown text requires minimal memory and CPU resources, allowing team members to quickly open, edit, organize, and publish notes from their mobile phones without dealing with clumsy mobile apps or heavy design interfaces.
+
 #### Why a Local-First System Is the Right Long-Term Foundation
 
 ##### 1. Ownership, Protection From Account Loss, and Censorship Resilience
@@ -329,20 +338,20 @@ Their major limitations were long links, plain and unengaging visual presentatio
 ##### Canva
 Canva improved the visual quality of lessons, introduced short links for WhatsApp, and enabled updating cloud-rendered videos behind stable public addresses.
 It also provided reusable templates, easier formatting and image placement, rich multimedia composition, built-in design assets, and multiple export formats.
-Its major limitations were slow loading times, ongoing subscription costs, limited control over user privacy, reliance on a proprietary service, weak curriculum-level organization, legacy file clutter, and a static presentation lacking modern web animations.
+Its major limitations were slow loading times, ongoing subscription costs, limited control over user privacy, reliance on a proprietary service, weak curriculum-level organization, clumsy/slow mobile editing apps, legacy file clutter, and a static presentation lacking modern web animations.
 
 ##### Obsidian, Digital Garden, and Shabab's Custom Website
 The current system combines local ownership with public web publishing.
-It delivers fast static pages, structured modules, automated duplicate prevention, permanent lesson URLs, activity reuse across batches and Majalis via embedded notes, dynamic multi-criteria activity filtering and auto-indexed activity databases via Obsidian Bases, engaging UI animations, AI and automation refactoring, simple Markdown formatting without manual styling, offline creation and editing for lessons and future blogs, portable Markdown files, a single source of truth, centrally managed sitewide design, multi-language capabilities, greater privacy control for Murabbis, and direct ownership over the entire learning experience.
+It delivers fast static pages, structured modules, automated duplicate prevention, permanent lesson URLs, activity reuse across batches and Majalis via embedded notes, dynamic multi-criteria activity filtering and auto-indexed activity databases via Obsidian Bases, fast friction-free offline writing, smooth mobile publishing, engaging UI animations, AI and automation refactoring, simple Markdown formatting without manual styling, offline creation and editing for lessons and future blogs, portable Markdown files, a single source of truth, centrally managed sitewide design, multi-language capabilities, greater privacy control for Murabbis, and direct ownership over the entire learning experience.
 
 #### Conclusion
 
 The evolution from Google Docs to Canva and ultimately to Shabab's custom website was not a matter of superficial design preferences.
 Each transition solved real operational and pedagogical challenges encountered during lesson creation and distribution.
 
-Google Docs served well for basic writing and cloud access, but its links, layout, organization, formatting, image tools, multimedia constraints, and video workflows were unsuited for scale.
-Canva made sharing, styling, formatting, templating, multimedia integration, exporting, and video updating significantly easier. Its integrated design tools accelerated production, but Canva remained slow, subscription-dependent, proprietary, unorganized at the curriculum level, privacy-restricted, manual index management prone to document rot, and static in presentation.
-The local-first Obsidian, Digital Garden, and static website architecture resolves these core weaknesses while retaining the best advantages of previous phases through unified design, dynamic activity filtering and auto-indexing via Obsidian Bases, multi-language support, and enhanced privacy.
+Google Docs served well for basic writing and cloud access, but its links, layout, organization, formatting, image tools, multimedia constraints, clumsy mobile editing apps, and video workflows were unsuited for scale.
+Canva made sharing, styling, formatting, templating, multimedia integration, exporting, and video updating significantly easier. Its integrated design tools accelerated production, but Canva remained slow, subscription-dependent, proprietary, unorganized at the curriculum level, privacy-restricted, burdened by clumsy mobile editing and manual index management prone to document rot, and static in presentation.
+The local-first Obsidian, Digital Garden, and static website architecture resolves these core weaknesses while retaining the best advantages of previous phases through unified design, dynamic activity filtering and auto-indexing via Obsidian Bases, zero-latency offline writing, smooth mobile publishing, multi-language support, and enhanced privacy.
 
 Most importantly, the new system gives Shabab complete ownership over its educational repository and its future.
 Lessons remain accessible offline, are protected against account loss, can be migrated if faced with censorship or platform restrictions, can be refactored at scale using AI and automation, and are published on a fast, structured, beautiful, and continuously evolving website.

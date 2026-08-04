@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/scavenger-hunt/","dg-note-properties":{"category":"JorBox Activity","name":"Scavenger Hunt","type":"outdoor","final":true,"added-to-shabab":true,"tried":false,"age-limit":"10+","group-size":"5+","duration":"45 minutes","prep-time":"30 minutes","difficulty":"Medium","rating":5}}
+{"dg-publish":true,"permalink":"/act/scavenger-hunt/","dg-note-properties":{"category":"JorBox Activity","type":"outdoor","age-limit":"10+","group-size":"5+","duration":"45 minutes","prep-time":"30 minutes","difficulty":3,"rating":5}}
 ---
 
 ### Scavenger Hunt

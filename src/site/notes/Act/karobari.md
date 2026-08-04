@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/karobari/","dg-note-properties":{"category":"JorBox Activity","name":"Karobari","type":"party","final":false,"added-to-shabab":true,"tried":false,"age-limit":"10+","group-size":"3+","duration":"30 minutes","prep-time":"< 15 minutes","difficulty":5,"rating":5}}
+{"dg-publish":true,"permalink":"/act/karobari/","dg-note-properties":{"category":"JorBox Activity","type":"party","age-limit":"10+","group-size":"3+","duration":"30 minutes","prep-time":"< 15 minutes","difficulty":3,"rating":5}}
 ---
 
 ### Karobari

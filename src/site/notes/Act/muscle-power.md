@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/muscle-power/","dg-note-properties":{"category":"JorBox Activity","name":"Muscle Power","type":"sports","final":true,"added-to-shabab":true,"tried":false,"age-limit":"8+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Easy","rating":null}}
+{"dg-publish":true,"permalink":"/act/muscle-power/","dg-note-properties":{"category":"JorBox Activity","type":"sports","age-limit":"8+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
 ---
 
 ### Muscle Power

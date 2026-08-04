@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/story-writing/","dg-note-properties":{"category":"JorBox Activity","name":"Story Writing","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
+{"dg-publish":true,"permalink":"/act/story-writing/","dg-note-properties":{"category":"JorBox Activity","type":"shabab-act","difficulty":3,"rating":null}}
 ---
 
 ### Story Writing

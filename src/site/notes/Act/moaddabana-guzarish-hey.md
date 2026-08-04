@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/moaddabana-guzarish-hey/","dg-note-properties":{"category":"JorBox Activity","name":"Moaddabana Guzarish Hey","type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false,"age-limit":"8+","group-size":"2+","duration":"15 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
+{"dg-publish":true,"permalink":"/act/moaddabana-guzarish-hey/","dg-note-properties":{"category":"JorBox Activity","type":"miscellaneous","age-limit":"8+","group-size":"2+","duration":"15 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
 ---
 
 ### Moaddabana Guzarish Hey

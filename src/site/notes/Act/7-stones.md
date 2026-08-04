@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/7-stones/","dg-note-properties":{"category":"JorBox Activity","name":"7 Stones","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
+{"dg-publish":true,"permalink":"/act/7-stones/","dg-note-properties":{"category":"JorBox Activity","type":"childhood","difficulty":3,"rating":5}}
 ---
 
 ### 7 Stones

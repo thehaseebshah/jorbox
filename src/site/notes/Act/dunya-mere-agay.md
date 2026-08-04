@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/dunya-mere-agay/","dg-note-properties":{"category":"JorBox Activity","name":"Dunya Mere Agay","type":"miscellaneous","final":false,"added-to-shabab":true,"tried":false,"age-limit":"10+","group-size":"3+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Easy","rating":4}}
+{"dg-publish":true,"permalink":"/act/dunya-mere-agay/","dg-note-properties":{"category":"JorBox Activity","type":"miscellaneous","age-limit":"10+","group-size":"3+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":4}}
 ---
 
 ### Dunya Mere Agay

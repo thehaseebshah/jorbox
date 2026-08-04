@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/map-activity/","dg-note-properties":{"category":"JorBox Activity","name":"Map Activity","type":"mindset","final":true,"added-to-shabab":true,"tried":false,"age-limit":"10+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Medium","rating":5}}
+{"dg-publish":true,"permalink":"/act/map-activity/","dg-note-properties":{"category":"JorBox Activity","type":"mindset","age-limit":"10+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":5}}
 ---
 
 ### Map Activity

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/operation-jhanda/","dg-note-properties":{"category":"JorBox Activity","name":"Operation Jhanda","type":"outdoor","final":true,"added-to-shabab":true,"tried":false,"age-limit":"10+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":5,"rating":null}}
+{"dg-publish":true,"permalink":"/act/operation-jhanda/","dg-note-properties":{"category":"JorBox Activity","type":"outdoor","age-limit":"10+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
 ---
 
 ### Operation Jhanda

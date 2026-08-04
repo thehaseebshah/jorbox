@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/change/","dg-note-properties":{"category":"JorBox Activity","name":"Change","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
+{"dg-publish":true,"permalink":"/act/change/","dg-note-properties":{"category":"JorBox Activity","type":"shabab-act","difficulty":3,"rating":null}}
 ---
 
 ### Change

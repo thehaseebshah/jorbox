@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/navigators/","dg-note-properties":{"category":"JorBox Activity","name":"Navigators","type":"mindset","final":true,"added-to-shabab":true,"tried":false,"age-limit":"12+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Medium","rating":null}}
+{"dg-publish":true,"permalink":"/act/navigators/","dg-note-properties":{"category":"JorBox Activity","type":"mindset","age-limit":"12+","group-size":"4+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
 ---
 
 ### Navigators

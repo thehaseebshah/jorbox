@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/insani-girah/","dg-note-properties":{"category":"JorBox Activity","name":"Insani Girah","type":"outdoor","final":true,"added-to-shabab":false,"tried":false,"age-limit":"9+","group-size":"5+","duration":"15 minutes","prep-time":"< 5 minutes","difficulty":4,"rating":null}}
+{"dg-publish":true,"permalink":"/act/insani-girah/","dg-note-properties":{"category":"JorBox Activity","type":"outdoor","age-limit":"9+","group-size":"5+","duration":"15 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
 ---
 
 ### Insani Girah (Human Knot)

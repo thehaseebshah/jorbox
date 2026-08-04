@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/rummikub/","dg-note-properties":{"category":"JorBox Activity","name":"Rummikub","type":"board","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
+{"dg-publish":true,"permalink":"/act/rummikub/","dg-note-properties":{"category":"JorBox Activity","type":"board","difficulty":3,"rating":null}}
 ---
 
 ### Rummikub

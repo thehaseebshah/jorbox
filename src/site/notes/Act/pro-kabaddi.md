@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/pro-kabaddi/","dg-note-properties":{"category":"JorBox Activity","name":"Pro Kabaddi","type":"sports","final":true,"added-to-shabab":false,"tried":false,"age-limit":"10+","group-size":"4–20 players","duration":"60 minutes","prep-time":"< 5 minutes","difficulty":"Easy","rating":5}}
+{"dg-publish":true,"permalink":"/act/pro-kabaddi/","dg-note-properties":{"category":"JorBox Activity","type":"sports","age-limit":"10+","group-size":"4–20 players","duration":"60 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":5}}
 ---
 
 ### Pro Kabaddi

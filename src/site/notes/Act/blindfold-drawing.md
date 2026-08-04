@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/blindfold-drawing/","dg-note-properties":{"category":"JorBox Activity","name":"Blindfold Drawing","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
+{"dg-publish":true,"permalink":"/act/blindfold-drawing/","dg-note-properties":{"category":"JorBox Activity","type":"outdoor","difficulty":3,"rating":null}}
 ---
 
 ### Blindfold Drawing

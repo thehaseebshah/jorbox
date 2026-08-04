@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/lessons-v1/","dg-note-properties":{"category":"JorBox Activity","name":"Lessons V1","type":"shabab-act","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
+{"dg-publish":true,"permalink":"/act/lessons-v1/","dg-note-properties":{"category":"JorBox Activity","type":"shabab-act","difficulty":3,"rating":null}}
 ---
 
 ### Shabab Skills v1 Lessons (Feb 2025)

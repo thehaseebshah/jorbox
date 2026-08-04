@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/telestrations/","dg-note-properties":{"category":"JorBox Activity","name":"Telestrations","type":"party","final":false,"added-to-shabab":false,"tried":false,"rating":null}}
+{"dg-publish":true,"permalink":"/act/telestrations/","dg-note-properties":{"category":"JorBox Activity","type":"party","difficulty":3,"rating":null}}
 ---
 
 ### Telestrations

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/teen-paanch-saat/","dg-note-properties":{"category":"JorBox Activity","name":"Teen Paanch Saat","type":"kaghaz","final":false,"added-to-shabab":false,"tried":false,"age-limit":"10+","group-size":"2+","duration":"15 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
+{"dg-publish":true,"permalink":"/act/teen-paanch-saat/","dg-note-properties":{"category":"JorBox Activity","type":"kaghaz","age-limit":"10+","group-size":"2+","duration":"15 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
 ---
 
 ### Teen Paanch Saat

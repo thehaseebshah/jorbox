@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/declamation/","dg-note-properties":{"category":"JorBox Activity","name":"Declamation","type":"debate","final":true,"added-to-shabab":true,"tried":false,"age-limit":"10+","group-size":"3+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":"Easy","rating":4}}
+{"dg-publish":true,"permalink":"/act/declamation/","dg-note-properties":{"category":"JorBox Activity","type":"debate","age-limit":"10+","group-size":"3+","duration":"30 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":4}}
 ---
 
 ### Declamation

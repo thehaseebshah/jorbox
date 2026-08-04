@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/act/yaaddasht/","dg-note-properties":{"category":"JorBox Activity","name":"Yaaddasht","type":"deck","final":false,"added-to-shabab":false,"tried":false,"age-limit":"8+","group-size":"2+","duration":"15 minutes","prep-time":"< 5 minutes","difficulty":5,"rating":null}}
+{"dg-publish":true,"permalink":"/act/yaaddasht/","dg-note-properties":{"category":"JorBox Activity","type":"deck","age-limit":"8+","group-size":"2+","duration":"15 minutes","prep-time":"< 5 minutes","difficulty":3,"rating":null}}
 ---
 
 ### Yaaddasht
