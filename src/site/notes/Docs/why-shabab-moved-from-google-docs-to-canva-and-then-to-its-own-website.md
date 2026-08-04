@@ -152,22 +152,7 @@ Additionally, through backlink tracking, each activity note clearly reveals whic
 
 Furthermore, leveraging Git version control for activity notes provides seamless history tracking and instant recovery. We can review the full evolution of any activity over time—inspecting exact changes, seeing how feedback was incorporated, and understanding why edits occurred. If a modified activity proves ineffective during a lesson batch, we can cleanly revert to any previous working version. While platforms like Google Docs and Canva offer basic version histories, Git provides a far more powerful, precise, and seamless version control and recovery system.
 
-##### 4. Multi-Criteria Activity Filtering via Obsidian Bases
-Using Obsidian Bases, the entire activities collection functions as a dynamic, structured database.
-Murabbis and curriculum planners can easily filter through the activities database to find the exact activity needed using complex filters—such as age group, group size, time duration, difficulty level, and more.
-Instead of manually searching through unstructured folders or static lists, planners can instantaneously query activities tailored to their specific session requirements.
-
-##### 5. Automated Activity Database as a Single Source of Truth
-Previously in Canva, maintaining an activity index required creating a separate index sheet and manually adding links to every individual activity design.
-Whenever a new activity was created, someone had to manually copy and paste its link into that central sheet.
-This manual workflow was highly prone to "document rot"—if an activity's title was changed or a design link updated, the links in the Canva index sheet would break or become outdated, leading to confusion and lost materials.
-
-Obsidian Bases establishes an automated single source of truth for the entire activities database.
-Whenever a new activity note is created inside the activity folder, it automatically populates in the Obsidian Bases activity database with zero manual effort or link updates required.
-If an activity note is renamed or moved, all references update dynamically across the vault.
-This completely eliminates manual link maintenance and prevents document rot, ensuring the activity index is always 100% accurate and up to date.
-
-##### 6. A More Beautiful, Dynamic, and Engaging Experience
+##### 4. A More Beautiful, Dynamic, and Engaging Experience
 The Google Docs and Canva lesson formats we used were essentially static and lacked meaningful animations within the learning experience.
 Even useful content could feel like an isolated document rather than a living, cohesive educational product.
 
@@ -179,7 +164,7 @@ The result is not only more visually pleasing than old Google Docs, but far more
 When used thoughtfully, UI motion gives Murabbis the feel of navigating a modern learning platform rather than reading a static file.
 Because we control the website, animations can be optimized so visual elegance does not come at the cost of slow loading times like Canva.
 
-##### 7. An Integrated Learning Experience
+##### 5. An Integrated Learning Experience
 Google Docs and Canva delivered isolated lesson pages, whereas our website presents the entire curriculum as a unified experience.
 Navigation, search, module structure, internal linking, mobile responsive layouts, typography, branding, accessibility, and UI behavior are fully under our control.
 We can also introduce interactive features in the future without waiting for third-party platform updates.
@@ -187,7 +172,7 @@ We can also introduce interactive features in the future without waiting for thi
 The website's permanent URLs continue pointing to current lessons while text, videos, structure, and design evolve behind them.
 Thus, Canva's benefit of stable links is preserved within a faster, more organized system.
 
-##### 8. Greater Privacy for Murabbis
+##### 6. Greater Privacy for Murabbis
 When Murabbis open lessons on Google Docs or Canva, those platforms serve the pages and determine which cookies, telemetry, and user data are collected.
 Shabab's visibility and control over these privacy practices were minimal.
 Thus, even a Murabbi simply reading a Shabab lesson interacted with a large third-party data collection apparatus.
@@ -196,7 +181,7 @@ On our own website, Shabab decides which analytics, cookies, embedded services, 
 We can minimize tracking, select privacy-conscious tools, and establish clear policies rather than inheriting platform defaults.
 An independent website does not automatically guarantee privacy, but it places all relevant privacy choices under Shabab's control.
 
-##### 9. Sitewide Design Updates From a Single Location
+##### 7. Sitewide Design Updates From a Single Location
 Canva templates gave new lessons a consistent starting point, but every cloned Canva design became an isolated file.
 Updating fonts, colors, spacing, headers, or shared components later required opening and editing each old design individually.
 Dispersed Google Docs suffered from the exact same fragmentation.
@@ -205,7 +190,7 @@ Our website uses shared layouts, components, and stylesheets across the entire l
 A single change in a central template or stylesheet automatically applies across all lessons without touching individual content files.
 This makes updating Shabab's visual identity, improving accessibility, or fixing layout bugs sitewide a single, streamlined change.
 
-##### 10. Superior Support for Multiple Languages
+##### 8. Superior Support for Multiple Languages
 Maintaining translations in Google Docs or Canva typically required creating separate documents or designs for each language.
 Every revision, visual tweak, or structural update then had to be duplicated across all copies, increasing the risk of language versions drifting apart.
 
@@ -213,7 +198,7 @@ Our website can organize multi-language versions around a single underlying less
 It natively supports English and Urdu, language switching, and Right-to-Left (RTL) layouts with consistent navigation and styling.
 This provides a scalable foundation to serve diverse linguistic communities in the future.
 
-##### 11. Elimination of Ongoing Canva Subscription Costs
+##### 9. Elimination of Ongoing Canva Subscription Costs
 Canva's advanced features, premium assets, brand tools, additional storage, and export capabilities require an ongoing paid subscription.
 Keeping lessons in Canva tied a core part of Shabab's publishing workflow to an active subscription plan.
 Price increases or subscription lapses could restrict access to vital tools or assets.
@@ -221,7 +206,7 @@ Price increases or subscription lapses could restrict access to vital tools or a
 While hosting, domain registration, and maintenance incur real costs, running our custom website does not require an ongoing Canva subscription.
 Shabab invests in infrastructure it owns, rather than paying continuously for permission to edit and present its own lessons inside Canva.
 
-##### 12. Simple Markdown Formatting Without Setting Fonts, Sizes, or Colors
+##### 10. Simple Markdown Formatting Without Setting Fonts, Sizes, or Colors
 Writing in Google Docs and Canva required making continuous visual decisions—choosing fonts, font sizes, colors, margins, alignments, and layout details.
 These styling choices distracted from content creation and caused formatting inconsistencies across different authors and documents.
 
@@ -230,7 +215,7 @@ Authors structure headings, lists, links, emphasis, and quotes using plain text 
 When published, the website's unified design system automatically enforces correct typography, font sizes, colors, spacing, and responsive behavior.
 As a result, lessons are written faster, remain visually consistent, and can be maintained effortlessly even by non-designers.
 
-##### 13. An Offline-First Publishing System for Lessons and Future Blogs
+##### 11. An Offline-First Publishing System for Lessons and Future Blogs
 The current system is not merely a website for viewing lessons; it is an offline-first workflow for creating and publishing content.
 We can write, edit, structure, and organize lessons and future blog posts locally in Obsidian as Markdown notes, whether an internet connection is available or not.
 The internet is only needed when syncing completed changes to publish them on the public website, not while brainstorming, drafting, editing, or organizing.
@@ -238,15 +223,6 @@ The internet is only needed when syncing completed changes to publish them on th
 Google Docs offers an offline mode, but its primary source remains a cloud document; Canva is similarly tied to its online service.
 In our system, the authoritative original file resides locally on our machines from day one.
 Poor or disconnected internet does not interrupt publishing work, providing a resilient foundation for today's lessons and tomorrow's blog posts.
-
-##### 14. Fast, Friction-Free Offline Editing
-Creating and editing content in cloud-native tools like Google Docs or Canva introduces constant friction—waiting for heavy web applications to load, handling cloud sync delays, and navigating browser interface lag.
-In our local-first Obsidian workflow, offline editing is blazingly fast. Plain text files open instantaneously without splash screens or loading spinners, typing response is zero-latency, and editing happens without network overhead. This speed removes operational friction, allowing creators to focus entirely on writing and refining lessons.
-
-##### 15. Smooth Mobile Writing and Publishing Experience
-The mobile editing applications for both Google Docs and Canva are notoriously clumsy, resource-heavy, and slow. Trying to edit visual designs or long documents on a mobile phone leads to laggy input, cumbersome touch selections, cluttered UI menus, and frequent performance drops on lower-spec smartphones.
-
-In contrast, writing and editing in Obsidian on mobile is lightweight, responsive, and seamless. Plain Markdown text requires minimal memory and CPU resources, allowing team members to quickly open, edit, organize, and publish notes from their mobile phones without dealing with clumsy mobile apps or heavy design interfaces.
 
 #### Why a Local-First System Is the Right Long-Term Foundation
 
@@ -337,20 +313,20 @@ Their major limitations were long links, plain and unengaging visual presentatio
 ##### Canva
 Canva improved the visual quality of lessons, introduced short links for WhatsApp, and enabled updating cloud-rendered videos behind stable public addresses.
 It also provided reusable templates, easier formatting and image placement, rich multimedia composition, built-in design assets, and multiple export formats.
-Its major limitations were slow loading times, ongoing subscription costs, limited control over user privacy, reliance on a proprietary service, weak curriculum-level organization, clumsy/slow mobile editing apps, legacy file clutter, and a static presentation lacking modern web animations.
+Its major limitations were slow loading times, ongoing subscription costs, limited control over user privacy, reliance on a proprietary service, weak curriculum-level organization, legacy file clutter, and a static presentation lacking modern web animations.
 
 ##### Obsidian, Digital Garden, and Shabab's Custom Website
 The current system combines local ownership with public web publishing.
-It delivers fast static pages, structured modules, automated duplicate prevention, permanent lesson URLs, activity reuse across batches and Majalis via embedded notes, dynamic multi-criteria activity filtering and auto-indexed activity databases via Obsidian Bases, fast friction-free offline writing, smooth mobile publishing, engaging UI animations, AI and automation refactoring, simple Markdown formatting without manual styling, offline creation and editing for lessons and future blogs, portable Markdown files, a single source of truth, centrally managed sitewide design, multi-language capabilities, greater privacy control for Murabbis, and direct ownership over the entire learning experience.
+It delivers fast static pages, structured modules, automated duplicate prevention, permanent lesson URLs, activity reuse across batches and Majalis via embedded notes, engaging UI animations, AI and automation refactoring, simple Markdown formatting without manual styling, offline creation and editing for lessons and future blogs, portable Markdown files, a single source of truth, centrally managed sitewide design, multi-language capabilities, greater privacy control for Murabbis, and direct ownership over the entire learning experience.
 
 #### Conclusion
 
 The evolution from Google Docs to Canva and ultimately to Shabab's custom website was not a matter of superficial design preferences.
 Each transition solved real operational and pedagogical challenges encountered during lesson creation and distribution.
 
-Google Docs served well for basic writing and cloud access, but its links, layout, organization, formatting, image tools, multimedia constraints, clumsy mobile editing apps, and video workflows were unsuited for scale.
-Canva made sharing, styling, formatting, templating, multimedia integration, exporting, and video updating significantly easier. Its integrated design tools accelerated production, but Canva remained slow, subscription-dependent, proprietary, unorganized at the curriculum level, privacy-restricted, burdened by clumsy mobile editing and manual index management prone to document rot, and static in presentation.
-The local-first Obsidian, Digital Garden, and static website architecture resolves these core weaknesses while retaining the best advantages of previous phases through unified design, dynamic activity filtering and auto-indexing via Obsidian Bases, zero-latency offline writing, smooth mobile publishing, multi-language support, and enhanced privacy.
+Google Docs served well for basic writing and cloud access, but its links, layout, organization, formatting, image tools, multimedia constraints, and video workflows were unsuited for scale.
+Canva made sharing, styling, formatting, templating, multimedia integration, exporting, and video updating significantly easier. Its integrated design tools accelerated production, but Canva remained slow, subscription-dependent, proprietary, unorganized at the curriculum level, privacy-restricted, and static in presentation.
+The local-first Obsidian, Digital Garden, and static website architecture resolves these core weaknesses while retaining the best advantages of previous phases through unified design, multi-language support, and enhanced privacy.
 
 Most importantly, the new system gives Shabab complete ownership over its educational repository and its future.
 Lessons remain accessible offline, are protected against account loss, can be migrated if faced with censorship or platform restrictions, can be refactored at scale using AI and automation, and are published on a fast, structured, beautiful, and continuously evolving website.
