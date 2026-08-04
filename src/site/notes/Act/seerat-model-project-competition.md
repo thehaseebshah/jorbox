@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Seerat Model Project Competition"
 type: miscellaneous
 final: false
 age-limit: "6+"

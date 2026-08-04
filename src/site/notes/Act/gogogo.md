@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Gogogo"
 type: miscellaneous
 final: false
 age-limit: "8+"

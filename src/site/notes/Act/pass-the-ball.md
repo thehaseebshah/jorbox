@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Pass the Ball"
 type: shabab-act
 final: false
 rating:

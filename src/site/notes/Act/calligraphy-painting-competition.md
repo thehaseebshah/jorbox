@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Calligraphy Painting Competition"
 type: location-based
 final: false
 age-limit: "14+"

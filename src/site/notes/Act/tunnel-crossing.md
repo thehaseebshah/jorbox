@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Tunnel Crossing"
 type: shabab-act
 final: false
 rating:

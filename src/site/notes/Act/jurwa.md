@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Jurwa"
 type: outdoor
 final: false
 age-limit: "14+"

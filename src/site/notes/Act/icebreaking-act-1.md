@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Icebreaking act 1"
 type: icebreaker
 final: false
 rating:

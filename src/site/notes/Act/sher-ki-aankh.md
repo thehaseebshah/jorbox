@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Sher Ki Aankh"
 type: outdoor
 final: true
 age-limit: "9+"

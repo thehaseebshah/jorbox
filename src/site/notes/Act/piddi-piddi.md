@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Piddi Piddi"
 type: childhood
 final: false
 age-limit: "14+"

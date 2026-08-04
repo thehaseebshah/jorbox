@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Yasu Panjo Pro Max"
 type: party
 final: false
 age-limit: "14+"

@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Water Filtration"
 type: outdoor
 final: true
 age-limit: "8+"

@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Dil ki Sun"
 type: party
 final: false
 age-limit: "14+"

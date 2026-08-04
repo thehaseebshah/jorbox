@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Gol Gappay"
 type: outdoor
 final: true
 age-limit: "5+"

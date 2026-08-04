@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Teen Paanch Saat"
 type: kaghaz
 final: false
 age-limit: "10+"

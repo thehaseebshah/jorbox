@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Chalak Chor"
 type: deck
 final: false
 age-limit: "14+"

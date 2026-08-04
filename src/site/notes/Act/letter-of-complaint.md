@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Letter of Complaint"
 type: shabab-act
 final: false
 rating:

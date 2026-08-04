@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Mamnoo Alfaaz"
 type: shabab-act
 final: false
 rating:

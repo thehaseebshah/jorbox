@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Phitto Garam"
 type: childhood
 final: false
 age-limit: "14+"

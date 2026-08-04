@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Simple Dodgeball"
 type: sports
 final: false
 age-limit: "10+"

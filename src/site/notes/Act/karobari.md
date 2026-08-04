@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Karobari"
 type: party
 final: false
 age-limit: "10+"

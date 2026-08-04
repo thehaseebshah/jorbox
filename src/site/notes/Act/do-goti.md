@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Do Goti"
 type: kaghaz
 final: false
 age-limit: "10+"

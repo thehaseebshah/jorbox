@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Piddi Piddi with Bats"
 type: childhood
 final: false
 age-limit: "14+"

@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "The Artisan Challenge"
 type: crafting
 final: true
 age-limit: "8+"

@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Jump In Jump Out"
 type: shabab-act
 final: false
 rating:

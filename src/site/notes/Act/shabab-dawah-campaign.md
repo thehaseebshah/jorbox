@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Shabab Dawah Campaign"
 type: miscellaneous
 final: false
 age-limit: "8+"

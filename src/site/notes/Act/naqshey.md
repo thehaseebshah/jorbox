@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Naqshey"
 type: miscellaneous
 final: true
 age-limit: "7+"

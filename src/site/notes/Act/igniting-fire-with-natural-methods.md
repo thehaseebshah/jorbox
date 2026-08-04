@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Igniting Fire with Natural Methods"
 type: shabab-act
 final: false
 rating:

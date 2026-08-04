@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Dunya Mere Agay"
 type: miscellaneous
 final: false
 age-limit: "10+"

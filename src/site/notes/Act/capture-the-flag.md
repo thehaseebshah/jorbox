@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Capture the Flag"
 type: shabab-act
 final: false
 rating:

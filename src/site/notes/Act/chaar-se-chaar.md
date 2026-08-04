@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Chaar se Chaar"
 type: kaghaz
 final: false
 age-limit: "10+"

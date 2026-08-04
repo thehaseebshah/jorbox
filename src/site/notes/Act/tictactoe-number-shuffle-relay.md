@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "TicTacToe + Number Shuffle Relay"
 type: sports
 final: true
 age-limit: "8+"

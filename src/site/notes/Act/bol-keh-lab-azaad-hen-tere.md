@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Bol keh Lab Azaad hen Tere"
 type: miscellaneous
 final: false
 age-limit: "12+"

@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Long Bike Tour"
 type: location-based
 final: false
 age-limit: "14+"

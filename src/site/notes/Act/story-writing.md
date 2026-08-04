@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Story Writing"
 type: shabab-act
 final: false
 rating:

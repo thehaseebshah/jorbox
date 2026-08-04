@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Murabbi Introduction"
 type: shabab-act
 final: false
 rating:

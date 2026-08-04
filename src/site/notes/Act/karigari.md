@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Karigari"
 type: miscellaneous
 final: false
 age-limit: "10+"

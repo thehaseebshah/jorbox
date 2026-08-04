@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Haiwani Pattay"
 type: party
 final: false
 age-limit: "14+"

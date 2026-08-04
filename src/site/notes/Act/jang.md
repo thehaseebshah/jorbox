@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Jang"
 type: board
 final: false
 age-limit: "12+"

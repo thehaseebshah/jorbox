@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Rummikub"
 type: board
 final: false
 rating:

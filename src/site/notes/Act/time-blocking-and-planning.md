@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Time Blocking and Planning"
 type: mindset
 final: true
 age-limit: "12+"

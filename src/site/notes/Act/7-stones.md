@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "7 Stones"
 type: shabab-act
 final: false
 rating:

@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Map Activity"
 type: mindset
 final: true
 age-limit: "10+"

@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Kana Raja"
 type: deck
 final: false
 age-limit: "14+"

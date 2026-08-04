@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Frog Race"
 type: shabab-act
 final: false
 rating:

@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Caterpillar Race"
 type: shabab-act
 final: false
 rating:

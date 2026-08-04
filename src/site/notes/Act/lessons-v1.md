@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Lessons V1"
 type: shabab-act
 final: false
 rating:

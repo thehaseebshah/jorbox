@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Aabdoz"
 type: party
 final: false
 age-limit: "14+"

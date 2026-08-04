@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Spy Club"
 type: shabab-act
 final: false
 rating:

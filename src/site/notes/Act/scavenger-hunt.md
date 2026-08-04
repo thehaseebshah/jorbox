@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Scavenger Hunt"
 type: outdoor
 final: true
 age-limit: "10+"

@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "4 on a Couch"
 type: party
 final: true
 age-limit: "8+"

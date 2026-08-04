@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Muscle Power"
 type: sports
 final: true
 age-limit: "8+"

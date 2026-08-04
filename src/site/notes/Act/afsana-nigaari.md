@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Afsana Nigaari"
 type: miscellaneous
 final: false
 age-limit: "12+"

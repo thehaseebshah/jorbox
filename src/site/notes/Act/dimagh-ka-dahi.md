@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Dimagh Ka Dahi"
 type: shabab-act
 final: false
 rating:

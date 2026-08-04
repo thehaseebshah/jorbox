@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Home Golf"
 type: sports
 final: true
 age-limit: "10+"

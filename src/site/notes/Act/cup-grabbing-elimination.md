@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Cup Grabbing Elimination"
 type: shabab-act
 final: false
 rating:

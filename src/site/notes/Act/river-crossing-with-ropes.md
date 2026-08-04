@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "River Crossing with Ropes"
 type: location-based
 final: false
 age-limit: "14+"

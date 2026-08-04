@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Declamation"
 type: debate
 final: true
 age-limit: "10+"

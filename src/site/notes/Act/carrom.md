@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Carrom"
 type: board
 final: false
 age-limit: "9+"

@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Up Down Race"
 type: shabab-act
 final: false
 rating:

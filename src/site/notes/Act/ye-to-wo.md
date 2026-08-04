@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Ye to Wo"
 type: outdoor
 final: false
 age-limit: "14+"

@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "A Legacy of the Lions"
 type: shabab-act
 final: false
 rating:

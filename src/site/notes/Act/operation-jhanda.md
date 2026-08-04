@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Operation Jhanda"
 type: outdoor
 final: true
 age-limit: "10+"

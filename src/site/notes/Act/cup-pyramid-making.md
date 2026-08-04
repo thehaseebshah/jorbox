@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Cup Pyramid Making"
 type: shabab-act
 final: false
 rating:

@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Dodge the Ball"
 type: outdoor
 final: false
 age-limit: "14+"

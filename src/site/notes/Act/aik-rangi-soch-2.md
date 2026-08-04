@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Aik Rangi Soch 2"
 type: party
 final: false
 age-limit: "14+"

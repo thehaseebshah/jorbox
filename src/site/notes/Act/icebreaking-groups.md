@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Icebreaking Groups"
 type: outdoor
 final: false
 age-limit: "14+"

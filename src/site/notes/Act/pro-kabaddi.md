@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Pro Kabaddi"
 type: sports
 final: true
 age-limit: "10+"

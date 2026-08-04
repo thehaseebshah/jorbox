@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Moaddabana Guzarish Hey"
 type: miscellaneous
 final: false
 age-limit: "8+"

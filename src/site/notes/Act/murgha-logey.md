@@ -1,7 +1,6 @@
 ---
 category: JorBox Activity
 dg-publish: true
-name: "Murgha Logey?"
 type: outdoor
 final: false
 age-limit: "14+"
