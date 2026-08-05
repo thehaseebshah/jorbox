@@ -4,4 +4,4 @@
 
 ### Insani Seerhi
 #### How to Play
-Watch [this](https://canva.link/fl94597sm8kunjf)
+Watch [this](https://canva.link/utmjzfosnzp4gdo)
