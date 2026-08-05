@@ -4,4 +4,4 @@
 
 ### Insani Seerhi
 #### How to Play
-Watch: [Human Ladder team building game](https://www.youtube.com/watch?v=-ZZlhZFdqj0&list=PL2SgL8sFniOzfLRKMdeWT6zPBGBQGZIyu&index=126)
+Watch: 
